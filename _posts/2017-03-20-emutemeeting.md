@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emute Lab Meeting: Feedback Cellos – Alice Eldridge and Chris Kiefer"
+title: "Emute Lab Meeting: Feedback Cellos"
 categories: blog
 tags: [emutelab]
 author: thor magnusson
