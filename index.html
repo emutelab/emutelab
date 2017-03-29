@@ -1,17 +1,33 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
- 	    <meta name="author" content="Thor Magnusson">
-    
-    	<link rel="canonical" href="http://www.emutelab.org"/>
+---
+layout: page
+description: "Experimental Music Technologies Lab @ Sussex"
+---
 
-        <meta http-equiv="refresh" content="1;url=http://www.miptl.org/site">
-        <script type="text/javascript">
-            window.location.href = "http://www.miptl.org/site"
-        </script>
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        If you are not redirected automatically, follow the <a href='http://www.miptl.org/site'>link to MIPTL</a>
-    </body>
-</html>
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title"> {{ post.title }} </h2>
+        {% if post.subtitle %}
+            <h3 class="post-subtitle"> {{ post.subtitle }} </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

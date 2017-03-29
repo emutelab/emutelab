@@ -1,0 +1,21 @@
+# Site settings
+title: Emute Lab
+copyright: Emute Lab
+header-img: img/home-bg.jpg
+email: th.list@gmail.com
+description: "A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex"
+baseurl: ""
+url: "http://www.emutelab.org"
+twitter_username: emutelab
+github_username:  emutelab
+facebook_username:  emutelab
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title
+paginate: 25
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
