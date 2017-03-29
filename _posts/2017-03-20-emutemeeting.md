@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emute Lab Meeting: Feedback Cellos"
+title: "Emute Lab Meeting: Feedback Cellos!"
 categories: blog
 tags: [emutelab]
 author: thor magnusson
