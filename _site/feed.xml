@@ -5,9 +5,40 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 31 Mar 2017 21:34:33 +0100</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2017 21:34:33 +0100</lastBuildDate>
+    <pubDate>Wed, 05 Apr 2017 16:05:29 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Apr 2017 16:05:29 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Emute Lab @ NIME in Copenhagen</title>
+        <description>&lt;p&gt;The Experimental Music Technologies Lab at Sussex will have a strong presence at this year’s &lt;a href=&quot;http://www.nime2017.org&quot;&gt;NIME&lt;/a&gt; (New Interfaces for Musical Expression Conference) which is held by Aalborg University in Copenhagen, Denmark. Cecile Chevalier and Andrew Duff present a sound installation, Alice Eldridge and Chris Kiefer have a demo on their feedback cellos, Thor Magnusson will present his paper on Musical Organics, and Alice, Chris and Thor will perform using the Threnoscope and feedback cellos.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;See project descriptions below:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Alice Eldridge&lt;/b&gt; and &lt;b&gt;Chris Kiefer&lt;/b&gt; present their &lt;b&gt; feedback cello&lt;/b&gt; project, which is a new electroacoustic actuated instrument in which feedback can be induced independently on each string. Built from retro-fitted acoustic cellos, the signals from electromagnetic pickups sitting under each string are passed to a speaker built into the back of the instrument and a transducer on the front of the instrument. Placement of acoustic and mechanical actuators on the resonant body of the cello, mean that this simple analogue feedback system is capable of a wide range of complex self-resonating behaviours. This paper describes the motivations for building these instruments as both a physical extension to live computer music practice and an electroacoustic augmentation of cello. The design and physical construction is outlined, and modes of performance described with reference to the first six months of performances and installations. Future developments and planned investigations are outlined.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Cecile Chevalier&lt;/b&gt; and &lt;b&gt;Andrew Duff’s&lt;/b&gt; &lt;b&gt;200.104.200.2*&lt;/b&gt; is a sound installation, created as a displaced reenactment of both contemporary digital social practice and the Internet as a memory palace, in which sonifications of memory traces can be performed, stored and replayed as digital data. The work is situated in relation to the art of memory as a form of memory spatialisation, and in relation to post-digital aesthetics, ultimately forming a potential immersive instrument for collective performances. In its conceptual design and instrument-making 200.104.200.2 is a stainless steel structure 2.5 meters high, 2 meters long and 2 meters wide, from which over 3000 copper wires hang. The structure itself can be entered by participants or performers, as it tracks, connects and extends each of their movements through fine colliding wires that occur within the piece.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/cecileinst.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Thor Magnusson’s&lt;/b&gt; Threnoscope and the Feedback Cello project of &lt;b&gt;Chris Kiefer&lt;/b&gt; and &lt;b&gt;Alice Eldridge&lt;/b&gt; meet for the first time in a performance at NIME. The feedback cellos are built from acoustic instruments that are modified with electromagnetic pick ups, speakers and transducers, to create a self-resonating drone instrument which can be played either within the extended string tradition or live coded. The threnoscope is a software instrument designed for spatialised, microtonal drone music. In this performance, six channel outputs of the threnoscope are diffused through a quadrophonic system and also sent to the speakers in the two cellos, affecting the resonant landscapes of the instruments which are simultaneously played by Alice and Chris. Acoustic signals from the cellos are also channeled back to the threnoscope, creating a multi-instrument, multichannel feedback system. Sonic processes which are physically or digitally initiated by the players on discrete instruments influence each other to form a single dynamical drone system; the liveliness of the ensemble-system as a whole outperforms any one of the players.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/osc.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; presents a paper entitled &lt;b&gt;Contextualising Musical Organics: Ad-hoc Organological Classification Approach&lt;/b&gt; with this abstract: “New digital musical instruments are difficult for organologists to deal with due to their heterogeneous origins, cross-disciplinary science, and fluid, open-ended nature. NIMEs are studied from a range of disciplines, such as musicology, engineering, human-computer interaction, psychology, design, and performance studies. Attempts to continue traditional organology classifications for electronic and digital instruments have been made, but with adverse results. This paper discusses the problem of the tree-like classifications of digital instruments, proposing an alternative approach: musical organics. Musical organics is a philosophical approach to the problems inherent in organological classification of digital instruments. Shifting the emphasis from hand-coded classification to information retrieval supported search and clustering, we propose an open and distributed system that anyone can contribute to. In order to show how such a system could incorporate a third-party addition, the paper also presents an organological ontogenesis of three new musical instruments: the saxophone, the Minimoog, and the Reactable. This micro-analysis of innovation in the field of musical instruments can help forming a framework for the study of how instruments are adopted in musical culture.”&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Apr 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/NIME2017</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/NIME2017</guid>
+        
+        <category>emutelab</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab Meeting: Feedback Cellos!</title>
@@ -391,43 +422,6 @@ Does it just make you feel good?&lt;br /&gt;&lt;/p&gt;
         <pubDate>Tue, 06 Sep 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/diyworkshop</link>
         <guid isPermaLink="true">http://localhost:4000/blog/diyworkshop</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Resonating Instruments Workshops</title>
-        <description>&lt;p&gt;&lt;strong&gt;How do we compose for new instruments? Can we redesign old instruments for new music? What happens when familiar instruments gain new expressive scope?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;These are questions we will be investigating in two workshops running as part of the ICLI conference (International Conference on Live Interfaces – http://www.liveinterfaces.org), to be held at the University of Sussex in Brighton in June 29/30th.&lt;/p&gt;
-
-&lt;p&gt;Registration is now open for composers and performers to join the workshops in order to create pieces for two new musical instruments – the halldorophone and the magnetic resonator piano – and perform at the opening of the ICLI conference in the Attenborough Centre for the Creative Arts.&lt;/p&gt;
-
-&lt;p&gt;The workshops will engage with questions of legacy, tradition, notation, performance and improvisation. They will deal with how instruments frame our compositional thoughts, provoking questions as to what happens when familiar instruments gain new sonic and performance capabilities.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/resonatinginstruments.png&quot; alt=&quot;Score&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Further information on the workshops can be found on the ICLI website: &lt;a href=&quot;http://www.liveinterfaces.org/#workshops&quot;&gt;http://www.liveinterfaces.org/#workshops&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are interested in joining one of these two-day workshops, please fill in the registration form here:&lt;/p&gt;
-
-&lt;p&gt;Halldorophone – &lt;a href=&quot;http://goo.gl/forms/iszthAUWb2&quot;&gt;http://goo.gl/forms/iszthAUWb2&lt;/a&gt;
-&lt;br /&gt;Magnetic Resonator Piano – &lt;a href=&quot;http://goo.gl/forms/rGZfVmWesn&quot;&gt;http://goo.gl/forms/rGZfVmWesn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We will confirm by June 17th. This application process is because there are limited places and we wish to ensure a good balance of participants. Workshops cost £50 which includes lunches on both days.&lt;/p&gt;
-
-&lt;p&gt;In order to facilitate participation by creative musicians outside academia we are making these workshops open without attending the rest of the ICLI conference.&lt;/p&gt;
-
-&lt;p&gt;The ICLI team
-&lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;www.liveinterfaces.org&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 May 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/resonatinginstruments</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/resonatinginstruments</guid>
         
         <category>emutelab</category>
         
