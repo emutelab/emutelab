@@ -3,14 +3,41 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Mar 2017 19:39:36 +0100</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2017 19:39:36 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>http://www.emutelab.org/</link>
+    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 28 Jun 2017 12:15:49 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 12:15:49 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Emute Lab Meeting: Feedback Cellos – Alice Eldridge and Chris Kiefer</title>
+        <title>Event Report: The Forum for Immersive Augmented Reality Instruments</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://forumarimi.wixsite.com/arimi&quot;&gt;Forum for Immersive Augmented Reality Instruments&lt;/a&gt;, a two-day networking event, took place on June 19-20th. It brought together diverse participants across University of Sussex schools, research centres and labs, together with representatives from local art organisations and creative industries, with a view to understanding cultural transformations from Augmented Reality (AR), and to build new interdisciplinary research partnerships.&lt;/p&gt;
+
+&lt;p&gt;The network event was designed to explore new forms of creation, experience and digital culture through tool and instrument-making, whilst achieving independence from existing distribution structures, and bringing together transdisciplinary discussions on condition of ‘seeing’ (Paul &amp;amp; Toolin 2014, p53) as sensing.&lt;/p&gt;
+
+&lt;p&gt;Day one saw presentations from participants under the themes of culture, sensing, instruments and arts.  On day two, participants explored AR practically through two workshops; an ‘unplugged’ workshop where groups built and discussed hypothetical AR technologies, and a ‘plugged’ workshop where groups experimented with off-the-shelf AR technologies, using video, audio and haptics.&lt;/p&gt;
+
+&lt;p&gt;The Forum for ARImI was led by Cécile Chevalier &amp;amp; Chris Kiefer in partnership with Kirk Woolford, University of Surrey. It was supported by the Doctoral School’s Researcher-Led Initiative (RLI) Fund,  the School of Media, Film, and Music, Sussex Humanities Lab &amp;amp; EMuTe Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/arimi1.JPG&quot; alt=&quot;ARImI Unplugged&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/arimi</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/arimi</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>augmented reality</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Emute Lab Meeting: Feedback Cellos</title>
         <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, March 23rd, 1pm, @ Recital Room, Falmer House 120 ::::&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We have an Emute Lab research lunch meeting on March 23rd, where Alice Eldridge and Chris Kiefer will present the results of their recent work on the feedback cellos, conducted at the Icelandic Academy of the Arts with Halldór Úlfarsson. That was a collaboration that started at the Live Interfaces conference (www.liveinterfaces.org) where Halldór ran a workshop with composers and performers.&lt;/p&gt;
@@ -19,11 +46,11 @@
 
 &lt;p&gt;We will report on a recent trip to the Iceland Academy of the Arts to visit instrument designer Halldór Úlfarsson, who we have been collaborating with on the design of two Feedback Cellos. These unique hybrid instruments have been evolving quickly since we first made them last summer. We will present the latest developments, and discuss some issues around design and performance that we have been engaging with in this project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutemeeting</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutemeeting</guid>
+        <link>http://www.emutelab.org/blog/emutemeeting</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutemeeting</guid>
         
         <category>emutelab</category>
         
@@ -40,7 +67,7 @@
 
 &lt;p&gt;A Magnificent Crossbreeding of Protein and Tinplate is a posthuman vivarium. The “I” in this space is collective and visitors are invited to transit, inhabit, indulge and experience this world, to interact with the performers, the objects and the space. The piece is an alive performance organism, controlled through a network of computers. It evolves as time passes, and as the performers and the cybernetic system react to the audience’s presence and movement in the space, generating a succession of unique and unexpected situations.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/speakofme.jpg&quot; alt=&quot;Shall I speak of me?&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/speakofme.jpg&quot; alt=&quot;Shall I speak of me?&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The performance is designed to run for 4 hours and the audience can enter and leave the space as they please. Due to the nature of the performance and the space limitation, the audience might be asked to explore the space carefully, as well as be open for interaction with other human and non-human beings.&lt;/p&gt;
 
@@ -55,8 +82,8 @@ Text adaptation: Nikos Ioakeim, Thanos Polymeneas-Liontiris
 Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo.almeida.5686&quot;&gt;Gonçalo Almeida&lt;/a&gt; (PT/NL), M. Eugenia Demeglio (IT/UK), &lt;a href=&quot;https://www.facebook.com/profile.php?id=1367346763&quot;&gt;Theresa Elflein&lt;/a&gt; (DE/UK), Nikos Ioakeim (GR/NL), Katerina Kostantourou (GR/NL), &lt;a href=&quot;https://www.facebook.com/art.the.melt&quot;&gt;Arthur Artorius Leadbetter&lt;/a&gt; (UK), &lt;a href=&quot;https://www.facebook.com/frisprit&quot;&gt;Stephanie Pan&lt;/a&gt; (US/NL), &lt;a href=&quot;https://www.facebook.com/friso.vanwijck&quot;&gt;Friso van Wijck&lt;/a&gt; (NL).&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/proteintinplate</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/proteintinplate</guid>
+        <link>http://www.emutelab.org/blog/proteintinplate</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/proteintinplate</guid>
         
         <category>emutelab</category>
         
@@ -69,7 +96,7 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
         <title>Emute Lab in Reykjavik</title>
         <description>&lt;p&gt;The fruitful collaboration with &lt;a href=&quot;http://www.halldorulfarsson.info/&quot;&gt;Halldor Ulfarsson&lt;/a&gt; on the feedback cellos, that started as part of the Arts Council funded workshop programme at the &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;Live Interfaces conference&lt;/a&gt;, is continuing with Alice Eldridge and Chris Kiefer going to Reykjavik to work at theIcelandic Academy of the Arts.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedbackcellos.jpg&quot; alt=&quot;Feedback Cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedbackcellos.jpg&quot; alt=&quot;Feedback Cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They will also be performing in &lt;a href=&quot;http://www.mengi.net/2017/01/24/17-02/&quot;&gt;Mengi&lt;/a&gt; on February 12th:&lt;/p&gt;
 
@@ -84,8 +111,8 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 &lt;p&gt;Tickets: 2000 ISK.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/reykjavik</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/reykjavik</guid>
+        <link>http://www.emutelab.org/blog/reykjavik</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/reykjavik</guid>
         
         <category>emutelab</category>
         
@@ -102,7 +129,7 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 
 &lt;p&gt;Tickets are £15/£25 (and include lunch, coffee and evening concert). Tickets can be purchased &lt;a href=&quot;https://www.eventbrite.co.uk/e/arts-research-symposium-part-of-algomech-tickets-28182881758&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/algomech.png&quot; alt=&quot;Algomech postcard&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/algomech.png&quot; alt=&quot;Algomech postcard&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Abstracts and bio of the participants can be found on the AlgoMech website&lt;/p&gt;
 
@@ -157,8 +184,8 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 
 </description>
         <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/algomechartsresearch</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/algomechartsresearch</guid>
+        <link>http://www.emutelab.org/blog/algomechartsresearch</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/algomechartsresearch</guid>
         
         <category>emutelab</category>
         
@@ -177,15 +204,15 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 
 &lt;p&gt;The development of new approaches to instrumentality during the decade of 1960 has contributed to the dual perception of instrument as scores. For many performers, the instrument became the score of what they played. This artistic hybridization carries substantial questions about the nature of our scores and about the relationships among instruments, performers and musical works. In my talk, I will contextualize the historical origins of this instrumental development within digital humanities, in particular Drucker’s theory of performative materiality, Barad’s posthumanist performativy and Ingold’s procesual and relational description of material properties. Following this approach, I will defend that a ‘hybrid’ and ‘performative’ understanding of writing music, which shifts the focus from linguistic and visual representations to discursive practices, is one such alternative for suggesting new practices of notation and interface design.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/enrique.jpg&quot; alt=&quot;Enrique Tomás&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/enrique.jpg&quot; alt=&quot;Enrique Tomás&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Biography&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://ultranoise.es/blog/&quot;&gt;Enrique Tomás&lt;/a&gt; is a sound artist and researcher who dedicates his time to finding new ways of expression and play with sound, art and technology. His work explores the intersection between sound art, computer music, locative media and human-machine interaction. He has exhibited and performed throughout Europe and America at the spaces of ZKM, Ars Electronica, Sónar, SMAK, STEIM, etc. Tomás is also an active researcher on the field of new interfaces for musical expression. He is affiliated to the Interface Cultures department of the University of Art and Design of Linz, and his research has been presented at international peer-reviewed conferences like NIME, ICMC, SMC, TEI and TENOR. His artistic work has been supported and awarded with scholarships by Telefónica Vida, Phonos Foundation, the Academy of Fine Arts of Vienna and the Art Council of Madrid.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/tomas</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tomas</guid>
+        <link>http://www.emutelab.org/blog/tomas</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/tomas</guid>
         
         <category>emutelab</category>
         
@@ -208,12 +235,12 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 
 &lt;p&gt;&lt;i&gt;“Its design and engineering is of great elegance. (…) its music of transparency and transience, the sonorous resonances of heavenly voices”&lt;/i&gt; (Sound Artist Max Eastley, 2015)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/didy.jpg&quot; alt=&quot;Didymus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/didy.jpg&quot; alt=&quot;Didymus&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 07 Oct 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/didymus</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/didymus</guid>
+        <link>http://www.emutelab.org/blog/didymus</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/didymus</guid>
         
         <category>emutelab</category>
         
@@ -226,7 +253,7 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
         <title>Arts Research Symposium at the AlgoMech Festival – Call for Proposals</title>
         <description>&lt;p&gt;&lt;strong&gt;:::: Sunday, November 12th, 10.00am @ Sheffield Hallam University ::::&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/algomech.png&quot; alt=&quot;Algomech Poster&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/algomech.png&quot; alt=&quot;Algomech Poster&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Symposium – Call for Proposals&lt;/strong&gt;&lt;/p&gt;
 
@@ -302,8 +329,8 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 &lt;br /&gt;Chris Kiefer (university profile with email address: &lt;a href=&quot;http://www.sussex.ac.uk/profiles/208667&quot;&gt;http://www.sussex.ac.uk/profiles/208667&lt;/a&gt;)&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/algomech</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/algomech</guid>
+        <link>http://www.emutelab.org/blog/algomech</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/algomech</guid>
         
         <category>emutelab</category>
         
@@ -329,7 +356,7 @@ Sturm’s research seeks to interrogate the “creative” and/or “intelligent
 &lt;br /&gt;&lt;b&gt;Thor Magnusson (chair)&lt;/b&gt; - &lt;a href=&quot;http://www.sussex.ac.uk/profiles/164902&quot;&gt;http://www.sussex.ac.uk/profiles/164902&lt;/a&gt;
 Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intelligence, focusing on music software and the role of computers in musical creativity.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/iaspm.png&quot; alt=&quot;Conference Poster&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/iaspm.png&quot; alt=&quot;Conference Poster&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The abstract for our roundtable is the following:&lt;/p&gt;
 
@@ -359,8 +386,8 @@ Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intel
 
 </description>
         <pubDate>Fri, 09 Sep 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/machinecreativity</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/machinecreativity</guid>
+        <link>http://www.emutelab.org/blog/machinecreativity</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/machinecreativity</guid>
         
         <category>emutelab</category>
         
@@ -389,45 +416,8 @@ Does it just make you feel good?&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Sign-up &lt;a href=&quot;https://www.eventbrite.co.uk/e/didiy-maker-workshop-at-university-of-sussex-tickets-26679962486&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Sep 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/diyworkshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/diyworkshop</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Resonating Instruments Workshops</title>
-        <description>&lt;p&gt;&lt;strong&gt;How do we compose for new instruments? Can we redesign old instruments for new music? What happens when familiar instruments gain new expressive scope?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;These are questions we will be investigating in two workshops running as part of the ICLI conference (International Conference on Live Interfaces – http://www.liveinterfaces.org), to be held at the University of Sussex in Brighton in June 29/30th.&lt;/p&gt;
-
-&lt;p&gt;Registration is now open for composers and performers to join the workshops in order to create pieces for two new musical instruments – the halldorophone and the magnetic resonator piano – and perform at the opening of the ICLI conference in the Attenborough Centre for the Creative Arts.&lt;/p&gt;
-
-&lt;p&gt;The workshops will engage with questions of legacy, tradition, notation, performance and improvisation. They will deal with how instruments frame our compositional thoughts, provoking questions as to what happens when familiar instruments gain new sonic and performance capabilities.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/resonatinginstruments.png&quot; alt=&quot;Score&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Further information on the workshops can be found on the ICLI website: &lt;a href=&quot;http://www.liveinterfaces.org/#workshops&quot;&gt;http://www.liveinterfaces.org/#workshops&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are interested in joining one of these two-day workshops, please fill in the registration form here:&lt;/p&gt;
-
-&lt;p&gt;Halldorophone – &lt;a href=&quot;http://goo.gl/forms/iszthAUWb2&quot;&gt;http://goo.gl/forms/iszthAUWb2&lt;/a&gt;
-&lt;br /&gt;Magnetic Resonator Piano – &lt;a href=&quot;http://goo.gl/forms/rGZfVmWesn&quot;&gt;http://goo.gl/forms/rGZfVmWesn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We will confirm by June 17th. This application process is because there are limited places and we wish to ensure a good balance of participants. Workshops cost £50 which includes lunches on both days.&lt;/p&gt;
-
-&lt;p&gt;In order to facilitate participation by creative musicians outside academia we are making these workshops open without attending the rest of the ICLI conference.&lt;/p&gt;
-
-&lt;p&gt;The ICLI team
-&lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;www.liveinterfaces.org&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 May 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/resonatinginstruments</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/resonatinginstruments</guid>
+        <link>http://www.emutelab.org/blog/diyworkshop</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/diyworkshop</guid>
         
         <category>emutelab</category>
         
