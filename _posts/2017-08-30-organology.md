@@ -13,7 +13,7 @@ We took the opportunity to explore the city, as the biennial <a href="http://www
 
 The abstracts from Thanos and Thor follw below:
 
-![Porto](/img/algorave.jpg)
+![Porto](/img/porto.jpg)
 
 <b>Musical Organics: A Heterarchical Approach to Digital Organology<br>
 
