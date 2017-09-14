@@ -5,9 +5,168 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://www.emutelab.org/</link>
     <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 28 Jun 2017 18:18:42 +0100</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 18:18:42 +0100</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2017 10:45:29 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2017 10:45:29 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Residency Report: Marije Baalman and Chrysalis</title>
+        <description>&lt;p&gt;For the past six days, &lt;a href=&quot;https://www.marijebaalman.eu&quot;&gt;Marije Baalman&lt;/a&gt; has been visiting Sussex for part one of a residency with by EMuteLab and Sussex Humanities Lab.   We’ve been exploring serendipity in mappings for interactive instruments, and focusing on her recent piece &lt;a href=&quot;https://www.marijebaalman.eu/projects/chrysalis.html&quot;&gt;Chrysalis&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chrysalis is a cocoon like instrument made from stretch fabric and poles. You climb into the structure, and when you move around, the wireless accelerometers and stretch sensors (using Marije’s SenseStage system) are mapped to sound and to RGB lights which light up the chrysalis.  Marije wanted to explore new mappings which were less predictable and more engaging to interact with, while at the same time, did not risk moving into modes that were too random or out of keeping with the broad aesthetics of the piece.  Following from some of my &lt;a href=&quot;https://sro.sussex.ac.uk/51860/1/NIME2014-ESN.pdf&quot;&gt;previous work using Echo State Networks&lt;/a&gt; to create complex mappings, we explored Jaeger’s more recent innovations in this area, using a new technique: &lt;a href=&quot;http://minds.jacobs-university.de/conceptors&quot;&gt;Conceptors&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Conceptors essentially capture modes of behaviour of a reccurrent neural network, after which they can be used for pattern generation and for sequence recognition.  When used for pattern generation, they have some very interesting properties: you can mix and morph between patterns and also extrapolate new pattern variations.  This fitted in really well with our aim of encouraging interesting variation in mappings, while staying within a broader aesthetic.  Conceptors allow the creation of new and interesting pattern variations, but without moving too far from the original pattern. In other words, we can create surprises without the risk of them being too surprising.  The addition bonus is that these patterns are generated in real time, and can interact intuitively with sensors. We mapped them to control lighting patterns, and also used the network activations as wavetables to synthesise sound.&lt;/p&gt;
+
+&lt;p&gt;Another innovation was to adapt conceptors for realtime sequence recognition.  This worked successfully with accelerometer data. The way in which conceptors can be used with boolean logic make them a very powerful tool for pattern classification which we will be exploring more before Marije returns for part 2 of her residency in January.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/chrysalis2.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;
+&lt;img src=&quot;/img/chrysalis3.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;
+&lt;img src=&quot;/img/chrysalis_shl_lightson.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;
+&lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/chrysalis-report</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis-report</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>machine learning</category>
+        
+        <category>live coding</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Chrysalis in the SHL</title>
+        <description>&lt;p&gt;&lt;b&gt;
+Chrysalis&lt;br /&gt;
+When: 13 Sept 2017 - 16:00&lt;br /&gt;
+Location: &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marijebaalman.eu&quot;&gt;Marije Baalman&lt;/a&gt; is an artist and researcher/developer working in the field of interactive sound art. She is currently visiting Sussex, working with Chris Kiefer on serendipity in interactive machine learning algorithms. They will show the results of their work in a performance with Marije’s latest piece Chrysalis, and discuss the work afterwards in a Q&amp;amp;A session.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/chrysalis.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/chrysalis</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>machine learning</category>
+        
+        <category>live coding</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Algorave Brighton 2017</title>
+        <description>&lt;p&gt;&lt;b&gt;
+Algorave Brighton&lt;br /&gt;
+When: 7 Sept 2017 - 19:00–22:30&lt;br /&gt;
+Location: &lt;a href=&quot;http://patternsbrighton.com&quot;&gt;Patterns&lt;/a&gt;&lt;br /&gt;
+Door tax: FREE&lt;br /&gt;
+Facebook event: &lt;a href=&quot;https://www.facebook.com/events/1887328384865474/&quot;&gt;https://www.facebook.com/events/1887328384865474/&lt;/a&gt;&lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We are organising an Algorave in Brighton as part of the &lt;a href=&quot;https://www.britishsciencefestival.org&quot;&gt;British Science Festival&lt;/a&gt; programme.&lt;/p&gt;
+
+&lt;p&gt;Algorave is a combination of “algorithms” and “rave”, the opportunity to dance to alien rhythms and freaky visuals, all created from code before your eyes. The Algorave scene is fast-growing around the world, reaching over 50 cities.&lt;/p&gt;
+
+&lt;p&gt;“The scene at an algorave is often what you’d expect from any good techno night - a dark room, engaging visuals. a decent, bass-heavy speaker set-up, and lots of people ready to dance. .. performers at algoraves respond to each other and the audience in real time, often projecting the lines of code onto the walls as they type. lt’s coding as improvisation and experiment..” - The Wire magazine&lt;/p&gt;
+
+&lt;p&gt;“Live coders write computer programs live, while the programs generate their music, but the focus is on people dancing and seriously enjoying themselves” - Dazed and Confused&lt;/p&gt;
+
+&lt;p&gt;”.. not so much a revolution as a de-volution, a rolling back to the backend of music production, where the possibilities of the encoded information inside computer software is open and endless” - Mixmag&lt;/p&gt;
+
+&lt;p&gt;Read a mixmag feature here: &lt;a href=&quot;http://mixmag.net/feature/algorave&quot;&gt;http://mixmag.net/feature/algorave&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Featuring an international lineup of top live coders:
+- Renick Bell (Tokyo/UIQ+Halcyon Veil)
+- ALGOBABEZ (Leeds+Melbourne/Fractal Meat)
+- Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)
++ Brighton residents Luuma + Thor Magnusson&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/algorave.jpg&quot; alt=&quot;Algorave&quot; /&gt;
+&lt;img src=&quot;/img/bluedot.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/algorave</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/algorave</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>algorave</category>
+        
+        <category>live coding</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Organology Conference Porto</title>
+        <description>&lt;p&gt;Emute Lab members Thanos Polymeneas-Liontiris and Thor Magnusson presented work at the &lt;a href=&quot;https://congressorganimusic.wixsite.com/porto2017&quot;&gt;Organology Conference&lt;/a&gt; in Porto, Portugal. The conference consisted of a wide range of instrumental studies, from African and South-American instruments, Baroque flutes and organs, to the volume button in Onde Martenot or Spatial Immersive Instruments.&lt;/p&gt;
+
+&lt;p&gt;We took the opportunity to explore the city, as the biennial &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;Live Interfaces Conference&lt;/a&gt; we ran at Sussex last summer will take place in Porto next summer. It promises to be an amazing event, involving &lt;a href=&quot;http://www.casadamusica.com/en/&quot;&gt;Casa De Musica&lt;/a&gt; and many other interesting places in this beautiful city.&lt;/p&gt;
+
+&lt;p&gt;The abstracts from Thanos and Thor follw below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/porto.jpg&quot; alt=&quot;Porto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Musical Organics: A Heterarchical Approach to Digital Organology&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;by: Thor Magnusson &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;An important pursuit of organology is the classification of musical instruments. The tree-metaphor has traditionally been the key organisational principle, most prominently applied by Hornbostel and Sachs in their classification from 1914. As Nietzsche, Foucault, and Eco demonstrated, the classification of a domain is an epistemic act; indeed, we find epistemic time periods, where cultures throw different “conceptual nets” over the “rabble of reality” (as Nietzsche put it).
+Hornbostel and Sachs acknowledged the problems of division in their classification, stating that instruments are alive and dynamic, whereas systems are static and delineating. This is even more true with new digital instruments, as their complex nature renders them hard to place into classificatory categories. A new analytical approach is required that engages with the repository of digital instruments from a multiplicity of perspectives: materials (e.g., plastic, metal, glass, fibre, cloth); sensors (e.g., ultrasound, bend, potentiometers); sound (e.g., physical models, subtractive, granular, sampling); mapping (e.g., one-to-one, one- to-many, many-to-one, convergent, learned, evolutionary); gestures (e.g., hit, stroke, pluck, shake, bow, blow); reuse of proprioceptive skills (such as the trained playing of keyboard, strings, wind, and percussion); manufacturer (e.g., of sensors, chips, motors), and many more, including cultural context, musical style, and other areas that have been, or indeed will be, called for as extensions to existing organological classifications.&lt;/p&gt;
+
+&lt;p&gt;This presentation will discuss the necessity of shifting our classificatory metaphors from the tree to the rhizome, from hierarchy to heterarchy, pointing to the digital as something that is essentially hard to define due to the lack of tradition, legacy, and institutional framework. The paper discusses the problems of classification of digital instruments and introduce some of the organological work done in the field, leading up to the author’s proposal of Musical Organics. As a theoretical method that applies modern search, machine information retrieval, and representation technologies, musical organics enable researchers to create ad-hoc classifications of instrumental spaces as a collaborative organological research.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Instrumented spaces: two immersive music theatre performances&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;by: Thanos Polymeneas-Liontiris&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This presentation revolves around two performances / experiments presented as part of  my research on instrumented/audience reactive sound spaces: Im•medea and the landscape may be a dead star. The works drew inspiration from processes and techniques used in interactive art installations, with the aim of designing and delivering generative Music Theatre.&lt;/p&gt;
+
+&lt;p&gt;Both performances were using the space as an instrument: a series of Infrared (IR) sensors (placed on the walls and ceilings of the spaces) were tracking the movement, position and density of the audience in the rooms. The digital information of these sensors was then analysed and processed by a custom- made algorithm, contributing to the performance in different ways. While in Im•medea it generated the electronic soundscape for the performance, in the landscape may be a dead star it produced the musical score that the performers had to interpret. The result in both cases was an ever-changing music theatre performance, which was evolving by handling the space as an invisible instrument that was played by the movement, position and amount of audience/bodies in space.&lt;/p&gt;
+
+&lt;p&gt;The processes in both performances can be observed as methods for scoring, composing, as well as instruments or performance ecosystems, cybernetic, trans-individual network systems linking audience, performers and technology with a transparent web. These two experiments were the first of a series of experiments of an on-going research on post-digital processes and notions of Posthumanism in Music Theatre.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Aug 2017 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/organology</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/organology</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>organology</category>
+        
+        <category>NIME</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Event Report: The Forum for Immersive Augmented Reality Instruments</title>
@@ -229,208 +388,6 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
         <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
         <link>http://www.emutelab.org/blog/algomechartsresearch</link>
         <guid isPermaLink="true">http://www.emutelab.org/blog/algomechartsresearch</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Enrique Tomás – Towards Non-linguistic Writing for Music: A Performative Approach</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Wednesday, October 26th, 1pm @ Sussex Humanities Lab, Silverstone ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This term we are pleased to have a visit from instrument designer, musician and researcher, Enrique Tomás. Enrique will be working with us and presenting his work in one of the Music Department’s lunch time seminars (in the SHL). See the abstract for the talk and bio below:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Instruments as Scores: Musical Interfaces Beyond Representation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The development of new approaches to instrumentality during the decade of 1960 has contributed to the dual perception of instrument as scores. For many performers, the instrument became the score of what they played. This artistic hybridization carries substantial questions about the nature of our scores and about the relationships among instruments, performers and musical works. In my talk, I will contextualize the historical origins of this instrumental development within digital humanities, in particular Drucker’s theory of performative materiality, Barad’s posthumanist performativy and Ingold’s procesual and relational description of material properties. Following this approach, I will defend that a ‘hybrid’ and ‘performative’ understanding of writing music, which shifts the focus from linguistic and visual representations to discursive practices, is one such alternative for suggesting new practices of notation and interface design.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/enrique.jpg&quot; alt=&quot;Enrique Tomás&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Biography&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://ultranoise.es/blog/&quot;&gt;Enrique Tomás&lt;/a&gt; is a sound artist and researcher who dedicates his time to finding new ways of expression and play with sound, art and technology. His work explores the intersection between sound art, computer music, locative media and human-machine interaction. He has exhibited and performed throughout Europe and America at the spaces of ZKM, Ars Electronica, Sónar, SMAK, STEIM, etc. Tomás is also an active researcher on the field of new interfaces for musical expression. He is affiliated to the Interface Cultures department of the University of Art and Design of Linz, and his research has been presented at international peer-reviewed conferences like NIME, ICMC, SMC, TEI and TENOR. His artistic work has been supported and awarded with scholarships by Telefónica Vida, Phonos Foundation, the Academy of Fine Arts of Vienna and the Art Council of Madrid.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Oct 2016 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/tomas</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/tomas</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Artist talk: Timothy Didymus, Kosmiches Glass</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Wednesday, October 12th, 1pm, @ Jane Attenborough Studio, Attenborough Centre ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Brighton musician and maker &lt;a href=&quot;http://timothydidymus.com&quot;&gt;Timothy Didymus&lt;/a&gt; will present his glass Harmonica project, Kosmiches Glass.&lt;/p&gt;
-
-&lt;p&gt;Twelve tuned (brandy) glasses are mounted on MIDI controllable turntables, creating a playable/ scriptable mechanical acoustic instrument with beautiful polyphonic voice.&lt;/p&gt;
-
-&lt;p&gt;Following a demonstration of the glasses in action, Timothy will talk about the inspiration behind and development of the project and will be happy take questions on any apsects of the project – aesthetic, technical, logistical etc.&lt;/p&gt;
-
-&lt;p&gt;This will be of interest to music, music tech and sonic media students – or anyone with an interest in new musical instruments.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;“Its design and engineering is of great elegance. (…) its music of transparency and transience, the sonorous resonances of heavenly voices”&lt;/i&gt; (Sound Artist Max Eastley, 2015)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/didy.jpg&quot; alt=&quot;Didymus&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 07 Oct 2016 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/didymus</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/didymus</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Arts Research Symposium at the AlgoMech Festival – Call for Proposals</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Sunday, November 12th, 10.00am @ Sheffield Hallam University ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/algomech.png&quot; alt=&quot;Algomech Poster&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Symposium – Call for Proposals&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The AlgoMech Arts Research Symposium takes place within the &lt;a href=&quot;http://www.algomech.com/&quot;&gt;Festival of Algorithmic and Mechanical Movement&lt;/a&gt;, on the 13th November 2016 at the Sheffield Hallam University in Sheffield, UK.  AlgoMech will celebrate a resurgence of making in performance, where creative processes are made visible during a live event. Rather than presenting technology as seamless, we pick at the seams, exposing its innards as human-made and reconfigurable. We will also go beyond fashionable notions of technology to take the long view; bringing together mechanical, kinetic, electronic, and software arts, from periods spanning the stone age to present day, building a picture of the human maker as both digital and analogue, thinking and feeling, embodied yet reaching beyond what is bodily possible. The festival will take place across Sheffield, and will include concerts, talks, hands-on workshops, and a club night.&lt;/p&gt;
-
-&lt;p&gt;The arts research symposium will focus on the latest developments in this field, drawing on both academic and artistic perspectives. We invite proposals for artist talks and academic papers in the form of short abstracts, describing the theme and structure of your research presentation or artist talk in approximately one page of text. As an inclusive, cross-disciplinary symposium, we are open-minded about the form of your talk and proposal, but please do not hesitate to get in contact if you have questions.&lt;/p&gt;
-
-&lt;p&gt;As well as talks accepted from this call, the day will include talks from artists contributing work at the festival, and panel sessions on fictive materials and maker culture.&lt;/p&gt;
-
-&lt;p&gt;We welcome submissions from areas that intersect with the following themes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Human and mechanical motion&lt;/li&gt;
-&lt;li&gt;Human-machine interaction and embodiment&lt;/li&gt;
-&lt;li&gt;Creative computing and (live) coding&lt;/li&gt;
-&lt;li&gt;Robotics in the arts&lt;/li&gt;
-&lt;li&gt;Design and physical computing&lt;/li&gt;
-&lt;li&gt;Machine creativity&lt;/li&gt;
-&lt;li&gt;Algorithm aesthetics&lt;/li&gt;
-&lt;li&gt;Mechanical automata in history&lt;/li&gt;
-&lt;li&gt;Kinesthesis and art&lt;/li&gt;
-&lt;li&gt;Machine choreography&lt;/li&gt;
-&lt;li&gt;Maker culture&lt;/li&gt;
-&lt;li&gt;Materialities for motion&lt;/li&gt;
-&lt;li&gt;Generative design and architecture&lt;/li&gt;
-&lt;li&gt;Alternative histories of algorithms and mechanisms&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Draft Programme&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;9:30 – Coffee + live coding performance
-&lt;br /&gt;10:00 – Paper session (8 papers – we will issue a call for papers soon)
-&lt;br /&gt;12:00 – Lunch
-&lt;br /&gt;13:00 – Panel 1 (on speculative hardware and fictive materialities - chair: Derek Hales)
-&lt;br /&gt;14:00 – Keynote talk with Godfried-Willem Raes
-&lt;br /&gt;15:00 – Coffee with a performance
-&lt;br /&gt;16:00 – Panel 2 (on maker culture – chair: Amy Twigger Holroyd)
-&lt;br /&gt;19:00 – Performances at the Millennium Gallery&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keynote speaker&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We will have a keynote by Godfried-Willem Raes, of the &lt;a href=&quot;http://www.logosfoundation.org&quot;&gt;Logos foundation&lt;/a&gt;. Godfried is a composer and instrument maker, who taught at Ghent Royal Conservatory and the Orpheus Higher Institution for Music. In addition to his reputation as a composer, he is also an expert in computer technology, robotics and interactive electronic art. As an example, he is well known in this country for his work on musical robotics with Aphex Twin.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Submissions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We call for three types of submissions: 15 min talks, panel contributions, and performances.&lt;/p&gt;
-
-&lt;p&gt;We invite proposals for 15 minute research presentations or artist talks (10 minutes talk + 5 minutes questions).  Proposals should be a one page abstract describing the presentation.  Please also submit a short (200-300 word) biography for each author and an image describing your project. Submissions should be made in PDF or Word format.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in participating in either of the panels on speculative hardware and fictive materialities or maker culture, please send a note to symposium@algomech.com and describe in a sentence or two why you would like to join the panel.&lt;/p&gt;
-
-&lt;p&gt;In the evening during symposium we are programming performances (music, dance, robotics, etc.) in the Millennium Gallery in Sheffield from 7pm (time TBC). Please submit your proposal describing the performance and indicating the technical requirements you have. The proposal would typically be a page with your name, title of the piece, a paragraph description of the piece, a representative image (if available), a video of past performance (if available) and a tech spec.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Submission Process&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Submissions will be selected by a panel chaired by members of the Experimental Music Technologies (EMuTe) Lab at University of Sussex. Please email your submission in PDF format to symposium@algomech.com&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Important Dates&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;10th October: Submission Deadline
-&lt;br /&gt;17th October: Notifications
-&lt;br /&gt;12th-20th November: AlgoMech Festival
-&lt;br /&gt;13th November: Arts Research Symposium&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Sheffield Institute of Arts, Fitzalan Square, Sheffield S1 2AY, United Kingdom&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Symposium chairs:
-&lt;br /&gt;Thor Magnusson (university profile with email address: &lt;a href=&quot;http://www.sussex.ac.uk/profiles/164902&quot;&gt;http://www.sussex.ac.uk/profiles/164902&lt;/a&gt;) 
-&lt;br /&gt;Chris Kiefer (university profile with email address: &lt;a href=&quot;http://www.sussex.ac.uk/profiles/208667&quot;&gt;http://www.sussex.ac.uk/profiles/208667&lt;/a&gt;)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Sep 2016 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/algomech</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/algomech</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Machine Creativity Roundtable at IASPM in Brighton</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Saturday, September 9th, 2.00pm @ Clarendon Centre, Brighton ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We present a roundtable on Machine Creativity as part of the IASPM conference co-organised by the Sussex Music Department and BIMM. The idea is to set up a dialogue between researchers of machine creativity and popular music to further understanding between the respective fields. Members of the round table are:&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Elaine Chew&lt;/b&gt; - &lt;a href=&quot;http://www.eecs.qmul.ac.uk/~eniale/&quot;&gt;http://www.eecs.qmul.ac.uk/~eniale/&lt;/a&gt;
-Chew is a musician (pianist) and mathematician (operations researcher) who designs mathematical and computational tools to model, analyse, and visualise music structures: structures constructed in the process of listening, performing, composing, and improvising.
-&lt;br /&gt;&lt;b&gt;Rebecca Fiebrink&lt;/b&gt; - &lt;a href=&quot;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths&quot;&gt;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths&lt;/a&gt;
-Fiebrink is an expert in machine learning and has created systems using neural networks that can quickly learn gestural and compositional styles of performers and composers.
-&lt;br /&gt;&lt;b&gt;Andrew McPherson&lt;/b&gt; - &lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson&quot;&gt;http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson&lt;/a&gt;
-How can computer algorithms add to and shape musical performance? Can instruments learn about the performers playing them? Can they contribute to the playing? Andrew will bring the NIME (New Instruments for Musical Expression) expertise to this round-table.
-&lt;br /&gt;&lt;b&gt;Bob Sturm&lt;/b&gt; - &lt;a href=&quot;http://www.eecs.qmul.ac.uk/~sturm/&quot;&gt;http://www.eecs.qmul.ac.uk/~sturm/&lt;/a&gt;
-Sturm’s research seeks to interrogate the “creative” and/or “intelligent” machine. Though a machine may appear creative and/or intelligent, what has it actually learned to do? How can it be changed to do what we want it to do? Sturm will discuss various approaches to answering these questions, and how such “learned machines” can provide useful assistance and inspiration to the human creator.
-&lt;br /&gt;&lt;b&gt;Thor Magnusson (chair)&lt;/b&gt; - &lt;a href=&quot;http://www.sussex.ac.uk/profiles/164902&quot;&gt;http://www.sussex.ac.uk/profiles/164902&lt;/a&gt;
-Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intelligence, focusing on music software and the role of computers in musical creativity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/iaspm.png&quot; alt=&quot;Conference Poster&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The abstract for our roundtable is the following:&lt;/p&gt;
-
-&lt;p&gt;Recent academic fields such as software studies, digital humanities, and the philosophy of technology have directed focus on big data, machine agency, and the role of algorithms in contemporary culture. We are slowly gaining a clearer understanding of the power, as well as pitfalls, of machinic involvement in daily human tasks. With machines that learn and communicate, we will see their powers used in domains that were seen as exclusively human, for example artistic creativity. However, the use of computational creativity in the domain of music is nothing new and one of the earliest computer music compositions – the Illiac Suite by Hiller and Isaacson – was composed applying Artificial Intelligence techniques.&lt;/p&gt;
-
-&lt;p&gt;Machine creativity in the creative process can range from minor “suggestions” in filtering or mixing, or intelligent mapping between a controller and a sound generator, to a stronger involvement where the computer aids in writing in the style of a certain genre or a composer, even composing a whole musical piece without any human involvement. This raises both technical and philosophical questions about the nature of composition, performance, and creativity in general.&lt;/p&gt;
-
-&lt;p&gt;This proposed round-table addresses recent developments in machine learning, musical corpus analysis, and related computational creativity techniques. The session includes specialists in machine creativity, who will present and discuss diverse aspects of how computers will be more involved in the creative process of future musical works. The panel will explore the potential of computational creativity in the musical domain, ranging from the use of AI in musical instruments, musical corpus analysis for deeper understanding and regeneration of music, and the use of AI for non-human music. The potential of semantic audio techniques will be questioned for the domains of film music, game sound and other fields where music has a specific context-aware functionality.&lt;/p&gt;
-
-&lt;p&gt;The round-table will also discuss the role of the listener when musical works become open for interaction. How do new computational playback devices, in the form of mobile media, enable the listener to become part of the creative process of generating the music? What do these new technologies afford to composers, and how will they use AI as part of the new compositional context?&lt;/p&gt;
-
-&lt;p&gt;We will be discussing questions of computuational creativity and machine learning, and hoping to open up a dialogue with specialist in popular music studies. Some of the topics discussed include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How is machine creativity being best applied in the field of music?&lt;/li&gt;
-&lt;li&gt;Does machine creativity belong equally in performance and in composition/studio work?&lt;/li&gt;
-&lt;li&gt;What is creativity? How does this concept operate in your field of research?&lt;/li&gt;
-&lt;li&gt;Under which conditions can we declare a machine to be creative?&lt;/li&gt;
-&lt;li&gt;What can a machine do that humans can’t?&lt;/li&gt;
-&lt;li&gt;Is there a difference in how computational algorithms would engage with established genres vs. experimental music?&lt;/li&gt;
-&lt;li&gt;Wherein lies the art of music making? Will it perhaps always escape the machine?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Our session will be at &lt;b&gt;1pm, on Saturday 10th of September&lt;/b&gt;. See full programme &lt;a href=&quot;http://www.iaspm.org.uk/iaspm/wp-content/uploads/2016/04/IASPM_Brighton_Schedule.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The header image of this post is Al-Jazari’s Diagram of a hydropowered perpetual flute from The Book of Knowledge of Ingenious Mechanical Devices from 1206. From Wikimedia Commons&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 09 Sep 2016 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/machinecreativity</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/machinecreativity</guid>
         
         <category>emutelab</category>
         
