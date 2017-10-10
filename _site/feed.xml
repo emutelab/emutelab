@@ -3,11 +3,69 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 14 Sep 2017 10:45:32 +0100</pubDate>
-    <lastBuildDate>Thu, 14 Sep 2017 10:45:32 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 10 Oct 2017 14:31:03 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2017 14:31:03 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>Visiting Researcher: Alberto Novello</title>
+        <description>&lt;p&gt;&lt;b&gt;:::: Thursday, October 26th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In October, the Emute Lab visiting researcher, Alberto Novello, will give a talk about his research and musical practice. Alberto is a specialist in analogue synthesis, the use of lasers and brain interfaces. In his talk he will present resent work in this area, show videos and play examples.&lt;/p&gt;
+
+&lt;p&gt;All welcome @ the Sussex Humanities Lab, Silverstone Building, 2nd floor.&lt;/p&gt;
+
+&lt;p&gt;Talk Title: &lt;br /&gt;
+&lt;b&gt;Invisible to visible: bio signals and possible applications in the arts.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In the lecture I will present my body of work, with a particular emphasis on the bio data installations and performances. I will talk about aesthetics of bio signal performances and the correlated dramaturgical limitations. I will explain the approach I followed when creating Fragmentation, UN (focussed) and Brain Pong: my three works using EEG signals. I will explain the techniques and mathematical tools I used and discuss/criticize the final results.&lt;/p&gt;
+
+&lt;p&gt;After the lecture there will be a workshop on the same topic, open to all:&lt;/p&gt;
+
+&lt;p&gt;The focus of the workshop is to get first acquainted with the hardware: two EEG headsets will be compared in their level of complexity to setup vs quality of their data. The workshop will also talk about the possible alternatives on the market the pros and cons of the most common headsets around. The second part of the workshop will focus on software and data analysis: what kind of high-level features can we extract from the raw EEG data? How should we treat that data to extract for example energy bands? What do those band mean and how do they correlate with our everyday brain activity? In the third part, the participants will be encouraged to imagine a possible short performance/installation and, in groups, try and sketch a possible code for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/novello.jpg&quot; alt=&quot;Novello&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alberto Novello is a scientist, composer, sound and video artist. His main artistic focus is directed towards the creation of probabilistic multi-media architectures, on the technological limit between instability and error, failure and expression. Lately he moved from digital systems to analog found or decontextualized electronic ensembles.&lt;/p&gt;
+
+&lt;p&gt;He graduated in Nuclear Physics at the University of Trieste, completed the master “Art, Science and Technologies” with Jean Claude Risset and Claude Cadoz, he obtained a PhD degree at the Technische Universiteit Eindhoven with Armin Kohlrausch and graduated in electroacoustic music composition at the Institute of Sonology, Royal Conservatory of Den Haag with Paul Berg, Joel Ryan, and Richard Barret. In his works, he has assisted Alvin Lucier, Nicholas Collins and Trevor Wishart. In the years he also worked Philips Research, Eindhoven, and Auro Technologies Belgium creating software for their audio application.&lt;/p&gt;
+
+&lt;p&gt;His artistic works have been presented in international festivals such as Amsterdam Dance Event, Venice Biennale, Impuls Tanz Vienna, Seoul International Music Festival, Emu Fest Roma, Monaco Electroacoustique, New York Computer Music Festival, Rewire Festival and conferences such as NIME, ICMC, ISMIR, ICMPC, ICA, ICCE and ESSEM and institutes for contemporary music research such as CCMAS in Mexico, GRM in France, Logos Foundation in Belgium, STEIM Amsterdam, IEM Graz, OMI New York, the Royal Conservatory of Den Haag, Conservatory of Padua.&lt;/p&gt;
+
+&lt;p&gt;He was part of the Sonology Electroacoustic Ensemble. He has released his works on CD/DVD as “JesterN’ for Dobialabel, Modisti, Bowindo, SONMA Archive and Hybrida records.&lt;/p&gt;
+
+&lt;p&gt;Novello has improvised with Evan Parker and Butch Morris, Karl Berger and composed for the choreographies of Ola Maciejewska and Liat Waysbort.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.jestern.com&quot;&gt;www.jestern.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ALBERTO NOVELLO / JesterN&lt;br /&gt;
+site: &lt;a href=&quot;www.jestern.com&quot;&gt;jestern.com&lt;/a&gt;&lt;br /&gt;
+shop: &lt;a href=&quot;www.jestern.bandcamp.com&quot;&gt;jestern.bandcamp.com&lt;/a&gt;&lt;br /&gt;
+audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jestern&lt;/a&gt;&lt;br /&gt;
+video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/novello</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>machine learning</category>
+        
+        <category>analog synthesis</category>
+        
+        <category>brain interfaces</category>
+        
+        <category>laser</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Residency Report: Marije Baalman and Chrysalis</title>
@@ -25,8 +83,8 @@
 &lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/chrysalis-report</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis-report</guid>
+        <link>http://localhost:4000/blog/chrysalis-report</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis-report</guid>
         
         <category>emutelab</category>
         
@@ -55,8 +113,8 @@ Location: &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humaniti
 &lt;p&gt;&lt;img src=&quot;/img/chrysalis.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/chrysalis</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis</guid>
+        <link>http://localhost:4000/blog/chrysalis</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis</guid>
         
         <category>emutelab</category>
         
@@ -93,18 +151,20 @@ Facebook event: &lt;a href=&quot;https://www.facebook.com/events/188732838486547
 
 &lt;p&gt;Read a mixmag feature here: &lt;a href=&quot;http://mixmag.net/feature/algorave&quot;&gt;http://mixmag.net/feature/algorave&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Featuring an international lineup of top live coders:
-- Renick Bell (Tokyo/UIQ+Halcyon Veil)
-- ALGOBABEZ (Leeds+Melbourne/Fractal Meat)
-- Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)
-+ Brighton residents Luuma + Thor Magnusson&lt;/p&gt;
+&lt;p&gt;Featuring an international lineup of top live coders:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Renick Bell (Tokyo/UIQ+Halcyon Veil)&lt;/li&gt;
+  &lt;li&gt;ALGOBABEZ (Leeds+Melbourne/Fractal Meat)&lt;/li&gt;
+  &lt;li&gt;Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)&lt;/li&gt;
+  &lt;li&gt;Brighton residents Luuma + Thor Magnusson&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/algorave.jpg&quot; alt=&quot;Algorave&quot; /&gt;
 &lt;img src=&quot;/img/bluedot.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/algorave</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/algorave</guid>
+        <link>http://localhost:4000/blog/algorave</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/algorave</guid>
         
         <category>emutelab</category>
         
@@ -152,8 +212,8 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 </description>
         <pubDate>Wed, 30 Aug 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/organology</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/organology</guid>
+        <link>http://localhost:4000/blog/organology</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/organology</guid>
         
         <category>emutelab</category>
         
@@ -186,8 +246,8 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 &lt;img src=&quot;/img/arimi4.JPG&quot; alt=&quot;ARImI Unplugged&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Jun 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/arimi</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/arimi</guid>
+        <link>http://localhost:4000/blog/arimi</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/arimi</guid>
         
         <category>emutelab</category>
         
@@ -208,15 +268,15 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 &lt;p&gt;&lt;b&gt;Alice Eldridge&lt;/b&gt; and &lt;b&gt;Chris Kiefer&lt;/b&gt; present a paper introducing their &lt;b&gt; feedback cello&lt;/b&gt; project, which is a new electroacoustic actuated instrument in which feedback can be induced independently on each string. Built from retro-fitted acoustic cellos, the signals from electromagnetic pickups sitting under each string are passed to a speaker built into the back of the instrument and a transducer on the front of the instrument. Placement of acoustic and mechanical actuators on the resonant body of the cello, mean that this simple analogue feedback system is capable of a wide range of complex self-resonating behaviours. Their paper describes the motivations for building these instruments as both a physical extension to live computer music practice and an electroacoustic augmentation of cello. The design and physical construction is outlined, and modes of performance described with reference to the first six months of performances and installations. Future developments and planned investigations are described.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Cecile Chevalier&lt;/b&gt; and &lt;b&gt;Andrew Duff’s&lt;/b&gt; &lt;b&gt;200.104.200.2*&lt;/b&gt; is a sound installation, created as a displaced reenactment of both contemporary digital social practice and the Internet as a memory palace, in which sonifications of memory traces can be performed, stored and replayed as digital data. The work is situated in relation to the art of memory as a form of memory spatialisation, and in relation to post-digital aesthetics, ultimately forming a potential immersive instrument for collective performances. In its conceptual design and instrument-making, 200.104.200.2 is a stainless steel structure 2.5 meters high, 2 meters long and 2 meters wide, from which over 3000 copper wires hang. The structure itself can be entered by participants or performers, as it tracks, connects and extends each of their movements through fine colliding wires that occur within the piece.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/cecileinst.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/cecileinst.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Thor Magnusson’s&lt;/b&gt; Threnoscope and the Feedback Cello project of &lt;b&gt;Chris Kiefer&lt;/b&gt; and &lt;b&gt;Alice Eldridge&lt;/b&gt; meet for the first time in a performance at NIME. The feedback cellos are built from acoustic instruments that are modified with electromagnetic pick ups, speakers and transducers, to create a self-resonating drone instrument which can be played either within the extended string tradition or live coded. The threnoscope is a software instrument designed for spatialised, microtonal drone music. In this performance, six channel outputs of the Threnoscope are diffused through a quadrophonic system and also sent to the speakers in the two cellos, affecting the resonant landscapes of the instruments which are simultaneously played by Alice and Chris. Acoustic signals from the cellos are also channeled back to the Threnoscope, creating a multi-instrument, multichannel feedback system. Sonic processes which are physically or digitally initiated by the players on discrete instruments influence each other to form a single dynamical drone system; the liveliness of the ensemble-system as a whole outperforms any one of the players.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/osc.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/osc.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; presents a paper entitled &lt;b&gt;Contextualising Musical Organics: Ad-hoc Organological Classification Approach&lt;/b&gt;. Here is the abstract:&lt;/p&gt;
 
@@ -226,8 +286,8 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/NIME2017</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/NIME2017</guid>
+        <link>http://localhost:4000/blog/NIME2017</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/NIME2017</guid>
         
         <category>emutelab</category>
         
@@ -248,11 +308,11 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 &lt;p&gt;We will report on a recent trip to the Iceland Academy of the Arts to visit instrument designer Halldór Úlfarsson, who we have been collaborating with on the design of two Feedback Cellos. These unique hybrid instruments have been evolving quickly since we first made them last summer. We will present the latest developments, and discuss some issues around design and performance that we have been engaging with in this project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutemeeting</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutemeeting</guid>
+        <link>http://localhost:4000/blog/emutemeeting</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutemeeting</guid>
         
         <category>emutelab</category>
         
@@ -269,7 +329,7 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 &lt;p&gt;A Magnificent Crossbreeding of Protein and Tinplate is a posthuman vivarium. The “I” in this space is collective and visitors are invited to transit, inhabit, indulge and experience this world, to interact with the performers, the objects and the space. The piece is an alive performance organism, controlled through a network of computers. It evolves as time passes, and as the performers and the cybernetic system react to the audience’s presence and movement in the space, generating a succession of unique and unexpected situations.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/speakofme.jpg&quot; alt=&quot;Shall I speak of me?&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/speakofme.jpg&quot; alt=&quot;Shall I speak of me?&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The performance is designed to run for 4 hours and the audience can enter and leave the space as they please. Due to the nature of the performance and the space limitation, the audience might be asked to explore the space carefully, as well as be open for interaction with other human and non-human beings.&lt;/p&gt;
 
@@ -284,8 +344,8 @@ Text adaptation: Nikos Ioakeim, Thanos Polymeneas-Liontiris
 Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo.almeida.5686&quot;&gt;Gonçalo Almeida&lt;/a&gt; (PT/NL), M. Eugenia Demeglio (IT/UK), &lt;a href=&quot;https://www.facebook.com/profile.php?id=1367346763&quot;&gt;Theresa Elflein&lt;/a&gt; (DE/UK), Nikos Ioakeim (GR/NL), Katerina Kostantourou (GR/NL), &lt;a href=&quot;https://www.facebook.com/art.the.melt&quot;&gt;Arthur Artorius Leadbetter&lt;/a&gt; (UK), &lt;a href=&quot;https://www.facebook.com/frisprit&quot;&gt;Stephanie Pan&lt;/a&gt; (US/NL), &lt;a href=&quot;https://www.facebook.com/friso.vanwijck&quot;&gt;Friso van Wijck&lt;/a&gt; (NL).&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/proteintinplate</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/proteintinplate</guid>
+        <link>http://localhost:4000/blog/proteintinplate</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/proteintinplate</guid>
         
         <category>emutelab</category>
         
@@ -298,7 +358,7 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
         <title>Emute Lab in Reykjavik</title>
         <description>&lt;p&gt;The fruitful collaboration with &lt;a href=&quot;http://www.halldorulfarsson.info/&quot;&gt;Halldor Ulfarsson&lt;/a&gt; on the feedback cellos, that started as part of the Arts Council funded workshop programme at the &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;Live Interfaces conference&lt;/a&gt;, is continuing with Alice Eldridge and Chris Kiefer going to Reykjavik to work at theIcelandic Academy of the Arts.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedbackcellos.jpg&quot; alt=&quot;Feedback Cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedbackcellos.jpg&quot; alt=&quot;Feedback Cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They will also be performing in &lt;a href=&quot;http://www.mengi.net/2017/01/24/17-02/&quot;&gt;Mengi&lt;/a&gt; on February 12th:&lt;/p&gt;
 
@@ -313,81 +373,8 @@ Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo
 &lt;p&gt;Tickets: 2000 ISK.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/reykjavik</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/reykjavik</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Arts Research at the Festival of Algorithmic and Mechanical Movement</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Sunday, November 13th, 9:30am @ Sheffield Hallam University ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The AlgoMech Arts Research Symposium takes place within the &lt;a href=&quot;http://www.algomech.com/&quot;&gt;Festival of Algorithmic and Mechanical Movement&lt;/a&gt;, on the 13th November 2016 at the Sheffield Hallam University in Sheffield, UK.  AlgoMech celebrates a resurgence of making in performance, where creative processes are made visible during a live event. Rather than presenting technology as seamless, we pick at the seams, exposing its innards as human-made and reconfigurable. We will also go beyond fashionable notions of technology to take the long view; bringing together mechanical, kinetic, electronic, and software arts, from periods spanning the stone age to present day, building a picture of the human maker as both digital and analogue, thinking and feeling, embodied yet reaching beyond what is bodily possible. The festival will take place across Sheffield, and will include concerts, talks, hands-on workshops, and a club night. The arts research symposium will focus on the latest developments in this field, drawing on both academic and artistic perspectives.&lt;/p&gt;
-
-&lt;p&gt;Tickets are £15/£25 (and include lunch, coffee and evening concert). Tickets can be purchased &lt;a href=&quot;https://www.eventbrite.co.uk/e/arts-research-symposium-part-of-algomech-tickets-28182881758&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/algomech.png&quot; alt=&quot;Algomech postcard&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Abstracts and bio of the participants can be found on the AlgoMech website&lt;/p&gt;
-
-&lt;p&gt;The &lt;b&gt;programme&lt;/b&gt; for the day is the following (see a &lt;b&gt;map of locations&lt;/b&gt; at the bottom of this post):&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;All Day – Installation: Harmony: The Spectacular Automatic Drawing Machine (Ryan Patrick Morley)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;9:30 – Registration and Coffee at the Sheffield Institute of Arts (Old Post Office)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;10:00 – Presentations (10 min each + 5 min Q&amp;amp;A)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Ellen Harlizius-Klück
-&lt;br /&gt;Jesus Jara Lopez
-&lt;br /&gt;Susanne Palzer
-&lt;br /&gt;Alejandra Pérez Núñez
-&lt;br /&gt;Elise and David Plans
-&lt;br /&gt;&lt;b&gt;———-   break (15 min)  ————&lt;/b&gt;
-&lt;br /&gt;Giuseppe Torre
-&lt;br /&gt;Alejandro A Albornoz Roj
-&lt;br /&gt;Joana Chicau
-&lt;br /&gt;Rosamaria Cisneros&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;12:30 – Lunch with installation (Ryan Patrick Morley)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;13:30 – Keynote talk with Godfried-Willem Raes&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;14:30 – Panel 1 (Speculative Hardware and Fictive Materialities – chair: Derek Hales)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Jamie Brassett
-&lt;br /&gt;Andrew Hugill,
-&lt;br /&gt;Maya Oppenheimer
-&lt;br /&gt;Spencer Roberts&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;16:00 – Coffee with a performance by Luba Elliott&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;16:30 - Panel 2 (Unravelling Maker Culture – chair: Amy Twigger Holroyd)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Jesús Jara López
-&lt;br /&gt;Ryan Patrick Morley
-&lt;br /&gt;Tom Tobia
-&lt;br /&gt;Tamar Millen&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;17:30 – Panel ends – End of activities at the Old Post Office&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;19:30 – Performances at the Millennium Gallery&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Tom Mudd 
-&lt;br /&gt;Simon Blackmore
-&lt;br /&gt;Joana Chicau
-&lt;br /&gt;Tim Shaw + John Bowers
-&lt;br /&gt;REPL Electric&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/algomechartsresearch</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/algomechartsresearch</guid>
+        <link>http://localhost:4000/blog/reykjavik</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/reykjavik</guid>
         
         <category>emutelab</category>
         
