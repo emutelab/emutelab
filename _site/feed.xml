@@ -5,24 +5,70 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 Oct 2017 14:31:03 +0100</pubDate>
-    <lastBuildDate>Tue, 10 Oct 2017 14:31:03 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Oct 2017 20:58:23 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2017 20:58:23 +0100</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>Emute Lab PhD presentations</title>
+        <description>&lt;p&gt;&lt;b&gt;:::: Monday, October 30th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We have two new PhD researchers starting with us this autumn, Halldór Úlfarsson and Iain Emsley. During this 50 min lunch time talk we will have two 15 minute presenations and then dedicate 20 minutes to discuss these fresh and exciting research projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Halldór Úlfarsson&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Title: &lt;b&gt;Infiltrating History&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;What makes a musical instrument real? Is it real when music is being made on it or is it perhaps more real when it gets mentioned in a book or when it is placed in an archive for musical instruments; when it becomes history. I tell the tale of the halldorophone and how it graduated from being a postmodern joke to a musical instrument with something of an established culture of use. I consider if the halldorophone is actually a different object by now (or if the joke has just gotten better).&lt;/p&gt;
+
+&lt;p&gt;Bio: &lt;a href=&quot;http://www.halldorulfarsson.info&quot;&gt;Halldór Úlfarsson&lt;/a&gt; (IS) has been working with musicians on projects involving his electro acoustic string instrument the halldorophone for about a decade. Compositions for the halldorophone have been featured in various genres of music in a variety of contexts (most recently Oscar winning Hollywood films). For the past five years Halldór has been at the Design Department of the Icelandic Academy of Art and part time lecturing in the Music Department in the same school. He is now pursuing a PhD at the Music Department at University of Sussex with Drs. Thor Magnusson and Chris Kiefer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/violbulge.jpg&quot; alt=&quot;Violin&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Iain Emsley&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Title: &lt;b&gt;To sonify, or not to sonify&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In between other projects, I experiment with sonification as a critical tool. In this presentation, I show some of my work with extracting parts of editorial structures of Shakespeare’s Hamlet, explore a software community, and traffic changes in national network. I present some of the models and the questions that were raised as ongoing work.&lt;/p&gt;
+
+&lt;p&gt;Bio: Iain works a Research Associate at the Oxford e-Research Centre on digital libraries, software sustainability, and user interfaces for the museum visitors with visual impairments. Previous roles include working with the Square Kilometre Array, Janet and Forbidden Planet. He is studying for a PhD in Digital Media with Prof David Berry and Thor Magnusson.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/twophds</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>PhD</category>
+        
+        <category>NIME</category>
+        
+        <category>sonificiaton</category>
+        
+        <category>instruments</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Visiting Researcher: Alberto Novello</title>
         <description>&lt;p&gt;&lt;b&gt;:::: Thursday, October 26th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;In October, the Emute Lab visiting researcher, Alberto Novello, will give a talk about his research and musical practice. Alberto is a specialist in analogue synthesis, the use of lasers and brain interfaces. In his talk he will present resent work in this area, show videos and play examples.&lt;/p&gt;
-
-&lt;p&gt;All welcome @ the Sussex Humanities Lab, Silverstone Building, 2nd floor.&lt;/p&gt;
-
-&lt;p&gt;Talk Title: &lt;br /&gt;
-&lt;b&gt;Invisible to visible: bio signals and possible applications in the arts.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Talk Title: &lt;b&gt;Invisible to visible: bio signals and possible applications in the arts.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;In the lecture I will present my body of work, with a particular emphasis on the bio data installations and performances. I will talk about aesthetics of bio signal performances and the correlated dramaturgical limitations. I will explain the approach I followed when creating Fragmentation, UN (focussed) and Brain Pong: my three works using EEG signals. I will explain the techniques and mathematical tools I used and discuss/criticize the final results.&lt;/p&gt;
 
-&lt;p&gt;After the lecture there will be a workshop on the same topic, open to all:&lt;/p&gt;
+&lt;p&gt;All welcome!&lt;/p&gt;
+
+&lt;p&gt;After the lecture there will be a &lt;b&gt;workshop&lt;/b&gt; on the same topic, open to all:&lt;/p&gt;
 
 &lt;p&gt;The focus of the workshop is to get first acquainted with the hardware: two EEG headsets will be compared in their level of complexity to setup vs quality of their data. The workshop will also talk about the possible alternatives on the market the pros and cons of the most common headsets around. The second part of the workshop will focus on software and data analysis: what kind of high-level features can we extract from the raw EEG data? How should we treat that data to extract for example energy bands? What do those band mean and how do they correlate with our everyday brain activity? In the third part, the participants will be encouraged to imagine a possible short performance/installation and, in groups, try and sketch a possible code for it.&lt;/p&gt;
 
@@ -46,7 +92,62 @@ shop: &lt;a href=&quot;www.jestern.bandcamp.com&quot;&gt;jestern.bandcamp.com&lt
 audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jestern&lt;/a&gt;&lt;br /&gt;
 video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Oct 2017 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/twophds</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>machine learning</category>
+        
+        <category>analog synthesis</category>
+        
+        <category>brain interfaces</category>
+        
+        <category>laser</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Visiting Researcher: Alberto Novello</title>
+        <description>&lt;p&gt;&lt;b&gt;:::: Thursday, October 26th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Talk Title: &lt;b&gt;Invisible to visible: bio signals and possible applications in the arts.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In the lecture I will present my body of work, with a particular emphasis on the bio data installations and performances. I will talk about aesthetics of bio signal performances and the correlated dramaturgical limitations. I will explain the approach I followed when creating Fragmentation, UN (focussed) and Brain Pong: my three works using EEG signals. I will explain the techniques and mathematical tools I used and discuss/criticize the final results.&lt;/p&gt;
+
+&lt;p&gt;All welcome!&lt;/p&gt;
+
+&lt;p&gt;After the lecture there will be a &lt;b&gt;workshop&lt;/b&gt; on the same topic, open to all:&lt;/p&gt;
+
+&lt;p&gt;The focus of the workshop is to get first acquainted with the hardware: two EEG headsets will be compared in their level of complexity to setup vs quality of their data. The workshop will also talk about the possible alternatives on the market the pros and cons of the most common headsets around. The second part of the workshop will focus on software and data analysis: what kind of high-level features can we extract from the raw EEG data? How should we treat that data to extract for example energy bands? What do those band mean and how do they correlate with our everyday brain activity? In the third part, the participants will be encouraged to imagine a possible short performance/installation and, in groups, try and sketch a possible code for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/novello.jpg&quot; alt=&quot;Novello&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alberto Novello is a scientist, composer, sound and video artist. His main artistic focus is directed towards the creation of probabilistic multi-media architectures, on the technological limit between instability and error, failure and expression. Lately he moved from digital systems to analog found or decontextualized electronic ensembles.&lt;/p&gt;
+
+&lt;p&gt;He graduated in Nuclear Physics at the University of Trieste, completed the master “Art, Science and Technologies” with Jean Claude Risset and Claude Cadoz, he obtained a PhD degree at the Technische Universiteit Eindhoven with Armin Kohlrausch and graduated in electroacoustic music composition at the Institute of Sonology, Royal Conservatory of Den Haag with Paul Berg, Joel Ryan, and Richard Barret. In his works, he has assisted Alvin Lucier, Nicholas Collins and Trevor Wishart. In the years he also worked Philips Research, Eindhoven, and Auro Technologies Belgium creating software for their audio application.&lt;/p&gt;
+
+&lt;p&gt;His artistic works have been presented in international festivals such as Amsterdam Dance Event, Venice Biennale, Impuls Tanz Vienna, Seoul International Music Festival, Emu Fest Roma, Monaco Electroacoustique, New York Computer Music Festival, Rewire Festival and conferences such as NIME, ICMC, ISMIR, ICMPC, ICA, ICCE and ESSEM and institutes for contemporary music research such as CCMAS in Mexico, GRM in France, Logos Foundation in Belgium, STEIM Amsterdam, IEM Graz, OMI New York, the Royal Conservatory of Den Haag, Conservatory of Padua.&lt;/p&gt;
+
+&lt;p&gt;He was part of the Sonology Electroacoustic Ensemble. He has released his works on CD/DVD as “JesterN’ for Dobialabel, Modisti, Bowindo, SONMA Archive and Hybrida records.&lt;/p&gt;
+
+&lt;p&gt;Novello has improvised with Evan Parker and Butch Morris, Karl Berger and composed for the choreographies of Ola Maciejewska and Liat Waysbort.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.jestern.com&quot;&gt;www.jestern.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ALBERTO NOVELLO / JesterN&lt;br /&gt;
+site: &lt;a href=&quot;www.jestern.com&quot;&gt;jestern.com&lt;/a&gt;&lt;br /&gt;
+shop: &lt;a href=&quot;www.jestern.bandcamp.com&quot;&gt;jestern.bandcamp.com&lt;/a&gt;&lt;br /&gt;
+audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jestern&lt;/a&gt;&lt;br /&gt;
+video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/novello</link>
         <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
         
@@ -313,68 +414,6 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
         <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/emutemeeting</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutemeeting</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>A Magnificent Crossbreeding of Protein and Tinplate</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Monday, February 13th, 5-9pm @ Attenborouch Centre for the Creative Arts ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A Magnificent Crossbreeding of Protein and Tinplate is a generative music theatre performance with audience interactive/participatory aspects. It is inspired and devised based on Heiner Muller’s Despoiled Shore/Medeamaterial/Landscape with Argonauts. The audience is invited to explore this performance ecosystem, a deconstructed landscape, a fragmented environment, where individuals can be found playing music, reading, singing, being.&lt;/p&gt;
-
-&lt;p&gt;A Magnificent Crossbreeding of Protein and Tinplate is a posthuman vivarium. The “I” in this space is collective and visitors are invited to transit, inhabit, indulge and experience this world, to interact with the performers, the objects and the space. The piece is an alive performance organism, controlled through a network of computers. It evolves as time passes, and as the performers and the cybernetic system react to the audience’s presence and movement in the space, generating a succession of unique and unexpected situations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/speakofme.jpg&quot; alt=&quot;Shall I speak of me?&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The performance is designed to run for 4 hours and the audience can enter and leave the space as they please. Due to the nature of the performance and the space limitation, the audience might be asked to explore the space carefully, as well as be open for interaction with other human and non-human beings.&lt;/p&gt;
-
-&lt;p&gt;This piece of generative music theatre is the final of a series of experiments, part of Thanos Polymeneas-Liontiris’ PhD practice-based research on interactive music theatre, taking place at the University of Sussex, supervised by Thos Magnusson and Nicholas Till and funded by AHRC.&lt;/p&gt;
-
-&lt;p&gt;Further location info: &lt;a href=&quot;https://www.attenboroughcentre.com/events/681/a-magnificent-crossbreeding-of-protein-and-tinplate/&quot;&gt;ACCA&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Concept/Direction/Music: &lt;a href=&quot;https://www.facebook.com/thanos.polymeneasliontiris&quot;&gt;Thanos Polymeneas Liontiris&lt;/a&gt;
-Production/Assistant Director: &lt;a href=&quot;https://www.facebook.com/megdemeg&quot;&gt;M. Eugenia Demeglio&lt;/a&gt;
-Text by: H. Muller, Aeschelus, Heracletus, W. Shakespeare, T.S. Elliot, G. Seferis, F. Hölderlin
-Text adaptation: Nikos Ioakeim, Thanos Polymeneas-Liontiris
-Devised with and performed by: &lt;a href=&quot;https://www.facebook.com/goncalo.almeida.5686&quot;&gt;Gonçalo Almeida&lt;/a&gt; (PT/NL), M. Eugenia Demeglio (IT/UK), &lt;a href=&quot;https://www.facebook.com/profile.php?id=1367346763&quot;&gt;Theresa Elflein&lt;/a&gt; (DE/UK), Nikos Ioakeim (GR/NL), Katerina Kostantourou (GR/NL), &lt;a href=&quot;https://www.facebook.com/art.the.melt&quot;&gt;Arthur Artorius Leadbetter&lt;/a&gt; (UK), &lt;a href=&quot;https://www.facebook.com/frisprit&quot;&gt;Stephanie Pan&lt;/a&gt; (US/NL), &lt;a href=&quot;https://www.facebook.com/friso.vanwijck&quot;&gt;Friso van Wijck&lt;/a&gt; (NL).&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/proteintinplate</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/proteintinplate</guid>
-        
-        <category>emutelab</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab in Reykjavik</title>
-        <description>&lt;p&gt;The fruitful collaboration with &lt;a href=&quot;http://www.halldorulfarsson.info/&quot;&gt;Halldor Ulfarsson&lt;/a&gt; on the feedback cellos, that started as part of the Arts Council funded workshop programme at the &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;Live Interfaces conference&lt;/a&gt;, is continuing with Alice Eldridge and Chris Kiefer going to Reykjavik to work at theIcelandic Academy of the Arts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedbackcellos.jpg&quot; alt=&quot;Feedback Cellos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;They will also be performing in &lt;a href=&quot;http://www.mengi.net/2017/01/24/17-02/&quot;&gt;Mengi&lt;/a&gt; on February 12th:&lt;/p&gt;
-
-&lt;p&gt;Feedback Cell is the duo formed by cellist Alice Eldridge (Collectress, En Bas Quartet) and computer-musician Chris Kiefer (Luuma) to explore their ever-evolving feedback cello project. Two butchered cellos, electromagnetic pickups, code, bows and lots of soldering. Emits dulcet drones and brutal yelps.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Alice Eldridge&lt;/b&gt; is a cellist and researcher. Her backgrounds in music, psychology, evolutionary and adaptive systems and computer science inspires and informs systemic sound-based research across ecology, technology and music. Current projects include ecoacoustics for biodiversity assessment, networked notation for ensemble music-making and hybrid instrument building for improvisation. As a cellist she has shared stages, studios and other acoustic spaces with some of the UK’s most inventive musicians at the intersections of contemporary classical, folk, free jazz, minimal pop and algorithmic musics.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Chris Kiefer&lt;/b&gt; is a computer-musician and musical instrument designer, specialising in musician-computer interaction, physical computing, and machine learning. He performs with custom-made instruments including malleable foam interfaces, touch screen software, interactive sculptures and a modified self-resonating cello. Chris’ research often focuses on participatory design and development of interactive music systems in everyday settings, including digital instruments for children with disabilities, and development of the NETEM networked score system for musical ensembles.&lt;/p&gt;
-
-&lt;p&gt;The concert starts at 9pm.&lt;/p&gt;
-
-&lt;p&gt;Tickets: 2000 ISK.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/reykjavik</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/reykjavik</guid>
         
         <category>emutelab</category>
         
