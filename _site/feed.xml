@@ -3,11 +3,71 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Dec 2017 17:06:47 +0000</pubDate>
-    <lastBuildDate>Sun, 31 Dec 2017 17:06:47 +0000</lastBuildDate>
-    <generator>Jekyll v3.6.0</generator>
+    <link>http://www.emutelab.org/</link>
+    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 04 Jan 2018 09:48:36 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2018 09:48:36 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>EMuTeLab 0: 7pm, 12 Jan 2018, The Rose Hill, Brighton</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab0_webflyer.png&quot; alt=&quot;EMuTeLab0 Gig Flyer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;EMuTeLab presents…&lt;/p&gt;
+
+&lt;p&gt;JesterN (Laser Drawing / Modular Synth)&lt;/p&gt;
+
+&lt;p&gt;Marije Baalman (Chrysalis / Installations)&lt;/p&gt;
+
+&lt;p&gt;Brain Dead Ensemble (Threnascope / Feedback Cellos / Feedback Double Bass)&lt;/p&gt;
+
+&lt;p&gt;7pm, 12 Jan 2018, The Rose Hill, Brighton. £5&lt;/p&gt;
+
+&lt;p&gt;====== JesterN: Laser Drawing&lt;/p&gt;
+
+&lt;p&gt;JesterN’s Laser Drawing is a synesthetic experience in which you can listen to what you see, and see what you listen to
+Using its modular synthesizer, JesterN manipulates electric voltages live, sending them in exactly the same way to the speakers to create sound and to the laser to create its curvy shapes with vivid colors. An artisanal live show in which every beat and every shape is simultaneously improvised on the stage. Being cooked on the spot, music-wise it depends on the space and on the vibe: it can go from drones, to harsh noise, from techno straight beats to IDM syncopations, or something completely diferent …&lt;/p&gt;
+
+&lt;p&gt;Alberto Novello a.k.a. JesterN is a scientist, composer, sound and video artist. In his works, he has assisted Alvin Lucier, Nicholas Collins and Trevor Wishart. His artistic works have been presented in international festivals such as Amsterdam Dance Event, Venice Biennale, Impuls Tanz Vienna, Seoul International Music Festival, Emu Fest Roma, Monaco Electroacoustique, New York Computer Music Festival, Rewire Festival and conferences such as NIME, ICMC, ISMIR, ICMPC, ICA, ICCE and ESSEM and institutes for contemporary music research such as CCMAS in Mexico, GRM in France, Logos Foundation in Belgium, STEIM Amsterdam, IEM Graz, OMI New York, the Royal Conservatory of Den Haag, Conservatory of Padua.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jestern.com/&quot;&gt;http://www.jestern.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;====== Marije Baalman:&lt;/p&gt;
+
+&lt;p&gt;A cocoon lies on stage, barely recognisable in the dim light. Slow tones are sounding in the space. The light seems to change color – the tones are changing slowly in pitch. The cocoon seems to move – the light seems to get brighter and gradually shift color. Suddenly a fast movement – a shrieking sound fills the space – then again everything quiets down – the movement, the sound, the light.&lt;/p&gt;
+
+&lt;p&gt;Chrysalis is a performative environment where the focus is on slow movements – becoming aware of the minimal movements of the body, both conscious and unconscious movements. It is about interaction on a long timescale – involving multiple senses (hearing, sight, haptic).&lt;/p&gt;
+
+&lt;p&gt;Marije Baalman is an artist and researcher/developer working in the field of interactive sound art.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marijebaalman.eu/&quot;&gt;https://www.marijebaalman.eu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;====== Brain Dead Ensemble:&lt;/p&gt;
+
+&lt;p&gt;Thor Magnusson (Threnascope, &lt;a href=&quot;http://www.ixi-audio.net/&quot;&gt;http://www.ixi-audio.net/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Thanos Polymeneas Liontiris (Feedback Bass, &lt;a href=&quot;http://thanospl.net/&quot;&gt;http://thanospl.net/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Alice Eldridge&lt;/p&gt;
+
+&lt;p&gt;Chris Kiefer&lt;/p&gt;
+
+&lt;p&gt;(Feedback Cell, Feedback Cellos, &lt;a href=&quot;http://feedbackcell.ooo/&quot;&gt;http://feedbackcell.ooo/&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/emutelab0</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>performances</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab in 2017</title>
@@ -148,8 +208,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/year2017</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
+        <link>http://www.emutelab.org/blog/year2017</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/year2017</guid>
         
         <category>emutelab</category>
         
@@ -197,8 +257,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/twophds</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
+        <link>http://www.emutelab.org/blog/twophds</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/twophds</guid>
         
         <category>emutelab</category>
         
@@ -252,8 +312,8 @@ audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jeste
 video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/novello</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
+        <link>http://www.emutelab.org/blog/novello</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/novello</guid>
         
         <category>emutelab</category>
         
@@ -288,8 +348,8 @@ video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&g
 &lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/chrysalis-report</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis-report</guid>
+        <link>http://www.emutelab.org/blog/chrysalis-report</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis-report</guid>
         
         <category>emutelab</category>
         
@@ -318,8 +378,8 @@ Location: &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humaniti
 &lt;p&gt;&lt;img src=&quot;/img/chrysalis.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/chrysalis</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis</guid>
+        <link>http://www.emutelab.org/blog/chrysalis</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis</guid>
         
         <category>emutelab</category>
         
@@ -356,20 +416,18 @@ Facebook event: &lt;a href=&quot;https://www.facebook.com/events/188732838486547
 
 &lt;p&gt;Read a mixmag feature here: &lt;a href=&quot;http://mixmag.net/feature/algorave&quot;&gt;http://mixmag.net/feature/algorave&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Featuring an international lineup of top live coders:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Renick Bell (Tokyo/UIQ+Halcyon Veil)&lt;/li&gt;
-  &lt;li&gt;ALGOBABEZ (Leeds+Melbourne/Fractal Meat)&lt;/li&gt;
-  &lt;li&gt;Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)&lt;/li&gt;
-  &lt;li&gt;Brighton residents Luuma + Thor Magnusson&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Featuring an international lineup of top live coders:
+- Renick Bell (Tokyo/UIQ+Halcyon Veil)
+- ALGOBABEZ (Leeds+Melbourne/Fractal Meat)
+- Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)
++ Brighton residents Luuma + Thor Magnusson&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/algorave.jpg&quot; alt=&quot;Algorave&quot; /&gt;
 &lt;img src=&quot;/img/bluedot.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/algorave</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/algorave</guid>
+        <link>http://www.emutelab.org/blog/algorave</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/algorave</guid>
         
         <category>emutelab</category>
         
@@ -417,8 +475,8 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 </description>
         <pubDate>Wed, 30 Aug 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/organology</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/organology</guid>
+        <link>http://www.emutelab.org/blog/organology</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/organology</guid>
         
         <category>emutelab</category>
         
@@ -451,8 +509,8 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 &lt;img src=&quot;/img/arimi4.JPG&quot; alt=&quot;ARImI Unplugged&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Jun 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/arimi</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/arimi</guid>
+        <link>http://www.emutelab.org/blog/arimi</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/arimi</guid>
         
         <category>emutelab</category>
         
@@ -473,15 +531,15 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 &lt;p&gt;&lt;b&gt;Alice Eldridge&lt;/b&gt; and &lt;b&gt;Chris Kiefer&lt;/b&gt; present a paper introducing their &lt;b&gt; feedback cello&lt;/b&gt; project, which is a new electroacoustic actuated instrument in which feedback can be induced independently on each string. Built from retro-fitted acoustic cellos, the signals from electromagnetic pickups sitting under each string are passed to a speaker built into the back of the instrument and a transducer on the front of the instrument. Placement of acoustic and mechanical actuators on the resonant body of the cello, mean that this simple analogue feedback system is capable of a wide range of complex self-resonating behaviours. Their paper describes the motivations for building these instruments as both a physical extension to live computer music practice and an electroacoustic augmentation of cello. The design and physical construction is outlined, and modes of performance described with reference to the first six months of performances and installations. Future developments and planned investigations are described.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Cecile Chevalier&lt;/b&gt; and &lt;b&gt;Andrew Duff’s&lt;/b&gt; &lt;b&gt;200.104.200.2*&lt;/b&gt; is a sound installation, created as a displaced reenactment of both contemporary digital social practice and the Internet as a memory palace, in which sonifications of memory traces can be performed, stored and replayed as digital data. The work is situated in relation to the art of memory as a form of memory spatialisation, and in relation to post-digital aesthetics, ultimately forming a potential immersive instrument for collective performances. In its conceptual design and instrument-making, 200.104.200.2 is a stainless steel structure 2.5 meters high, 2 meters long and 2 meters wide, from which over 3000 copper wires hang. The structure itself can be entered by participants or performers, as it tracks, connects and extends each of their movements through fine colliding wires that occur within the piece.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/cecileinst.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/cecileinst.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Thor Magnusson’s&lt;/b&gt; Threnoscope and the Feedback Cello project of &lt;b&gt;Chris Kiefer&lt;/b&gt; and &lt;b&gt;Alice Eldridge&lt;/b&gt; meet for the first time in a performance at NIME. The feedback cellos are built from acoustic instruments that are modified with electromagnetic pick ups, speakers and transducers, to create a self-resonating drone instrument which can be played either within the extended string tradition or live coded. The threnoscope is a software instrument designed for spatialised, microtonal drone music. In this performance, six channel outputs of the Threnoscope are diffused through a quadrophonic system and also sent to the speakers in the two cellos, affecting the resonant landscapes of the instruments which are simultaneously played by Alice and Chris. Acoustic signals from the cellos are also channeled back to the Threnoscope, creating a multi-instrument, multichannel feedback system. Sonic processes which are physically or digitally initiated by the players on discrete instruments influence each other to form a single dynamical drone system; the liveliness of the ensemble-system as a whole outperforms any one of the players.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/osc.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/osc.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; presents a paper entitled &lt;b&gt;Contextualising Musical Organics: Ad-hoc Organological Classification Approach&lt;/b&gt;. Here is the abstract:&lt;/p&gt;
 
@@ -491,35 +549,12 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/NIME2017</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/NIME2017</guid>
+        <link>http://www.emutelab.org/blog/NIME2017</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/NIME2017</guid>
         
         <category>emutelab</category>
         
         <category>NIME</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab Meeting: Feedback Cellos!</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, March 23rd, 1pm, @ Recital Room, Falmer House 120 ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We have an Emute Lab research lunch meeting on March 23rd, where Alice Eldridge and Chris Kiefer will present the results of their recent work on the feedback cellos, conducted at the Icelandic Academy of the Arts with Halldór Úlfarsson. That was a collaboration that started at the Live Interfaces conference (www.liveinterfaces.org) where Halldór ran a workshop with composers and performers.&lt;/p&gt;
-
-&lt;p&gt;Chris and Alice write:&lt;/p&gt;
-
-&lt;p&gt;We will report on a recent trip to the Iceland Academy of the Arts to visit instrument designer Halldór Úlfarsson, who we have been collaborating with on the design of two Feedback Cellos. These unique hybrid instruments have been evolving quickly since we first made them last summer. We will present the latest developments, and discuss some issues around design and performance that we have been engaging with in this project.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutemeeting</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutemeeting</guid>
-        
-        <category>emutelab</category>
         
         
         <category>blog</category>
