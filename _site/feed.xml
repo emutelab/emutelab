@@ -3,27 +3,68 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Jan 2018 09:48:36 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2018 09:48:36 +0000</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 09 Jan 2018 11:50:02 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2018 11:50:02 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
     
       <item>
-        <title>EMuTeLab 0: 7pm, 12 Jan 2018, The Rose Hill, Brighton</title>
+        <title>BEER: Dark Matter at ACCA</title>
+        <description>&lt;p&gt;&lt;b&gt;::::: Wednesday, February 21st, 2018 @ ACCA, 8pm :::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In collaboration with the Attenborough Centre for the Creative Arts, we are organising an eventful day with the &lt;a href=&quot;http://www.beast.bham.ac.uk/offspring/beer/&quot;&gt;Birmingham Ensemble for Electroacoustic Research&lt;/a&gt; (BEER).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/BEER.png&quot; alt=&quot;BEER&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This performance by the Birmingham Ensemble for Electroacoustic Research, created in collaboration with the &lt;a href=&quot;http://artcms.web.cern.ch/artcms/&quot;&gt;art@CMS&lt;/a&gt; project at CERN in Switzerland, involves the real-time sonification of data streams from the Large Hadron Collider, the world’s largest and most complex particle accelerator. Experimental data containing clues towards possible ‘new physics’ becomes the raw material for improvised music and visualisations programmed by the ensemble with an aim to creating a result that while beautiful, is also both musically and scientifically meaningful.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This workshop for composers and artists explores the possibilities of using scientific data as a resource for music and sonic art, with particular focus on sonifying data from the Large Hadron Collider at CERN, the world’s largest particle accelerator. An introduction to the physics involved will be followed by an exploration of strategies for converting the data into sound. Previous experience of computer music environments is useful, but not required.&lt;/p&gt;
+
+&lt;p&gt;Places in the workshop are limited. Please sign up &lt;a href=&quot;https://goo.gl/forms/2cTbIecn62yPcwmf1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/darkmatter.png&quot; alt=&quot;Dark Matter Workshop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/darkmatter</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>performances</category>
+        
+        <category>sonification</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>EMuTeLab 0 @ The Rose Hill, Brighton</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab0_webflyer.png&quot; alt=&quot;EMuTeLab0 Gig Flyer&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;EMuTeLab presents…&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Emute Lab presents… an evening of exciting experimental music&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;JesterN (Laser Drawing / Modular Synth)&lt;/p&gt;
+&lt;p&gt;Join us at the Rose Hill club to experience some cutting-edge music with new exciting instruments and audiovisual technologies. On the bill are:&lt;/p&gt;
 
-&lt;p&gt;Marije Baalman (Chrysalis / Installations)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;JesterN (Laser Drawing / Modular Synth)&lt;/li&gt;
+  &lt;li&gt;Marije Baalman (Chrysalis / Installations)&lt;/li&gt;
+  &lt;li&gt;Brain Dead Ensemble (Thren0scope / Feedback Cellos / Feedback Double Bass)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Brain Dead Ensemble (Threnascope / Feedback Cellos / Feedback Double Bass)&lt;/p&gt;
+&lt;p&gt;January 12th, 2018. 7pm. at &lt;a href=&quot;http://www.therosehill.co.uk&quot;&gt;The Rose Hill&lt;/a&gt;, Brighton. £5&lt;/p&gt;
 
-&lt;p&gt;7pm, 12 Jan 2018, The Rose Hill, Brighton. £5&lt;/p&gt;
-
-&lt;p&gt;====== JesterN: Laser Drawing&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;JesterN: Laser Drawing&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;JesterN’s Laser Drawing is a synesthetic experience in which you can listen to what you see, and see what you listen to
 Using its modular synthesizer, JesterN manipulates electric voltages live, sending them in exactly the same way to the speakers to create sound and to the laser to create its curvy shapes with vivid colors. An artisanal live show in which every beat and every shape is simultaneously improvised on the stage. Being cooked on the spot, music-wise it depends on the space and on the vibe: it can go from drones, to harsh noise, from techno straight beats to IDM syncopations, or something completely diferent …&lt;/p&gt;
@@ -32,7 +73,12 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 &lt;p&gt;&lt;a href=&quot;http://www.jestern.com/&quot;&gt;http://www.jestern.com/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;====== Marije Baalman:&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/235351838&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/235351838&quot;&gt;JesterN Laser Drawing @AESON Festival 2017&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/jestern&quot;&gt;jestern&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Marije Baalman&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;A cocoon lies on stage, barely recognisable in the dim light. Slow tones are sounding in the space. The light seems to change color – the tones are changing slowly in pitch. The cocoon seems to move – the light seems to get brighter and gradually shift color. Suddenly a fast movement – a shrieking sound fills the space – then again everything quiets down – the movement, the sound, the light.&lt;/p&gt;
 
@@ -42,9 +88,16 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 &lt;p&gt;&lt;a href=&quot;https://www.marijebaalman.eu/&quot;&gt;https://www.marijebaalman.eu/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;====== Brain Dead Ensemble:&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/183344106&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/183344106&quot;&gt;Chrysalis - a teaser&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user16929243&quot;&gt;Marije Baalman&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thor Magnusson (Threnascope, &lt;a href=&quot;http://www.ixi-audio.net/&quot;&gt;http://www.ixi-audio.net/&lt;/a&gt;)&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Brain Dead Ensemble&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The Brain Dead Ensemble consists of members of the Emute Lab interested in feedback in acoustic and electronic instruments, and the combination of those. The audiovisual live coding instrument, Threnoscope, will feed sound directly into the acoustic instruments (two cellos and a double bass) via their mechanical actuators.&lt;/p&gt;
+
+&lt;p&gt;Thor Magnusson (Threnoscope, &lt;a href=&quot;http://www.ixi-audio.net/&quot;&gt;http://www.ixi-audio.net/&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Thanos Polymeneas Liontiris (Feedback Bass, &lt;a href=&quot;http://thanospl.net/&quot;&gt;http://thanospl.net/&lt;/a&gt;)&lt;/p&gt;
 
@@ -53,10 +106,20 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 &lt;p&gt;Chris Kiefer&lt;/p&gt;
 
 &lt;p&gt;(Feedback Cell, Feedback Cellos, &lt;a href=&quot;http://feedbackcell.ooo/&quot;&gt;http://feedbackcell.ooo/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;There is no video of the Brain Dead Ensemble (they have not figured out how to do that), but there are some of the Threnoscope, cello and bass (Thor, Alice and Thanos):&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/179079463&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/179079463&quot;&gt;Fermata at OSC in Brighton&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/thormagnusson&quot;&gt;thormagnusson&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;and two feedback cellos (Alice and Chris):&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gazcpDOFTz0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab0</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
+        <link>http://localhost:4000/blog/emutelab0</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
         
         <category>emutelab</category>
         
@@ -208,8 +271,156 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/year2017</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/year2017</guid>
+        <link>http://localhost:4000/blog/year2017</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
+        
+        <category>emutelab</category>
+        
+        <category>eventa</category>
+        
+        <category>PhD</category>
+        
+        <category>NIME</category>
+        
+        <category>sonificiaton</category>
+        
+        <category>instruments</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Emute Lab in 2017</title>
+        <description>&lt;p&gt;The Experimental Music Technology Lab has had a busy year in 2017. Some of the key events are listed below:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Performances&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Algorave Brighton&lt;/b&gt; - September 7th. The Emute Lab co-organised an &lt;a href=&quot;https://algorave.com&quot;&gt;Algorave&lt;/a&gt; hosted by the British Science Festival. Performances with Algobabes, Slub, Renick Bell, Chris Kiefer and Thor Magnusson. See information &lt;a href=&quot;https://www.britishsciencefestival.org/event/algorave/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Luuma @ London Algorave&lt;/b&gt;&lt;br /&gt;
+Chris Kiefer performing at the &lt;a href=&quot;https://algorave.com/london/&quot;&gt;London Algorave&lt;/a&gt; in June.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Syncphonia ‘Orchestra Hero’ event at the British Science Festival&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Thor Magnusson at Borealis&lt;/b&gt; &lt;br /&gt;
+Threnoscope + Voluspa at the &lt;a href=&quot;http://www.borealisfestival.no/2017/threnoscope-thor-magnusson-2/&quot;&gt;Borealis Festival&lt;/a&gt; in Bergen, March.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Chevalier &amp;amp; Duff, 200.104.200.2, NIME 2017&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Feedback Cello Performances&lt;/b&gt; &lt;br /&gt;
+At Bournemouth, Loop Berlin, HAL@SARC, NIME, Spirit of Gravity, Mengi, Algomech, DesInC&lt;br /&gt; see &lt;a href=&quot;http://feedbackcell.ooo/live/&quot;&gt;http://feedbackcell.ooo/live/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;O, One a 5 minute opera for two Nao Robots and cello&lt;/b&gt; &lt;br /&gt;
+Words and music by Evelyn Ficarra, premiered at the Robot Opera Mini-Symposium on 15th June 2017. Performed by two Nao Robots (as themselves); Alice Eldridge (cello); directed /designed by Tim Hopkins; co-devised and programmed by Ron Chrisley. 
+&lt;a href=&quot;http://www.sussex.ac.uk/cromt/archive/robotopera&quot;&gt;http://www.sussex.ac.uk/cromt/archive/robotopera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Ghost Cup - a sound installation.&lt;/b&gt;&lt;br /&gt; 
+Columbia University, April 7-8 2017, New York USA
+&lt;a href=&quot;http://blogs.cuit.columbia.edu/reembodiedsound/&quot;&gt;http://blogs.cuit.columbia.edu/reembodiedsound/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Scores for objects and electronics with Heather Frasch&lt;/b&gt;&lt;br /&gt; 
+Studio 8, 8th May 2017, Berlin.
+&lt;a href=&quot;https://www.facebook.com/events/1473355456065457/&quot;&gt;https://www.facebook.com/events/1473355456065457/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Thanos Polymeneas Liontiris, ACCA, 13 February 2017&lt;/b&gt;
+A Magnificent Crossbreeding of Protein and Tinplate&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Publications&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Bright, D. (2017) Conjuring the sonic ghosts of industrial and post-industrial spaces, in &lt;a href=&quot;http://www.cambridgescholars.com/the-post-industrial-landscape-as-site-for-creative-practice&quot;&gt;The Post-Industrial Landscape as Site for Creative Practice&lt;/a&gt;, Cambridge Scholars Publishing.&lt;/p&gt;
+
+&lt;p&gt;Eldridge, Alice and Kiefer, Chris (2017) The self-resonating feedback cello: interfacing gestural and generative processes in improvised performance. New Interfaces for Music Expression. Download &lt;a href=&quot;http://homes.create.aau.dk/dano/nime17/papers/0005/paper0005.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Magnusson, Thor (2017) Musical Organics: A Heterarchical Approach to Digital Organology&lt;br /&gt;
+in Journal of New Music Research. Download &lt;a href=&quot;http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1353636&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Magnusson, Thor (2017) Contextualizing Musical Organics: An Ad-hoc Organological Classification Approach &lt;br /&gt;
+NIME 2017 conference. Download &lt;a href=&quot;http://ixi-audio.net/thor/Magnusson_NIME2017_MusicalOrganics.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Webb, Sharon, Kiefer, Chris, Jackson, Ben, Baker, James and Eldridge, Alice (2017) Mining oral history collections using music information retrieval methods. Music Reference Services Quarterly. Download &lt;a href=&quot;http://www.tandfonline.com/doi/abs/10.1080/10588167.2017.1404307&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Events&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Interdisciplinary perspectives: Machine Listening &amp;amp; Listening Machines&lt;/b&gt;&lt;br /&gt;
+April 27-28. Sussex Humanities Lab, University of Sussex, Brighton&lt;br /&gt;
+&lt;a href=&quot;http://www.algorithmiclistening.org/workshop1/ &quot;&gt;http://www.algorithmiclistening.org/workshop1/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Understanding Distributed Agency Between Listening Algorithms and Humans&lt;/b&gt;&lt;br /&gt;
+May 31-June 1. Sonic Arts Research Centre, Queen’s University Belfast&lt;br /&gt;
+&lt;a href=&quot;http://www.algorithmiclistening.org/workshop2/&quot;&gt;http://www.algorithmiclistening.org/workshop2/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Future Implications and Applications of Algorithmic Listening&lt;/b&gt;&lt;br /&gt;
+Sept 14-15. University of Sussex, Brighton&lt;br /&gt;
+&lt;a href=&quot;http://www.algorithmiclistening.org/workshop3/&quot;&gt;http://www.algorithmiclistening.org/workshop3/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Long table – Humanising Algorithmic Listening in Culture and Conservation&lt;/b&gt;&lt;br /&gt;
+Sept 14th 20:00 as part of the 2017 Brighton Digital Festival&lt;br /&gt;
+&lt;a href=&quot;http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation &quot;&gt;http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;DIY radio transmission – Pi Streambox Workshop&lt;/b&gt;&lt;br /&gt;
+Oct 12th 14:00 and 18:30 as part of the Brighton Digital Festival &lt;br /&gt;
+&lt;a href=&quot;http://brightondigitalfestival.co.uk/events/diy-radio-transmission-pi-streambox-workshop&quot;&gt;http://brightondigitalfestival.co.uk/events/diy-radio-transmission-pi-streambox-workshop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Residency at CNMAT and CMC&lt;/b&gt;&lt;br /&gt;
+In May, Thor Magnusson did a residency at CNMAT, Berkeley which included giving a lecture on current research. In June, he visited CMC, Columbia with the same programme. &lt;br /&gt;
+Info &lt;a href=&quot;http://cnmat.berkeley.edu/projects/sonic-writing-research&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Marije Baalman residency at Sussex&lt;/b&gt;&lt;br /&gt;
+Marije Baalman did a residency at Emute Lab collaborating with Chris Kiefer. This will be continued in January 2018, ending with a gig.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Forum for Augmented Reality Immersive Instruments (ARIMI)&lt;/b&gt;
+Cecile Chevalier &amp;amp; Chris Kiefer in partnership with Kirk Woolford, June 19-20, 2017&lt;br /&gt; 
+&lt;a href=&quot;http://users.sussex.ac.uk/~ad207/arimi/&quot;&gt;http://users.sussex.ac.uk/~ad207/arimi/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Emute Lab in Reykjavik&lt;/b&gt;&lt;br /&gt;
+Alice Eldridge and Chris Kiefer did a residency at the Icelandic Arts Academy, also performing at &lt;a href=&quot;https://mengi.net/events/2017/10/28/feb12th&quot;&gt;Mengi&lt;/a&gt;, in Reykjavik.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Alberto Novello visiting researcher&lt;/b&gt;&lt;br /&gt;
+Alberto Novello gave a &lt;a href=&quot;http://www.emutelab.org/blog/novello&quot;&gt;talk, workshop and tutorials&lt;/a&gt;. Talk title: Invisible to visible: bio signals and possible applications in the arts&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Conferences&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Evelyn Ficarra&lt;/b&gt; ‘The Sound Object in Theatrical and Installation Contexts’, Re-embodied Sound Conference, Columbia University, New York 8th April 2017
+&lt;a href=&quot;http://blogs.cuit.columbia.edu/reembodiedsound/&quot;&gt;http://blogs.cuit.columbia.edu/reembodiedsound/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Alice Eldridge at a panel @ Loop 2017&lt;/b&gt;
+Alice Eldridge on a panel on hybrid instruments at Ableton’s Festival of music, technology and creative practice - Loop, Berlin. &lt;br /&gt;
+Alice and Chris Kiefer will also give a performance in the maker space. 
+&lt;a href=&quot;https://loop.ableton.com/2017/program/activity/motors-magnets-and-motion-electronic-music-instruments-physical-world/&quot;&gt;Info here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Alice Eldridge and Danny Bright&lt;/b&gt; at Sound &amp;amp; Environment
+Alice - Paper &amp;amp; Plenary Panel
+Danny - Installation: Thrumming Halls
+&lt;a href=&quot;http://www2.hull.ac.uk/fass/drama,-music-and-screen/conferences/sound--environment-2017.aspx&quot;&gt;http://www2.hull.ac.uk/fass/drama,-music-and-screen/conferences/sound–environment-2017.aspx&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Robot Opera Mini Symposium&lt;/b&gt;, organised by Evelyn Ficarra, featuring talks by Chris Kiefer, Ron Chrisley, Thanos Polymeneas-Liontiris, with brief introduction by Evelyn Ficarra ‘Why Robot Opera’. The day examined issues of embodiment, artificial intelligence and vocality through scholarly research and creative practice. 15 June 2017. 
+&lt;a href=&quot;http://www.sussex.ac.uk/cromt/archive/robotopera&quot;&gt;http://www.sussex.ac.uk/cromt/archive/robotopera&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Software&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Syncphonia - &lt;a href=&quot;http://www.syncphonia.co.uk/&quot;&gt;http://www.syncphonia.co.uk/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;b&gt;Research grants&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gtr.rcuk.ac.uk/projects?ref=AH%2FR002657%2F1&quot;&gt;MIMIC&lt;/a&gt; - Thor Magnusson and Chris Kiefer in collaboration with Goldsmiths and Durham University.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/year2017</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
         
         <category>emutelab</category>
         
@@ -257,8 +468,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/twophds</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/twophds</guid>
+        <link>http://localhost:4000/blog/twophds</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
         
         <category>emutelab</category>
         
@@ -312,8 +523,8 @@ audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jeste
 video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/novello</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/novello</guid>
+        <link>http://localhost:4000/blog/novello</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
         
         <category>emutelab</category>
         
@@ -348,8 +559,8 @@ video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&g
 &lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/chrysalis-report</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis-report</guid>
+        <link>http://localhost:4000/blog/chrysalis-report</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis-report</guid>
         
         <category>emutelab</category>
         
@@ -378,8 +589,8 @@ Location: &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humaniti
 &lt;p&gt;&lt;img src=&quot;/img/chrysalis.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/chrysalis</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis</guid>
+        <link>http://localhost:4000/blog/chrysalis</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis</guid>
         
         <category>emutelab</category>
         
@@ -416,18 +627,20 @@ Facebook event: &lt;a href=&quot;https://www.facebook.com/events/188732838486547
 
 &lt;p&gt;Read a mixmag feature here: &lt;a href=&quot;http://mixmag.net/feature/algorave&quot;&gt;http://mixmag.net/feature/algorave&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Featuring an international lineup of top live coders:
-- Renick Bell (Tokyo/UIQ+Halcyon Veil)
-- ALGOBABEZ (Leeds+Melbourne/Fractal Meat)
-- Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)
-+ Brighton residents Luuma + Thor Magnusson&lt;/p&gt;
+&lt;p&gt;Featuring an international lineup of top live coders:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Renick Bell (Tokyo/UIQ+Halcyon Veil)&lt;/li&gt;
+  &lt;li&gt;ALGOBABEZ (Leeds+Melbourne/Fractal Meat)&lt;/li&gt;
+  &lt;li&gt;Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)&lt;/li&gt;
+  &lt;li&gt;Brighton residents Luuma + Thor Magnusson&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/algorave.jpg&quot; alt=&quot;Algorave&quot; /&gt;
 &lt;img src=&quot;/img/bluedot.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/algorave</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/algorave</guid>
+        <link>http://localhost:4000/blog/algorave</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/algorave</guid>
         
         <category>emutelab</category>
         
@@ -475,84 +688,14 @@ Hornbostel and Sachs acknowledged the problems of division in their classificati
 
 </description>
         <pubDate>Wed, 30 Aug 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/organology</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/organology</guid>
+        <link>http://localhost:4000/blog/organology</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/organology</guid>
         
         <category>emutelab</category>
         
         <category>event</category>
         
         <category>organology</category>
-        
-        <category>NIME</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Event Report: The Forum for Immersive Augmented Reality Instruments</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://forumarimi.wixsite.com/arimi&quot;&gt;Forum for Immersive Augmented Reality Instruments&lt;/a&gt;, a two-day networking event, took place on June 19-20th. It brought together diverse participants across University of Sussex schools, research centres and labs, together with representatives from local art organisations and creative industries, with a view to understanding cultural transformations from Augmented Reality (AR), and to build new interdisciplinary research partnerships.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/arimiheader.png&quot; alt=&quot;ARImI Header&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The network event was designed to explore new forms of creation, experience and digital culture through tool and instrument-making, whilst achieving independence from existing distribution structures, and bringing together transdisciplinary discussions on condition of ‘seeing’ (Paul &amp;amp; Toolin 2014, p53) as sensing.&lt;/p&gt;
-
-&lt;p&gt;Day one saw presentations from participants under the themes of culture, sensing, instruments and arts.  On day two, participants explored AR practically through two workshops; an ‘unplugged’ workshop where groups built and discussed hypothetical AR technologies, and a ‘plugged’ workshop where groups experimented with off-the-shelf AR technologies, using visual, audio and haptics materials.&lt;/p&gt;
-
-&lt;p&gt;The Forum for ARImI was led by Cécile Chevalier &amp;amp; Chris Kiefer in partnership with Kirk Woolford, University of Surrey. It was supported by the Doctoral School’s Researcher-Led Initiative (RLI) Fund,  the School of Media, Film, and Music, Sussex Humanities Lab &amp;amp; EMuTe Lab.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/arimi1.JPG&quot; alt=&quot;ARImI Unplugged&quot; /&gt;
-&lt;img src=&quot;/img/arimi2.JPG&quot; alt=&quot;ARImI Plugged&quot; /&gt;
-&lt;img src=&quot;/img/arimi3.JPG&quot; alt=&quot;ARImI Plugged&quot; /&gt;
-&lt;img src=&quot;/img/arimi4.JPG&quot; alt=&quot;ARImI Unplugged&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Jun 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/arimi</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/arimi</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>augmented reality</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab @ NIME</title>
-        <description>&lt;p&gt;The Experimental Music Technologies Lab at Sussex will have a strong presence at this year’s &lt;a href=&quot;http://www.nime2017.org&quot;&gt;NIME&lt;/a&gt; (New Interfaces for Musical Expression Conference) which is held by Aalborg University in Copenhagen, Denmark. Cecile Chevalier and Andrew Duff present a sound installation, Alice Eldridge and Chris Kiefer will present a paper on their Feedback Cello project, Thor Magnusson will present his paper on Musical Organics, and Alice, Chris and Thor will perform using the Threnoscope and feedback cellos.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;See project descriptions below:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Alice Eldridge&lt;/b&gt; and &lt;b&gt;Chris Kiefer&lt;/b&gt; present a paper introducing their &lt;b&gt; feedback cello&lt;/b&gt; project, which is a new electroacoustic actuated instrument in which feedback can be induced independently on each string. Built from retro-fitted acoustic cellos, the signals from electromagnetic pickups sitting under each string are passed to a speaker built into the back of the instrument and a transducer on the front of the instrument. Placement of acoustic and mechanical actuators on the resonant body of the cello, mean that this simple analogue feedback system is capable of a wide range of complex self-resonating behaviours. Their paper describes the motivations for building these instruments as both a physical extension to live computer music practice and an electroacoustic augmentation of cello. The design and physical construction is outlined, and modes of performance described with reference to the first six months of performances and installations. Future developments and planned investigations are described.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/feedback_cellos.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Cecile Chevalier&lt;/b&gt; and &lt;b&gt;Andrew Duff’s&lt;/b&gt; &lt;b&gt;200.104.200.2*&lt;/b&gt; is a sound installation, created as a displaced reenactment of both contemporary digital social practice and the Internet as a memory palace, in which sonifications of memory traces can be performed, stored and replayed as digital data. The work is situated in relation to the art of memory as a form of memory spatialisation, and in relation to post-digital aesthetics, ultimately forming a potential immersive instrument for collective performances. In its conceptual design and instrument-making, 200.104.200.2 is a stainless steel structure 2.5 meters high, 2 meters long and 2 meters wide, from which over 3000 copper wires hang. The structure itself can be entered by participants or performers, as it tracks, connects and extends each of their movements through fine colliding wires that occur within the piece.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/cecileinst.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Thor Magnusson’s&lt;/b&gt; Threnoscope and the Feedback Cello project of &lt;b&gt;Chris Kiefer&lt;/b&gt; and &lt;b&gt;Alice Eldridge&lt;/b&gt; meet for the first time in a performance at NIME. The feedback cellos are built from acoustic instruments that are modified with electromagnetic pick ups, speakers and transducers, to create a self-resonating drone instrument which can be played either within the extended string tradition or live coded. The threnoscope is a software instrument designed for spatialised, microtonal drone music. In this performance, six channel outputs of the Threnoscope are diffused through a quadrophonic system and also sent to the speakers in the two cellos, affecting the resonant landscapes of the instruments which are simultaneously played by Alice and Chris. Acoustic signals from the cellos are also channeled back to the Threnoscope, creating a multi-instrument, multichannel feedback system. Sonic processes which are physically or digitally initiated by the players on discrete instruments influence each other to form a single dynamical drone system; the liveliness of the ensemble-system as a whole outperforms any one of the players.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.emutelab.org/img/osc.jpg&quot; alt=&quot;Feedback cellos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; presents a paper entitled &lt;b&gt;Contextualising Musical Organics: Ad-hoc Organological Classification Approach&lt;/b&gt;. Here is the abstract:&lt;/p&gt;
-
-&lt;p&gt;New digital musical instruments are difficult for organologists to deal with due to their heterogeneous origins, cross-disciplinary science, and fluid, open-ended nature. NIMEs are studied from a range of disciplines, such as musicology, engineering, human-computer interaction, psychology, design, and performance studies. Attempts to continue traditional organology classifications for electronic and digital instruments have been made, but with adverse results. This paper discusses the problem of the tree-like classifications of digital instruments, proposing an alternative approach: musical organics. Musical organics is a philosophical approach to the problems inherent in organological classification of digital instruments. Shifting the emphasis from hand-coded classification to information retrieval supported search and clustering, we propose an open and distributed system that anyone can contribute to. In order to show how such a system could incorporate a third-party addition, the paper also presents an organological ontogenesis of three new musical instruments: the saxophone, the Minimoog, and the Reactable. This micro-analysis of innovation in the field of musical instruments can help forming a framework for the study of how instruments are adopted in musical culture.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the School of Media, Film and Music and the Sussex Humanities Lab for the support.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Apr 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/NIME2017</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/NIME2017</guid>
-        
-        <category>emutelab</category>
         
         <category>NIME</category>
         
