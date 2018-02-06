@@ -5,9 +5,68 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 09 Jan 2018 11:50:02 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2018 11:50:02 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2018 18:09:58 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 18:09:58 +0000</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>One Thousand Mindreaders</title>
+        <description>&lt;p&gt;&lt;b&gt;::::: Wednesday, March 15th, 2018 @ SHL, 3pm :::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Magician and Human-Machine Interactor &lt;a href=&quot;http://stuartnolan.com&quot;&gt;Stuart Nolan&lt;/a&gt; will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (in the Silverstone Building, 2nd floor) - All welcome!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/mindreaders.jpg&quot; alt=&quot;MindReaders&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop: One Thousand Mindreaders (3-5pm)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;One Thousand Mindreaders is a year-long collaborative artwork during which the artist Stuart Nolan will train one thousand new mindreaders.&lt;/p&gt;
+
+&lt;p&gt;Participants will learn the skill of muscle reading, sensing the small subconscious movements of another person’s hands. This will enable them to recreate drawings that another person is merely thinking of.
+They will also learn how to find objects that another person has hidden in a room or building.&lt;/p&gt;
+
+&lt;p&gt;Both the drawings and the found objects will be exhibited in 2019 and trainee mindreaders will be offered the opportunity to demonstrate their new skills for a public audience at a series of performances throughout 2018 and 2019.&lt;/p&gt;
+
+&lt;p&gt;In this interactive session, we will also explore the role of touch in interaction, learning to read each other’s minds using techniques based on Victorian mindreading tricks, games, and experiments, and improved with current research into the neuroscience of touch.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Talk: Beyond The Feelies (5pm)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;‘Of all our senses, touch is the one considered least deceptive and the most secure.’ - René Descartes&lt;/p&gt;
+
+&lt;p&gt;Touch is the most intimate and emotional of the senses. It is no accident that when we speak of affecting someone emotionally we say we have touched them. We feel emotions and we feel each other’s joy and pain. Touch is central when negotiating issues of trust, veracity, falsehood, agency, difference, and connection.&lt;/p&gt;
+
+&lt;p&gt;In the essay Silence is Golden, Aldous Huxley wrote of his disgust with the coming of sound to film. He parodied the “talkies” in Brave New World by imagining a future where film would include a sense of touch, “Going to the Feelies this evening, Henry?… There’s a love scene on a bearskin rug; they say it’s marvelous. Every hair of the bear reproduced. The most amazing tactual effects…” This crude idea of touch as something that is separate to film distracts us from the fact that cinema has always been a bodily, visceral experience. This is true of all media but becomes more visible with interaction, VR, haptics, and immersion.&lt;/p&gt;
+
+&lt;p&gt;In this interactive session, we will explore the role of touch in interaction, learning to read each other’s minds using techniques based on Victorian mindreading tricks, games, and experiments, and improved with current research into the neuroscience of touch. Stuart will give a brief insight into his recent work on touch in healthcare, theatre, dance, sport, robotics, and 5G and we will explore the potential of technology to capture, measure, and transmit touch data in mediated communication, interaction, art, and storytelling.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/stuart.jpg&quot; alt=&quot;MindReaders&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Further Info:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.stuartnolan.com&quot;&gt;www.stuartnolan.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;www.1000mindreaders.com&quot;&gt;www.1000mindreaders.com&lt;/a&gt;&lt;br /&gt;
+Twitter: &lt;a href=&quot;https://twitter.com/1000mindreaders&quot;&gt;@1000Mindreaders&lt;/a&gt;&lt;br /&gt;
+Instagram: onethousandmindreaders&lt;br /&gt;
+Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/mindreaders</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>performances</category>
+        
+        <category>mind reading</category>
+        
+        <category>HCI</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>BEER: Dark Matter at ACCA</title>
@@ -649,55 +708,6 @@ Facebook event: &lt;a href=&quot;https://www.facebook.com/events/188732838486547
         <category>algorave</category>
         
         <category>live coding</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Organology Conference Porto</title>
-        <description>&lt;p&gt;Emute Lab members Thanos Polymeneas-Liontiris and Thor Magnusson presented work at the &lt;a href=&quot;https://congressorganimusic.wixsite.com/porto2017&quot;&gt;Organology Conference&lt;/a&gt; in Porto, Portugal. The conference consisted of a wide range of instrumental studies, from African and South-American instruments, Baroque flutes and organs, to the volume button in Onde Martenot or Spatial Immersive Instruments.&lt;/p&gt;
-
-&lt;p&gt;We took the opportunity to explore the city, as the biennial &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;Live Interfaces Conference&lt;/a&gt; we ran at Sussex last summer will take place in Porto next summer. It promises to be an amazing event, involving &lt;a href=&quot;http://www.casadamusica.com/en/&quot;&gt;Casa De Musica&lt;/a&gt; and many other interesting places in this beautiful city.&lt;/p&gt;
-
-&lt;p&gt;The abstracts from Thanos and Thor follw below:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/porto.jpg&quot; alt=&quot;Porto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Musical Organics: A Heterarchical Approach to Digital Organology&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;by: Thor Magnusson &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;An important pursuit of organology is the classification of musical instruments. The tree-metaphor has traditionally been the key organisational principle, most prominently applied by Hornbostel and Sachs in their classification from 1914. As Nietzsche, Foucault, and Eco demonstrated, the classification of a domain is an epistemic act; indeed, we find epistemic time periods, where cultures throw different “conceptual nets” over the “rabble of reality” (as Nietzsche put it).
-Hornbostel and Sachs acknowledged the problems of division in their classification, stating that instruments are alive and dynamic, whereas systems are static and delineating. This is even more true with new digital instruments, as their complex nature renders them hard to place into classificatory categories. A new analytical approach is required that engages with the repository of digital instruments from a multiplicity of perspectives: materials (e.g., plastic, metal, glass, fibre, cloth); sensors (e.g., ultrasound, bend, potentiometers); sound (e.g., physical models, subtractive, granular, sampling); mapping (e.g., one-to-one, one- to-many, many-to-one, convergent, learned, evolutionary); gestures (e.g., hit, stroke, pluck, shake, bow, blow); reuse of proprioceptive skills (such as the trained playing of keyboard, strings, wind, and percussion); manufacturer (e.g., of sensors, chips, motors), and many more, including cultural context, musical style, and other areas that have been, or indeed will be, called for as extensions to existing organological classifications.&lt;/p&gt;
-
-&lt;p&gt;This presentation will discuss the necessity of shifting our classificatory metaphors from the tree to the rhizome, from hierarchy to heterarchy, pointing to the digital as something that is essentially hard to define due to the lack of tradition, legacy, and institutional framework. The paper discusses the problems of classification of digital instruments and introduce some of the organological work done in the field, leading up to the author’s proposal of Musical Organics. As a theoretical method that applies modern search, machine information retrieval, and representation technologies, musical organics enable researchers to create ad-hoc classifications of instrumental spaces as a collaborative organological research.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Instrumented spaces: two immersive music theatre performances&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;by: Thanos Polymeneas-Liontiris&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This presentation revolves around two performances / experiments presented as part of  my research on instrumented/audience reactive sound spaces: Im•medea and the landscape may be a dead star. The works drew inspiration from processes and techniques used in interactive art installations, with the aim of designing and delivering generative Music Theatre.&lt;/p&gt;
-
-&lt;p&gt;Both performances were using the space as an instrument: a series of Infrared (IR) sensors (placed on the walls and ceilings of the spaces) were tracking the movement, position and density of the audience in the rooms. The digital information of these sensors was then analysed and processed by a custom- made algorithm, contributing to the performance in different ways. While in Im•medea it generated the electronic soundscape for the performance, in the landscape may be a dead star it produced the musical score that the performers had to interpret. The result in both cases was an ever-changing music theatre performance, which was evolving by handling the space as an invisible instrument that was played by the movement, position and amount of audience/bodies in space.&lt;/p&gt;
-
-&lt;p&gt;The processes in both performances can be observed as methods for scoring, composing, as well as instruments or performance ecosystems, cybernetic, trans-individual network systems linking audience, performers and technology with a transparent web. These two experiments were the first of a series of experiments of an on-going research on post-digital processes and notions of Posthumanism in Music Theatre.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 30 Aug 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/organology</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/organology</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>organology</category>
-        
-        <category>NIME</category>
         
         
         <category>blog</category>
