@@ -20,6 +20,8 @@ This performance by the Birmingham Ensemble for Electroacoustic Research, create
 
 <b>Workshop</b>
 
+::::: @ ACCA, 2-5pm :::::
+
 This workshop for composers and artists explores the possibilities of using scientific data as a resource for music and sonic art, with particular focus on sonifying data from the Large Hadron Collider at CERN, the world’s largest particle accelerator. An introduction to the physics involved will be followed by an exploration of strategies for converting the data into sound. Previous experience of computer music environments is useful, but not required.
 
 Places in the workshop are limited. Please sign up <a href="https://goo.gl/forms/2cTbIecn62yPcwmf1">here</a>.
