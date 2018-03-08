@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "One Thousand Mindreaders"
+subheading: "Almo Farina"
 categories: blog
 tags: [emutelab, event, performances, mind reading, HCI]
 author: Thor Magnusson
@@ -10,7 +11,7 @@ date: 2018-02-06
 
 <b>::::: Wednesday, March 15th, 2018 @ SHL, 3pm :::::</b>
 
-Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the <a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (in the Silverstone Building, 2nd floor) - All welcome! 
+Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the <a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (in the Silverstone Building, 2nd floor) - All welcome!
 
 ![MindReaders](/img/mindreaders.jpg)
 
@@ -29,7 +30,7 @@ In this interactive session, we will also explore the role of touch in interacti
 
 ‘Of all our senses, touch is the one considered least deceptive and the most secure.’ - René Descartes
 
-Touch is the most intimate and emotional of the senses. It is no accident that when we speak of affecting someone emotionally we say we have touched them. We feel emotions and we feel each other’s joy and pain. Touch is central when negotiating issues of trust, veracity, falsehood, agency, difference, and connection. 
+Touch is the most intimate and emotional of the senses. It is no accident that when we speak of affecting someone emotionally we say we have touched them. We feel emotions and we feel each other’s joy and pain. Touch is central when negotiating issues of trust, veracity, falsehood, agency, difference, and connection.
 
 In the essay Silence is Golden, Aldous Huxley wrote of his disgust with the coming of sound to film. He parodied the “talkies” in Brave New World by imagining a future where film would include a sense of touch, "Going to the Feelies this evening, Henry?… There's a love scene on a bearskin rug; they say it's marvelous. Every hair of the bear reproduced. The most amazing tactual effects..." This crude idea of touch as something that is separate to film distracts us from the fact that cinema has always been a bodily, visceral experience. This is true of all media but becomes more visible with interaction, VR, haptics, and immersion.  
 
@@ -44,8 +45,3 @@ Further Info:
 Twitter: <a href="https://twitter.com/1000mindreaders">@1000Mindreaders</a><br>
 Instagram: onethousandmindreaders<br>
 Facebook: @OneThousandMindreaders<br>
-
-
-
-
-

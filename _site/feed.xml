@@ -5,19 +5,21 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 08 Mar 2018 13:09:47 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Mar 2018 13:09:47 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Mar 2018 13:28:35 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Mar 2018 13:28:35 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Perspectives in Ecoacoustics</title>
         <description>&lt;p&gt;&lt;b&gt;::::: Thursday, May 3rd, 2018 @ SHL, 4pm :::::&lt;/b&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;b&gt;Talk: Perspectives in Ecoacoustics – Prof Almo Farina, University of Urbino, Italy&lt;/b&gt;&lt;/p&gt;
+
 &lt;p&gt;Prof Almo Farina will give an introduction to the emerging field of Ecoacoustics, which investigates the ecological role of sounds.&lt;/p&gt;
 
 &lt;p&gt;Join us at the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (in the Silverstone Building, 2nd floor) - All welcome!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.masterpaesaggiogiardino.it/mpgbis/wp-content/uploads/2013/06/ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -35,7 +37,7 @@
 
 &lt;p&gt;Long-term monitoring, habitat health, biodiversity assessment, soundscape conservation and ecosystem management makes ecoacoustics relevant in several fields where human intrusion in ecosystems is growing at an unprecedented rate.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blogs.springer.com/lst/wp-content/uploads/sites/20/2016/09/IMG_6675.jpg&quot; alt=&quot;recorder&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_SET.jpg&quot; alt=&quot;recorder&quot; /&gt;
 &lt;em&gt;SET – Soundscape Explorer [Terrestrial]) digital recorder. Photo: Almo Farina&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;biography&quot;&gt;Biography&lt;/h3&gt;
@@ -107,7 +109,6 @@ They will also learn how to find objects that another person has hidden in a roo
 Twitter: &lt;a href=&quot;https://twitter.com/1000mindreaders&quot;&gt;@1000Mindreaders&lt;/a&gt;&lt;br /&gt;
 Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/mindreaders</link>

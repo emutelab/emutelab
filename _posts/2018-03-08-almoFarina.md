@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perspectives in Ecoacoustics"
+subheading: "Almo Farina"
 categories: blog
 tags: [emutelab, event, talk, ecoacoustics, acoustic ecology, soundscape]
 author: Alice Eldridge
@@ -8,13 +9,15 @@ date: 2018-03-08
 ---
 
 
-<b>::::: Thursday, May 3rd, 2018 @ SHL, 4pm :::::</b>
+<b>::::: Thursday, May 3rd, 2018 @ SHL, 4pm :::::</b>   
+
+<b>Talk: Perspectives in Ecoacoustics -- Prof Almo Farina, University of Urbino, Italy</b>
 
 Prof Almo Farina will give an introduction to the emerging field of Ecoacoustics, which investigates the ecological role of sounds.   
 
 Join us at the <a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (in the Silverstone Building, 2nd floor) - All welcome!
 
-![Farina](http://www.masterpaesaggiogiardino.it/mpgbis/wp-content/uploads/2013/06/ALMO_FARINA.jpg)
+![Farina](/img/farina_ALMO_FARINA.jpg)
 > When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.
 
 
@@ -29,7 +32,7 @@ Ecoacoustics is a recently established discipline that investigates the ecologic
 
 Long-term monitoring, habitat health, biodiversity assessment, soundscape conservation and ecosystem management makes ecoacoustics relevant in several fields where human intrusion in ecosystems is growing at an unprecedented rate.
 
-![recorder](http://blogs.springer.com/lst/wp-content/uploads/sites/20/2016/09/IMG_6675.jpg)
+![recorder](/img/farina_SET.jpg)
 *SET – Soundscape Explorer [Terrestrial]) digital recorder. Photo: Almo Farina*
 
 ### Biography
