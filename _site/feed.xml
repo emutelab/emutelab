@@ -5,9 +5,69 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Feb 2018 18:09:58 +0000</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2018 18:09:58 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <pubDate>Thu, 08 Mar 2018 13:09:47 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Mar 2018 13:09:47 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Perspectives in Ecoacoustics</title>
+        <description>&lt;p&gt;&lt;b&gt;::::: Thursday, May 3rd, 2018 @ SHL, 4pm :::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Prof Almo Farina will give an introduction to the emerging field of Ecoacoustics, which investigates the ecological role of sounds.&lt;/p&gt;
+
+&lt;p&gt;Join us at the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (in the Silverstone Building, 2nd floor) - All welcome!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.masterpaesaggiogiardino.it/mpgbis/wp-content/uploads/2013/06/ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
+
+&lt;p&gt;Ecoacoustics is a recently established discipline that investigates the ecological role of sounds. A set of processes in four [&lt;em&gt;adaptive, behavioural, geographical, ecosemiotic&lt;/em&gt;] domains supports and guides the development of ecoacoustics.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;em&gt;adaptive&lt;/em&gt;  domain includes evolutionary mechanisms that join sound typology with the physical and biological characteristics of the environment and create frequency partitioning among species to reduce competition.&lt;/li&gt;
+  &lt;li&gt;The behavioural  domain addresses interspecific signals associated with geophysical and anthropogenic sounds that operate to shape temporary acoustic communities and orient species to select suitable acoustic habitats.&lt;/li&gt;
+  &lt;li&gt;The geographic  domain pertains to the geography of sound, an entity composed of three subordinate acoustic objects: sonotopes, soundtopes, and sonotones, which are operationally delimited in a geographical and temporal space by the distribution of the ecoacoustic events. The ecoacoustic events allow the classification of complex configurations/patterns of acoustic signals and represent the grain of a soundscape mosaic.&lt;/li&gt;
+  &lt;li&gt;The ecosemiotic  domain operates by  communication mechanisms within the species level according to a function-specific perception of the acoustic information facilitated by encoding/decoding processes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Long-term monitoring, habitat health, biodiversity assessment, soundscape conservation and ecosystem management makes ecoacoustics relevant in several fields where human intrusion in ecosystems is growing at an unprecedented rate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blogs.springer.com/lst/wp-content/uploads/sites/20/2016/09/IMG_6675.jpg&quot; alt=&quot;recorder&quot; /&gt;
+&lt;em&gt;SET – Soundscape Explorer [Terrestrial]) digital recorder. Photo: Almo Farina&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;biography&quot;&gt;Biography&lt;/h3&gt;
+&lt;p&gt;Almo Farina is an Italian naturalist and Professor of Ecology in the Department of Pure and Applied Sciences, Urbino University, Italy. He has dedicated the last ten years to elaborate new theories in landscape ecology, soundscape ecology and ecoacoustics. He considers the protection of the biological diversity integrated with the human cultural heritage and well-being, a priority of its scientific and human mission. In 2014 Almo was elected the first President of the &lt;a href=&quot;https://sites.google.com/site/ecoacousticssociety/&quot;&gt;International Society of Ecoacoustics&lt;/a&gt;, and in 2015 he founded the &lt;a href=&quot;http://www.iinsteco.org/&quot;&gt;International Institute of Ecoacoustics&lt;/a&gt; .&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Author of &lt;a href=&quot;https://www.wiley.com/en-gb/Ecoacoustics:+The+Ecological+Role+of+Sounds-p-9781119230694&quot;&gt;Ecoacoustics: The Ecological Role of Sounds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Editor-in-Chief of the &lt;a href=&quot;https://www.veruscript.com/journals/journal-of-ecoacoustics/&quot;&gt;Journal of Ecoacoustics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jmecology.com/&quot;&gt;Journal of Mediterranean Ecology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codebiology.org/&quot;&gt;Code Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/almoFarina</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>talk</category>
+        
+        <category>ecoacoustics</category>
+        
+        <category>acoustic ecology</category>
+        
+        <category>soundscape</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>One Thousand Mindreaders</title>
@@ -81,6 +141,8 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;This performance by the Birmingham Ensemble for Electroacoustic Research, created in collaboration with the &lt;a href=&quot;http://artcms.web.cern.ch/artcms/&quot;&gt;art@CMS&lt;/a&gt; project at CERN in Switzerland, involves the real-time sonification of data streams from the Large Hadron Collider, the world’s largest and most complex particle accelerator. Experimental data containing clues towards possible ‘new physics’ becomes the raw material for improvised music and visualisations programmed by the ensemble with an aim to creating a result that while beautiful, is also both musically and scientifically meaningful.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Workshop&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;::::: @ ACCA, 3-5pm :::::&lt;/p&gt;
 
 &lt;p&gt;This workshop for composers and artists explores the possibilities of using scientific data as a resource for music and sonic art, with particular focus on sonifying data from the Large Hadron Collider at CERN, the world’s largest particle accelerator. An introduction to the physics involved will be followed by an exploration of strategies for converting the data into sound. Previous experience of computer music environments is useful, but not required.&lt;/p&gt;
 
@@ -330,154 +392,6 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/year2017</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
-        
-        <category>emutelab</category>
-        
-        <category>eventa</category>
-        
-        <category>PhD</category>
-        
-        <category>NIME</category>
-        
-        <category>sonificiaton</category>
-        
-        <category>instruments</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab in 2017</title>
-        <description>&lt;p&gt;The Experimental Music Technology Lab has had a busy year in 2017. Some of the key events are listed below:&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Performances&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Algorave Brighton&lt;/b&gt; - September 7th. The Emute Lab co-organised an &lt;a href=&quot;https://algorave.com&quot;&gt;Algorave&lt;/a&gt; hosted by the British Science Festival. Performances with Algobabes, Slub, Renick Bell, Chris Kiefer and Thor Magnusson. See information &lt;a href=&quot;https://www.britishsciencefestival.org/event/algorave/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Luuma @ London Algorave&lt;/b&gt;&lt;br /&gt;
-Chris Kiefer performing at the &lt;a href=&quot;https://algorave.com/london/&quot;&gt;London Algorave&lt;/a&gt; in June.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Syncphonia ‘Orchestra Hero’ event at the British Science Festival&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Thor Magnusson at Borealis&lt;/b&gt; &lt;br /&gt;
-Threnoscope + Voluspa at the &lt;a href=&quot;http://www.borealisfestival.no/2017/threnoscope-thor-magnusson-2/&quot;&gt;Borealis Festival&lt;/a&gt; in Bergen, March.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Chevalier &amp;amp; Duff, 200.104.200.2, NIME 2017&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Feedback Cello Performances&lt;/b&gt; &lt;br /&gt;
-At Bournemouth, Loop Berlin, HAL@SARC, NIME, Spirit of Gravity, Mengi, Algomech, DesInC&lt;br /&gt; see &lt;a href=&quot;http://feedbackcell.ooo/live/&quot;&gt;http://feedbackcell.ooo/live/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;O, One a 5 minute opera for two Nao Robots and cello&lt;/b&gt; &lt;br /&gt;
-Words and music by Evelyn Ficarra, premiered at the Robot Opera Mini-Symposium on 15th June 2017. Performed by two Nao Robots (as themselves); Alice Eldridge (cello); directed /designed by Tim Hopkins; co-devised and programmed by Ron Chrisley. 
-&lt;a href=&quot;http://www.sussex.ac.uk/cromt/archive/robotopera&quot;&gt;http://www.sussex.ac.uk/cromt/archive/robotopera&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Ghost Cup - a sound installation.&lt;/b&gt;&lt;br /&gt; 
-Columbia University, April 7-8 2017, New York USA
-&lt;a href=&quot;http://blogs.cuit.columbia.edu/reembodiedsound/&quot;&gt;http://blogs.cuit.columbia.edu/reembodiedsound/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Scores for objects and electronics with Heather Frasch&lt;/b&gt;&lt;br /&gt; 
-Studio 8, 8th May 2017, Berlin.
-&lt;a href=&quot;https://www.facebook.com/events/1473355456065457/&quot;&gt;https://www.facebook.com/events/1473355456065457/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Thanos Polymeneas Liontiris, ACCA, 13 February 2017&lt;/b&gt;
-A Magnificent Crossbreeding of Protein and Tinplate&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Publications&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Bright, D. (2017) Conjuring the sonic ghosts of industrial and post-industrial spaces, in &lt;a href=&quot;http://www.cambridgescholars.com/the-post-industrial-landscape-as-site-for-creative-practice&quot;&gt;The Post-Industrial Landscape as Site for Creative Practice&lt;/a&gt;, Cambridge Scholars Publishing.&lt;/p&gt;
-
-&lt;p&gt;Eldridge, Alice and Kiefer, Chris (2017) The self-resonating feedback cello: interfacing gestural and generative processes in improvised performance. New Interfaces for Music Expression. Download &lt;a href=&quot;http://homes.create.aau.dk/dano/nime17/papers/0005/paper0005.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Magnusson, Thor (2017) Musical Organics: A Heterarchical Approach to Digital Organology&lt;br /&gt;
-in Journal of New Music Research. Download &lt;a href=&quot;http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1353636&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Magnusson, Thor (2017) Contextualizing Musical Organics: An Ad-hoc Organological Classification Approach &lt;br /&gt;
-NIME 2017 conference. Download &lt;a href=&quot;http://ixi-audio.net/thor/Magnusson_NIME2017_MusicalOrganics.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Webb, Sharon, Kiefer, Chris, Jackson, Ben, Baker, James and Eldridge, Alice (2017) Mining oral history collections using music information retrieval methods. Music Reference Services Quarterly. Download &lt;a href=&quot;http://www.tandfonline.com/doi/abs/10.1080/10588167.2017.1404307&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Events&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Interdisciplinary perspectives: Machine Listening &amp;amp; Listening Machines&lt;/b&gt;&lt;br /&gt;
-April 27-28. Sussex Humanities Lab, University of Sussex, Brighton&lt;br /&gt;
-&lt;a href=&quot;http://www.algorithmiclistening.org/workshop1/ &quot;&gt;http://www.algorithmiclistening.org/workshop1/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Understanding Distributed Agency Between Listening Algorithms and Humans&lt;/b&gt;&lt;br /&gt;
-May 31-June 1. Sonic Arts Research Centre, Queen’s University Belfast&lt;br /&gt;
-&lt;a href=&quot;http://www.algorithmiclistening.org/workshop2/&quot;&gt;http://www.algorithmiclistening.org/workshop2/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Future Implications and Applications of Algorithmic Listening&lt;/b&gt;&lt;br /&gt;
-Sept 14-15. University of Sussex, Brighton&lt;br /&gt;
-&lt;a href=&quot;http://www.algorithmiclistening.org/workshop3/&quot;&gt;http://www.algorithmiclistening.org/workshop3/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Long table – Humanising Algorithmic Listening in Culture and Conservation&lt;/b&gt;&lt;br /&gt;
-Sept 14th 20:00 as part of the 2017 Brighton Digital Festival&lt;br /&gt;
-&lt;a href=&quot;http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation &quot;&gt;http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;DIY radio transmission – Pi Streambox Workshop&lt;/b&gt;&lt;br /&gt;
-Oct 12th 14:00 and 18:30 as part of the Brighton Digital Festival &lt;br /&gt;
-&lt;a href=&quot;http://brightondigitalfestival.co.uk/events/diy-radio-transmission-pi-streambox-workshop&quot;&gt;http://brightondigitalfestival.co.uk/events/diy-radio-transmission-pi-streambox-workshop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Residency at CNMAT and CMC&lt;/b&gt;&lt;br /&gt;
-In May, Thor Magnusson did a residency at CNMAT, Berkeley which included giving a lecture on current research. In June, he visited CMC, Columbia with the same programme. &lt;br /&gt;
-Info &lt;a href=&quot;http://cnmat.berkeley.edu/projects/sonic-writing-research&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Marije Baalman residency at Sussex&lt;/b&gt;&lt;br /&gt;
-Marije Baalman did a residency at Emute Lab collaborating with Chris Kiefer. This will be continued in January 2018, ending with a gig.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Forum for Augmented Reality Immersive Instruments (ARIMI)&lt;/b&gt;
-Cecile Chevalier &amp;amp; Chris Kiefer in partnership with Kirk Woolford, June 19-20, 2017&lt;br /&gt; 
-&lt;a href=&quot;http://users.sussex.ac.uk/~ad207/arimi/&quot;&gt;http://users.sussex.ac.uk/~ad207/arimi/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Emute Lab in Reykjavik&lt;/b&gt;&lt;br /&gt;
-Alice Eldridge and Chris Kiefer did a residency at the Icelandic Arts Academy, also performing at &lt;a href=&quot;https://mengi.net/events/2017/10/28/feb12th&quot;&gt;Mengi&lt;/a&gt;, in Reykjavik.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Alberto Novello visiting researcher&lt;/b&gt;&lt;br /&gt;
-Alberto Novello gave a &lt;a href=&quot;http://www.emutelab.org/blog/novello&quot;&gt;talk, workshop and tutorials&lt;/a&gt;. Talk title: Invisible to visible: bio signals and possible applications in the arts&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Conferences&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Evelyn Ficarra&lt;/b&gt; ‘The Sound Object in Theatrical and Installation Contexts’, Re-embodied Sound Conference, Columbia University, New York 8th April 2017
-&lt;a href=&quot;http://blogs.cuit.columbia.edu/reembodiedsound/&quot;&gt;http://blogs.cuit.columbia.edu/reembodiedsound/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Alice Eldridge at a panel @ Loop 2017&lt;/b&gt;
-Alice Eldridge on a panel on hybrid instruments at Ableton’s Festival of music, technology and creative practice - Loop, Berlin. &lt;br /&gt;
-Alice and Chris Kiefer will also give a performance in the maker space. 
-&lt;a href=&quot;https://loop.ableton.com/2017/program/activity/motors-magnets-and-motion-electronic-music-instruments-physical-world/&quot;&gt;Info here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Alice Eldridge and Danny Bright&lt;/b&gt; at Sound &amp;amp; Environment
-Alice - Paper &amp;amp; Plenary Panel
-Danny - Installation: Thrumming Halls
-&lt;a href=&quot;http://www2.hull.ac.uk/fass/drama,-music-and-screen/conferences/sound--environment-2017.aspx&quot;&gt;http://www2.hull.ac.uk/fass/drama,-music-and-screen/conferences/sound–environment-2017.aspx&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Robot Opera Mini Symposium&lt;/b&gt;, organised by Evelyn Ficarra, featuring talks by Chris Kiefer, Ron Chrisley, Thanos Polymeneas-Liontiris, with brief introduction by Evelyn Ficarra ‘Why Robot Opera’. The day examined issues of embodiment, artificial intelligence and vocality through scholarly research and creative practice. 15 June 2017. 
-&lt;a href=&quot;http://www.sussex.ac.uk/cromt/archive/robotopera&quot;&gt;http://www.sussex.ac.uk/cromt/archive/robotopera&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Software&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Syncphonia - &lt;a href=&quot;http://www.syncphonia.co.uk/&quot;&gt;http://www.syncphonia.co.uk/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Research grants&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://gtr.rcuk.ac.uk/projects?ref=AH%2FR002657%2F1&quot;&gt;MIMIC&lt;/a&gt; - Thor Magnusson and Chris Kiefer in collaboration with Goldsmiths and Durham University.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/year2017</link>
         <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
         
