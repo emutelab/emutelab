@@ -13,7 +13,7 @@ date: 2018-03-08
 
 <b>Talk: Perspectives in Ecoacoustics -- Prof Almo Farina, University of Urbino, Italy</b>
 
-We are delighted to welcome Prof Almo Farina, a naturalist and landscape ecologist and one of the pioneers of Ecoacoustics - the emerging science of the study of ecological role of sounds. 
+We are delighted to welcome Prof Almo Farina, a naturalist and landscape ecologist and one of the pioneers of Ecoacoustics - the investigation of the ecological role of sounds.
 
 <a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (Silverstone Building, 2nd floor) - All welcome!
 
