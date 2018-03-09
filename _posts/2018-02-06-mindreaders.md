@@ -9,7 +9,11 @@ date: 2018-02-06
 ---
 
 
-<b>::::: Wednesday, March 15th, 2018 @ SHL, 3pm :::::</b>
+<b>::::: Thursday, March 15th, 2018 @ Falmer Student Union Bar, 6:30 pm :::::</b>
+
+<b>NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE we are now running it as part of the exiting <a href="https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit">SussexforUSS events</a></b>
+
+<b> ALL WELCOME !</b>
 
 Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the <a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (in the Silverstone Building, 2nd floor) - All welcome!
 
