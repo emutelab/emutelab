@@ -15,11 +15,11 @@ date: 2018-02-06
 
 <b> ALL WELCOME !</b>
 
-Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the <a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (in the Silverstone Building, 2nd floor) - All welcome!
+Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the <a href="https://www.sussexstudent.com/our-campus-services/falmer-bar/">Falmer Student Union Bar</a> (in Falmer House Building) - All welcome!
 
 ![MindReaders](/img/mindreaders.jpg)
 
-<b>Workshop: One Thousand Mindreaders (3-5pm)</b>
+<b>Workshop: One Thousand Mindreaders (6:30-7:30 pm)</b>
 
 One Thousand Mindreaders is a year-long collaborative artwork during which the artist Stuart Nolan will train one thousand new mindreaders.
 
@@ -30,7 +30,7 @@ Both the drawings and the found objects will be exhibited in 2019 and trainee mi
 
 In this interactive session, we will also explore the role of touch in interaction, learning to read each other’s minds using techniques based on Victorian mindreading tricks, games, and experiments, and improved with current research into the neuroscience of touch.    
 
-<b>Talk: Beyond The Feelies (5pm)</b>
+<b>Talk: Beyond The Feelies (8 pm)</b>
 
 ‘Of all our senses, touch is the one considered least deceptive and the most secure.’ - René Descartes
 
