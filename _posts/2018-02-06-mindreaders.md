@@ -11,7 +11,7 @@ date: 2018-02-06
 
 <b>::::: Thursday, March 15th, 2018 @ Falmer Student Union Bar, 6:30 pm :::::</b>
 
-<b>NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE we are now running it as part of the exiting <a href="https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit">SussexforUSS events</a></b>
+<b>NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE it is now running it as part of the exiting <a href="https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit">SussexforUSS events</a></b>
 
 <b> ALL WELCOME !</b>
 
