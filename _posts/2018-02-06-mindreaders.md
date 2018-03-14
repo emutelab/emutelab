@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Thousand Mindreaders"
-subheading: "Almo Farina"
+subheading: "Stuart Nolan"
 categories: blog
 tags: [emutelab, event, performances, mind reading, HCI]
 author: Thor Magnusson
@@ -21,7 +21,7 @@ Brighton.<br>
 
 <b> ALL WELCOME !</b>
 
-Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the <a href="https://www.sussexstudent.com/our-campus-services/falmer-bar/">Falmer Student Union Bar</a> (in Falmer House Building) - All welcome!
+Magician and Human-Machine Interactor <a href="http://stuartnolan.com">Stuart Nolan</a> will be giving a workshop in mindreading, followed by talk on his practice as a magician. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this important art. Join us at the <a href="https://www.caxtonarms.co.uk">Caxton Arms</a> Pub - All welcome!
 
 ![MindReaders](/img/mindreaders.jpg)
 
