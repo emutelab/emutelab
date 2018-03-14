@@ -12,13 +12,12 @@ date: 2018-02-06
 <b>::::: Thursday, March 15th, 2018 @ Caxton Arms, 6:30 pm :::::</b>
 
 
-<b>Where: <a href ="https://www.caxtonarms.co.uk">Caxton Arms</a></b>
-36 North Gardens, 
-Brighton.
+<b>Where: <a href ="https://www.caxtonarms.co.uk">Caxton Arms</a></b><br>
+36 North Gardens <br>
+Brighton.<br>
 
- 
 
-<b>NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE it is now running it as part of the exiting <a href="https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit">SussexforUSS events</a></b>
+<b>NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE it is now running it as part of the exiting <a href="https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit">SussexforUSS</a> events</b>
 
 <b> ALL WELCOME !</b>
 
