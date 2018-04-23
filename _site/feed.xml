@@ -3,11 +3,52 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Apr 2018 15:46:50 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 15:46:50 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 23 Apr 2018 16:27:48 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Apr 2018 16:27:48 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Newhaven Soundcamp</title>
+        <description>&lt;h3 id=&quot;--may-5th---may-6th-newhaven-community-garden-&quot;&gt;:::::  May 5th - May 6th. Newhaven Community Garden :::::&lt;/h3&gt;
+
+&lt;h3 id=&quot;event-newhaven-soundcamp&quot;&gt;&lt;b&gt;Event: Newhaven Soundcamp&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/img/westbeach.jpg&quot; alt=&quot;soundcamp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Join us for newhaven soundcamp over the International Dawn Chorus weekend of 5th to 6th May 2018, when small groups of people around the world will sleep outside and listen.&lt;/p&gt;
+
+&lt;p&gt;International Dawn Chorus Day is a world wide celebration of the dawn chorus initiated by the Wildlife Trusts to raise awareness of the deep importance of nature conservation and close relationship between human wellbeing and that of all other living species.&lt;/p&gt;
+
+&lt;p&gt;Newhaven Soundcamp is part of &lt;a href=&quot;http://soundtent.org/soundcamp_reveil.html&quot;&gt;REVEIL&lt;/a&gt;, an international network of listening points. Instigated by arts collective &lt;a href=&quot;http://soundtent.org/soundcamp_about.html&quot;&gt;soundcamp&lt;/a&gt;, REVEIL curates a live radio broadcast from these open microphones as the sun rises around the globe on the International Dawn Chorus weekend.&lt;/p&gt;
+
+&lt;p&gt;Newhaven Soundcamp is a small scale event for local residents to act as a simple, potent point for ecological, social, intellectual, aesthetic and spiritual engagement with Newhaven’s acoustic environments - and linking this spot of Sussex Downs Biosphere (The Living Coast)  to an international network of site of ecological and sonic interest.&lt;/p&gt;
+
+&lt;p&gt;The broadcast will be made using a DIY radio transmitter constructed from a raspberry Pi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/soundcamp-newhaven-tickets-45174650596&quot;&gt;Further information and free tickets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen in to the stream of International Dawn Chorus Weekend &lt;a href=&quot;http://streams.soundtent.org/2018/streams&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/soundcamp</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>ecoacoustics</category>
+        
+        <category>DIY tech</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Seminar: Gianluca Memoli and Spyros Polychronopoulos (Interact Lab, Informatics)</title>
@@ -40,8 +81,8 @@
 &lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/interactLabSeminar</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/interactLabSeminar</guid>
+        <link>http://localhost:4000/blog/interactLabSeminar</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
         
         <category>emutelab</category>
         
@@ -66,10 +107,12 @@
 
 &lt;p&gt;We are delighted to welcome Prof Almo Farina, a naturalist and landscape ecologist and one of the pioneers of Ecoacoustics - the investigation of the ecological role of sounds.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, 2nd floor) - All welcome!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, SB211) - All welcome!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;
-&amp;gt; When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
 
@@ -101,8 +144,8 @@
 &lt;p&gt;Presented in association with &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; and &lt;a href=&quot;http://www.sussex.ac.uk/ssrp/&quot;&gt;Sussex Sustainability Research Programme&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/almoFarina</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/almoFarina</guid>
+        <link>http://localhost:4000/blog/almoFarina</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
         
         <category>emutelab</category>
         
@@ -169,8 +212,8 @@ Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/mindreaders</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/mindreaders</guid>
+        <link>http://localhost:4000/blog/mindreaders</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
         
         <category>emutelab</category>
         
@@ -212,8 +255,8 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/darkmatter</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/darkmatter</guid>
+        <link>http://localhost:4000/blog/darkmatter</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
         
         <category>emutelab</category>
         
@@ -298,8 +341,8 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab0</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
+        <link>http://localhost:4000/blog/emutelab0</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
         
         <category>emutelab</category>
         
@@ -451,8 +494,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/year2017</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/year2017</guid>
+        <link>http://localhost:4000/blog/year2017</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
         
         <category>emutelab</category>
         
@@ -500,8 +543,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/twophds</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/twophds</guid>
+        <link>http://localhost:4000/blog/twophds</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
         
         <category>emutelab</category>
         
@@ -555,8 +598,8 @@ audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jeste
 video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/novello</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/novello</guid>
+        <link>http://localhost:4000/blog/novello</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
         
         <category>emutelab</category>
         
@@ -591,38 +634,8 @@ video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&g
 &lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/chrysalis-report</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis-report</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>machine learning</category>
-        
-        <category>live coding</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Chrysalis in the SHL</title>
-        <description>&lt;p&gt;&lt;b&gt;
-Chrysalis&lt;br /&gt;
-When: 13 Sept 2017 - 16:00&lt;br /&gt;
-Location: &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marijebaalman.eu&quot;&gt;Marije Baalman&lt;/a&gt; is an artist and researcher/developer working in the field of interactive sound art. She is currently visiting Sussex, working with Chris Kiefer on serendipity in interactive machine learning algorithms. They will show the results of their work in a performance with Marije’s latest piece Chrysalis, and discuss the work afterwards in a Q&amp;amp;A session.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/chrysalis.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/chrysalis</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis</guid>
+        <link>http://localhost:4000/blog/chrysalis-report</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis-report</guid>
         
         <category>emutelab</category>
         
