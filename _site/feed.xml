@@ -3,12 +3,61 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Mar 2018 16:35:27 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Mar 2018 16:35:27 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <link>http://www.emutelab.org/</link>
+    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 23 Apr 2018 15:38:55 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Apr 2018 15:38:55 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Seminar: Gianluca Memoli and Spyros Polychronopoulos (Interact Lab, Informatics)</title>
+        <description>&lt;p&gt;&lt;b&gt;::::: Thursday, April 26th, 2018. 2-4pm - Recital Room (Falmer House 120) :::::&lt;/b&gt;&lt;/p&gt;
 
+&lt;p&gt;We have two talks from members of the Interact Lab at Sussex, who are both researchers in Acoustic Levitation and Human Computer Interaction.&lt;/p&gt;
+
+&lt;h2 id=&quot;spyros-polychronopoulos-new-ways-to-create-and-deliver-music&quot;&gt;Spyros Polychronopoulos: New ways to create and deliver music&lt;/h2&gt;
+
+&lt;p&gt;The aesthetics of dead (as pre-recorded) and live (as endless unique reproduced) music. Challenging the “here and now” of the work of art with programmable performers.&lt;/p&gt;
+
+&lt;p&gt;References&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htmhttps://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm&quot;&gt;Walter Benjamin (1936)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://emporium.room40.org/products/583176-spyros-polychronopoulos-live-electronic-music-sound-object&quot;&gt;Live Electronic Music Sound Object (2016)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/docs/Music perception and the fluctuation of utopia.pdf&quot;&gt;Music perception and the fluctuation of utopia&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Spyros Polychronopoulos was born in Athens, Greece in 1980. His interest in sound, both as a physical phenomenon as well as a form of art, began at an early age. He holds a degree in Physics and a PhD in Electrical Engineering from University of Patras, Greece. His thesis focused on tuning the acoustics of closed spaces and he has published a number of papers in this field. After relocating to London in 2014, he gained three years of practical experience working as an acoustic consultant. Further to his research in sound, he has developed unique sound objects, released 15 albums and performed a number of concerts around the world. Spyros regularly leads workshops and lectures discussing the new technologies in composition and aesthetics of sound. He currently works as a Research Fellow in the Informatics Department at the University of Sussex, UK, researching ‘Human-computer Interaction for Acoustic Levitation’.&lt;/p&gt;
+
+&lt;h2 id=&quot;gianluca-memoli-spatial-sound-using-meta-materials&quot;&gt;Gianluca Memoli: Spatial Sound using Meta-materials&lt;/h2&gt;
+
+&lt;p&gt;When an architect, a sound engineer or a theatre director designs the acoustics of a space, the presence of sound is binary: it is either there for everyone or not. We manage light differently, though: well-established technologies allows us to exploit light and shadows, beams that follow characters, diffused or focused spotlights. The technology for achieving similar results with sound is simply not there: since directional speakers still don’t maintain their promises in terms of performance, large arrays of speakers are still used for beam-forming, either software controlled or spatially arranged. In this talk, I will discuss the opportunities offered by acoustic meta-materials to achieve spatial control on sound in static applications. These can be placed in front of loudspeakers just like lenses or filters would be positioned in front of a light source, for achieving diffraction-limited effects. I will also discuss where, in my opinion, these new tools may lead us in the short and medium term and whether they will eventually give us the same control on sound that we have on light, across all the frequency range.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-1&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/acousticsTalk</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/acousticsTalk</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>talk</category>
+        
+        <category>acoustics</category>
+        
+        <category>3D printing</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
       <item>
         <title>Perspectives in Ecoacoustics</title>
         <description>&lt;p&gt;&lt;b&gt;::::: Thursday, May 3rd, 2018. 4pm - Sussex Humanities Lab :::::&lt;/b&gt;&lt;/p&gt;
@@ -19,10 +68,8 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, 2nd floor) - All welcome!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;
+&amp;gt; When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
 
 &lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
 
@@ -54,39 +101,43 @@
 &lt;p&gt;Presented in association with &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; and &lt;a href=&quot;http://www.sussex.ac.uk/ssrp/&quot;&gt;Sussex Sustainability Research Programme&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/almoFarina</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
-
+        <link>http://www.emutelab.org/blog/almoFarina</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/almoFarina</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>talk</category>
-
+        
         <category>ecoacoustics</category>
-
+        
         <category>acoustic ecology</category>
-
+        
         <category>soundscape</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>One Thousand Mindreaders</title>
-        <description>&lt;p&gt;&lt;b&gt;::::: Thursday, March 15th, 2018 @ Falmer Student Union Bar, 6:30 pm :::::&lt;/b&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;b&gt;::::: Thursday, March 15th, 2018 @ Caxton Arms, 6:30 pm :::::&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE we are now running it as part of the exiting &lt;a href=&quot;https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit&quot;&gt;SussexforUSS events&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Where: &lt;a href=&quot;https://www.caxtonarms.co.uk&quot;&gt;Caxton Arms&lt;/a&gt;&lt;/b&gt;&lt;br /&gt;
+36 North Gardens &lt;br /&gt;
+Brighton.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;NOTE: This event was supposed to be in the SHL, but due to the USS STRIKE it is now running it as part of the exiting &lt;a href=&quot;https://docs.google.com/document/d/1ywtMO06wlxqRXftEGwpUUZQhtXwCyS_i6qWLMW43_eA/edit&quot;&gt;SussexforUSS&lt;/a&gt; events&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; ALL WELCOME !&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Magician and Human-Machine Interactor &lt;a href=&quot;http://stuartnolan.com&quot;&gt;Stuart Nolan&lt;/a&gt; will be giving a workshop in mindreading, followed by talk in the Sussex Humanities Lab. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this art. Join us at the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (in the Silverstone Building, 2nd floor) - All welcome!&lt;/p&gt;
+&lt;p&gt;Magician and Human-Machine Interactor &lt;a href=&quot;http://stuartnolan.com&quot;&gt;Stuart Nolan&lt;/a&gt; will be giving a workshop in mindreading, followed by talk on his practice as a magician. Stuart has a track record in training mindreading skills in an hour, so it is certainly worth coming to this session to learn this important art. Join us at the &lt;a href=&quot;https://www.caxtonarms.co.uk&quot;&gt;Caxton Arms&lt;/a&gt; Pub - All welcome!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/mindreaders.jpg&quot; alt=&quot;MindReaders&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Workshop: One Thousand Mindreaders (3-5pm)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Workshop: One Thousand Mindreaders (6:30-7:30 pm)&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;One Thousand Mindreaders is a year-long collaborative artwork during which the artist Stuart Nolan will train one thousand new mindreaders.&lt;/p&gt;
 
@@ -97,7 +148,7 @@ They will also learn how to find objects that another person has hidden in a roo
 
 &lt;p&gt;In this interactive session, we will also explore the role of touch in interaction, learning to read each other’s minds using techniques based on Victorian mindreading tricks, games, and experiments, and improved with current research into the neuroscience of touch.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Talk: Beyond The Feelies (5pm)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Talk: Beyond The Feelies (8 pm)&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;‘Of all our senses, touch is the one considered least deceptive and the most secure.’ - René Descartes&lt;/p&gt;
 
@@ -118,24 +169,24 @@ Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/mindreaders</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
-
+        <link>http://www.emutelab.org/blog/mindreaders</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/mindreaders</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>performances</category>
-
+        
         <category>mind reading</category>
-
+        
         <category>HCI</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>BEER: Dark Matter at ACCA</title>
         <description>&lt;p&gt;&lt;b&gt;::::: Wednesday, February 21st, 2018 @ ACCA, 8pm :::::&lt;/b&gt;&lt;/p&gt;
@@ -161,22 +212,22 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/darkmatter</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
-
+        <link>http://www.emutelab.org/blog/darkmatter</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/darkmatter</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>performances</category>
-
+        
         <category>sonification</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>EMuTeLab 0 @ The Rose Hill, Brighton</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab0_webflyer.png&quot; alt=&quot;EMuTeLab0 Gig Flyer&quot; /&gt;&lt;/p&gt;
@@ -247,20 +298,20 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab0</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
-
+        <link>http://www.emutelab.org/blog/emutelab0</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>performances</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Emute Lab in 2017</title>
         <description>&lt;p&gt;The Experimental Music Technology Lab has had a busy year in 2017. Some of the key events are listed below:&lt;/p&gt;
@@ -283,14 +334,14 @@ Threnoscope + Voluspa at the &lt;a href=&quot;http://www.borealisfestival.no/201
 At Bournemouth, Loop Berlin, HAL@SARC, NIME, Spirit of Gravity, Mengi, Algomech, DesInC&lt;br /&gt; see &lt;a href=&quot;http://feedbackcell.ooo/live/&quot;&gt;http://feedbackcell.ooo/live/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;O, One a 5 minute opera for two Nao Robots and cello&lt;/b&gt; &lt;br /&gt;
-Words and music by Evelyn Ficarra, premiered at the Robot Opera Mini-Symposium on 15th June 2017. Performed by two Nao Robots (as themselves); Alice Eldridge (cello); directed /designed by Tim Hopkins; co-devised and programmed by Ron Chrisley.
+Words and music by Evelyn Ficarra, premiered at the Robot Opera Mini-Symposium on 15th June 2017. Performed by two Nao Robots (as themselves); Alice Eldridge (cello); directed /designed by Tim Hopkins; co-devised and programmed by Ron Chrisley. 
 &lt;a href=&quot;http://www.sussex.ac.uk/cromt/archive/robotopera&quot;&gt;http://www.sussex.ac.uk/cromt/archive/robotopera&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Ghost Cup - a sound installation.&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Ghost Cup - a sound installation.&lt;/b&gt;&lt;br /&gt; 
 Columbia University, April 7-8 2017, New York USA
 &lt;a href=&quot;http://blogs.cuit.columbia.edu/reembodiedsound/&quot;&gt;http://blogs.cuit.columbia.edu/reembodiedsound/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Scores for objects and electronics with Heather Frasch&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Ficarra, Evelyn. Scores for objects and electronics with Heather Frasch&lt;/b&gt;&lt;br /&gt; 
 Studio 8, 8th May 2017, Berlin.
 &lt;a href=&quot;https://www.facebook.com/events/1473355456065457/&quot;&gt;https://www.facebook.com/events/1473355456065457/&lt;/a&gt;&lt;/p&gt;
 
@@ -345,7 +396,7 @@ Info &lt;a href=&quot;http://cnmat.berkeley.edu/projects/sonic-writing-research&
 Marije Baalman did a residency at Emute Lab collaborating with Chris Kiefer. This will be continued in January 2018, ending with a gig.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Forum for Augmented Reality Immersive Instruments (ARIMI)&lt;/b&gt;
-Cecile Chevalier &amp;amp; Chris Kiefer in partnership with Kirk Woolford, June 19-20, 2017&lt;br /&gt;
+Cecile Chevalier &amp;amp; Chris Kiefer in partnership with Kirk Woolford, June 19-20, 2017&lt;br /&gt; 
 &lt;a href=&quot;http://users.sussex.ac.uk/~ad207/arimi/&quot;&gt;http://users.sussex.ac.uk/~ad207/arimi/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Emute Lab in Reykjavik&lt;/b&gt;&lt;br /&gt;
@@ -363,7 +414,7 @@ Alberto Novello gave a &lt;a href=&quot;http://www.emutelab.org/blog/novello&quo
 
 &lt;p&gt;&lt;b&gt;Alice Eldridge at a panel @ Loop 2017&lt;/b&gt;
 Alice Eldridge on a panel on hybrid instruments at Ableton’s Festival of music, technology and creative practice - Loop, Berlin. &lt;br /&gt;
-Alice and Chris Kiefer will also give a performance in the maker space.
+Alice and Chris Kiefer will also give a performance in the maker space. 
 &lt;a href=&quot;https://loop.ableton.com/2017/program/activity/motors-magnets-and-motion-electronic-music-instruments-physical-world/&quot;&gt;Info here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Alice Eldridge and Danny Bright&lt;/b&gt; at Sound &amp;amp; Environment
@@ -371,7 +422,7 @@ Alice - Paper &amp;amp; Plenary Panel
 Danny - Installation: Thrumming Halls
 &lt;a href=&quot;http://www2.hull.ac.uk/fass/drama,-music-and-screen/conferences/sound--environment-2017.aspx&quot;&gt;http://www2.hull.ac.uk/fass/drama,-music-and-screen/conferences/sound–environment-2017.aspx&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Robot Opera Mini Symposium&lt;/b&gt;, organised by Evelyn Ficarra, featuring talks by Chris Kiefer, Ron Chrisley, Thanos Polymeneas-Liontiris, with brief introduction by Evelyn Ficarra ‘Why Robot Opera’. The day examined issues of embodiment, artificial intelligence and vocality through scholarly research and creative practice. 15 June 2017.
+&lt;p&gt;&lt;b&gt;Robot Opera Mini Symposium&lt;/b&gt;, organised by Evelyn Ficarra, featuring talks by Chris Kiefer, Ron Chrisley, Thanos Polymeneas-Liontiris, with brief introduction by Evelyn Ficarra ‘Why Robot Opera’. The day examined issues of embodiment, artificial intelligence and vocality through scholarly research and creative practice. 15 June 2017. 
 &lt;a href=&quot;http://www.sussex.ac.uk/cromt/archive/robotopera&quot;&gt;http://www.sussex.ac.uk/cromt/archive/robotopera&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanos Polymeneas Liontiris, in The Operatic Symposium, University of Sussex, 19th May 2017, title:
@@ -400,26 +451,26 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/year2017</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
-
+        <link>http://www.emutelab.org/blog/year2017</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/year2017</guid>
+        
         <category>emutelab</category>
-
+        
         <category>eventa</category>
-
+        
         <category>PhD</category>
-
+        
         <category>NIME</category>
-
+        
         <category>sonificiaton</category>
-
+        
         <category>instruments</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Emute Lab PhD presentations</title>
         <description>&lt;p&gt;&lt;b&gt;:::: Monday, October 30th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
@@ -449,26 +500,26 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/twophds</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
-
+        <link>http://www.emutelab.org/blog/twophds</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/twophds</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>PhD</category>
-
+        
         <category>NIME</category>
-
+        
         <category>sonificiaton</category>
-
+        
         <category>instruments</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Visiting Researcher: Alberto Novello</title>
         <description>&lt;p&gt;&lt;b&gt;:::: Thursday, October 26th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
@@ -504,26 +555,26 @@ audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jeste
 video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/novello</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
-
+        <link>http://www.emutelab.org/blog/novello</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/novello</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>machine learning</category>
-
+        
         <category>analog synthesis</category>
-
+        
         <category>brain interfaces</category>
-
+        
         <category>laser</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Residency Report: Marije Baalman and Chrysalis</title>
         <description>&lt;p&gt;For the past six days, &lt;a href=&quot;https://www.marijebaalman.eu&quot;&gt;Marije Baalman&lt;/a&gt; has been visiting Sussex for part one of a residency with by EMuteLab and Sussex Humanities Lab.   We’ve been exploring serendipity in mappings for interactive instruments, and focusing on her recent piece &lt;a href=&quot;https://www.marijebaalman.eu/projects/chrysalis.html&quot;&gt;Chrysalis&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
@@ -540,22 +591,22 @@ video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&g
 &lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/chrysalis-report</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis-report</guid>
-
+        <link>http://www.emutelab.org/blog/chrysalis-report</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis-report</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>machine learning</category>
-
+        
         <category>live coding</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
+    
       <item>
         <title>Chrysalis in the SHL</title>
         <description>&lt;p&gt;&lt;b&gt;
@@ -570,71 +621,21 @@ Location: &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humaniti
 &lt;p&gt;&lt;img src=&quot;/img/chrysalis.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/chrysalis</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis</guid>
-
+        <link>http://www.emutelab.org/blog/chrysalis</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/chrysalis</guid>
+        
         <category>emutelab</category>
-
+        
         <category>event</category>
-
+        
         <category>machine learning</category>
-
+        
         <category>live coding</category>
-
-
+        
+        
         <category>blog</category>
-
+        
       </item>
-
-      <item>
-        <title>Algorave Brighton 2017</title>
-        <description>&lt;p&gt;&lt;b&gt;
-Algorave Brighton&lt;br /&gt;
-When: 7 Sept 2017 - 19:00–22:30&lt;br /&gt;
-Location: &lt;a href=&quot;http://patternsbrighton.com&quot;&gt;Patterns&lt;/a&gt;&lt;br /&gt;
-Door tax: FREE&lt;br /&gt;
-Facebook event: &lt;a href=&quot;https://www.facebook.com/events/1887328384865474/&quot;&gt;https://www.facebook.com/events/1887328384865474/&lt;/a&gt;&lt;br /&gt;
-&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;We are organising an Algorave in Brighton as part of the &lt;a href=&quot;https://www.britishsciencefestival.org&quot;&gt;British Science Festival&lt;/a&gt; programme.&lt;/p&gt;
-
-&lt;p&gt;Algorave is a combination of “algorithms” and “rave”, the opportunity to dance to alien rhythms and freaky visuals, all created from code before your eyes. The Algorave scene is fast-growing around the world, reaching over 50 cities.&lt;/p&gt;
-
-&lt;p&gt;“The scene at an algorave is often what you’d expect from any good techno night - a dark room, engaging visuals. a decent, bass-heavy speaker set-up, and lots of people ready to dance. .. performers at algoraves respond to each other and the audience in real time, often projecting the lines of code onto the walls as they type. lt’s coding as improvisation and experiment..” - The Wire magazine&lt;/p&gt;
-
-&lt;p&gt;“Live coders write computer programs live, while the programs generate their music, but the focus is on people dancing and seriously enjoying themselves” - Dazed and Confused&lt;/p&gt;
-
-&lt;p&gt;”.. not so much a revolution as a de-volution, a rolling back to the backend of music production, where the possibilities of the encoded information inside computer software is open and endless” - Mixmag&lt;/p&gt;
-
-&lt;p&gt;Read a mixmag feature here: &lt;a href=&quot;http://mixmag.net/feature/algorave&quot;&gt;http://mixmag.net/feature/algorave&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Featuring an international lineup of top live coders:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Renick Bell (Tokyo/UIQ+Halcyon Veil)&lt;/li&gt;
-  &lt;li&gt;ALGOBABEZ (Leeds+Melbourne/Fractal Meat)&lt;/li&gt;
-  &lt;li&gt;Alexandra Cärdenas (Berlin) x Slub (Penryn+Sheffield/Chordpunch)&lt;/li&gt;
-  &lt;li&gt;Brighton residents Luuma + Thor Magnusson&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/algorave.jpg&quot; alt=&quot;Algorave&quot; /&gt;
-&lt;img src=&quot;/img/bluedot.jpg&quot; alt=&quot;Algorave&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/algorave</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/algorave</guid>
-
-        <category>emutelab</category>
-
-        <category>event</category>
-
-        <category>algorave</category>
-
-        <category>live coding</category>
-
-
-        <category>blog</category>
-
-      </item>
-
+    
   </channel>
 </rss>
