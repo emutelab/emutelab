@@ -9,13 +9,13 @@ date: 2018-03-08
 ---
 
 
-<b>::::: Thursday, May 3rd, 2018. 4pm - Sussex Humanities Lab :::::</b>   
+<b>::::: Thursday, May 3rd, 2018. 4pm - Sussex Humanities Lab :::::</b>
 
 <b>Talk: Perspectives in Ecoacoustics -- Prof Almo Farina, University of Urbino, Italy</b>
 
 We are delighted to welcome Prof Almo Farina, a naturalist and landscape ecologist and one of the pioneers of Ecoacoustics - the investigation of the ecological role of sounds.
 
-<a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (Silverstone Building, 2nd floor) - All welcome!
+<a href="http://www.sussex.ac.uk/shl/">Sussex Humanities Lab</a> (Silverstone Building, SB211) - All welcome!
 
 ![Farina](/img/farina_ALMO_FARINA.jpg)
 > When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.
@@ -39,10 +39,10 @@ Long-term monitoring, habitat health, biodiversity assessment, soundscape conser
 Almo Farina is an Italian naturalist and Professor of Ecology in the Department of Pure and Applied Sciences, Urbino University, Italy. He has dedicated the last ten years to elaborate new theories in landscape ecology, soundscape ecology and ecoacoustics. He considers the protection of the biological diversity integrated with the human cultural heritage and well-being, a priority of its scientific and human mission. In 2014 Almo was elected the first President of the [International Society of Ecoacoustics](https://sites.google.com/site/ecoacousticssociety/), and in 2015 he founded the [International Institute of Ecoacoustics](http://www.iinsteco.org/) .
 
 
-- Author of [Ecoacoustics: The Ecological Role of Sounds](https://www.wiley.com/en-gb/Ecoacoustics:+The+Ecological+Role+of+Sounds-p-9781119230694)   
-- Editor-in-Chief of the [Journal of Ecoacoustics](https://www.veruscript.com/journals/journal-of-ecoacoustics/)     
-- [Journal of Mediterranean Ecology](http://www.jmecology.com/)   
-- [Code Biology](http://www.codebiology.org/)   
+- Author of [Ecoacoustics: The Ecological Role of Sounds](https://www.wiley.com/en-gb/Ecoacoustics:+The+Ecological+Role+of+Sounds-p-9781119230694)
+- Editor-in-Chief of the [Journal of Ecoacoustics](https://www.veruscript.com/journals/journal-of-ecoacoustics/)
+- [Journal of Mediterranean Ecology](http://www.jmecology.com/)
+- [Code Biology](http://www.codebiology.org/)
 
 ----
 Presented in association with [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/) and [Sussex Sustainability Research Programme](http://www.sussex.ac.uk/ssrp/)
