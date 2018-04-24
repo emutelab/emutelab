@@ -8,11 +8,11 @@ author: Alice Eldridge
 date: 2018-04-23
 ---
 
+![soundcamp](/img/westbeach_text.jpg)
 
-### :::::  May 5th - May 6th. Newhaven Community Garden :::::
+<b> :::::  May 5th - May 6th. Newhaven Community Garden :::::   <b>
 
-### <b>Event: Newhaven Soundcamp</b>
-![soundcamp](/img/westbeach.jpg)
+<b> Event: Newhaven Soundcamp
 
 Join us for newhaven soundcamp over the International Dawn Chorus weekend of 5th to 6th May 2018, when small groups of people around the world will sleep outside and listen.
 

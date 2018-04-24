@@ -5,16 +5,17 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Apr 2018 16:27:48 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 16:27:48 +0100</lastBuildDate>
+    <pubDate>Mon, 23 Apr 2018 16:36:15 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Apr 2018 16:36:15 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Newhaven Soundcamp</title>
-        <description>&lt;h3 id=&quot;--may-5th---may-6th-newhaven-community-garden-&quot;&gt;:::::  May 5th - May 6th. Newhaven Community Garden :::::&lt;/h3&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/westbeach_text.jpg&quot; alt=&quot;soundcamp&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;event-newhaven-soundcamp&quot;&gt;&lt;b&gt;Event: Newhaven Soundcamp&lt;/b&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/img/westbeach.jpg&quot; alt=&quot;soundcamp&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; :::::  May 5th - May 6th. Newhaven Community Garden :::::   &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Event: Newhaven Soundcamp&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Join us for newhaven soundcamp over the International Dawn Chorus weekend of 5th to 6th May 2018, when small groups of people around the world will sleep outside and listen.&lt;/p&gt;
 
