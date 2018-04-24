@@ -3,17 +3,10 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-<<<<<<< HEAD
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Apr 2018 09:44:31 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Apr 2018 09:44:31 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
-=======
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Apr 2018 16:36:15 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 16:36:15 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Apr 2018 10:45:23 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 10:45:23 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -57,7 +50,6 @@
         <category>blog</category>
         
       </item>
->>>>>>> e769586874c1c438d4f9d5a41fcf1bb7d060687c
     
       <item>
         <title>Seminar: Gianluca Memoli and Spyros Polychronopoulos (Interact Lab, Informatics)</title>
