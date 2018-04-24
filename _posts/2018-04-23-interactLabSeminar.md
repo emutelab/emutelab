@@ -15,6 +15,8 @@ We have two talks from members of the Interact Lab at Sussex, who are both resea
 
 ## Spyros Polychronopoulos: New ways to create and deliver music
 
+![Spyros Polychronopoulos](/img/spolychronopoulos.jpg)
+
 The aesthetics of dead (as pre-recorded) and live (as endless unique reproduced) music. Challenging the “here and now” of the work of art with programmable performers.
 
 References
@@ -30,6 +32,9 @@ References
 Spyros Polychronopoulos was born in Athens, Greece in 1980. His interest in sound, both as a physical phenomenon as well as a form of art, began at an early age. He holds a degree in Physics and a PhD in Electrical Engineering from University of Patras, Greece. His thesis focused on tuning the acoustics of closed spaces and he has published a number of papers in this field. After relocating to London in 2014, he gained three years of practical experience working as an acoustic consultant. Further to his research in sound, he has developed unique sound objects, released 15 albums and performed a number of concerts around the world. Spyros regularly leads workshops and lectures discussing the new technologies in composition and aesthetics of sound. He currently works as a Research Fellow in the Informatics Department at the University of Sussex, UK, researching ‘Human-computer Interaction for Acoustic Levitation’.
 
 ## Gianluca Memoli: Spatial Sound using Meta-materials
+
+![Gianluca Memoli](/img/gmemoli.jpg)
+
 
 When an architect, a sound engineer or a theatre director designs the acoustics of a space, the presence of sound is binary: it is either there for everyone or not. We manage light differently, though: well-established technologies allows us to exploit light and shadows, beams that follow characters, diffused or focused spotlights. The technology for achieving similar results with sound is simply not there: since directional speakers still don’t maintain their promises in terms of performance, large arrays of speakers are still used for beam-forming, either software controlled or spatially arranged. In this talk, I will discuss the opportunities offered by acoustic meta-materials to achieve spatial control on sound in static applications. These can be placed in front of loudspeakers just like lenses or filters would be positioned in front of a light source, for achieving diffraction-limited effects. I will also discuss where, in my opinion, these new tools may lead us in the short and medium term and whether they will eventually give us the same control on sound that we have on light, across all the frequency range.
 
