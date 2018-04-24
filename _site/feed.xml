@@ -3,11 +3,11 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Apr 2018 11:19:48 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Apr 2018 11:19:48 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 24 Apr 2018 11:47:58 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 11:47:58 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>EMuTeLab @ Seeing Sound - Report</title>
@@ -38,8 +38,8 @@
 &lt;p&gt;Chris performed this new piece live.  You can see a generative version that runs in your web browser at &lt;a href=&quot;http://facingaway.luuma.net/&quot;&gt;http://facingaway.luuma.net/&lt;/a&gt; (fairly decent GPU needed)&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/seeingsoundreport</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/seeingsoundreport</guid>
+        <link>http://localhost:4000/blog/seeingsoundreport</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/seeingsoundreport</guid>
         
         <category>emutelab</category>
         
@@ -56,6 +56,44 @@
         <category>machine learning</category>
         
         <category>vectrex</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Ens Ekt</title>
+        <description>&lt;iframe src=&quot;https://player.vimeo.com/video/260582432&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/260582432&quot;&gt;Ens Ekt @ SARC 1&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user7828804&quot;&gt;Paul Stapleton&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; :::::  June 1st - 1300 - 1500 - Sussex Campus, venue tbc :::::   &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Improvising trio Ens Ekt will be giving a short performance and improvisation workshop introducing their approach to free improvisation, incorporating the resonator instruments of Paul Stapleton.&lt;/p&gt;
+
+&lt;p&gt;All welcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More info soon&lt;/em&gt; – to register interest for this event please email alicee_at_sussex.ac.uk stating whether you are interested in taking part in the workshop and what your instrument is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adam Pultz Melbye&lt;/strong&gt; – double bass&lt;br /&gt;
+&lt;strong&gt;Simon Rose&lt;/strong&gt; – baritone saxophone&lt;br /&gt;
+&lt;strong&gt;Paul Stapleton&lt;/strong&gt; – bonsai sound sculpture (BoSS)  &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ens Ekt features the experimental musical inventions of Paul Stapleton (Californian born, Belfast-based) placed in dialogue with the circular breathed multiphonics and harmonic textures of Simon Rose (English born, Berlin-based) and the resonant gestural and spectrally focused playing of Adam Pultz Melbye (Danish born, Berlin-based). The group explores emergent timbral, dynamic and social musical structures through improvisation. Having worked together more frequently in duo settings (see below), the trio configuration offers an opportunity to explore new modes of interactions in part facilitated by purpose built technologies that intertwine metallic, wooden and electronic resonances in real time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.paulstapleton.net/wp-content/uploads/2017/09/Ens-Ekt-01-900x450.jpg&quot; alt=&quot;ensekt&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/ensekt</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/ensekt</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>improvisation</category>
+        
+        <category>NIME</category>
         
         
         <category>blog</category>
@@ -88,8 +126,8 @@
 &lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/soundcamp</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/soundcamp</guid>
+        <link>http://localhost:4000/blog/soundcamp</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
         
         <category>emutelab</category>
         
@@ -139,8 +177,8 @@
 &lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/interactLabSeminar</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/interactLabSeminar</guid>
+        <link>http://localhost:4000/blog/interactLabSeminar</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
         
         <category>emutelab</category>
         
@@ -167,8 +205,10 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, SB211) - All welcome!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;
-&amp;gt; When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
 
@@ -200,8 +240,8 @@
 &lt;p&gt;Presented in association with &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; and &lt;a href=&quot;http://www.sussex.ac.uk/ssrp/&quot;&gt;Sussex Sustainability Research Programme&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/almoFarina</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/almoFarina</guid>
+        <link>http://localhost:4000/blog/almoFarina</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
         
         <category>emutelab</category>
         
@@ -268,8 +308,8 @@ Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/mindreaders</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/mindreaders</guid>
+        <link>http://localhost:4000/blog/mindreaders</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
         
         <category>emutelab</category>
         
@@ -311,8 +351,8 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/darkmatter</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/darkmatter</guid>
+        <link>http://localhost:4000/blog/darkmatter</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
         
         <category>emutelab</category>
         
@@ -397,8 +437,8 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab0</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
+        <link>http://localhost:4000/blog/emutelab0</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
         
         <category>emutelab</category>
         
@@ -550,8 +590,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/year2017</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/year2017</guid>
+        <link>http://localhost:4000/blog/year2017</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
         
         <category>emutelab</category>
         
@@ -599,8 +639,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/twophds</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/twophds</guid>
+        <link>http://localhost:4000/blog/twophds</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
         
         <category>emutelab</category>
         
@@ -613,61 +653,6 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
         <category>sonificiaton</category>
         
         <category>instruments</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Visiting Researcher: Alberto Novello</title>
-        <description>&lt;p&gt;&lt;b&gt;:::: Thursday, October 26th, 1.00pm @ SHL ::::&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Our visiting researcher, Dr Alberto Novello, will give a talk at the Sussex Humanities Lab, followed by a short workshop. All welcome!&lt;/p&gt;
-
-&lt;p&gt;Talk Title: &lt;b&gt;Invisible to visible: bio signals and possible applications in the arts.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;In the lecture I will present my body of work, with a particular emphasis on the bio data installations and performances. I will talk about aesthetics of bio signal performances and the correlated dramaturgical limitations. I will explain the approach I followed when creating Fragmentation, UN (focussed) and Brain Pong: my three works using EEG signals. I will explain the techniques and mathematical tools I used and discuss/criticize the final results.&lt;/p&gt;
-
-&lt;p&gt;After the lecture there will be a &lt;b&gt;workshop&lt;/b&gt; on the same topic, open to all:&lt;/p&gt;
-
-&lt;p&gt;The focus of the workshop is to get first acquainted with the hardware: two EEG headsets will be compared in their level of complexity to setup vs quality of their data. The workshop will also talk about the possible alternatives on the market the pros and cons of the most common headsets around. The second part of the workshop will focus on software and data analysis: what kind of high-level features can we extract from the raw EEG data? How should we treat that data to extract for example energy bands? What do those band mean and how do they correlate with our everyday brain activity? In the third part, the participants will be encouraged to imagine a possible short performance/installation and, in groups, try and sketch a possible code for it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/novello.jpg&quot; alt=&quot;Novello&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Alberto Novello is a scientist, composer, sound and video artist. His main artistic focus is directed towards the creation of probabilistic multi-media architectures, on the technological limit between instability and error, failure and expression. Lately he moved from digital systems to analog found or decontextualized electronic ensembles.&lt;/p&gt;
-
-&lt;p&gt;He graduated in Nuclear Physics at the University of Trieste, completed the master “Art, Science and Technologies” with Jean Claude Risset and Claude Cadoz, he obtained a PhD degree at the Technische Universiteit Eindhoven with Armin Kohlrausch and graduated in electroacoustic music composition at the Institute of Sonology, Royal Conservatory of Den Haag with Paul Berg, Joel Ryan, and Richard Barret. In his works, he has assisted Alvin Lucier, Nicholas Collins and Trevor Wishart. In the years he also worked Philips Research, Eindhoven, and Auro Technologies Belgium creating software for their audio application.&lt;/p&gt;
-
-&lt;p&gt;His artistic works have been presented in international festivals such as Amsterdam Dance Event, Venice Biennale, Impuls Tanz Vienna, Seoul International Music Festival, Emu Fest Roma, Monaco Electroacoustique, New York Computer Music Festival, Rewire Festival and conferences such as NIME, ICMC, ISMIR, ICMPC, ICA, ICCE and ESSEM and institutes for contemporary music research such as CCMAS in Mexico, GRM in France, Logos Foundation in Belgium, STEIM Amsterdam, IEM Graz, OMI New York, the Royal Conservatory of Den Haag, Conservatory of Padua.&lt;/p&gt;
-
-&lt;p&gt;He was part of the Sonology Electroacoustic Ensemble. He has released his works on CD/DVD as “JesterN’ for Dobialabel, Modisti, Bowindo, SONMA Archive and Hybrida records.&lt;/p&gt;
-
-&lt;p&gt;Novello has improvised with Evan Parker and Butch Morris, Karl Berger and composed for the choreographies of Ola Maciejewska and Liat Waysbort.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;www.jestern.com&quot;&gt;www.jestern.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;ALBERTO NOVELLO / JesterN&lt;br /&gt;
-site: &lt;a href=&quot;www.jestern.com&quot;&gt;jestern.com&lt;/a&gt;&lt;br /&gt;
-shop: &lt;a href=&quot;www.jestern.bandcamp.com&quot;&gt;jestern.bandcamp.com&lt;/a&gt;&lt;br /&gt;
-audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jestern&lt;/a&gt;&lt;br /&gt;
-video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/novello</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/novello</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>machine learning</category>
-        
-        <category>analog synthesis</category>
-        
-        <category>brain interfaces</category>
-        
-        <category>laser</category>
         
         
         <category>blog</category>
