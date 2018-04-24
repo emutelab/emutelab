@@ -3,24 +3,70 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-<<<<<<< HEAD
     <link>http://www.emutelab.org/</link>
     <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Apr 2018 09:44:31 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Apr 2018 09:44:31 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Apr 2018 11:14:41 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 11:14:41 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
-=======
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Apr 2018 16:27:48 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 16:27:48 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>EMuTeLab @ Seeing Sound - Report</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.seeingsound.co.uk&quot;&gt;Seeing Sound&lt;/a&gt; is a biannual symposium on audiovisual art, which took place at Bath Spa University in March.  This year two EMuTeLab members were presenting their work:&lt;/p&gt;
+
+&lt;h3 id=&quot;andrew-duff-i-dont-think-anyone-has-been-electrocuted-yet-sharing-info-online-to-modify-an-old-games-console-for-vector-oscillographics&quot;&gt;Andrew Duff: &lt;em&gt;I don’t think anyone has been electrocuted yet: Sharing info online to modify an old games console for vector oscillographics&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/duff_seeingsound.jpg&quot; alt=&quot;Andrew Duff presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Abstract: &lt;em&gt;Since sharing a pdf online about how to modify a Vectrex (an early 1980s vector-based games console) to directly take in three audio signals to draw directly on the screen as one would with an oscilloscope, I have unwittingly become a ‘go-to guy’ with regards to entering the world of vector oscillographics. I have since been invited to talk at various electronic music events and am regularly contacted with requests for support, information and recommendations on appropriate modules. All the while the games console itself becomes harder to find on the second-hand market as they are perhaps becoming something of a cult artefact sought after by both gamers and electronic artists/musicians alike.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Vectrex offers a unique visual experience rarely found in standard oscilloscopes; it utilises three inputs for x, y and z control of the electron beam, is monochromatic, and the screen is relatively large. It does, however have its own idiosyncrasies, which makes for an interesting tool to work and perform with.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This talk will present a brief contextual history of experiments in this field with some examples of influential oscillographic artists such as Ben Laposky &amp;amp; Herbert W. Franke, followed by an overview of the impact sharing this pdf has had with examples of work by a range of current artists, experimentalists and performers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Andrew’s talk was part of a wider Vectrex theme at Seeing Sound, with other presentations from Derek Holzer and Douglas Nunn.  You can find his slides on his website &lt;a href=&quot;http://users.sussex.ac.uk/~ad207/adweb/assets/seeingsound2018slides.pdf&quot;&gt;http://users.sussex.ac.uk/~ad207/adweb/assets/seeingsound2018slides.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;chris-kiefer-10k-video&quot;&gt;Chris Kiefer: &lt;em&gt;10K Video&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/10kvideo.png&quot; alt=&quot;Chris Kiefer 10K Video&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;10000 neural oscillators conspire to make a bad approximation of a one second video loop, while their internal networks are stretched and twisted by their own sound and their neighbours.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is an improvised performance, where a video is resynthesised by an ensemble of neural conceptor networks, each of which has learnt (with varying degrees of success) to approximate the behaviour of an individual pixel in the original.  The ghostly result is manipulated live, to send this mass of miniature feedback systems into collective overdrive.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The neural networks used in this piece are complex dynamical systems which need self-sustaining energy to continue their role; they follow a trajectory, but this trajectory can be manipulated and influenced, both between networks and from global forces; these networks can be damped, overdriven, distorted, leaked, excited, surprised, saturated and revitalised.  When revitalised in synchrony they can play a rendition of the original video loop.  When manipulated, this video can be distorted and effected in many directions.  During the piece, the host of networks are continually revitalised, and then manipulated along infinity varying trajectories towards noise or destruction.&lt;/p&gt;
+
+&lt;p&gt;Chris performed this new piece live.  You can see a generative version that runs in your web browser at &lt;a href=&quot;http://facingaway.luuma.net/&quot;&gt;http://facingaway.luuma.net/&lt;/a&gt; (fairly decent GPU needed)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/seeingsoundreport</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/seeingsoundreport</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>talk</category>
+        
+        <category>audiovisual</category>
+        
+        <category>music</category>
+        
+        <category>graphics</category>
+        
+        <category>machine learning</category>
+        
+        <category>vectrex</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Newhaven Soundcamp</title>
-        <description>&lt;h3 id=&quot;--may-5th---may-6th-newhaven-community-garden-&quot;&gt;:::::  May 5th - May 6th. Newhaven Community Garden :::::&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;may-5th---may-6th-newhaven-community-garden-&quot;&gt;:::::  May 5th - May 6th. Newhaven Community Garden :::::&lt;/h3&gt;
 
-&lt;h3 id=&quot;event-newhaven-soundcamp&quot;&gt;&lt;b&gt;Event: Newhaven Soundcamp&lt;/b&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;bevent-newhaven-soundcampb&quot;&gt;&lt;b&gt;Event: Newhaven Soundcamp&lt;/b&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/img/westbeach.jpg&quot; alt=&quot;soundcamp&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Join us for newhaven soundcamp over the International Dawn Chorus weekend of 5th to 6th May 2018, when small groups of people around the world will sleep outside and listen.&lt;/p&gt;
@@ -41,8 +87,8 @@
 &lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/soundcamp</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
+        <link>http://www.emutelab.org/blog/soundcamp</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/soundcamp</guid>
         
         <category>emutelab</category>
         
@@ -56,7 +102,6 @@
         <category>blog</category>
         
       </item>
->>>>>>> e769586874c1c438d4f9d5a41fcf1bb7d060687c
     
       <item>
         <title>Seminar: Gianluca Memoli and Spyros Polychronopoulos (Interact Lab, Informatics)</title>
@@ -93,8 +138,8 @@
 &lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/interactLabSeminar</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
+        <link>http://www.emutelab.org/blog/interactLabSeminar</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/interactLabSeminar</guid>
         
         <category>emutelab</category>
         
@@ -121,10 +166,8 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, SB211) - All welcome!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;
+&amp;gt; When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
 
 &lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
 
@@ -156,8 +199,8 @@
 &lt;p&gt;Presented in association with &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; and &lt;a href=&quot;http://www.sussex.ac.uk/ssrp/&quot;&gt;Sussex Sustainability Research Programme&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/almoFarina</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
+        <link>http://www.emutelab.org/blog/almoFarina</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/almoFarina</guid>
         
         <category>emutelab</category>
         
@@ -224,8 +267,8 @@ Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/mindreaders</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
+        <link>http://www.emutelab.org/blog/mindreaders</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/mindreaders</guid>
         
         <category>emutelab</category>
         
@@ -267,8 +310,8 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/darkmatter</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
+        <link>http://www.emutelab.org/blog/darkmatter</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/darkmatter</guid>
         
         <category>emutelab</category>
         
@@ -353,8 +396,8 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab0</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
+        <link>http://www.emutelab.org/blog/emutelab0</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
         
         <category>emutelab</category>
         
@@ -506,8 +549,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/year2017</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/year2017</guid>
+        <link>http://www.emutelab.org/blog/year2017</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/year2017</guid>
         
         <category>emutelab</category>
         
@@ -555,8 +598,8 @@ Cyber-Divas: Vocaloids as Postdigital Opera Singers&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/emsley.png&quot; alt=&quot;Emsley&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/twophds</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/twophds</guid>
+        <link>http://www.emutelab.org/blog/twophds</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/twophds</guid>
         
         <category>emutelab</category>
         
@@ -610,8 +653,8 @@ audio: &lt;a href=&quot;www.soundcloud.com/jestern&quot;&gt;soundcloud.com/jeste
 video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/novello</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/novello</guid>
+        <link>http://www.emutelab.org/blog/novello</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/novello</guid>
         
         <category>emutelab</category>
         
@@ -624,38 +667,6 @@ video: &lt;a href=&quot;www.vimeo.com/jestern&quot;&gt;vimeo.com/jestern&lt;/a&g
         <category>brain interfaces</category>
         
         <category>laser</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Residency Report: Marije Baalman and Chrysalis</title>
-        <description>&lt;p&gt;For the past six days, &lt;a href=&quot;https://www.marijebaalman.eu&quot;&gt;Marije Baalman&lt;/a&gt; has been visiting Sussex for part one of a residency with by EMuteLab and Sussex Humanities Lab.   We’ve been exploring serendipity in mappings for interactive instruments, and focusing on her recent piece &lt;a href=&quot;https://www.marijebaalman.eu/projects/chrysalis.html&quot;&gt;Chrysalis&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Chrysalis is a cocoon like instrument made from stretch fabric and poles. You crawl into the structure, and when you move around, the wireless accelerometers and stretch sensors (using Marije’s SenseStage system) are mapped to sound and to RGB lights which light up the chrysalis.  Marije wanted to explore new mappings which were less predictable and more engaging to interact with, while at the same time, did not risk moving into modes that were too random or out of keeping with the broad aesthetics of the piece.  Following from some of my &lt;a href=&quot;https://sro.sussex.ac.uk/51860/1/NIME2014-ESN.pdf&quot;&gt;previous work using Echo State Networks&lt;/a&gt; to create complex mappings, we explored Jaeger’s more recent innovations in this area, using a new technique: &lt;a href=&quot;http://minds.jacobs-university.de/conceptors&quot;&gt;Conceptors&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Conceptors essentially capture modes of behaviour of a reccurrent neural network, after which they can be used for pattern generation and for sequence recognition.  When used for pattern generation, they have some very interesting properties: you can mix and morph between patterns and also extrapolate new pattern variations.  This fitted in really well with our aim of encouraging interesting variation in mappings, while staying within a broader aesthetic.  Conceptors allow the creation of new and interesting pattern variations, but without moving too far from the original pattern. In other words, we can create surprises without the risk of them being too surprising.  The addition bonus is that these patterns are generated in real time, and can interact intuitively with sensors. We mapped them to control lighting patterns, and also used the network activations as wavetables to synthesise sound.&lt;/p&gt;
-
-&lt;p&gt;Another innovation was to adapt conceptors for realtime sequence recognition.  This worked successfully with accelerometer data. The way in which conceptors can be used with boolean logic make them a very powerful tool for pattern classification which we will be exploring more before Marije returns for part 2 of her residency in January.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/chrysalis2.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;
-&lt;img src=&quot;/img/chrysalis3.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;
-&lt;img src=&quot;/img/chrysalis_shl_lightson.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;
-&lt;img src=&quot;/img/chrysalis-diag.jpg&quot; alt=&quot;Chrsalis&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Sep 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/chrysalis-report</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chrysalis-report</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>machine learning</category>
-        
-        <category>live coding</category>
         
         
         <category>blog</category>
