@@ -27,7 +27,7 @@ The broadcast will be made using a DIY radio transmitter constructed from a rasp
 [Further information and free tickets](https://www.eventbrite.co.uk/e/soundcamp-newhaven-tickets-45174650596)
 
 
-On May 3, Prof Almo Farina will be [giving a talk](http://www.emutelab.org/blog/almoFarina)on his pioneering work in Ecoacoustics - all welcome. 
+On May 3, Prof Almo Farina will be [giving a talk](http://www.emutelab.org/blog/almoFarina) on his pioneering work in Ecoacoustics - all welcome. 
 
 
 ----

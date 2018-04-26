@@ -46,3 +46,6 @@ Almo Farina is an Italian naturalist and Professor of Ecology in the Department 
 
 ----
 Presented in association with [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/) and [Sussex Sustainability Research Programme](http://www.sussex.ac.uk/ssrp/)
+
+----
+May 5 & 6 is International Dawn Chorus day. Join us for the [Newhaven Soundcamp](http://www.emutelab.org/blog/soundcamp) or listen in to a [live stream](http://soundtent.org/soundcamp_listen.html) of dawn chorus as it spreads across planet with the rising sun.
