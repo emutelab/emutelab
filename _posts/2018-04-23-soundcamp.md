@@ -26,7 +26,8 @@ The broadcast will be made using a DIY radio transmitter constructed from a rasp
 
 [Further information and free tickets](https://www.eventbrite.co.uk/e/soundcamp-newhaven-tickets-45174650596)
 
-Listen in to the stream of International Dawn Chorus Weekend [here](http://streams.soundtent.org/2018/streams)
+Listen in to the stream of International Dawn Chorus Weekend [here](http://soundtent.org/soundcamp_listen.html)
+
 
 
 ----
