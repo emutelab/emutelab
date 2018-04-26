@@ -26,8 +26,8 @@ The broadcast will be made using a DIY radio transmitter constructed from a rasp
 
 [Further information and free tickets](https://www.eventbrite.co.uk/e/soundcamp-newhaven-tickets-45174650596)
 
-Listen in to the stream of International Dawn Chorus Weekend [here](http://soundtent.org/soundcamp_listen.html)
 
+On May 3, Prof Almo Farina will be [giving a talk](http://www.emutelab.org/blog/almoFarina)on his pioneering work in Ecoacoustics - all welcome. 
 
 
 ----
