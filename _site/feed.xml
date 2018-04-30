@@ -5,24 +5,13 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Apr 2018 13:31:11 +0100</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 13:31:11 +0100</lastBuildDate>
+    <pubDate>Mon, 30 Apr 2018 13:51:58 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2018 13:51:58 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>Emutelab1</title>
-        <description>
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title: “Emute Lab 1”
-subheading: “Free Strings &amp;amp; No Input Pedal board Duos”
-categories: blog
-tags: [emutelab, event, improvisation, NIME]
-author: Alice Eldridge
-date: 2018-04-30
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt; :::::  May 23 - 7.30pm The Rosehill, Brighton :::::   &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+        <title>Emute Lab 1 @ The Rosehill</title>
+        <description>&lt;p&gt;&lt;b&gt; :::::  May 23 - 7.30pm The Rosehill, Brighton :::::   &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/emuteGigPoster_noText_landscape.png&quot; alt=&quot;EMuTeLab1&quot; /&gt;&lt;/p&gt;
 
@@ -80,6 +69,16 @@ date: 2018-04-30
         <link>http://localhost:4000/blog/emutelab1</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab1</guid>
         
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>improvisation</category>
+        
+        <category>NIME</category>
+        
+        
+        <category>blog</category>
         
       </item>
     
