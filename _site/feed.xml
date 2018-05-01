@@ -5,8 +5,8 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Apr 2018 15:02:29 +0100</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 15:02:29 +0100</lastBuildDate>
+    <pubDate>Tue, 01 May 2018 15:53:27 +0100</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 15:53:27 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -60,6 +60,8 @@
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;b&gt;Noise Peddler&lt;/b&gt; (Danny Bright + Lee Westwood): two pedalboards, four amplifiers, and no inputs. Noise Peddler perform part-composed, part-improvised sounds generated and manipulated by guitar pedals.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vXu1KTFuDdM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;b&gt;Danny Bright&lt;/b&gt; is a composer, sound designer, recordist, and sonic manipulator working across the fields of music, performance, installation, theatre and media. His practice explores the boundaries between sound/music/noise and space/place/memory; he is currently developing multi-modal compositional, performance, critical and installation work investigating sonic temporalities and auditory ‘ghostings’. Danny performs on guitar, samplescapes, tape, text/voice, and electronics as an ensemble member/leader, solo artist and improviser. He also works as a sound designer and composer for internationally recognised arts, theatre and media companies, and as a producer, recordist, sound technologist and engineer.&lt;/p&gt;
 
