@@ -26,8 +26,8 @@ The broadcast will be made using a DIY radio transmitter constructed from a rasp
 <b>Links:</b>
 
 - [Further information and free tickets](https://www.eventbrite.co.uk/e/soundcamp-newhaven-tickets-45174650596) for Newhaven Soundcamp
-- Links to [listen to the curated stream on International Dawn Chorus Day](http://soundtent.org/soundcamp_listen.html)
-- Map of open mics at [locussonus.org](http://locusonus.org/soundmap/051/)
+- [listen to the curated stream on International Dawn Chorus Day](http://soundtent.org/soundcamp_listen.html)
+- Listen in to the Newhaven mic on the [locussonus sound map](http://locusonus.org/soundmap/051/) - this will be streaming all weekend
 - More about [Soundcamp](soundtent.org) and links other soundcamps around the world
 - [Information on building your own DIY radio transmitter](https://paper.dropbox.com/doc/Streaming-Workshop-Brighton-Digital-Festival-Onca-Gallery-12-10-17-0SoIwneySy7FLeixfsveP)
 - [Further info on solar panels for off grid streaming](https://paper.dropbox.com/doc/Solar-power-for-off-grid-streaming-JF9LIMXwqMeH19twsrX3U)
@@ -38,7 +38,7 @@ The broadcast will be made using a DIY radio transmitter constructed from a rasp
 
 ----
 On May 3, Prof Almo Farina will be [giving a talk](http://www.emutelab.org/blog/almoFarina) on his pioneering work in Ecoacoustics - all welcome.
-----
+
 
 ----
 Presented in association with [The Living Coast](https://www.thelivingcoast.org.uk/), kindly hosted by [Growing Together Newhaven](http://growingtogethernewhaven.org/) and supported by [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/).
