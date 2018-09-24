@@ -3,11 +3,11 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Sep 2018 14:25:26 +0100</pubDate>
-    <lastBuildDate>Wed, 12 Sep 2018 14:25:26 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 24 Sep 2018 21:32:01 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Sep 2018 21:32:01 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
     
       <item>
         <title>Emute Lab 2 @ The Rosehill</title>
@@ -67,9 +67,9 @@
 
 &lt;p&gt;&lt;a href=&quot;https://bleep.com/release/103083-qgb-hornets&quot;&gt;https://bleep.com/release/103083-qgb-hornets&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab2</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab2</guid>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/emutelab2</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab2</guid>
         
         <category>emutelab</category>
         
@@ -151,9 +151,9 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Described by the Musician’s Union as “one of the UK’s most exciting and versatile musicians”, &lt;b&gt;Lee Westwood&lt;/b&gt; is a guitarist and composer whose wide-ranging output stems from a long-term tenacity for musical exploration. Far from ordinary, Lee’s works range from the Geometry-Music crossover of his multimedia exhibition ‘A Hidden Order’ (Saatchi Gallery, Athr, SCOPE) to a vast back-catalogue of works for solo guitar; from headlining festival stages with Hip-Hop groups and Prog Folk acts (Dizraeli &amp;amp; The Small Gods; Le Juki) to commissions from some of the UK’s leading ensembles and choirs (LSO, WUE; Musarc; Riot Ensemble; Notes Inégales). – &lt;a href=&quot;www.lee-westwood.com&quot;&gt;www.lee-westwood.com&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 30 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab1</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab1</guid>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/emutelab1</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab1</guid>
         
         <category>emutelab</category>
         
@@ -196,9 +196,9 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Chris performed this new piece live.  You can see a generative version that runs in your web browser at &lt;a href=&quot;http://facingaway.luuma.net/&quot;&gt;http://facingaway.luuma.net/&lt;/a&gt; (fairly decent GPU needed)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/seeingsoundreport</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/seeingsoundreport</guid>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/seeingsoundreport</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/seeingsoundreport</guid>
         
         <category>emutelab</category>
         
@@ -258,9 +258,9 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Ens Ekt will be playing a full set at &lt;a href=&quot;http://safehousebrighton.co.uk/2018/05/31/ens-ekt/&quot;&gt;Safehouse&lt;/a&gt; on May 31st.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/ensekt</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/ensekt</guid>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/ensekt</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/ensekt</guid>
         
         <category>emutelab</category>
         
@@ -310,9 +310,9 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 &lt;hr /&gt;
 &lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/soundcamp</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/soundcamp</guid>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/soundcamp</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
         
         <category>emutelab</category>
         
@@ -361,9 +361,9 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/interactLabSeminar</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/interactLabSeminar</guid>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/interactLabSeminar</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
         
         <category>emutelab</category>
         
@@ -390,8 +390,10 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, SB211) - All welcome!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;
-&amp;gt; When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
 
@@ -426,8 +428,8 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 &lt;p&gt;May 5 &amp;amp; 6 is International Dawn Chorus day. Join us for the &lt;a href=&quot;http://www.emutelab.org/blog/soundcamp&quot;&gt;Newhaven Soundcamp&lt;/a&gt; or listen in to a &lt;a href=&quot;http://soundtent.org/soundcamp_listen.html&quot;&gt;live stream&lt;/a&gt; of dawn chorus as it spreads across planet with the rising sun.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/almoFarina</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/almoFarina</guid>
+        <link>http://localhost:4000/blog/almoFarina</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
         
         <category>emutelab</category>
         
@@ -494,8 +496,8 @@ Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/mindreaders</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/mindreaders</guid>
+        <link>http://localhost:4000/blog/mindreaders</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
         
         <category>emutelab</category>
         
@@ -537,8 +539,8 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/darkmatter</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/darkmatter</guid>
+        <link>http://localhost:4000/blog/darkmatter</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
         
         <category>emutelab</category>
         
@@ -623,8 +625,8 @@ Using its modular synthesizer, JesterN manipulates electric voltages live, sendi
 
 </description>
         <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab0</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab0</guid>
+        <link>http://localhost:4000/blog/emutelab0</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
         
         <category>emutelab</category>
         
