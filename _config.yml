@@ -9,10 +9,12 @@ url: "http://www.emutelab.org"
 twitter_username: emutelab
 github_username:  emutelab
 facebook_username:  emutelab
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
-  
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 
 # Build settings
 markdown: kramdown
