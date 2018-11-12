@@ -5,9 +5,45 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Oct 2018 10:31:42 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Oct 2018 10:31:42 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Nov 2018 16:53:28 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 16:53:28 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Art of Soldering Workshop</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/soldering.jpg&quot; alt=&quot;ArtofSoldering&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;:::: Friday, Nov 23rd, 12-2pm, @ Sussex Humanites Lab ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Workshop Leader: Alex Peverett (SHL/Emute Lab)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Soldering is an essential skill for the modern musician, creative practitioner and researcher whose academic interests may lead them to accessing and maintaining electronic equipment. This workshop will cover a hands-on introduction to soldering, wiring your own audio cables and building DIY contact microphones and hydrophones.&lt;/p&gt;
+
+&lt;p&gt;Contact microphones enable us to access sounds that may otherwise seem hidden, picking up vibrations in material substances. They can also be used in building our own reverberation systems and for amplifying acoustic instruments. As hydrophones they can reveal whole new aquatic soundworlds for study.&lt;/p&gt;
+
+&lt;p&gt;This workshop on soldering serves as a good preparation for upcoming SHL/Emute DIWO workshops, which will include: DIY oscillators, Oscillographics and many others.&lt;/p&gt;
+
+&lt;p&gt;This open and friendly workshop is aimed at the absolute beginner, but will be helpful to the more advanced too. We encourage anyone of any background to sign up, so please visit the following link:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/the-art-of-soldering-cables-contact-microphones-and-hydrophones-tickets-52485642971&quot;&gt;https://www.eventbrite.co.uk/e/the-art-of-soldering-cables-contact-microphones-and-hydrophones-tickets-52485642971&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/artofsoldering</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/artofsoldering</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>improvisation</category>
+        
+        <category>audiovisual</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab 2 @ The Rosehill</title>
@@ -69,7 +105,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://bleep.com/release/103083-qgb-hornets&quot;&gt;https://bleep.com/release/103083-qgb-hornets&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/emutelab2</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab2</guid>
         
@@ -153,7 +189,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Described by the Musician’s Union as “one of the UK’s most exciting and versatile musicians”, &lt;b&gt;Lee Westwood&lt;/b&gt; is a guitarist and composer whose wide-ranging output stems from a long-term tenacity for musical exploration. Far from ordinary, Lee’s works range from the Geometry-Music crossover of his multimedia exhibition ‘A Hidden Order’ (Saatchi Gallery, Athr, SCOPE) to a vast back-catalogue of works for solo guitar; from headlining festival stages with Hip-Hop groups and Prog Folk acts (Dizraeli &amp;amp; The Small Gods; Le Juki) to commissions from some of the UK’s leading ensembles and choirs (LSO, WUE; Musarc; Riot Ensemble; Notes Inégales). – &lt;a href=&quot;www.lee-westwood.com&quot;&gt;www.lee-westwood.com&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/emutelab1</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab1</guid>
         
@@ -198,7 +234,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Chris performed this new piece live.  You can see a generative version that runs in your web browser at &lt;a href=&quot;http://facingaway.luuma.net/&quot;&gt;http://facingaway.luuma.net/&lt;/a&gt; (fairly decent GPU needed)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/seeingsoundreport</link>
         <guid isPermaLink="true">http://localhost:4000/blog/seeingsoundreport</guid>
         
@@ -260,7 +296,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Ens Ekt will be playing a full set at &lt;a href=&quot;http://safehousebrighton.co.uk/2018/05/31/ens-ekt/&quot;&gt;Safehouse&lt;/a&gt; on May 31st.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/ensekt</link>
         <guid isPermaLink="true">http://localhost:4000/blog/ensekt</guid>
         
@@ -312,7 +348,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 &lt;hr /&gt;
 &lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/soundcamp</link>
         <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
         
@@ -363,7 +399,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/interactLabSeminar</link>
         <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
         
@@ -429,7 +465,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 &lt;hr /&gt;
 &lt;p&gt;May 5 &amp;amp; 6 is International Dawn Chorus day. Join us for the &lt;a href=&quot;http://www.emutelab.org/blog/soundcamp&quot;&gt;Newhaven Soundcamp&lt;/a&gt; or listen in to a &lt;a href=&quot;http://soundtent.org/soundcamp_listen.html&quot;&gt;live stream&lt;/a&gt; of dawn chorus as it spreads across planet with the rising sun.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 08 Mar 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/almoFarina</link>
         <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
         
@@ -497,7 +533,7 @@ Twitter: &lt;a href=&quot;https://twitter.com/1000mindreaders&quot;&gt;@1000Mind
 Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/mindreaders</link>
         <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
         
@@ -540,7 +576,7 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Jan 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/darkmatter</link>
         <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
         
@@ -551,90 +587,6 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
         <category>performances</category>
         
         <category>sonification</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>EMuTeLab 0 @ The Rose Hill, Brighton</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab0_webflyer.png&quot; alt=&quot;EMuTeLab0 Gig Flyer&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Emute Lab presents… an evening of exciting experimental music&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Join us at the Rose Hill club to experience some cutting-edge music with new exciting instruments and audiovisual technologies. On the bill are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;JesterN (Laser Drawing / Modular Synth)&lt;/li&gt;
-  &lt;li&gt;Marije Baalman (Chrysalis / Installations)&lt;/li&gt;
-  &lt;li&gt;Brain Dead Ensemble (Thren0scope / Feedback Cellos / Feedback Double Bass)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;January 12th, 2018. 7pm. at &lt;a href=&quot;http://www.therosehill.co.uk&quot;&gt;The Rose Hill&lt;/a&gt;, Brighton. £5&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;JesterN: Laser Drawing&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;JesterN’s Laser Drawing is a synesthetic experience in which you can listen to what you see, and see what you listen to
-Using its modular synthesizer, JesterN manipulates electric voltages live, sending them in exactly the same way to the speakers to create sound and to the laser to create its curvy shapes with vivid colors. An artisanal live show in which every beat and every shape is simultaneously improvised on the stage. Being cooked on the spot, music-wise it depends on the space and on the vibe: it can go from drones, to harsh noise, from techno straight beats to IDM syncopations, or something completely diferent …&lt;/p&gt;
-
-&lt;p&gt;Alberto Novello a.k.a. JesterN is a scientist, composer, sound and video artist. In his works, he has assisted Alvin Lucier, Nicholas Collins and Trevor Wishart. His artistic works have been presented in international festivals such as Amsterdam Dance Event, Venice Biennale, Impuls Tanz Vienna, Seoul International Music Festival, Emu Fest Roma, Monaco Electroacoustique, New York Computer Music Festival, Rewire Festival and conferences such as NIME, ICMC, ISMIR, ICMPC, ICA, ICCE and ESSEM and institutes for contemporary music research such as CCMAS in Mexico, GRM in France, Logos Foundation in Belgium, STEIM Amsterdam, IEM Graz, OMI New York, the Royal Conservatory of Den Haag, Conservatory of Padua.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.jestern.com/&quot;&gt;http://www.jestern.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/235351838&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/235351838&quot;&gt;JesterN Laser Drawing @AESON Festival 2017&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/jestern&quot;&gt;jestern&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Marije Baalman&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;A cocoon lies on stage, barely recognisable in the dim light. Slow tones are sounding in the space. The light seems to change color – the tones are changing slowly in pitch. The cocoon seems to move – the light seems to get brighter and gradually shift color. Suddenly a fast movement – a shrieking sound fills the space – then again everything quiets down – the movement, the sound, the light.&lt;/p&gt;
-
-&lt;p&gt;Chrysalis is a performative environment where the focus is on slow movements – becoming aware of the minimal movements of the body, both conscious and unconscious movements. It is about interaction on a long timescale – involving multiple senses (hearing, sight, haptic).&lt;/p&gt;
-
-&lt;p&gt;Marije Baalman is an artist and researcher/developer working in the field of interactive sound art.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marijebaalman.eu/&quot;&gt;https://www.marijebaalman.eu/&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/183344106&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/183344106&quot;&gt;Chrysalis - a teaser&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user16929243&quot;&gt;Marije Baalman&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Brain Dead Ensemble&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;The Brain Dead Ensemble consists of members of the Emute Lab interested in feedback in acoustic and electronic instruments, and the combination of those. The audiovisual live coding instrument, Threnoscope, will feed sound directly into the acoustic instruments (two cellos and a double bass) via their mechanical actuators.&lt;/p&gt;
-
-&lt;p&gt;Thor Magnusson (Threnoscope, &lt;a href=&quot;http://www.ixi-audio.net/&quot;&gt;http://www.ixi-audio.net/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Thanos Polymeneas Liontiris (Feedback Bass, &lt;a href=&quot;http://thanospl.net/&quot;&gt;http://thanospl.net/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Alice Eldridge&lt;/p&gt;
-
-&lt;p&gt;Chris Kiefer&lt;/p&gt;
-
-&lt;p&gt;(Feedback Cell, Feedback Cellos, &lt;a href=&quot;http://feedbackcell.ooo/&quot;&gt;http://feedbackcell.ooo/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;There is no video of the Brain Dead Ensemble (they have not figured out how to do that), but there are some of the Threnoscope, cello and bass (Thor, Alice and Thanos):&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/179079463&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/179079463&quot;&gt;Fermata at OSC in Brighton&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/thormagnusson&quot;&gt;thormagnusson&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;and two feedback cellos (Alice and Chris):&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gazcpDOFTz0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab0</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab0</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>performances</category>
         
         
         <category>blog</category>
