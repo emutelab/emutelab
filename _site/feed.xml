@@ -5,9 +5,55 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 12 Nov 2018 16:53:28 +0100</pubDate>
-    <lastBuildDate>Mon, 12 Nov 2018 16:53:28 +0100</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 14:28:07 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 14:28:07 +0000</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Emute Lab 3</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/EmuteLab3.jpg&quot; alt=&quot;EmuteLab3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;:::: Wednesday, Jan 13th, 7.30-11pm, @ The Rose Hill, Brighton ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This programme will feature three acts exploring the interaction of sound and image.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BOG BODIES - (Robert Stillman, Sean Carpio, Anders Holst)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bog Bodies sound breaks down distinctions between composition and improvisation, electronic and acoustic sound, abstraction and figure. Their distinctive musical style reflects the eclecticism of the band members’ individual careers (they have collaborated with artists such as Manuel Göttsching, Kit Downes, and Joachim Badenhorst), and to the broad range of music from which they take inspiration, which includes James Blood Ulmer, Sunn O))), Archie Shepp, and Supersilent. Their first album, ‘Sligo’ was released in 2017 on Migro Recordings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thor Magnusson ‘Threnoscope’&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Threnoscope is a microtonal drone instrument that provides a context for improvisation of microtonal music where both the live coder and the instrumentalists influence the piece’s development. The Threnoscope is notated through live coding, with sound characteristics and speaker locations being visualised on a projected  graphical score. Musical notes move around the spectral and physical space, long in duration, and sculptable by the performer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roosa Poni&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Roosa Poni is a collaborative band of &lt;a href=&quot;http://tehis.net&quot;&gt;Alo Allik &lt;/a&gt; and Delia Fano Yela. Allik is an Estonian sound artist who has performed his live coded electronic music and generative computer graphics throughout the world. His aesthetically and geographically restless lifestyle has enabled him to traverse a diverse range of musical worlds including DJ-ing electronic dance music, live electronic jam sessions, electroacoustic composition, free improvisation and audiovisual performances. He has forged collaborations with a number of curious and innovative musicians, writers and visual artists along the way focussed on exploring links between science, technology, creativity and tradition. In recent years he has been developing a musical style he describes as noisefunk which derives its form from ancient tribal rhythm patterns and its sonic nature from evolutionary synthesis algorithms. Currently, Alo works as a researcher, programmer and lecturer in London, while continuing to perform his music and visuals to audiences worldwide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Koray Tahiroğlu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Koray Tahiroğlu is a musician, Academy Research Fellow in the Department of Media, Aalto University School of ARTS. He is the founder and head of SOPI (Sound and Physical Interaction) research group. He practices art as a researcher focusing on digital musical interactions, as well as a performer of live electronic music. Since 2004, he has been also teaching workshops and courses introducing computational strategies and methodologies for artistic exploration of interactive music. Tahiroğlu has performed experimental music in collaboration as well as in solo performances in Europe, North America and Australia.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/176701167&quot;&gt;https://vimeo.com/176701167&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tickets at the door, or even better, on &lt;a href=&quot;https://www.eventbrite.co.uk/e/emute-lab-3-tickets-55517138255?fbclid=IwAR1Hx8hsu0WjBbXuILO9aVdjIH4nYqPyUuyUZmoaX2TDDugqT5B_Nwu7KUA&quot;&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/emutelab3</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab3</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>improvisation</category>
+        
+        <category>audiovisual</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Art of Soldering Workshop</title>
@@ -28,7 +74,7 @@
 &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/the-art-of-soldering-cables-contact-microphones-and-hydrophones-tickets-52485642971&quot;&gt;https://www.eventbrite.co.uk/e/the-art-of-soldering-cables-contact-microphones-and-hydrophones-tickets-52485642971&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/artofsoldering</link>
         <guid isPermaLink="true">http://localhost:4000/blog/artofsoldering</guid>
         
@@ -105,7 +151,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://bleep.com/release/103083-qgb-hornets&quot;&gt;https://bleep.com/release/103083-qgb-hornets&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/emutelab2</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab2</guid>
         
@@ -189,7 +235,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Described by the Musician’s Union as “one of the UK’s most exciting and versatile musicians”, &lt;b&gt;Lee Westwood&lt;/b&gt; is a guitarist and composer whose wide-ranging output stems from a long-term tenacity for musical exploration. Far from ordinary, Lee’s works range from the Geometry-Music crossover of his multimedia exhibition ‘A Hidden Order’ (Saatchi Gallery, Athr, SCOPE) to a vast back-catalogue of works for solo guitar; from headlining festival stages with Hip-Hop groups and Prog Folk acts (Dizraeli &amp;amp; The Small Gods; Le Juki) to commissions from some of the UK’s leading ensembles and choirs (LSO, WUE; Musarc; Riot Ensemble; Notes Inégales). – &lt;a href=&quot;www.lee-westwood.com&quot;&gt;www.lee-westwood.com&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 30 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/emutelab1</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab1</guid>
         
@@ -234,7 +280,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Chris performed this new piece live.  You can see a generative version that runs in your web browser at &lt;a href=&quot;http://facingaway.luuma.net/&quot;&gt;http://facingaway.luuma.net/&lt;/a&gt; (fairly decent GPU needed)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/seeingsoundreport</link>
         <guid isPermaLink="true">http://localhost:4000/blog/seeingsoundreport</guid>
         
@@ -296,7 +342,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Ens Ekt will be playing a full set at &lt;a href=&quot;http://safehousebrighton.co.uk/2018/05/31/ens-ekt/&quot;&gt;Safehouse&lt;/a&gt; on May 31st.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/ensekt</link>
         <guid isPermaLink="true">http://localhost:4000/blog/ensekt</guid>
         
@@ -348,7 +394,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 &lt;hr /&gt;
 &lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/soundcamp</link>
         <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
         
@@ -399,7 +445,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 
 &lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/interactLabSeminar</link>
         <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
         
@@ -465,7 +511,7 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
 &lt;hr /&gt;
 &lt;p&gt;May 5 &amp;amp; 6 is International Dawn Chorus day. Join us for the &lt;a href=&quot;http://www.emutelab.org/blog/soundcamp&quot;&gt;Newhaven Soundcamp&lt;/a&gt; or listen in to a &lt;a href=&quot;http://soundtent.org/soundcamp_listen.html&quot;&gt;live stream&lt;/a&gt; of dawn chorus as it spreads across planet with the rising sun.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Mar 2018 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/almoFarina</link>
         <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
         
@@ -533,7 +579,7 @@ Twitter: &lt;a href=&quot;https://twitter.com/1000mindreaders&quot;&gt;@1000Mind
 Instagram: onethousandmindreaders&lt;br /&gt;
 Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/mindreaders</link>
         <guid isPermaLink="true">http://localhost:4000/blog/mindreaders</guid>
         
@@ -546,47 +592,6 @@ Facebook: @OneThousandMindreaders&lt;br /&gt;&lt;/p&gt;
         <category>mind reading</category>
         
         <category>HCI</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>BEER: Dark Matter at ACCA</title>
-        <description>&lt;p&gt;&lt;b&gt;::::: Wednesday, February 21st, 2018 @ ACCA, 8pm :::::&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;In collaboration with the Attenborough Centre for the Creative Arts, we are organising an eventful day with the &lt;a href=&quot;http://www.beast.bham.ac.uk/offspring/beer/&quot;&gt;Birmingham Ensemble for Electroacoustic Research&lt;/a&gt; (BEER).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/BEER.png&quot; alt=&quot;BEER&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This performance by the Birmingham Ensemble for Electroacoustic Research, created in collaboration with the &lt;a href=&quot;http://artcms.web.cern.ch/artcms/&quot;&gt;art@CMS&lt;/a&gt; project at CERN in Switzerland, involves the real-time sonification of data streams from the Large Hadron Collider, the world’s largest and most complex particle accelerator. Experimental data containing clues towards possible ‘new physics’ becomes the raw material for improvised music and visualisations programmed by the ensemble with an aim to creating a result that while beautiful, is also both musically and scientifically meaningful.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Workshop&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;::::: @ ACCA, 3-5pm :::::&lt;/p&gt;
-
-&lt;p&gt;This workshop for composers and artists explores the possibilities of using scientific data as a resource for music and sonic art, with particular focus on sonifying data from the Large Hadron Collider at CERN, the world’s largest particle accelerator. An introduction to the physics involved will be followed by an exploration of strategies for converting the data into sound. Previous experience of computer music environments is useful, but not required.&lt;/p&gt;
-
-&lt;p&gt;Places in the workshop are limited. Please sign up &lt;a href=&quot;https://goo.gl/forms/2cTbIecn62yPcwmf1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/darkmatter.png&quot; alt=&quot;Dark Matter Workshop&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Further information about the event on the &lt;a href=&quot;https://www.attenboroughcentre.com/events/1643/dark-matter?spektrix_bounce=true&quot;&gt;ACCA website&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/darkmatter</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/darkmatter</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>performances</category>
-        
-        <category>sonification</category>
         
         
         <category>blog</category>
