@@ -5,15 +5,54 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Feb 2019 17:17:21 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Feb 2019 17:17:21 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2019 10:05:57 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2019 10:05:57 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
-        <title>SLATUR</title>
+        <title>Sonic Writing - A book launch in the SHL</title>
+        <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, March 14th, 5.00pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thor Magnusson’s book &lt;i&gt;Sonic Writing: Technologies of Material, Symbolic and Signal Inscriptions&lt;/i&gt; is now out with &lt;a href=&quot;https://www.bloomsbury.com/9781501313868&quot;&gt;Bloomsbury Academic&lt;/a&gt;. This monograph is the final outcome of an &lt;a href=&quot;https://ahrc.ukri.org&quot;&gt;AHRC&lt;/a&gt; funded &lt;a href=&quot;http://www.sonicwriting.org&quot;&gt;research project&lt;/a&gt; that ran between 2016 and 2018. The book is divided into four key parts: &lt;b&gt;instruments&lt;/b&gt; (material inscriptions), &lt;b&gt;notation&lt;/b&gt; (symbolic inscriptions), &lt;b&gt;recording&lt;/b&gt; (signal inscriptions), and &lt;b&gt;new music technologies&lt;/b&gt;, or how our analogue and electronic traditions are translated and applied in the design of digital instruments.&lt;/p&gt;
+
+&lt;p&gt;The book launch will be held in the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt; Sussex Humanities Lab&lt;/a&gt; on March 14th - all welcome! In addition to drinks and snacks, there will be musical performances by Emute Lab colleagues: &lt;a href=&quot;https://www.feedbackcell.info&quot;&gt;Feedback Cell&lt;/a&gt;, &lt;a href=&quot;https://alexanderpeverett.com&quot;&gt;Alex Peverett&lt;/a&gt; and &lt;a href=&quot;http://andrew-duff.co.uk&quot;&gt;Andrew Duff&lt;/a&gt;, and &lt;a href=&quot;https://www.evelynficarra.net/about/&quot;&gt;Evelyn Ficarra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before the music, Thor Magnusson will give a short introduction to the context of the book and Prof. Caroline Bassett, the director of the SHL, will respond with “Notes on Sonic Writing”.&lt;/p&gt;
+
+&lt;p&gt;Bloomsbury has a discount code that can be used on check-out when purchasing the book on the &lt;a href=&quot;http://www.bloomsbury.com/9781501313868&quot;&gt;Bloomsbury website&lt;/a&gt; : “GLR MP6”&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;NOTE: As of March 1st, 2019, the book is out of print! - Bloomsbury is printing more and we will let people know when it is available again.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bloomsburycp3.codemantra.com/viewer/5c58b483713c090001cc13c9&quot;&gt;
+&lt;img border=&quot;0&quot; alt=&quot;W3Schools&quot; src=&quot;/img/sonicwriting.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/sonicwriting</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/sonicwriting</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>book</category>
+        
+        <category>performance</category>
+        
+        <category>improvisation</category>
+        
+        <category>audiovisual</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>SLATUR - Research from the Icelandic Academy of the Arts</title>
         <description>&lt;p&gt;&lt;strong&gt;:::: Friday, March 1st, 1pm, @ The Sussex Humanities Lab, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;A series of presentations from Iceland-based composers and artists working with electronic media and transdisciplinary practice, teaching at the &lt;a href=&quot;http://www.lhi.is&quot;&gt;Iceland University of the Arts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A series of presentations from Iceland-based composers and artists working with electronic media and transdisciplinary practice, teaching at the &lt;a href=&quot;http://www.lhi.is&quot;&gt;Iceland University of the Arts&lt;/a&gt;. The session will be followed by a short concert, starting at 2pm, with performances of pieces written by these composers on the new halldorophone instrument (see below).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Jesper Pedersen&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt;Title: Live performance with modular synths&lt;/strong&gt;&lt;/p&gt;
@@ -545,74 +584,6 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
         <category>acoustics</category>
         
         <category>3D printing</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Perspectives in Ecoacoustics</title>
-        <description>&lt;p&gt;&lt;b&gt;::::: Thursday, May 3rd, 2018. 4pm - Sussex Humanities Lab :::::&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Talk: Perspectives in Ecoacoustics – Prof Almo Farina, University of Urbino, Italy&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;We are delighted to welcome Prof Almo Farina, a naturalist and landscape ecologist and one of the pioneers of Ecoacoustics - the investigation of the ecological role of sounds.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; (Silverstone Building, SB211) - All welcome!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/farina_ALMO_FARINA.jpg&quot; alt=&quot;Farina&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;When you are happy, your voice is more fresh. When you are tired or annoyed, it changes. The same applies to the environment.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;perspectives-in-ecoacoustics-a-contribution-to-defining-a-discipline&quot;&gt;Perspectives in Ecoacoustics: A contribution to defining a discipline&lt;/h3&gt;
-
-&lt;p&gt;Ecoacoustics is a recently established discipline that investigates the ecological role of sounds. A set of processes in four [&lt;em&gt;adaptive, behavioural, geographical, ecosemiotic&lt;/em&gt;] domains supports and guides the development of ecoacoustics.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The &lt;em&gt;adaptive&lt;/em&gt;  domain includes evolutionary mechanisms that join sound typology with the physical and biological characteristics of the environment and create frequency partitioning among species to reduce competition.&lt;/li&gt;
-  &lt;li&gt;The behavioural  domain addresses interspecific signals associated with geophysical and anthropogenic sounds that operate to shape temporary acoustic communities and orient species to select suitable acoustic habitats.&lt;/li&gt;
-  &lt;li&gt;The geographic  domain pertains to the geography of sound, an entity composed of three subordinate acoustic objects: sonotopes, soundtopes, and sonotones, which are operationally delimited in a geographical and temporal space by the distribution of the ecoacoustic events. The ecoacoustic events allow the classification of complex configurations/patterns of acoustic signals and represent the grain of a soundscape mosaic.&lt;/li&gt;
-  &lt;li&gt;The ecosemiotic  domain operates by  communication mechanisms within the species level according to a function-specific perception of the acoustic information facilitated by encoding/decoding processes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Long-term monitoring, habitat health, biodiversity assessment, soundscape conservation and ecosystem management makes ecoacoustics relevant in several fields where human intrusion in ecosystems is growing at an unprecedented rate.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/farina_SET.jpg&quot; alt=&quot;recorder&quot; /&gt;
-&lt;em&gt;SET – Soundscape Explorer [Terrestrial]) digital recorder. Photo: Almo Farina&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;biography&quot;&gt;Biography&lt;/h3&gt;
-&lt;p&gt;Almo Farina is an Italian naturalist and Professor of Ecology in the Department of Pure and Applied Sciences, Urbino University, Italy. He has dedicated the last ten years to elaborate new theories in landscape ecology, soundscape ecology and ecoacoustics. He considers the protection of the biological diversity integrated with the human cultural heritage and well-being, a priority of its scientific and human mission. In 2014 Almo was elected the first President of the &lt;a href=&quot;https://sites.google.com/site/ecoacousticssociety/&quot;&gt;International Society of Ecoacoustics&lt;/a&gt;, and in 2015 he founded the &lt;a href=&quot;http://www.iinsteco.org/&quot;&gt;International Institute of Ecoacoustics&lt;/a&gt; .&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Author of &lt;a href=&quot;https://www.wiley.com/en-gb/Ecoacoustics:+The+Ecological+Role+of+Sounds-p-9781119230694&quot;&gt;Ecoacoustics: The Ecological Role of Sounds&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Editor-in-Chief of the &lt;a href=&quot;https://www.veruscript.com/journals/journal-of-ecoacoustics/&quot;&gt;Journal of Ecoacoustics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.jmecology.com/&quot;&gt;Journal of Mediterranean Ecology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.codebiology.org/&quot;&gt;Code Biology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Presented in association with &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt; and &lt;a href=&quot;http://www.sussex.ac.uk/ssrp/&quot;&gt;Sussex Sustainability Research Programme&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;May 5 &amp;amp; 6 is International Dawn Chorus day. Join us for the &lt;a href=&quot;http://www.emutelab.org/blog/soundcamp&quot;&gt;Newhaven Soundcamp&lt;/a&gt; or listen in to a &lt;a href=&quot;http://soundtent.org/soundcamp_listen.html&quot;&gt;live stream&lt;/a&gt; of dawn chorus as it spreads across planet with the rising sun.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/almoFarina</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/almoFarina</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>talk</category>
-        
-        <category>ecoacoustics</category>
-        
-        <category>acoustic ecology</category>
-        
-        <category>soundscape</category>
         
         
         <category>blog</category>
