@@ -15,7 +15,7 @@ During the next academic year, the Emute Lab will collaborate with the Sussex Hu
 
 In this session Thor Magnusson will give a short introduction to SuperCollider, and his recently republished tutorial <a href="https://leanpub.com/ScoringSound">Scoring Sound: Creative Music Coding with SuperCollider</a>.
 
-We will bring some drinks and snack, but participants will have to bring their laptops and headphones. **Everyone is welcome**, and we especially encourage people from outside the University of Sussex to join us in these sessions.
+We will bring some drinks and snack, but participants will have to bring their laptops and headphones. **Everyone is welcome**, especially beginners and the curious, and we especially encourage people from outside the University of Sussex to join us in these sessions.
 
 See you in the lab.
 
