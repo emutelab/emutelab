@@ -5,9 +5,46 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 30 Apr 2019 10:18:36 +0100</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2019 10:18:36 +0100</lastBuildDate>
+    <pubDate>Tue, 07 May 2019 17:36:41 +0100</pubDate>
+    <lastBuildDate>Tue, 07 May 2019 17:36:41 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Creative Audio Coding Afternoon</title>
+        <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, May 9th, 5.30-7.30pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;During the next academic year, the Emute Lab will collaborate with the Sussex Humanities Lab in running monthly “Creative Audio Coding” afternoons in the SHL. This will be a space for people to come and work on their programming projects, but we will also introduce selected technologies or techniques in ever session. We will start with the very popular and powerful &lt;a href=&quot;https://supercollider.github.io&quot;&gt;SuperCollider&lt;/a&gt; audio programming language. This system has been instrumental in establishing the practice of &lt;a href=&quot;http://www.toplap.org&quot;&gt;live coding&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this session Thor Magnusson will give a short introduction to SuperCollider, and his recently republished tutorial &lt;a href=&quot;https://leanpub.com/ScoringSound&quot;&gt;Scoring Sound: Creative Music Coding with SuperCollider&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We will bring some drinks and snack, but participants will have to bring their laptops and headphones. &lt;strong&gt;Everyone is welcome&lt;/strong&gt;, and we especially encourage people from outside the University of Sussex to join us in these sessions.&lt;/p&gt;
+
+&lt;p&gt;See you in the lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/supercollider.png&quot; alt=&quot;SuperCollider&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 May 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/creativeaudiocoding</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/creativeaudiocoding</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>programming</category>
+        
+        <category>coding</category>
+        
+        <category>live coding</category>
+        
+        <category>improvisation</category>
+        
+        <category>audiovisual</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Sonic Writing - A book launch in the SHL</title>
@@ -531,59 +568,6 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
         <category>ecoacoustics</category>
         
         <category>DIY tech</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Seminar: Gianluca Memoli and Spyros Polychronopoulos (Interact Lab, Informatics)</title>
-        <description>&lt;p&gt;&lt;b&gt;::::: Thursday, April 26th, 2018. 2-4pm - Recital Room (Falmer House 120) :::::&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;We have two talks from members of the Interact Lab at Sussex, who are both researchers in Acoustic Levitation and Human Computer Interaction.&lt;/p&gt;
-
-&lt;h2 id=&quot;spyros-polychronopoulos-new-ways-to-create-and-deliver-music&quot;&gt;Spyros Polychronopoulos: New ways to create and deliver music&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/spolychronopoulos.jpg&quot; alt=&quot;Spyros Polychronopoulos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The aesthetics of dead (as pre-recorded) and live (as endless unique reproduced) music. Challenging the “here and now” of the work of art with programmable performers.&lt;/p&gt;
-
-&lt;p&gt;References&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htmhttps://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm&quot;&gt;Walter Benjamin (1936)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://emporium.room40.org/products/583176-spyros-polychronopoulos-live-electronic-music-sound-object&quot;&gt;Live Electronic Music Sound Object (2016)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/docs/Music perception and the fluctuation of utopia.pdf&quot;&gt;Music perception and the fluctuation of utopia&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
-
-&lt;p&gt;Spyros Polychronopoulos was born in Athens, Greece in 1980. His interest in sound, both as a physical phenomenon as well as a form of art, began at an early age. He holds a degree in Physics and a PhD in Electrical Engineering from University of Patras, Greece. His thesis focused on tuning the acoustics of closed spaces and he has published a number of papers in this field. After relocating to London in 2014, he gained three years of practical experience working as an acoustic consultant. Further to his research in sound, he has developed unique sound objects, released 15 albums and performed a number of concerts around the world. Spyros regularly leads workshops and lectures discussing the new technologies in composition and aesthetics of sound. He currently works as a Research Fellow in the Informatics Department at the University of Sussex, UK, researching ‘Human-computer Interaction for Acoustic Levitation’.&lt;/p&gt;
-
-&lt;h2 id=&quot;gianluca-memoli-spatial-sound-using-meta-materials&quot;&gt;Gianluca Memoli: Spatial Sound using Meta-materials&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/gmemoli.jpg&quot; alt=&quot;Gianluca Memoli&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When an architect, a sound engineer or a theatre director designs the acoustics of a space, the presence of sound is binary: it is either there for everyone or not. We manage light differently, though: well-established technologies allows us to exploit light and shadows, beams that follow characters, diffused or focused spotlights. The technology for achieving similar results with sound is simply not there: since directional speakers still don’t maintain their promises in terms of performance, large arrays of speakers are still used for beam-forming, either software controlled or spatially arranged. In this talk, I will discuss the opportunities offered by acoustic meta-materials to achieve spatial control on sound in static applications. These can be placed in front of loudspeakers just like lenses or filters would be positioned in front of a light source, for achieving diffraction-limited effects. I will also discuss where, in my opinion, these new tools may lead us in the short and medium term and whether they will eventually give us the same control on sound that we have on light, across all the frequency range.&lt;/p&gt;
-
-&lt;h3 id=&quot;bio-1&quot;&gt;Bio&lt;/h3&gt;
-
-&lt;p&gt;Gianluca has worked in acoustics for 14 years, after his PhD. His acoustic research (soundscapes, industrial and medical ultrasound) has taken him to influence EU legislation and ISO standards, to work with local authorities and hospitals, to measure the largest bubble in the word and to find new ways to prolong shelf life of honey using ultrasound. He is a passionate science communicator and has worked with creatives of all sorts, from garden designers to choreographers.  As a newly appointed lecturer in Informatics at Sussex, he is currently looking at ways to give creatives the same control on sound that they have on light using specially engineered, 3D-printed, passive materials.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/interactLabSeminar</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/interactLabSeminar</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>talk</category>
-        
-        <category>acoustics</category>
-        
-        <category>3D printing</category>
         
         
         <category>blog</category>
