@@ -20,16 +20,16 @@ This workshop residency will start on the week commencing July 22nd and last for
 
 **Week Programme:**
 
-**July, 22nd**
+**Monday - July 22nd**
 
-	9-11am - Introduction to MIMIC
-	10-11am - Tero’s presentation
+	9-10am - Introduction to MIMIC
+	10-11am - Counterpoint presentation
 	11-1pm - Project development
 	1-2pm - Lunch
 	2-4pm - Project development
 	4-5pm - Symposium on creative AI
 
-**July, 23rd**
+**Tuesday - July 23rd**
 
 	9-11am - Workshop in machine learning 
 	11am-1pm - Project development
@@ -37,7 +37,7 @@ This workshop residency will start on the week commencing July 22nd and last for
 	2-4pm - Project development
 	4-5pm - Presentation of project ideas and sketches
 
-**July, 24th**
+**Wednesday - July 24th**
 
 	9-11am - Workshop in machine listening
 	11am-1pm - Project development
@@ -45,7 +45,7 @@ This workshop residency will start on the week commencing July 22nd and last for
 	3-4pm - Discussion problems coming up
 	4-5pm - Project development
 
-**July, 25th**
+**Thursday - July 25th**
 
 	9-10am - Ethics and creative-AI
 	10-1pm - Project development
@@ -54,7 +54,7 @@ This workshop residency will start on the week commencing July 22nd and last for
 	5-7pm - Sound check
 	7-11pm - Concert with works at the Rose Hill Pub
 
-**July, 26th**
+**Friday - July 26th**
 
 	10am - Coffee and discussion of gig
 	11am-1pm - Wrapping up projects
