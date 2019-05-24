@@ -5,25 +5,104 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-    <pubDate>Tue, 07 May 2019 17:36:41 +0100</pubDate>
-    <lastBuildDate>Tue, 07 May 2019 17:36:41 +0100</lastBuildDate>
+    <pubDate>Fri, 24 May 2019 15:58:33 +0100</pubDate>
+    <lastBuildDate>Fri, 24 May 2019 15:58:33 +0100</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
-=======
-    <pubDate>Sat, 04 May 2019 08:33:37 +0100</pubDate>
-    <lastBuildDate>Sat, 04 May 2019 08:33:37 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
->>>>>>> 47bccb6d2377d9a9ccbe56bf1ee00a1d98285b17
     
       <item>
-        <title>Creative Audio Coding Afternoon</title>
+        <title>MIMIC Artist Summer Workshop</title>
+        <description>&lt;p&gt;&lt;strong&gt;:::: Week starting July 22nd, 9am-5pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;mimicproject.com&lt;/a&gt; and are in the process of finalising our system for creating live coding languages for creative AI.&lt;/p&gt;
+
+&lt;p&gt;For this summer workshop we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our [e++] system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Funds are available to support travel and accommodation, and food will be provided.&lt;/p&gt;
+
+&lt;p&gt;This workshop residency will start on the week commencing July 22nd and last for five days. The workshop will take place in combination with longer artist residencies with Marije Baalman and Enrike Hurtado who will work on their respective XX and digital txalaparta projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Week Programme:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;July, 22nd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-11am - Introduction to MIMIC
+10-11am - Tero’s presentation
+11-1pm - Project development
+1-2pm - Lunch
+2-4pm - Project development
+4-5pm - Symposium on creative AI
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;July, 23rd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-11am - Workshop in machine learning 
+11am-1pm - Project development
+1-2pm - Lunch
+2-4pm - Project development
+4-5pm - Presentation of project ideas and sketches
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;July, 24th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-11am - Workshop in machine listening
+11am-1pm - Project development
+1-2pm - Lunch
+3-4pm - Discussion problems coming up
+4-5pm - Project development
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;July, 25th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-10am - Ethics and creative-AI
+10-1pm - Project development
+1-2pm - Lunch
+3-5pm - Project development
+5-7pm - Sound check
+7-11pm - Concert with works at the Rose Hill Pub
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;July, 26th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10am - Coffee and discussion of gig
+11am-1pm - Wrapping up projects
+1-2pm - Lunch
+3-5pm - Project showcases
+5-7pm - Beer in the sun
+8-12pm - Dinner in town
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We have published a call for proposals &lt;a href=&quot;https://forms.gle/gYBHKBRrsokn3SjQ6&quot;&gt;HERE&lt;/a&gt; for people interested in participating in the workshop. We have funds to support travel and accommodation for six people from Europe and we will seek to provide lunch and coffee out in the lovely lab garden throughout the week. We are especially interested in receiving applications from as diverse group as possible.&lt;/p&gt;
+
+&lt;p&gt;See you in the lab, in July!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/SHL.png&quot; alt=&quot;Digital Humanities lab&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 May 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/summerworkshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/summerworkshop</guid>
+        
+        <category>emutelab</category>
+        
+        <category>workhop</category>
+        
+        <category>live coding</category>
+        
+        <category>language design</category>
+        
+        <category>summer</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Creative Audio Coding Evening</title>
         <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, May 9th, 5.30-7.30pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;During the next academic year, the Emute Lab will collaborate with the Sussex Humanities Lab in running monthly “Creative Audio Coding” afternoons in the SHL. This will be a space for people to come and work on their programming projects, but we will also introduce selected technologies or techniques in ever session. We will start with the very popular and powerful &lt;a href=&quot;https://supercollider.github.io&quot;&gt;SuperCollider&lt;/a&gt; audio programming language. This system has been instrumental in establishing the practice of &lt;a href=&quot;http://www.toplap.org&quot;&gt;live coding&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During the next academic year, the Emute Lab will collaborate with the Sussex Humanities Lab in running monthly “Creative Audio Coding” evenings in the SHL. This will be a space for people to come and work on their sound and music projects, but we will also introduce selected technologies (such as new software and languages) or techniques (such as synthesis techniques, embodied control or machine learning) in each session. In this teaser on May 9th, we will start with the very popular and powerful &lt;a href=&quot;https://supercollider.github.io&quot;&gt;SuperCollider&lt;/a&gt; audio programming language. This system has been instrumental in establishing the practice of &lt;a href=&quot;http://www.toplap.org&quot;&gt;live coding&lt;/a&gt; and has been the main environment for creative sound coding for over two decades.&lt;/p&gt;
 
 &lt;p&gt;In this session Thor Magnusson will give a short introduction to SuperCollider, and his recently republished tutorial &lt;a href=&quot;https://leanpub.com/ScoringSound&quot;&gt;Scoring Sound: Creative Music Coding with SuperCollider&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We will bring some drinks and snack, but participants will have to bring their laptops and headphones. &lt;strong&gt;Everyone is welcome&lt;/strong&gt;, and we especially encourage people from outside the University of Sussex to join us in these sessions.&lt;/p&gt;
+&lt;p&gt;We will bring some drinks and snack, but participants will have to bring their laptops and headphones. &lt;strong&gt;Everyone is welcome&lt;/strong&gt;, especially beginners and the curious, and we especially encourage people from outside the University of Sussex to join us in these sessions.&lt;/p&gt;
 
 &lt;p&gt;See you in the lab.&lt;/p&gt;
 
@@ -522,58 +601,6 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
         <category>improvisation</category>
         
         <category>NIME</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Newhaven Soundcamp</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/westbeach.jpg&quot; alt=&quot;soundcamp&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt; :::::  May 5th - May 6th @ Newhaven Community Garden, Newhaven :::::   &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Join us for newhaven soundcamp over the International Dawn Chorus weekend of 5th to 6th May 2018, when small groups of people around the world will sleep outside and listen.&lt;/p&gt;
-
-&lt;p&gt;International Dawn Chorus Day is a world wide celebration of the dawn chorus initiated by the Wildlife Trusts to raise awareness of the deep importance of nature conservation and close relationship between human wellbeing and that of all other living species.&lt;/p&gt;
-
-&lt;p&gt;Newhaven Soundcamp is part of &lt;a href=&quot;http://soundtent.org/soundcamp_reveil.html&quot;&gt;REVEIL&lt;/a&gt;, an network of open mics around the world. Instigated by arts collective &lt;a href=&quot;http://soundtent.org/soundcamp_about.html&quot;&gt;soundcamp&lt;/a&gt;, REVEIL curates a live radio broadcast from these listening points as the sun rises around the globe on the International Dawn Chorus weekend.&lt;/p&gt;
-
-&lt;p&gt;Newhaven Soundcamp is a small scale event for local residents to act as a simple, potent point for ecological, social, intellectual, aesthetic and spiritual engagement with the soundscape of Newhaven. It links this spot on Sussex Downs Biosphere (The Living Coast) to an international network of site of ecological and sonic interest.&lt;/p&gt;
-
-&lt;p&gt;The broadcast will be made using a DIY radio transmitter constructed from a raspberry Pi and will feature on the Resonance FM broadcast early on Sunday morning - or check out links below.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Links:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/soundcamp-newhaven-tickets-45174650596&quot;&gt;Further information and free tickets&lt;/a&gt; for Newhaven Soundcamp&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://soundtent.org/soundcamp_listen.html&quot;&gt;listen to the curated stream on International Dawn Chorus Day&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Listen in to the Newhaven mic on the &lt;a href=&quot;http://locusonus.org/soundmap/051/&quot;&gt;locussonus sound map&lt;/a&gt; - this will be streaming all weekend&lt;/li&gt;
-  &lt;li&gt;More about &lt;a href=&quot;soundtent.org&quot;&gt;Soundcamp&lt;/a&gt; and links other soundcamps around the world&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://paper.dropbox.com/doc/Streaming-Workshop-Brighton-Digital-Festival-Onca-Gallery-12-10-17-0SoIwneySy7FLeixfsveP&quot;&gt;Information on building your own DIY radio transmitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://paper.dropbox.com/doc/Solar-power-for-off-grid-streaming-JF9LIMXwqMeH19twsrX3U&quot;&gt;Further info on solar panels for off grid streaming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thelivingcoast.org.uk&quot;&gt;The Living Coast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Newhaven Community garden&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;On May 3, Prof Almo Farina will be &lt;a href=&quot;http://www.emutelab.org/blog/almoFarina&quot;&gt;giving a talk&lt;/a&gt; on his pioneering work in Ecoacoustics - all welcome.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Presented in association with &lt;a href=&quot;https://www.thelivingcoast.org.uk/&quot;&gt;The Living Coast&lt;/a&gt;, kindly hosted by &lt;a href=&quot;http://growingtogethernewhaven.org/&quot;&gt;Growing Together Newhaven&lt;/a&gt; and supported by &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/soundcamp</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/soundcamp</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>ecoacoustics</category>
-        
-        <category>DIY tech</category>
         
         
         <category>blog</category>
