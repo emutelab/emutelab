@@ -12,9 +12,9 @@ date: 2019-05-24
 
 **:::: Week starting July 22nd, 9am-5pm, @ The SHL, Sussex University ::::**
 
-MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on <a href="http://www.mimicproject.com">mimicproject.com</a> and are in the process of finalising our system for creating live coding languages for creative AI.
+Interested in Music and AI? MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on <a href="http://www.mimicproject.com">mimicproject.com</a> and are in the process of finalising our system for creating live coding languages for creative AI.
 
-For this summer workshop we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our [e++] system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Some fundamental programming skills are required, but certainly not at a professional level. This workshop is not about learning how to live code, but rather about how to make your own live coding system in our simple and user-friendly system. Everyone is welcome who is passionate about the future of live coding.
+For this summer workshop in sunny Brighton, we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our [e++] system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Some fundamental programming skills are required, but certainly not at a professional level. This workshop is not about learning how to live code, but rather about how to make your own live coding system in our simple and user-friendly system. Everyone is welcome who is passionate about the future of live coding.
 
 This workshop residency will start on the week commencing July 22nd and last for five days. The workshop will take place in combination with longer artist residencies with Marije Baalman and Enrike Hurtado who will work on their respective choreographic coding and digital txalaparta projects.
 
@@ -71,3 +71,4 @@ We will be assessing the applications on Monday morning on July 1st, so the dead
 See you in the lab, in July!
 
 ![Digital Humanities lab](/img/SHL.png)
+*A picture of the lab where the workshop will take place - note the lovely garden!*
