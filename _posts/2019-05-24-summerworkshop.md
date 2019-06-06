@@ -22,49 +22,51 @@ This workshop residency will start on the week commencing July 22nd and last for
 
 **Monday - July 22nd**
 
-	9-10am - Introduction to MIMIC
-	10-11am - Counterpoint presentation
-	11-1pm - Project development
-	1-2pm - Lunch
-	2-4pm - Project development
-	4-5pm - Symposium on creative AI
+	9am - Introduction to MIMIC
+	10am - Counterpoint presentation (https://ctpt.co)
+	11am - 10 min demo + project development
+	1pm - Lunch
+	2pm - 10 min demo + project development
+	4pm - Symposium on creative AI
 
 **Tuesday - July 23rd**
 
-	9-11am - Workshop in machine learning 
-	11am-1pm - Project development
-	1-2pm - Lunch
-	2-4pm - Project development
-	4-5pm - Presentation of project ideas and sketches
+	9am - Workshop in machine learning 
+	11am - 10 min demo + project development
+	1pm - Lunch
+	2pm - 10 min demo + project development
+	4pm - Presentation of project ideas and sketches
 
 **Wednesday - July 24th**
 
-	9-11am - Workshop in machine listening
-	11am-1pm - Project development
-	1-2pm - Lunch
-	3-4pm - Discussion problems coming up
-	4-5pm - Project development
+	9am - Workshop in machine listening
+	11am - 10 min demo + project development
+	1pm - Lunch
+	3pm - Discussion problems coming up
+	4pm - Project development
 
 **Thursday - July 25th**
 
-	9-10am - Ethics and creative-AI
-	10-1pm - Project development
-	1-2pm - Lunch
-	3-5pm - Project development
-	5-7pm - Sound check
-	7-11pm - Concert with works at the Rose Hill Pub
+	9am - Ethics and creative-AI
+	10pm - 10 min demo + project development
+	1pm - Lunch
+	3pm - Project development
+	5pm - Sound check
+	7pm - Concert with works at the Rose Hill Pub
 
 **Friday - July 26th**
 
 	10am - Coffee and discussion of gig
-	11am-1pm - Wrapping up projects
-	1-2pm - Lunch
-	3-5pm - Project showcases
-	5-7pm - Beer in the sun
-	8-12pm - Dinner in town
+	11am - Wrapping up projects
+	1pm - Lunch w. a bid sprint 
+	3pm - Project showcases with Enrike Hurtado and Marije Baalman
+	5pm - Beer in the sun
+	8pm - Dinner in town
 
 
-We have published a call for proposals <a href="https://forms.gle/gYBHKBRrsokn3SjQ6">HERE</a> for people interested in participating in the workshop. We have funds to support travel and accommodation for six people from Europe and we will seek to provide lunch and coffee out in the lovely lab garden throughout the week. We are especially interested in receiving applications from as diverse group as possible.
+We have published a call for proposals <a href="https://forms.gle/gYBHKBRrsokn3SjQ6">HERE</a> for people interested in participating in the workshop. We have funds to support travel and accommodation for six-ten people from Europe and we will seek to provide lunch and coffee out in the lovely lab garden throughout the week. We are especially interested in receiving applications from as diverse group as possible.
+
+We will be assessing the applications on Monday morning on July 1st, so the deadline is 9am GMT.
 
 See you in the lab, in July!
 
