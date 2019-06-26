@@ -5,75 +5,144 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 24 May 2019 16:12:16 +0100</pubDate>
-    <lastBuildDate>Fri, 24 May 2019 16:12:16 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <pubDate>Wed, 26 Jun 2019 10:32:18 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Jun 2019 10:32:18 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Emute Lab 4 @ The Rose Hill</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab4.jpg&quot; alt=&quot;EMuTeLab2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Emute Lab presents: musically intelligent machines&lt;/p&gt;
+
+&lt;p&gt;Emute Lab 4: Musically Intelligent Machines&lt;/p&gt;
+
+&lt;p&gt;Come and hear new music created by musicians in collaboration with artificially intelligent machines.&lt;/p&gt;
+
+&lt;p&gt;Expect some weird and wonderful experiments with new sounds and new musical instruments.&lt;/p&gt;
+
+&lt;p&gt;Artists:&lt;/p&gt;
+
+&lt;p&gt;MARIJE BAALMAN: gestural live coding&lt;/p&gt;
+
+&lt;p&gt;MNISTREL: Live coding and uncanny interfaces&lt;/p&gt;
+
+&lt;p&gt;SHELLY KNOTTS&lt;/p&gt;
+
+&lt;p&gt;ANUZAK&lt;/p&gt;
+
+&lt;p&gt;EVERYSONGIOWN: A Quantity Approach to Music Making&lt;/p&gt;
+
+&lt;p&gt;and more artists who will be performing pieces made at our summer AI and music workshop&lt;/p&gt;
+
+&lt;p&gt;The Rose Hill
+£6 / £4
+Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly/2JbzYXn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;@emutelab&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mimicproject.com&quot;&gt;https://www.mimicproject.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/936387710040807/&quot;&gt;https://www.facebook.com/events/936387710040807/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/emutelab4</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab4</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>improvisation</category>
+        
+        <category>audiovisual</category>
+        
+        <category>AI</category>
+        
+        <category>machine learning</category>
+        
+        <category>MIMIC</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>MIMIC Artist Summer Workshop</title>
         <description>&lt;p&gt;&lt;strong&gt;:::: Week starting July 22nd, 9am-5pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;mimicproject.com&lt;/a&gt; and are in the process of finalising our system for creating live coding languages for creative AI.&lt;/p&gt;
+&lt;p&gt;Interested in Music and AI? MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;mimicproject.com&lt;/a&gt; and are in the process of finalising our system for creating live coding languages for creative AI.&lt;/p&gt;
 
-&lt;p&gt;For this summer workshop we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our [e++] system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Funds are available to support travel and accommodation, and food will be provided.&lt;/p&gt;
+&lt;p&gt;For this summer workshop in sunny Brighton, we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our [e++] system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Some fundamental programming skills are required, but certainly not at a professional level. This workshop is not about learning how to live code, but rather about how to make your own live coding system in our simple and user-friendly system. Everyone is welcome who is passionate about the future of live coding.&lt;/p&gt;
 
-&lt;p&gt;This workshop residency will start on the week commencing July 22nd and last for five days. The workshop will take place in combination with longer artist residencies with Marije Baalman and Enrike Hurtado who will work on their respective XX and digital txalaparta projects.&lt;/p&gt;
+&lt;p&gt;This workshop residency will start on the week commencing July 22nd and last for five days. The workshop will take place in combination with longer artist residencies with Marije Baalman and Enrike Hurtado who will work on their respective choreographic coding and digital txalaparta projects.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Week Programme:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;July, 22nd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monday - July 22nd&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-11am - Introduction to MIMIC
-10-11am - Tero’s presentation
-11-1pm - Project development
-1-2pm - Lunch
-2-4pm - Project development
-4-5pm - Symposium on creative AI
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Introduction to MIMIC
+10am - Counterpoint presentation (https://ctpt.co)
+11am - 10 min demo + project development
+1pm - Lunch
+2pm - 10 min demo + project development
+4pm - Symposium on creative AI
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;July, 23rd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday - July 23rd&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-11am - Workshop in machine learning 
-11am-1pm - Project development
-1-2pm - Lunch
-2-4pm - Project development
-4-5pm - Presentation of project ideas and sketches
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Workshop in machine learning 
+11am - 10 min demo + project development
+1pm - Lunch
+2pm - 10 min demo + project development
+4pm - Presentation of project ideas and sketches
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;July, 24th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday - July 24th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-11am - Workshop in machine listening
-11am-1pm - Project development
-1-2pm - Lunch
-3-4pm - Discussion problems coming up
-4-5pm - Project development
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Workshop in machine listening
+11am - 10 min demo + project development
+1pm - Lunch
+3pm - Discussion problems coming up
+4pm - Project development
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;July, 25th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thursday - July 25th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9-10am - Ethics and creative-AI
-10-1pm - Project development
-1-2pm - Lunch
-3-5pm - Project development
-5-7pm - Sound check
-7-11pm - Concert with works at the Rose Hill Pub
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Ethics and creative-AI
+10pm - 10 min demo + project development
+1pm - Lunch
+3pm - Project development
+5pm - Sound check
+7pm - Concert with works at the Rose Hill Pub
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;July, 26th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday - July 26th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10am - Coffee and discussion of gig
-11am-1pm - Wrapping up projects
-1-2pm - Lunch
-3-5pm - Project showcases
-5-7pm - Beer in the sun
-8-12pm - Dinner in town
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10am - Coffee and discussion of gig
+11am - Wrapping up projects
+1pm - Lunch w. a bid sprint 
+3pm - Project showcases with Enrike Hurtado and Marije Baalman
+5pm - Beer in the sun
+8pm - Dinner in town
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;We have published a call for proposals &lt;a href=&quot;https://forms.gle/gYBHKBRrsokn3SjQ6&quot;&gt;HERE&lt;/a&gt; for people interested in participating in the workshop. We have funds to support travel and accommodation for six people from Europe and we will seek to provide lunch and coffee out in the lovely lab garden throughout the week. We are especially interested in receiving applications from as diverse group as possible.&lt;/p&gt;
+&lt;p&gt;We have published a call for proposals &lt;a href=&quot;https://forms.gle/gYBHKBRrsokn3SjQ6&quot;&gt;HERE&lt;/a&gt; for people interested in participating in the workshop. We have funds to support travel and accommodation for six-ten people from Europe and we will seek to provide lunch and coffee out in the lovely lab garden throughout the week. We are especially interested in receiving applications from as diverse group as possible.&lt;/p&gt;
+
+&lt;p&gt;We will be assessing the applications on Monday morning on July 1st, so the deadline is 9am GMT.&lt;/p&gt;
 
 &lt;p&gt;See you in the lab, in July!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/SHL.png&quot; alt=&quot;Digital Humanities lab&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/SHL.png&quot; alt=&quot;Digital Humanities lab&quot; /&gt;
+&lt;em&gt;A picture of the lab where the workshop will take place - note the lovely garden!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 May 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/summerworkshop</link>
@@ -527,59 +596,6 @@ I experiment with approaches to playing the ‘Cello using improvisation as a me
         <category>improvisation</category>
         
         <category>NIME</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>EMuTeLab @ Seeing Sound - Report</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.seeingsound.co.uk&quot;&gt;Seeing Sound&lt;/a&gt; is a biannual symposium on audiovisual art, which took place at Bath Spa University in March.  This year two EMuTeLab members were presenting their work:&lt;/p&gt;
-
-&lt;h3 id=&quot;andrew-duff-i-dont-think-anyone-has-been-electrocuted-yet-sharing-info-online-to-modify-an-old-games-console-for-vector-oscillographics&quot;&gt;Andrew Duff: &lt;em&gt;I don’t think anyone has been electrocuted yet: Sharing info online to modify an old games console for vector oscillographics&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/duff_seeingsound.jpg&quot; alt=&quot;Andrew Duff presentation&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Abstract: &lt;em&gt;Since sharing a pdf online about how to modify a Vectrex (an early 1980s vector-based games console) to directly take in three audio signals to draw directly on the screen as one would with an oscilloscope, I have unwittingly become a ‘go-to guy’ with regards to entering the world of vector oscillographics. I have since been invited to talk at various electronic music events and am regularly contacted with requests for support, information and recommendations on appropriate modules. All the while the games console itself becomes harder to find on the second-hand market as they are perhaps becoming something of a cult artefact sought after by both gamers and electronic artists/musicians alike.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The Vectrex offers a unique visual experience rarely found in standard oscilloscopes; it utilises three inputs for x, y and z control of the electron beam, is monochromatic, and the screen is relatively large. It does, however have its own idiosyncrasies, which makes for an interesting tool to work and perform with.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This talk will present a brief contextual history of experiments in this field with some examples of influential oscillographic artists such as Ben Laposky &amp;amp; Herbert W. Franke, followed by an overview of the impact sharing this pdf has had with examples of work by a range of current artists, experimentalists and performers.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Andrew’s talk was part of a wider Vectrex theme at Seeing Sound, with other presentations from Derek Holzer and Douglas Nunn.  You can find his slides on his website &lt;a href=&quot;http://users.sussex.ac.uk/~ad207/adweb/assets/seeingsound2018slides.pdf&quot;&gt;http://users.sussex.ac.uk/~ad207/adweb/assets/seeingsound2018slides.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;chris-kiefer-10k-video&quot;&gt;Chris Kiefer: &lt;em&gt;10K Video&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/10kvideo.png&quot; alt=&quot;Chris Kiefer 10K Video&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;10000 neural oscillators conspire to make a bad approximation of a one second video loop, while their internal networks are stretched and twisted by their own sound and their neighbours.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is an improvised performance, where a video is resynthesised by an ensemble of neural conceptor networks, each of which has learnt (with varying degrees of success) to approximate the behaviour of an individual pixel in the original.  The ghostly result is manipulated live, to send this mass of miniature feedback systems into collective overdrive.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The neural networks used in this piece are complex dynamical systems which need self-sustaining energy to continue their role; they follow a trajectory, but this trajectory can be manipulated and influenced, both between networks and from global forces; these networks can be damped, overdriven, distorted, leaked, excited, surprised, saturated and revitalised.  When revitalised in synchrony they can play a rendition of the original video loop.  When manipulated, this video can be distorted and effected in many directions.  During the piece, the host of networks are continually revitalised, and then manipulated along infinity varying trajectories towards noise or destruction.&lt;/p&gt;
-
-&lt;p&gt;Chris performed this new piece live.  You can see a generative version that runs in your web browser at &lt;a href=&quot;http://facingaway.luuma.net/&quot;&gt;http://facingaway.luuma.net/&lt;/a&gt; (fairly decent GPU needed)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/seeingsoundreport</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/seeingsoundreport</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>talk</category>
-        
-        <category>audiovisual</category>
-        
-        <category>music</category>
-        
-        <category>graphics</category>
-        
-        <category>machine learning</category>
-        
-        <category>vectrex</category>
         
         
         <category>blog</category>
