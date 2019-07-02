@@ -22,8 +22,8 @@ This workshop residency will start on the week commencing July 22nd and last for
 
 **Monday - July 22nd**
 
-	9am - Introduction to MIMIC
-	10am - Counterpoint presentation (https://ctpt.co)
+	9am - Introduction to MIMIC and the workshop
+	10am - Workshop in machine learning 
 	11am - 10 min demo + project development
 	1pm - Lunch
 	2pm - 10 min demo + project development
@@ -31,8 +31,9 @@ This workshop residency will start on the week commencing July 22nd and last for
 
 **Tuesday - July 23rd**
 
-	9am - Workshop in machine learning 
-	11am - 10 min demo + project development
+	9am - 10 min demo + project development
+	10am - Counterpoint presentation (https://ctpt.co)
+	11am - Counterpoint workshop (Tero Parviainen and Samuel Diggins)
 	1pm - Lunch
 	2pm - 10 min demo + project development
 	4pm - Presentation of project ideas and sketches
