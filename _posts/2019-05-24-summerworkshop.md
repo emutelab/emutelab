@@ -23,11 +23,12 @@ This workshop residency will start on the week commencing July 22nd and last for
 **Monday - July 22nd**
 
 	9am - Introduction to MIMIC and the workshop
-	10am - Workshop in machine learning 
+	10am - Workshop in the Sema playground for language design
 	11am - 10 min demo + project development
 	1pm - Lunch
-	2pm - 10 min demo + project development
-	4pm - Symposium on creative AI
+	2pm - Workshop in Machine Learning
+	4pm - 10 min demo + project development
+	5pm - Work in progress demo of artists-in-residence’s projects
 
 **Tuesday - July 23rd**
 
@@ -73,3 +74,7 @@ See you in the lab, in July!
 
 ![Digital Humanities lab](/img/SHL.png)
 *A picture of the lab where the workshop will take place - note the lovely garden!*
+![Artist-in-residence Marije](/img/Marije.jpg)
+*Artist-in-residence Marije Baalman working on gestural live coding language design!*
+![Artist-in-residence Enrike](/img/Enrike.jpg)
+*Artist-in-residence Enrike Hurtado working on machine learning for the txalaparta instrument*
