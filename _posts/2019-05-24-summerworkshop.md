@@ -41,10 +41,12 @@ This workshop residency will start on the week commencing July 22nd and last for
 
 **Wednesday - July 24th**
 
-	9am - Workshop in machine listening
+	9am - Project development
+	10am - Workshop in machine listening
 	11am - 10 min demo + project development
 	1pm - Lunch
-	3pm - Discussion problems coming up
+	2pm - Project development
+	3pm - Discussion of problems that have emerged
 	4pm - Project development
 
 **Thursday - July 25th**
@@ -52,7 +54,7 @@ This workshop residency will start on the week commencing July 22nd and last for
 	9am - Ethics and creative-AI
 	10pm - 10 min demo + project development
 	1pm - Lunch
-	3pm - Project development
+	2pm - Project development
 	5pm - Sound check
 	7pm - Concert with works at the Rose Hill Pub
 
