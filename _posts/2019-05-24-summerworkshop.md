@@ -80,3 +80,5 @@ See you in the lab, in July!
 *Artist-in-residence Marije Baalman working on gestural live coding language design!*
 ![Artist-in-residence Enrike](/img/Enrike.jpg)
 *Artist-in-residence Enrike Hurtado working on machine learning for the txalaparta instrument*
+![Workshop](/img/MIMICworkshop.jpg)
+*And this is how it looked*
