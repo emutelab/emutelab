@@ -51,8 +51,8 @@ This workshop residency will start on the week commencing July 22nd and last for
 
 **Thursday - July 25th**
 
-	9am - (Aesth)ethics and creative-AI
-	10pm - 10 min demo + project development
+	9am - 10 min demo + project development
+	10am - (Aesth)et(h)ics and creative-AI
 	1pm - Lunch
 	2pm - Project development
 	5pm - Sound check
