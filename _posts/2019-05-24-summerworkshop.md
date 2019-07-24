@@ -76,9 +76,15 @@ See you in the lab, in July!
 
 ![Digital Humanities lab](/img/SHL.png)
 *A picture of the lab where the workshop will take place - note the lovely garden!*
+
+
 ![Artist-in-residence Marije](/img/Marije.jpg)
 *Artist-in-residence Marije Baalman working on gestural live coding language design!*
+
+
 ![Artist-in-residence Enrike](/img/Enrike.jpg)
 *Artist-in-residence Enrike Hurtado working on machine learning for the txalaparta instrument*
+
+
 ![Workshop](/img/MIMICworkshop.jpg)
 *And this is how it looked*
