@@ -65,7 +65,7 @@ This workshop residency will start on the week commencing July 22nd and last for
 	1pm - Lunch w. a bid sprint
 	2pm - Project showcases with Enrike Hurtado and Marije Baalman
 	3pm - Participant demos
-	4pm - Discussion about Sema (future path, feedback, requests)
+	4pm - Discussion about Sema (experience, requests, future path)
 	5pm - Beer in the sun
 	8pm - Dinner in town
 
