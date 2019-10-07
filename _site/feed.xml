@@ -5,9 +5,168 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 Jun 2019 10:32:18 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2019 10:32:18 +0100</lastBuildDate>
+    <pubDate>Mon, 07 Oct 2019 13:16:28 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2019 13:16:28 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>What's Happening in the World of Feedback Instruments?</title>
+        <description>&lt;p&gt;At Emute Lab, several of our members have been concentrating their research efforts on building and performing with feedback instruments. You could define a Feedback Instrument as an instrument whose behaviour depends on the circulation of signals, and manipulation of the way in which these signals circulate around the instrument.  These instruments could be acoustic, electronic, digital, or hybrid.  Feedback will be the core of how they make sound and/or how musicians interact with them.&lt;/p&gt;
+
+&lt;p&gt;There’s a great deal of activity in this area around the world at the moment, and here, I will attempt to highlight some of the recent developments in feedback instrument design and musicianship.  But before leaping into current work, let’s take a look at some past instruments and pieces that have had a big influence on today’s developments.&lt;/p&gt;
+
+&lt;h4 id=&quot;eliane-radigue-usral&quot;&gt;Eliane Radigue: Usral&lt;/h4&gt;
+
+&lt;p&gt;This is from Radigue’s collection of early feedback works.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C_3Fu8YfSdI?start=684&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;max-neuhaus-fontana-mix-feed&quot;&gt;Max Neuhaus: &lt;a href=&quot;http://brainwashed.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2399%3Amax-neuhaus-qfontana-mix-feed-six-realizations-of-john-cageq&amp;amp;catid=13%3Aalbums-and-singles&amp;amp;Itemid=1&quot;&gt;Fontana Mix-Feed&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;This piece uses contact microphone-speaker feedback through tympanis.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x-cLk7TZuNY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;alvin-lucier-bird-and-person-dyning&quot;&gt;Alvin Lucier: &lt;a href=&quot;http://www.alvin-lucier-film.com/bird.html&quot;&gt;Bird and Person Dyning&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Speaker-binaural headphone feedback.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6jLYof8sU4s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;nicolas-collins-pea-soup&quot;&gt;Nicolas Collins: &lt;a href=&quot;https://www.nicolascollins.com/aboutpeasoup.htm&quot;&gt;Pea Soup&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;This piece uses shifting microphone-room feedback. Originally created in 1974, but here’s a newer revision from 2010.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W7f5Iha7JyQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;david-tudor-neural-network-plus&quot;&gt;David Tudor: &lt;a href=&quot;http://www.lovely.com/albumnotes/notes1602.html&quot;&gt;Neural Network Plus&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Feedback was a key part of Tudors compositions and installations.  This piece from the early 90s was created using repurposed neuromorphic hardware, which enables the creation of highly complex analog feedback systems.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OyzeqA9-DiI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In Emute Lab, feedback instruments take a variety of forms.  Halldór Úlfarsson is a the designer of the &lt;a href=&quot;https://www.halldorophone.info&quot;&gt;Halldorophone&lt;/a&gt;, and a growing family of new instruments that are descendents of his design. This family of string instruments use inbuilt speakers and exciters, together with individual string pickups and external processing to create a feedback loop. Halldór is researching his PhD in Emute Lab, and has recently developed two new instruments: The Sisters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.halldorophone.info/public/img/2018-Square.jpg&quot; alt=&quot;Sister 1&quot; /&gt;
+&lt;img src=&quot;https://www.halldorophone.info/public/img/2018-Standing.png&quot; alt=&quot;Sister 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an early Halldorophone from 2009, played by Hildur Guðnadóttir.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uo4Jq-_tysc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hildur plays the Halldorophone on several film soundtracks, including the Chernobyl soundtrack, for which she recently won an Emmy award.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qcEPbx_iSjw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video shows a Halldorophone-DIMA-A duet. Composition by Johan Svensson, performed by My Hellgren and Jari Suominen&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DKJvAIadFWE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Alice Eldridge and I collaborated with Halldór to develop the &lt;a href=&quot;https://www.feedbackcell.info/&quot;&gt;Feedback Cello&lt;/a&gt;.  These instruments are based in the Halldorophone design, as augmentations (and/or invasions) of the traditional acoustic cello.  They have a speaker mounted in the back of the cello.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/feedback_cello_speaker.jpg&quot; alt=&quot;Feedback Cello Speaker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have built two of these instruments, with different augmentations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/feedback_cellos2.jpg&quot; alt=&quot;Feedback Cello Speaker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s Alice playing at Fete Quaqua from 2016&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/180304450&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here is a recording of a Feedback Cell performance from 2017, using the two cellos.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/363528685&quot; width=&quot;640&quot; height=&quot;361&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Halldór is exploring augmentation of acoustic instruments further, developing a feedback double bass with &lt;a href=&quot;http://thanospl.net/?p=620&quot;&gt;Thanos Polymeneas-Liontiris&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/thanos_fbdbass.jpg&quot; alt=&quot;Feedback Double Bass&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above three instruments, together with &lt;a href=&quot;http://www.ixi-audio.net/&quot;&gt;Thor Magnusson&lt;/a&gt; on Threnoscope, form &lt;a href=&quot;https://www.emutelab.org/braindeadensemble/&quot;&gt;Brain Dead Ensemble&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bdeRoseHill2.jpg&quot; alt=&quot;Brain Dead Ensemble, Live at The Rose Hill, Brighton&quot; /&gt;
+You could call this a ‘feedback ensemble’, as the Threnoscope is connected to all of the instruments, and the instruments affect each other acoustically during performance. This is their album ‘EFZ’.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://open.spotify.com/embed/artist/54rJ3o7aXEg9bzQ3MukIYh&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Halldór has also developed a &lt;a href=&quot;http://halldor.gr/spetson/2019/07/01/fbdb.html&quot;&gt;Feedback Double Bass with Adam Pultz&lt;/a&gt;, this time invasively with a mounted speaker.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/345985776&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Emute Lab member Joe Watson explores nested feedback networks and modular synthesis, ‘The Thing Breathed’.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H8LlbtgdB5M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can read some more about this and brain dead ensemble in the &lt;a href=&quot;https://live-interfaces.github.io/2018/ICLI2018.pdf&quot;&gt;ICLI 2018 proceedings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moving outside of Emute Lab, here are some more instruments based on the feedback principle.&lt;/p&gt;
+
+&lt;p&gt;Tom Davis and Laura Reed: The Feral Cello.  This instrument has an exciter and pickup, that runs through DSP processing in a duet between cellist and laptopist.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/237465790&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is Dan Overholt’s &lt;a href=&quot;https://vimeo.com/26661494?fbclid=IwAR0Qb5aAAhpIB9ZggqdsoVot8x6lcgg1qx-gkWYbbobGkdY_SfIyGdyBE4M&quot;&gt;Overtone Fiddle&lt;/a&gt;. Dan says: ‘This performance uses feedback via DSP filter-banks, set up to emulate an extra bank of resonant strings (simulating to some extent, the “hardanger fiddle” setup but with variable/extended feedback resonances).’&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/26766506&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is the Feedback Lapsteel, by Jiffer Harriman.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/79R6oaVdmnk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Luigi Marino: Cymbals with a handheld feedback device (containing a contact mic and exciter).&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SaToWLbI-UA?start=962&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video shows a concert with two feedback instruments.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tai-studio.org/portfolio/half-closed-loop.html&quot;&gt;Half-closed Loop&lt;/a&gt; by Till Boverman (from the beginning). This is custom-designed, using a brass pipe, wooden board with exciters and microphones.  In the second half (from 11:50) we move into feedback brass, with Ingi Garðar Erlendsson playing the &lt;a href=&quot;http://thrainnhjalmarsson.info/&quot;&gt;Thranaphone #2&lt;/a&gt;, a feedback tuba (with Eiríkur Orri Ólafsson playing Trumpet).  This instrument has a speaker mounted in the tuba and a mouthpiece microphone; the signal is processed through guitar pedals.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l5vDKEZsJjY?start=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Jeff Snyder’s Feedback Trombone runs on a similar principle:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yT6Vq9jGC7w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://lesleyflanigan.com/&quot;&gt;Lesley Flanigan&lt;/a&gt; uses custom-instruments based around microphone-speaker feedback.  This is a concert from the Guggenheim Museum, New York from 2014.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/122308468&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;There are also some great software instruments out there.  Tom Mudd uses a network of interacting chaotic oscillators in Gutter Synthesis.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y1qQd4DVIR4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dariosanfilippo.tumblr.com/&quot;&gt;Dario Sanfilippo&lt;/a&gt; specialises in music generated from complex adaptive feedback systems; this is a performance of ‘Single-Fader Versitility’.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hIrqmDif5uQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In audio-visual feedback systems, there’s a cross-modal flow between sound and image.   This is Mick Grierson with a live performance of ‘Stench’.&lt;/p&gt;
+
+&lt;video muted=&quot;&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/img/StenchGig.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;These are some highlights of contemporary feedback instruments, which take a range of forms. These instruments can be challenging but also extremely rewarding to play. The challenges come from dealing with the complexity of highly sensitive dynamical systems, and changing from conventional modes of instrumental control to shared agency with the instrument.  The rewards are to break into new sonic territories and to discover some radically new ways of playing music.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/feedback_insts</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/feedback_insts</guid>
+        
+        <category>emutelab</category>
+        
+        <category>feedback</category>
+        
+        <category>halldorophone</category>
+        
+        <category>cello</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab 4 @ The Rose Hill</title>
@@ -47,7 +206,7 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/936387710040807/&quot;&gt;https://www.facebook.com/events/936387710040807/&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/emutelab4</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab4</guid>
         
@@ -76,7 +235,7 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;Interested in Music and AI? MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;mimicproject.com&lt;/a&gt; and are in the process of finalising our system for creating live coding languages for creative AI.&lt;/p&gt;
 
-&lt;p&gt;For this summer workshop in sunny Brighton, we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our [e++] system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Some fundamental programming skills are required, but certainly not at a professional level. This workshop is not about learning how to live code, but rather about how to make your own live coding system in our simple and user-friendly system. Everyone is welcome who is passionate about the future of live coding.&lt;/p&gt;
+&lt;p&gt;For this summer workshop in sunny Brighton, we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our new &lt;em&gt;Sema&lt;/em&gt; system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Some fundamental programming skills are required, but certainly not at a professional level. This workshop is not about learning how to live code, but rather about how to make your own live coding system in our simple and user-friendly system. Everyone is welcome who is passionate about the future of live coding.&lt;/p&gt;
 
 &lt;p&gt;This workshop residency will start on the week commencing July 22nd and last for five days. The workshop will take place in combination with longer artist residencies with Marije Baalman and Enrike Hurtado who will work on their respective choreographic coding and digital txalaparta projects.&lt;/p&gt;
 
@@ -84,19 +243,21 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;strong&gt;Monday - July 22nd&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Introduction to MIMIC
-10am - Counterpoint presentation (https://ctpt.co)
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Introduction to MIMIC and the workshop
+10am - Workshop in the Sema playground for language design
 11am - 10 min demo + project development
 1pm - Lunch
-2pm - 10 min demo + project development
-4pm - Symposium on creative AI
+2pm - Workshop in Machine Learning
+4pm - 10 min demo + project development
+5pm - Work in progress demo of artists-in-residence’s projects
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Tuesday - July 23rd&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Workshop in machine learning 
-11am - 10 min demo + project development
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - 10 min demo + project development
+10am - Counterpoint presentation (https://ctpt.co)
+11am - Counterpoint workshop (Tero Parviainen and Samuel Diggins)
 1pm - Lunch
 2pm - 10 min demo + project development
 4pm - Presentation of project ideas and sketches
@@ -105,20 +266,22 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;strong&gt;Wednesday - July 24th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Workshop in machine listening
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Project development
+10am - Workshop in machine listening
 11am - 10 min demo + project development
 1pm - Lunch
-3pm - Discussion problems coming up
+2pm - Project development
+3pm - Discussion of problems that have emerged
 4pm - Project development
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Thursday - July 25th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Ethics and creative-AI
-10pm - 10 min demo + project development
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - 10 min demo + project development
+10am - (Aesth)et(h)ics and creative-AI
 1pm - Lunch
-3pm - Project development
+2pm - Project development
 5pm - Sound check
 7pm - Concert with works at the Rose Hill Pub
 &lt;/code&gt;&lt;/pre&gt;
@@ -128,8 +291,10 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10am - Coffee and discussion of gig
 11am - Wrapping up projects
-1pm - Lunch w. a bid sprint 
-3pm - Project showcases with Enrike Hurtado and Marije Baalman
+1pm - Lunch w. a bid sprint
+2pm - Project showcases with Enrike Hurtado and Marije Baalman
+3pm - Participant demos
+4pm - Discussion about Sema (experience, requests, future path)
 5pm - Beer in the sun
 8pm - Dinner in town
 &lt;/code&gt;&lt;/pre&gt;
@@ -143,8 +308,17 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;img src=&quot;/img/SHL.png&quot; alt=&quot;Digital Humanities lab&quot; /&gt;
 &lt;em&gt;A picture of the lab where the workshop will take place - note the lovely garden!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Marije.jpg&quot; alt=&quot;Artist-in-residence Marije&quot; /&gt;
+&lt;em&gt;Artist-in-residence Marije Baalman working on gestural live coding language design!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Enrike.jpg&quot; alt=&quot;Artist-in-residence Enrike&quot; /&gt;
+&lt;em&gt;Artist-in-residence Enrike Hurtado working on machine learning for the txalaparta instrument&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/MIMICworkshop.jpg&quot; alt=&quot;Workshop&quot; /&gt;
+&lt;em&gt;And this is how it looked&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 24 May 2019 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 24 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/summerworkshop</link>
         <guid isPermaLink="true">http://localhost:4000/blog/summerworkshop</guid>
         
@@ -175,7 +349,7 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;img src=&quot;/img/MIMIC.png&quot; alt=&quot;MIMIC&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/mimic</link>
         <guid isPermaLink="true">http://localhost:4000/blog/mimic</guid>
         
@@ -210,7 +384,7 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;img src=&quot;/img/supercollider.png&quot; alt=&quot;SuperCollider&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 07 May 2019 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/creativeaudiocoding</link>
         <guid isPermaLink="true">http://localhost:4000/blog/creativeaudiocoding</guid>
         
@@ -251,7 +425,7 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 &lt;img border=&quot;0&quot; alt=&quot;W3Schools&quot; src=&quot;/img/sonicwriting.jpg&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 25 Feb 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/sonicwriting</link>
         <guid isPermaLink="true">http://localhost:4000/blog/sonicwriting</guid>
         
@@ -338,7 +512,7 @@ Jesper is a part of the Icelandic composers collective S.L.Á.T.U.R. and pays th
 
 &lt;p&gt;&lt;img src=&quot;/img/halldorophone.jpg&quot; alt=&quot;Halldorophone&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 23 Feb 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/slatur</link>
         <guid isPermaLink="true">http://localhost:4000/blog/slatur</guid>
         
@@ -388,7 +562,7 @@ Jesper is a part of the Icelandic composers collective S.L.Á.T.U.R. and pays th
 &lt;p&gt;Tickets at the door, or even better, on &lt;a href=&quot;https://www.eventbrite.co.uk/e/emute-lab-3-tickets-55517138255?fbclid=IwAR1Hx8hsu0WjBbXuILO9aVdjIH4nYqPyUuyUZmoaX2TDDugqT5B_Nwu7KUA&quot;&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/emutelab3</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab3</guid>
         
@@ -424,7 +598,7 @@ Jesper is a part of the Icelandic composers collective S.L.Á.T.U.R. and pays th
 &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/the-art-of-soldering-cables-contact-microphones-and-hydrophones-tickets-52485642971&quot;&gt;https://www.eventbrite.co.uk/e/the-art-of-soldering-cables-contact-microphones-and-hydrophones-tickets-52485642971&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/artofsoldering</link>
         <guid isPermaLink="true">http://localhost:4000/blog/artofsoldering</guid>
         
@@ -501,7 +675,7 @@ Jesper is a part of the Icelandic composers collective S.L.Á.T.U.R. and pays th
 
 &lt;p&gt;&lt;a href=&quot;https://bleep.com/release/103083-qgb-hornets&quot;&gt;https://bleep.com/release/103083-qgb-hornets&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/emutelab2</link>
         <guid isPermaLink="true">http://localhost:4000/blog/emutelab2</guid>
         
@@ -512,90 +686,6 @@ Jesper is a part of the Icelandic composers collective S.L.Á.T.U.R. and pays th
         <category>improvisation</category>
         
         <category>audiovisual</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab 1 @ The Rosehill</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/emute1_webFlyer_noText_landscape_sm.png&quot; alt=&quot;EMuTeLab1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt; :::::  May 23 - 7.30pm The Rosehill, Brighton :::::   &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Emute Lab Presents … an evening of free strings and string free pedals&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Join us at The Rose Hill for a set of three duos from some of the UK’s fiercest improvisers:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hannah Marshall (cello) &amp;amp; Otto Willberg (double bass)&lt;/li&gt;
-  &lt;li&gt;Seth Bennett (double bass) &amp;amp; Alice Eldridge (cello)&lt;/li&gt;
-  &lt;li&gt;Noise Peddlar - Danny Bright &amp;amp; Lee Westwood - no input pedalboards&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.therosehill.co.uk&quot;&gt;The Rose Hill&lt;/a&gt;, Brighton. £5&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The Emute Lab Presents …  is a space for sharing the ongoing research and practice of Emute Lab members and collaborators.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;b&gt;Hannah Marshall (cello) &amp;amp; Otto Willberg (double bass)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;A duo that has been finding an improvised language of rich sonic, textural and rhythmic counterpoint over the last year with performances at Fizzle - Birmingham, Bristol Music Club, Flim Flam - London and Fuse Arts Space - Bradford.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Hannah Marshall&lt;/b&gt;
-I experiment with approaches to playing the ‘Cello using improvisation as a means to explore sound, music and performance. I play with a range of experimental groups and projects in the UK and Europe. I also collaborate with other performers and artists who work in mediums including theatre, performance, dance, storytelling and film.&lt;/p&gt;
-
-&lt;p&gt;“&lt;em&gt;Ask your ears :] Exploring sonic territories and visiting musical antipodes, demonstrating an esoteric approach to instrumentation that is truly unique&lt;/em&gt;”- DreamCraeft recommendation&lt;/p&gt;
-
-&lt;p&gt;“&lt;em&gt;with Marshall’s impeccable timing and skill for finding strong yet subtle gestures…&lt;/em&gt; ” “&lt;em&gt;..Vicious!.&lt;/em&gt;”- Dan Warburton&lt;/p&gt;
-
-&lt;p&gt;“&lt;em&gt;Hannah Marshall has proven herself to be a solo player of imagination and intelligence; recording an album of deceptively simple but very rewarding and hypnotic music. A series of small meals that combine in a feast for the ears and mind.&lt;/em&gt;” - ears for eyes&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/je2V2a53RYM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;b&gt;Otto Willberg&lt;/b&gt; is an improvising musician and composer, who mostly plays the double bass. His obsessive, and slightly unhinged tape Got Gills? is issued this July on Slip, and is his first release with the imprint. He plays with multiple groups around the UK, and has recently toured NYC and the States with guitarist David Birchall, and psych outfit Desmadrados Soldados de Ventura.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GHU2jB5-mak&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;b&gt;Duot: Seth Bennett (double bass) &amp;amp; Alice Eldridge (cello)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Seth Bennett&lt;/b&gt; is one of the U.K.’s pre-eminent improvising double bass players. Currently based in rural Perthshire, his work involves free improvisation and composition for improvisers. Recent works include En Bas Quartet, a low string quartet for improvisers, all lovers are the song, a suite of six pieces for string trio and voice, and contributions to several recorded works, including CD releases by improvising sextet Sloth Racket, the Julie Tippets/Martin Archer Ensemble, Orchestre Tout Puissant Marcel Duchamp, and the large ensemble Favourite Animals. In addition, he maintains a busy performance schedule in Britain and across Europe in Jazz, Free Improvisation, English Folk music, and Contemporary Classical settings.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gFhNe-YtVm4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;b&gt;Alice Eldridge&lt;/b&gt; is a cellist and researcher working across sound, technology and ecology in scientific and creative domains. As an improvising cellist her intuitive, exploratory character has led to collaborations with some of europe’s most adventurous musicians at the  intersections of contemporary classical, folk, jazz, minimal pop, algorithmic and feedback musics. Recent collaborations and guest appearances include premiere performances of Seth Bennett’s En Bas Quartet, Julie Kjaer’s &lt;em&gt;This is Where You See Me&lt;/em&gt; and John Russell’s &lt;em&gt;The Narrative&lt;/em&gt;. She is 1/4 of all female multi-arts collective, Collectress, 1/2 of Feedback Cell, an ongoing experiment in open-ended hybrid luthiary and a regular at John Russell’s Fete Quaqua and Brighton’s Safehouse.&lt;/p&gt;
-
-&lt;div style=&quot;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/180304450&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/180304450&quot;&gt;Alice Eldridge at Fete QuaQua 2016&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user54602909&quot;&gt;Jack&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;b&gt;Noise Peddler&lt;/b&gt; (Danny Bright + Lee Westwood): two pedalboards, four amplifiers, and no inputs. Noise Peddler perform part-composed, part-improvised sounds generated and manipulated by guitar pedals.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vXu1KTFuDdM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;b&gt;Danny Bright&lt;/b&gt; is a composer, sound designer, recordist, and sonic manipulator working across the fields of music, performance, installation, theatre and media. His practice explores the boundaries between sound/music/noise and space/place/memory; he is currently developing multi-modal compositional, performance, critical and installation work investigating sonic temporalities and auditory ‘ghostings’. Danny performs on guitar, samplescapes, tape, text/voice, and electronics as an ensemble member/leader, solo artist and improviser. He also works as a sound designer and composer for internationally recognised arts, theatre and media companies, and as a producer, recordist, sound technologist and engineer.&lt;/p&gt;
-
-&lt;p&gt;Described by the Musician’s Union as “one of the UK’s most exciting and versatile musicians”, &lt;b&gt;Lee Westwood&lt;/b&gt; is a guitarist and composer whose wide-ranging output stems from a long-term tenacity for musical exploration. Far from ordinary, Lee’s works range from the Geometry-Music crossover of his multimedia exhibition ‘A Hidden Order’ (Saatchi Gallery, Athr, SCOPE) to a vast back-catalogue of works for solo guitar; from headlining festival stages with Hip-Hop groups and Prog Folk acts (Dizraeli &amp;amp; The Small Gods; Le Juki) to commissions from some of the UK’s leading ensembles and choirs (LSO, WUE; Musarc; Riot Ensemble; Notes Inégales). – &lt;a href=&quot;www.lee-westwood.com&quot;&gt;www.lee-westwood.com&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Apr 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/emutelab1</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab1</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>improvisation</category>
-        
-        <category>NIME</category>
         
         
         <category>blog</category>
