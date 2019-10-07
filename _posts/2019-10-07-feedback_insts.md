@@ -49,7 +49,7 @@ Feedback was a key part of Tudors compositions and installations.  This piece fr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyzeqA9-DiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-In Emute Lab, feedback instruments take a variety of forms.  Halldór Úlfarsson is a the designer of the [Halldorophone](https://www.halldorophone.info), and a growing family of new instruments that are descendents of his design. This family of string instruments use inbuilt speakers and exciters, together with individual string pickups and external processing to create a feedback loop. Halldór is researching his PhD in Emute Lab, and has recently developed two new instruments: The Sisters.
+In Emute Lab, feedback instruments take a variety of forms.  Halldór Úlfarsson is the designer of the [Halldorophone](https://www.halldorophone.info), and a growing family of new instruments that are descendents of his design. This family of string instruments use inbuilt speakers and exciters, together with individual string pickups and external processing to create a feedback loop. Halldór is researching his PhD in Emute Lab, and has recently developed two new instruments: The Sisters.
 
 ![Sister 1](https://www.halldorophone.info/public/img/2018-Square.jpg)
 ![Sister 2](https://www.halldorophone.info/public/img/2018-Standing.png)
