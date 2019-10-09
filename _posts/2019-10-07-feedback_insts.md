@@ -108,7 +108,7 @@ You can read some more about this and brain dead ensemble in the [ICLI 2018 proc
 
 Moving outside of Emute Lab, here are some more instruments based on the feedback principle.
 
-Tom Davis and Laura Reed: The Feral Cello.  This instrument has an exciter and pickup, that runs through DSP processing in a duet between cellist and laptopist.
+Tom Davis and Laura Reid: The Feral Cello.  This instrument has an exciter and pickup, that runs through DSP processing in a duet between cellist and laptopist.
 
 <iframe src="https://player.vimeo.com/video/237465790" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
