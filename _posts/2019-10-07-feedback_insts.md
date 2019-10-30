@@ -120,6 +120,10 @@ This is the Feedback Lapsteel, by Jiffer Harriman.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79R6oaVdmnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Christian Blandhoel](http://www.ijin.no/feedbacker.htm) is a Norwegian noise musician, who has created a expansive range of [Feedbackers](https://drive.google.com/file/d/1b7nw3aEj_tvvPHM-qRB1R8qVTUiyPNyF/view).  Here's a video of one of them, and more on his youtube channel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHq_7MlIeFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Luigi Marino: Cymbals with a handheld feedback device (containing a contact mic and exciter).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaToWLbI-UA?start=962" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
