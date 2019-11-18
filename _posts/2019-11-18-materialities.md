@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Materialities Symposium"
+title: "Materialities symposium"
 subheading: "Materialities"
 categories: blog
 tags: [emutelab, event, experimental, materialities, lathe cutting, vinyl]
@@ -24,9 +24,9 @@ We have two great workshops/presentations followed by a panel discussion around 
 
 <b>Workshops/Presentations</b>
 
-Tom Richards will present a workshop which invites participants to utilise his Voltage Controlled Turntables with some modular synthesiser equipment. Imagine scratching a record with LFO control, or changing pitch. 
+[Tom Richards](https://trsound.bandcamp.com/) will present a workshop which invites participants to utilise his Voltage Controlled Turntables with some modular synthesiser equipment. Imagine scratching a record with LFO control, or changing pitch. 
 Participants are encouraged to bring vinyl records to this session. 
-[https://trsound.bandcamp.com/](https://trsound.bandcamp.com/)
+
 
 Tom Richards is a musician, sound designer, artist, researcher and instrument maker, working in London UK. He has performed and exhibited widely in the UK, as well as internationally in the US, Germany, Peru, Singapore, Hungary, Japan and Sweden. Selected works and live performances have taken place at Tate Britain, The Queen Elizabeth Hall, The Science Museum, Spike Island, Cafe Oto, MK Gallery, Focal Point, and Camden Arts Centre. He has recently finished his PhD (Goldsmiths/Science Museum) on the work of Daphne Oram: electronic music pioneer, and founder member of the BBC Radiophonic Workshop. This research included the construction of Oram’s Mini Oramics synthesizer design (Circa 1975), a project that has since gained worldwide attention. He is represented by Nonclassical.
 
@@ -35,7 +35,7 @@ Tom Richards is a musician, sound designer, artist, researcher and instrument ma
 <br>
 
 
-[http://grrrr.org/](Thomas Grill) and [http://tai-studio.org/](Till Bovermann) present activities relating to the <b>Rotting Sounds project</b>. Here degradation in digital systems will be explored and discussed. 
+[Thomas Grill](http://grrrr.org/) and [Till Bovermann](http://tai-studio.org/) present activities relating to the <b>Rotting Sounds project</b>. Here degradation in digital systems will be explored and discussed. 
 Thomas Grill (University of Music and Performing Arts Vienna) is the project manager and principal investigator. He has ample experience in both scientific and artistic research and has been composing, performing and exhibiting with digital sound for over 20 years.
 Till Bovermann (University of Applied Arts Vienna) is his main discourse partner. In his artistic works, Till addresses the relationship between seemingly contradictory elements, e.g., the digital and physical realm.
 <br>
@@ -52,7 +52,7 @@ Thomas Grill
 Further panel members and chair (TBC)
 
 
-Tickets are free but limited in number.
+[Event registration page](https://www.eventbrite.co.uk/e/materialities-emute-lab-music-symposium-tickets-82606421029)
 
 <br>
 <br>
