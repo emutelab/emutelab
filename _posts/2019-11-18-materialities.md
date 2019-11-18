@@ -16,7 +16,7 @@ date: 2019-11-18
 <h1>Materialities symposium</h1>
 
 
-Join us on the morning of Thursday 5th of December, 2019 for a fast-paced symposium on the subject of materialities in music making presented by EMUTE (Experimental Music Technologies) Lab at University of Sussex.
+Join us on the morning of Thursday 5th of December, 2019 for a fast-paced symposium on the subject of materialities in music making.
 
 
 We have two great workshops/presentations followed by a panel discussion around notions of the influence of materiality on music and sound making.
