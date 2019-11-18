@@ -45,11 +45,11 @@ Till Bovermann (University of Applied Arts Vienna) is his main discourse partner
 <b>Round table/panel discussion - notions of materiality and influence on practice</b>
 As the final event in the symposium, topics relating to notions of materiality and influence on practice are discussed by a panel of academics/composers and performers. This promises to be a lively debate relating to media archeology, liveness and audience perspective.
 
-Evelyn Ficarra, Senior Lecturer in Music  [http://www.sussex.ac.uk/profiles/41192](http://www.sussex.ac.uk/profiles/41192)
-Tom Richards
-Till Bovermann
-Thomas Grill
-Further panel members and chair (TBC)
+Evelyn Ficarra, Senior Lecturer in Music  [http://www.sussex.ac.uk/profiles/41192](http://www.sussex.ac.uk/profiles/41192)<br>
+Tom Richards<br>
+Till Bovermann<br>
+Thomas Grill<br>
+Further panel members and chair (TBC)<br>
 
 
 [Event registration page](https://www.eventbrite.co.uk/e/materialities-emute-lab-music-symposium-tickets-82606421029)
