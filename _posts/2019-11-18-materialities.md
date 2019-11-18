@@ -35,7 +35,7 @@ Tom Richards is a musician, sound designer, artist, researcher and instrument ma
 <br>
 
 
-[Thomas Grill](http://grrrr.org/) and [Till Bovermann](http://tai-studio.org/) present activities relating to the <b>Rotting Sounds project</b>. Here degradation in digital systems will be explored and discussed. 
+<b>[Thomas Grill](http://grrrr.org/)</b> and <b>[Till Bovermann](http://tai-studio.org/)</b> present activities relating to the <b>[Rotting Sounds project](https://rottingsounds.org/)</b>. Here degradation in digital systems will be explored and discussed. 
 Thomas Grill (University of Music and Performing Arts Vienna) is the project manager and principal investigator. He has ample experience in both scientific and artistic research and has been composing, performing and exhibiting with digital sound for over 20 years.
 Till Bovermann (University of Applied Arts Vienna) is his main discourse partner. In his artistic works, Till addresses the relationship between seemingly contradictory elements, e.g., the digital and physical realm.
 <br>
