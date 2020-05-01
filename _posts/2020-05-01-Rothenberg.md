@@ -15,7 +15,7 @@ David Rothenberg, author of __Why Birds Sing__ and __Nightingales in Berlin__, v
 will discuss his work with nightingales and underwater pond insects, explaining why human music can be enhanced by taking
 the sounds of the natural world seriously.
 
-This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting<a>
+This event is free and open to all.  See below for registration details. 
 
 ![rothenberg](https://www.thewire.co.uk/img/scale/940/571/2013/04/23/David_Rothenberg_1.jpg)
 
@@ -30,7 +30,6 @@ As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dar
 
 
 This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting<a>
-
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
 
