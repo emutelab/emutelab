@@ -29,7 +29,7 @@ As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dar
 <p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.</a> More videos<a href="https://www.youtube.com/user/whybirdssing/videos">here</a></p>
 
 
-This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting<a>
+This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting</a>
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
 
