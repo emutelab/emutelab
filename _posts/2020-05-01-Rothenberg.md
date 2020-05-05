@@ -24,9 +24,9 @@ Dr. David Rothenberg is distinguished professor of philosophy and music at the N
 
 As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dark Night I Left My Silent House_,  a duet album with pianist Marilyn Crispell, was called “une petite miracle” by Le Monde and named by The Village Voice one of the ten best CDs of 2010.  He has performed or recorded with Peter Gabriel, Scanner, Suzanne Vega, Marilyn Crispell, Pete Seeger, and Jaron Lanier, among many others, and appears on numerous CDs playing clarinets and various electronic and natural sounds.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZosukkjTjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZosukkjTjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine. More videos <a href="https://www.youtube.com/user/whybirdssing/videos"> here </a>
+<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert</a> from <a href="https://www.youtube.com/user/whybirdssing/videos">Why do Birds Sing</a></p>
 
 
 
