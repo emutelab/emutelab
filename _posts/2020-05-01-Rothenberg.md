@@ -15,7 +15,7 @@ David Rothenberg, author of __Why Birds Sing__ and __Nightingales in Berlin__, v
 will discuss his work with nightingales and underwater pond insects, explaining why human music can be enhanced by taking
 the sounds of the natural world seriously.
 
-This event is free and open to all.  See below for registration details. 
+This event is free and open to all.  See bottom for registration details. 
 
 ![rothenberg](https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/95500812_644695099715434_6391060066870493184_o.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=qQ8Upx15yEsAX-77h8n&_nc_ht=scontent-lhr8-1.xx&oh=bb4c10ed93adb42a950191cd1d937782&oe=5ED6EC87)
 
@@ -26,7 +26,7 @@ As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ZosukkjTjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.</a> More videos<a href="https://www.youtube.com/user/whybirdssing/videos">here</a></p>
+<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.</a> More videos <a href="https://www.youtube.com/user/whybirdssing/videos"> here </a></p>
 
 
 This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting</a>
