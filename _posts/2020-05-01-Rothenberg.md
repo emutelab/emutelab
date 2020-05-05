@@ -17,7 +17,7 @@ the sounds of the natural world seriously.
 
 This event is free and open to all.  See below for registration details. 
 
-![rothenberg](https://www.thewire.co.uk/img/scale/940/571/2013/04/23/David_Rothenberg_1.jpg)
+![rothenberg](https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/95500812_644695099715434_6391060066870493184_o.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=qQ8Upx15yEsAX-77h8n&_nc_ht=scontent-lhr8-1.xx&oh=bb4c10ed93adb42a950191cd1d937782&oe=5ED6EC87)
 
 
 Dr. David Rothenberg is distinguished professor of philosophy and music at the New Jersey Institute of Technology.  He is a noted writer on themes connecting humanity, nature, and technology and music.  He is the author of Why Birds Sing (Basic Books and Penguin UK, 2005), also published in Italy, Spain, Taiwan, China, Korea, and Germany, and turned into a feature-length documentary _Why Birds Sing_ by Endemol UK for BBC4 in June, 2007.  Rothenberg is also the author of _Hand’s End: Technology and the Limits of Nature_ (California, 1993), _Thousand Mile Song_ (Basic Books, 2008),  _Survival of the Beautiful_ (Bloomsbury, 2011), Bug Music (St Martins, 2013) and _Nightingales in Berlin_ (Chicago, 2019 and Rowohlt, 2020)
@@ -26,7 +26,7 @@ As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ZosukkjTjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert</a> from <a href="https://www.youtube.com/user/whybirdssing/videos">Why do Birds Sing</a></p>
+<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.</a> More videos<a href="https://www.youtube.com/user/whybirdssing/videos">here</a></p>
 
 
 This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting<a>
