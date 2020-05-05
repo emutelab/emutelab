@@ -26,7 +26,7 @@ As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ZosukkjTjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert</a> from <a href="https://www.youtube.com/user/whybirdssing/videos">Why do Birds Sing</a></p>
+<p><a href="https://www.youtube.com/watch?v=3ZosukkjTjk">New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.</a> More videos  <a href="https://www.youtube.com/user/whybirdssing/videos"> here </a></p>
 
 
 
