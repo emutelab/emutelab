@@ -31,7 +31,7 @@ As a musician Rothenberg records for the prestigious ECM label.  His CD _One Dar
 
 
 
-This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting</a>
+This event is free and open to all.  <a href = "https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c">Register in advance for this meeting.</a>
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
 
