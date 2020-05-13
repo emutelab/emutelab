@@ -11,6 +11,11 @@ date: 2020-05-01
 
 Performance Lecture: <b>The Virtual Nightingale</b>
 
+<i>Have you found that you have paid more attention to the birds and the bees during lock down?</i>
+
+To segue from International Dawn Chorus Day and continue the celebration of our soniferous cousins, we are thrilled to host a special guest from across the pond.
+
+
 David Rothenberg, author of __Why Birds Sing__ and __Nightingales in Berlin__, veteran performer with nature sounds near and far,
 will discuss his work with nightingales and underwater pond insects, explaining why human music can be enhanced by taking
 the sounds of the natural world seriously.
