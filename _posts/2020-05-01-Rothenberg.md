@@ -43,7 +43,8 @@ After registering, you will receive a confirmation email containing information 
 
 
 <div class="video-responsive">
-    <iframe width="840" src="https://universityofsussex.zoom.us/rec/share/pv53HZzXqTJLE4nGt27_fIwFBdi9aaa81HRI86IJyE4qYivLlLMKdV2QchEvqwDZ?startTime=1588863984000" frameborder="0" allowfullscreen></iframe>
+    <iframe width="840" height = "3000"
+            src="https://universityofsussex.zoom.us/rec/share/pv53HZzXqTJLE4nGt27_fIwFBdi9aaa81HRI86IJyE4qYivLlLMKdV2QchEvqwDZ?startTime=1588863984000" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
