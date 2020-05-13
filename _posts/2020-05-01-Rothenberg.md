@@ -41,9 +41,10 @@ After registering, you will receive a confirmation email containing information 
 <a href="https://www.youtube.com/user/whybirdssing/videos">www.youtube.com/user/whybirdssing/</a><br>
 
 
-<p><iframe style="overflow: hidden;" src="https://universityofsussex.zoom.us/rec/share/pv53HZzXqTJLE4nGt27_fIwFBdi9aaa81HRI86IJyE4qYivLlLMKdV2QchEvqwDZ?startTime=1588863984000" width="1200" height="10000"></iframe></p>
 
-
+<div class="video-responsive">
+    <iframe width="840" src="https://universityofsussex.zoom.us/rec/share/pv53HZzXqTJLE4nGt27_fIwFBdi9aaa81HRI86IJyE4qYivLlLMKdV2QchEvqwDZ?startTime=1588863984000" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 
