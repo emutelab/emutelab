@@ -5,9 +5,180 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 May 2020 10:59:32 +0000</pubDate>
-    <lastBuildDate>Fri, 01 May 2020 10:59:32 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2020 14:17:43 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2020 14:17:43 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Sema: Live Coding With Machine Learning Workshop</title>
+        <description>&lt;p&gt;&lt;strong&gt;:::: Week starting July 6th, 3-5pm UK time, @ Zoom ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Would you like to use &lt;b&gt;machine learning as part of musical live coding&lt;/b&gt;? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early June. With daily one-hour Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.&lt;/p&gt;
+
+&lt;p&gt;The MIMIC research project in machine creativity and music has provided creative coders with a toolbox for making art with cutting-edge AI technologies on the web. We chose JavaScript, the language of the Web, as the ideal interface for introducing the concepts of machine learning and machine listening to people interested in using extended intelligence in their creative work. You can create an account and get started with writing code, studying tutorials and sharing your work on the &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;MIMIC website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, as part of the MIMIC project we have created &lt;b&gt;Sema&lt;/b&gt;. Sema is an online system for live coding in the browser with AI. Here you can apply many of the technologies we have built as part of the MIMIC work, but moreover: you can design your own live coding language!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Semascreenshot.png&quot; alt=&quot;Screenshot of Sema&quot; /&gt;
+&lt;em&gt;A screenshot of Sema. Take a look at the three videos of Sema in action below.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We believe every new live coding language results in new musical approaches, which implies that for a diversity of music we need a diversity of languages. Sema enables you to write your own language, whether it is one piece of music, an instrument, a pattern generator, or a full blown live coding language.&lt;/p&gt;
+
+&lt;p&gt;We are about to launch Sema in early July but for further information on Sema, please visit this [PAGE + URL]&lt;/p&gt;
+
+&lt;p&gt;There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Programme of the Week:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monday - July 6th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Zoom: Introduction to Sema and the default Sema language
+4pm - Workshop: Making music with the Sema default language + QnA
+5pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Tuesday - July 7th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
+3pm - Zoom: Machine Learning concepts. Using machine learning in Sema
+4pm - Workshop: Making music with machine learning. Training a ML network + QnA
+5pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Wednesday - July 8th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
+3pm - Zoom: Machine learning libraries. FFT and machine learning.
+4pm - Workshop: Machine listening and machine learning
+5pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Thursday - July 9th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
+3pm - Zoom: Language design in Sema. How to create your own live coding language.
+4pm - Workshop: Making your own piece with unique language syntax.
+5pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Friday - July 10th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
+3pm - Zoom: Language design for machine learning
+4pm - Workshop: Finishing your live coding language + QnA
+5pm - Showcase of projects in development (or ideas). Drinks and snack.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;A sign-up and further information about the workshop: [URL]. &amp;gt;Sema Workshop Registration&amp;lt;/a&amp;gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This video demonstrates the default language of Sema and some of its functionality&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7Cu2R66OTak&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In this video we have a new language, called Rubber Duck, and we demonstrate some basic rhythm functionality.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Qw4sYnTj-Ow&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This video shows the binary language called Nibble. It functions by swapping bits around.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6wIgZ-Vymas&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;These videos are small examples of what can be done with Sema. It is really up to you to decide what you will do with this system.&lt;/p&gt;
+
+&lt;p&gt;For a more technical information about Sema, please refer to these articles:&lt;/p&gt;
+
+&lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (2019). An AudioWorklet-based Signal Engine for a Live Coding Language Ecosystem. In Proceedings of Web Audio Conference 2019, Norwegian University of Science and Technology (NTNU), Trondheim, Norway (Best Paper Award at Web Audio Conference 2019)
+&lt;a href=&quot;https://webaudioconf.com/_data/papers/pdf/2019/2019_40.pdf&quot;&gt;https://webaudioconf.com/_data/papers/pdf/2019/2019_40.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;C. Kiefer and T. Magnusson. Live Coding Machine Learning and Machine Listening: A Survey on the Design of Languages and Environments for Live Coding. In Proc. of the International Conference on Live Coding., Madrid, 2019.
+&lt;a href=&quot;https://iclc.toplap.org/2019/papers/paper97.pdf&quot;&gt;https://iclc.toplap.org/2019/papers/paper97.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (2020). Designing for a Pluralist and User-Friendly Live Code Language Ecosystem with Sema. 5th International Conference on Live Coding, University of Limerick, Limerick, Ireland&lt;/p&gt;
+
+&lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (forthcoming). A Signal Engine for a Live Code Language Ecosystem. Journal of Audio Engineering Society, Vol. 68, No. 1, October&lt;/p&gt;
+
+&lt;p&gt;We hope to see you on Zoom, in July!
+(Francisco, Chris and Thor)&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/Semaworkshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Semaworkshop</guid>
+        
+        <category>emutelab</category>
+        
+        <category>workhop</category>
+        
+        <category>live coding</category>
+        
+        <category>machine learning</category>
+        
+        <category>language design</category>
+        
+        <category>summer</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Performance Lecture: David Rothenberg</title>
+        <description>&lt;p&gt;&lt;b&gt;:::: Thursday, May 7th, 4.00pm ONLINE ::::&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Performance Lecture: &lt;b&gt;The Virtual Nightingale&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Have you found that you have paid more attention to the birds and the bees during lock down?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;To segue from International Dawn Chorus Day and continue the celebration of our soniferous cousins, we are thrilled to host a special guest from across the pond.&lt;/p&gt;
+
+&lt;p&gt;David Rothenberg, author of &lt;strong&gt;Why Birds Sing&lt;/strong&gt; and &lt;strong&gt;Nightingales in Berlin&lt;/strong&gt;, veteran performer with nature sounds near and far,
+will discuss his work with nightingales and underwater pond insects, explaining why human music can be enhanced by taking
+the sounds of the natural world seriously.&lt;/p&gt;
+
+&lt;p&gt;This event is free and open to all.  See bottom for registration details.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/95500812_644695099715434_6391060066870493184_o.jpg?_nc_cat=111&amp;amp;_nc_sid=b386c4&amp;amp;_nc_ohc=qQ8Upx15yEsAX-77h8n&amp;amp;_nc_ht=scontent-lhr8-1.xx&amp;amp;oh=bb4c10ed93adb42a950191cd1d937782&amp;amp;oe=5ED6EC87&quot; alt=&quot;rothenberg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. David Rothenberg is distinguished professor of philosophy and music at the New Jersey Institute of Technology.  He is a noted writer on themes connecting humanity, nature, and technology and music.  He is the author of Why Birds Sing (Basic Books and Penguin UK, 2005), also published in Italy, Spain, Taiwan, China, Korea, and Germany, and turned into a feature-length documentary &lt;em&gt;Why Birds Sing&lt;/em&gt; by Endemol UK for BBC4 in June, 2007.  Rothenberg is also the author of &lt;em&gt;Hand’s End: Technology and the Limits of Nature&lt;/em&gt; (California, 1993), &lt;em&gt;Thousand Mile Song&lt;/em&gt; (Basic Books, 2008),  &lt;em&gt;Survival of the Beautiful&lt;/em&gt; (Bloomsbury, 2011), Bug Music (St Martins, 2013) and &lt;em&gt;Nightingales in Berlin&lt;/em&gt; (Chicago, 2019 and Rowohlt, 2020)&lt;/p&gt;
+
+&lt;p&gt;As a musician Rothenberg records for the prestigious ECM label.  His CD &lt;em&gt;One Dark Night I Left My Silent House&lt;/em&gt;,  a duet album with pianist Marilyn Crispell, was called “une petite miracle” by Le Monde and named by The Village Voice one of the ten best CDs of 2010.  He has performed or recorded with Peter Gabriel, Scanner, Suzanne Vega, Marilyn Crispell, Pete Seeger, and Jaron Lanier, among many others, and appears on numerous CDs playing clarinets and various electronic and natural sounds.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3ZosukkjTjk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3ZosukkjTjk&quot;&gt;New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.&lt;/a&gt; More videos  &lt;a href=&quot;https://www.youtube.com/user/whybirdssing/videos&quot;&gt; here &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This event is free and open to all.  &lt;a href=&quot;https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c&quot;&gt;Register in advance for this meeting.&lt;/a&gt;
+After registering, you will receive a confirmation email containing information about joining the meeting.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.davidrothenberg.net&quot;&gt;www.davidrothenberg.net&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;www.nightingalesinberlin.com&quot;&gt;www.nightingalesinberlin.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/user/whybirdssing/videos&quot;&gt;www.youtube.com/user/whybirdssing/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video-responsive&quot;&gt;
+    &lt;iframe width=&quot;840&quot; height=&quot;3000&quot; src=&quot;https://universityofsussex.zoom.us/rec/share/pv53HZzXqTJLE4nGt27_fIwFBdi9aaa81HRI86IJyE4qYivLlLMKdV2QchEvqwDZ?startTime=1588863984000&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/Rothenberg</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Rothenberg</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>practice</category>
+        
+        <category>philosophy</category>
+        
+        <category>ecoacoustics</category>
+        
+        <category>improvisation</category>
+        
+        <category>multi-species music</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Materialities symposium</title>
@@ -615,139 +786,6 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
         <category>book</category>
         
         <category>performance</category>
-        
-        <category>improvisation</category>
-        
-        <category>audiovisual</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>SLATUR - Research from the Icelandic Academy of the Arts</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Friday, March 1st, 1pm, @ The Sussex Humanities Lab, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A series of presentations from Iceland-based composers and artists working with electronic media and transdisciplinary practice, teaching at the &lt;a href=&quot;http://www.lhi.is&quot;&gt;Iceland University of the Arts&lt;/a&gt;. The session will be followed by a short concert, starting at 2pm, with performances of pieces written by these composers on the new halldorophone instrument (see below).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jesper Pedersen&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title: Live performance with modular synths&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Live performance with modular synthesizers can be a challenge. Even more so when performing solo. In this talk, Jesper will introduce his current hybrid live rig and demonstrate some of the performance capabilities of his DIY Serge modular.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Bio:&lt;/b&gt; Jesper Pedersen is a composer, performer, educator and DIYer based in Reykjavik. He studied Music Technology at Aalborg University in Denmark and has been developing experimental works that mixes DIY technology with acoustic musical instruments through the use of real time software based animated graphical notation. Recently he has been focussing on performing on modular synthesizers both solo and in collaborations such as the North Atlantic postcolonial outfit The Remains of the Commonwealth.&lt;/p&gt;
-
-&lt;p&gt;His works have been performed internationally by S.L.Á.T.U.R., Goodiepal and Pals, Duo Harpverk, Ensemble Adapter, the Iceland Symphony Orchestra, Ilan Volkov, Katie Buckley, Ingólfur Vilhjámsson at festivals including the Tectonics Festival, Nordlichter Biennale, Sonic Festival, OpenDays, Rainy Days, Summartónar, Raflost, Geiger, Sláturtíð, Dark Music Days and Nordic Music Days. 
-Jesper is a part of the Icelandic composers collective S.L.Á.T.U.R. and pays the bills by teaching electronic music composition at the Iceland Academy of the Arts and the Kópavogur Computer Music Center.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.slatur.is/jesper&quot;&gt;www.slatur.is/jesper&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.instagram.com/jespertralala&quot;&gt;www.instagram.com/jespertralala&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/jesper.png&quot; alt=&quot;Jesper Pedersen&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Sam Rees&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title: Visual Noise, Discordant Clutter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Sam will present examples of his personal work with interactive dioramas using circuit-bent toy robots as well as his influences and current interests, from outsider art to voodoo shrines, scavenger populations and robot-human empathy.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Bio: &lt;/b&gt; A generalist with a passion for DIY cultures, manifesting itself through printed matter, installation, workshops and events. British born, Sam studied interactive arts in Manchester in 2003, but has been living in Iceland for the last 6 years. He teaches interactive media at the Iceland University of the Arts, was a co-founder of the Fjúk arts residency in NE Iceland and co-organises the annual Reykjavik Zine and Print Fair.&lt;/p&gt;
-
-&lt;p&gt;Recent work focuses on a series of interactive dioramas - sequential narrative installations, eclectic assemblage with circuit bent toys, exploring technological waste and our perception of robotics. Recent activities include a residency at Signal Culture in upstate New York, and exhibitions at the Reykjavik Electronic Arts Festival and Nordic House.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.ififoundafrozentimewarpidputitinthemicrowaveatyourhouse.co.uk&quot;&gt;www.ififoundafrozentimewarpidputitinthemicrowaveatyourhouse.co.uk&lt;/a&gt;
-&lt;a href=&quot;http://instagram.com/sam.t.rees&quot;&gt;http://instagram.com/sam.t.rees&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/sam.png&quot; alt=&quot;Sam Rees&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Áki Ásgeirsson&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title: About S.L.Á.T.U.R.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Short introduction to few past projects of the Icelandic S.L.Á.T.U.R. group, including art and sport competitions, musical notation, costume design and cross-/trans-/non-disciplinary practice.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Bio: &lt;/b&gt;Áki Ásgeirsson is a composer and multimedia artist from Garður, Iceland. He has written music for traditional instruments as well as designed new acoustic instruments, audio software, computer controlled instruments and sound installations.&lt;/p&gt;
-
-&lt;p&gt;Áki has been active in the Icelandic experimental music/art scene as a composer, sound artist and performer. With background in free improvisation, electronic music, art coding and algorithmic music, Áki often works in collaboration with other artists of various fields.&lt;/p&gt;
-
-&lt;p&gt;He is a member of composer collective S.L.Á.T.U.R. and co-organises the RAFLOST festival for electronic art.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.aki.is&quot;&gt;www.aki.is&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/aki.jpg&quot; alt=&quot;Aki Asgeirsson&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Halldór Úlfarsson&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;The Augmented Halldorophone&lt;/strong&gt; 
-(a short discussion in conjunction with the concert presentation)&lt;/p&gt;
-
-&lt;p&gt;A short talk about the exploration of the newest BELA equipped Halldorophone and writing a small piece of music for it. Sonic as well as technological obstacles encountered during the work will be discussed from the viewpoint of the composer’s role. The Halldorophone is the brainchild of Icelandic artist and instrument designer Halldór Úlfarsson.&lt;/p&gt;
-
-&lt;p&gt;For further info: &lt;a href=&quot;http://www.halldorophone.info&quot;&gt;http://www.halldorophone.info&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/halldorophone.jpg&quot; alt=&quot;Halldorophone&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/slatur</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/slatur</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>book</category>
-        
-        <category>performance</category>
-        
-        <category>improvisation</category>
-        
-        <category>audiovisual</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab 3</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/EmuteLab3.jpg&quot; alt=&quot;EmuteLab3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;:::: Wednesday, Feb 13th, 7.30-11pm, @ The Rose Hill, Brighton ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This programme will feature three acts exploring the interaction of sound and image.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;BOG BODIES - (Robert Stillman, Sean Carpio, Anders Holst)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bog Bodies sound breaks down distinctions between composition and improvisation, electronic and acoustic sound, abstraction and figure. Their distinctive musical style reflects the eclecticism of the band members’ individual careers (they have collaborated with artists such as Manuel Göttsching, Kit Downes, and Joachim Badenhorst), and to the broad range of music from which they take inspiration, which includes James Blood Ulmer, Sunn O))), Archie Shepp, and Supersilent. Their first album, ‘Sligo’ was released in 2017 on Migro Recordings.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thor Magnusson ‘Threnoscope’&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Threnoscope is a microtonal drone instrument that provides a context for improvisation of microtonal music where both the live coder and the instrumentalists influence the piece’s development. The Threnoscope is notated through live coding, with sound characteristics and speaker locations being visualised on a projected  graphical score. Musical notes move around the spectral and physical space, long in duration, and sculptable by the performer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Roosa Poni&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Roosa Poni is a collaborative band of &lt;a href=&quot;http://tehis.net&quot;&gt;Alo Allik &lt;/a&gt; and Delia Fano Yela. Allik is an Estonian sound artist who has performed his live coded electronic music and generative computer graphics throughout the world. His aesthetically and geographically restless lifestyle has enabled him to traverse a diverse range of musical worlds including DJ-ing electronic dance music, live electronic jam sessions, electroacoustic composition, free improvisation and audiovisual performances. He has forged collaborations with a number of curious and innovative musicians, writers and visual artists along the way focussed on exploring links between science, technology, creativity and tradition. In recent years he has been developing a musical style he describes as noisefunk which derives its form from ancient tribal rhythm patterns and its sonic nature from evolutionary synthesis algorithms. Currently, Alo works as a researcher, programmer and lecturer in London, while continuing to perform his music and visuals to audiences worldwide.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Koray Tahiroğlu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Koray Tahiroğlu is a musician, Academy Research Fellow in the Department of Media, Aalto University School of ARTS. He is the founder and head of SOPI (Sound and Physical Interaction) research group. He practices art as a researcher focusing on digital musical interactions, as well as a performer of live electronic music. Since 2004, he has been also teaching workshops and courses introducing computational strategies and methodologies for artistic exploration of interactive music. Tahiroğlu has performed experimental music in collaboration as well as in solo performances in Europe, North America and Australia.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/176701167&quot;&gt;https://vimeo.com/176701167&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tickets at the door, or even better, on &lt;a href=&quot;https://www.eventbrite.co.uk/e/emute-lab-3-tickets-55517138255?fbclid=IwAR1Hx8hsu0WjBbXuILO9aVdjIH4nYqPyUuyUZmoaX2TDDugqT5B_Nwu7KUA&quot;&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab3</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab3</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
         
         <category>improvisation</category>
         

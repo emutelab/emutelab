@@ -297,6 +297,14 @@
 <lastmod>2019-11-18T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/Rothenberg</loc>
+<lastmod>2020-05-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/Semaworkshop</loc>
+<lastmod>2020-06-16T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -322,6 +330,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page4/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/docs/Music%20perception%20and%20the%20fluctuation%20of%20utopia.pdf</loc>
