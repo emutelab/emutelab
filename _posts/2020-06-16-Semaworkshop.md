@@ -12,11 +12,9 @@ date: 2020-06-16
 
 **:::: Week starting July 6th, 3-5pm UK time, @ Zoom ::::**
 
-Would you like to use <b>machine learning as part of musical live coding</b>? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early June. With daily one-hour Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.
+Would you like to use <b>machine learning as part of musical live coding</b>? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early July. With daily Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.
 
-The MIMIC research project in machine creativity and music has provided creative coders with a toolbox for making art with cutting-edge AI technologies on the web. We chose JavaScript, the language of the Web, as the ideal interface for introducing the concepts of machine learning and machine listening to people interested in using extended intelligence in their creative work. You can create an account and get started with writing code, studying tutorials and sharing your work on the <a href="http://www.mimicproject.com">MIMIC website</a>.
-
-However, as part of the MIMIC project we have created <b>Sema</b>. Sema is an online system for live coding in the browser with AI. Here you can apply many of the technologies we have built as part of the MIMIC work, but moreover: you can design your own live coding language!
+We have been working on a web-based solution for live coding and as part of the <a href="http://www.mimicproject.com">MIMIC project</a> we have created <b>Sema</b>. Sema is an online system for live coding in the browser with AI. Here you can apply many of the technologies we have built as part of our MIMIC work, but moreover: you can design your own live coding language!
 
 ![Screenshot of Sema](/img/Semascreenshot.png)
 *A screenshot of Sema. Take a look at the three videos of Sema in action below.*
@@ -25,7 +23,7 @@ We believe every new live coding language results in new musical approaches, whi
 
 We are about to launch Sema in early July but for further information on Sema, please visit this [PAGE + URL]
 
-There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages. 
+There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages. We are hoping that workshop participants will contribute in a user-study that will help us to develop the system further. 
 
 **The Programme of the Week:**
 
@@ -91,6 +89,9 @@ Bernardo, F., Kiefer, C., Magnusson, T. (2020). Designing for a Pluralist and Us
 Bernardo, F., Kiefer, C., Magnusson, T. (forthcoming). A Signal Engine for a Live Code Language Ecosystem. Journal of Audio Engineering Society, Vol. 68, No. 1, October
 
 
+<b>
 We hope to see you on Zoom, in July!
+
 (Francisco, Chris and Thor)
 
+</b>
