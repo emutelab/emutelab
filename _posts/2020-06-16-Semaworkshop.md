@@ -21,7 +21,7 @@ We have been working on a web-based solution for live coding and as part of the 
 
 We believe every new live coding language results in new musical approaches, which implies that for a diversity of music we need a diversity of languages. Sema enables you to write your own language, whether it is one piece of music, an instrument, a pattern generator, or a full blown live coding language. 
 
-We are about to launch Sema in early July but for further information on Sema, please visit this [PAGE + URL]
+Sema will be officially launched just before the start of the workshop, so you will be one of the first users to test this new technology and design your own live coding languages for machine learning in music.
 
 There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages. We are hoping that workshop participants will contribute in a user-study that will help us to develop the system further. 
 
@@ -62,7 +62,7 @@ There is no previous experience required to participate in this Sema workshop. Y
 	5pm - Showcase of projects in development (or ideas). Drinks and snack.
 
 
-<b>A sign-up and further information about the workshop: [URL]. >Sema Workshop Registration</a>
+<b>A sign-up and further information about the workshop: <a href="https://bit.ly/30OomUo">Sema Workshop Registration</a></b>
 
 This video demonstrates the default language of Sema and some of its functionality
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Cu2R66OTak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
