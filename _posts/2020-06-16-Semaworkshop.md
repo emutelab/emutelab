@@ -25,7 +25,7 @@ Sema will be officially launched just before the start of the workshop, so you w
 
 There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages. We are hoping that workshop participants will contribute in a user-study that will help us to develop the system further. 
 
-We will run a flipped-learning workshop where we release introductory tutorial videos each day and workshop participants study them in their own time. We then have a syncronous Zoom Q&A workshop session at 3pm every day.
+We will run a flipped-learning workshop where we release introductory tutorial videos each day and workshop participants study them in their own time. We then have a synchronous Zoom Q&A workshop session at 3pm every day.
 
 **The Programme of the Workshop Week:**
 
