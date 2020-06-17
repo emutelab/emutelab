@@ -10,7 +10,7 @@ date: 2020-06-16
 ---
 
 
-**:::: Week starting July 6th, 3-5pm UK time, @ Zoom ::::**
+**:::: When: June 29th - July 3rd, 3-5pm UK time. Where: Zoom ::::**
 
 Would you like to use <b>machine learning as part of musical live coding</b>? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early July. With daily Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.
 
@@ -25,40 +25,42 @@ Sema will be officially launched just before the start of the workshop, so you w
 
 There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages. We are hoping that workshop participants will contribute in a user-study that will help us to develop the system further. 
 
+We will run a flipped-learning workshop where we release introductory tutorial videos each day and workshop participants study them in their own time. We then have a syncronous Zoom Q&A workshop session at 3pm every day.
+
 **The Programme of the Week:**
 
-**Monday - July 6th**
+**Monday - June 29th**
 
-	3pm - Introduction (Zoom): Introduction to Sema and the default Sema language
-	4pm - Workshop (Zoom): Making music with the Sema default language + QnA
+	all day - Introduction (YouTube videos): Introduction to Sema and the default Sema language
+	3pm - Workshop (Zoom): Making music with the Sema default language + QnA
 	5pm - Slack channel: Discussion
 
-**Tuesday - July 7th**
+**Tuesday - June 30th**
 
+	all day - Introduction (YouTube Videos): Machine Learning concepts. Using machine learning in Sema
 	1pm - Slack channel: Discussion and work
-	3pm - Introduction (Zoom): Machine Learning concepts. Using machine learning in Sema
-	4pm - Workshop (Zoom): Making music with machine learning. Training a ML network + QnA
+	3pm - Workshop (Zoom): Making music with machine learning. Training a ML network + QnA
+	4pm - Slack channel: Discussion
+
+**Wednesday - July 1th**
+
+	all day - Introduction (YouTube Videos): Machine learning libraries. FFT and machine learning
+	1pm - Slack channel: Discussion and work
+	3pm - Workshop (Zoom): Machine listening and machine learning
+	4pm - Slack channel: Discussion
+
+**Thursday - July 2nd**
+
+	all day - Introduction (YouTube Videos): Language design in Sema. How to create your own live coding language
+	1pm - Slack channel: Discussion and work
+	3pm - Workshop (Zoom): Making your own piece with unique language syntax
 	5pm - Slack channel: Discussion
 
-**Wednesday - July 8th**
+**Friday - July 3rd**
 
+	all day - Introduction (YouTube Videos): Language design for machine learning	
 	1pm - Slack channel: Discussion and work
-	3pm - Introduction (Zoom): Machine learning libraries. FFT and machine learning.
-	4pm - Workshop (Zoom): Machine listening and machine learning
-	5pm - Slack channel: Discussion
-
-**Thursday - July 9th**
-
-	1pm - Slack channel: Discussion and work
-	3pm - Introduction (Zoom): Language design in Sema. How to create your own live coding language.
-	4pm - Workshop (Zoom): Making your own piece with unique language syntax.
-	5pm - Slack channel: Discussion
-
-**Friday - July 10th**
-
-	1pm - Slack channel: Discussion and work
-	3pm - Introduction (Zoom): Language design for machine learning
-	4pm - Workshop (Zoom): Finishing your live coding language + QnA
+	3pm - Workshop (Zoom): Finishing your live coding language + QnA
 	5pm - Showcase of projects in development (or ideas). Drinks and snack.
 
 
