@@ -29,36 +29,36 @@ There is no previous experience required to participate in this Sema workshop. Y
 
 **Monday - July 6th**
 
-	3pm - Zoom: Introduction to Sema and the default Sema language
-	4pm - Workshop: Making music with the Sema default language + QnA
+	3pm - Introduction (Zoom): Introduction to Sema and the default Sema language
+	4pm - Workshop (Zoom): Making music with the Sema default language + QnA
 	5pm - Slack channel: Discussion
 
 **Tuesday - July 7th**
 
 	1pm - Slack channel: Discussion and work
-	3pm - Zoom: Machine Learning concepts. Using machine learning in Sema
-	4pm - Workshop: Making music with machine learning. Training a ML network + QnA
+	3pm - Introduction (Zoom): Machine Learning concepts. Using machine learning in Sema
+	4pm - Workshop (Zoom): Making music with machine learning. Training a ML network + QnA
 	5pm - Slack channel: Discussion
 
 **Wednesday - July 8th**
 
 	1pm - Slack channel: Discussion and work
-	3pm - Zoom: Machine learning libraries. FFT and machine learning.
-	4pm - Workshop: Machine listening and machine learning
+	3pm - Introduction (Zoom): Machine learning libraries. FFT and machine learning.
+	4pm - Workshop (Zoom): Machine listening and machine learning
 	5pm - Slack channel: Discussion
 
 **Thursday - July 9th**
 
 	1pm - Slack channel: Discussion and work
-	3pm - Zoom: Language design in Sema. How to create your own live coding language.
-	4pm - Workshop: Making your own piece with unique language syntax.
+	3pm - Introduction (Zoom): Language design in Sema. How to create your own live coding language.
+	4pm - Workshop (Zoom): Making your own piece with unique language syntax.
 	5pm - Slack channel: Discussion
 
 **Friday - July 10th**
 
 	1pm - Slack channel: Discussion and work
-	3pm - Zoom: Language design for machine learning
-	4pm - Workshop: Finishing your live coding language + QnA
+	3pm - Introduction (Zoom): Language design for machine learning
+	4pm - Workshop (Zoom): Finishing your live coding language + QnA
 	5pm - Showcase of projects in development (or ideas). Drinks and snack.
 
 
