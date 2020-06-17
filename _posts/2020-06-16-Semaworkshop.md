@@ -64,13 +64,13 @@ There is no previous experience required to participate in this Sema workshop. Y
 
 <b>A sign-up and further information about the workshop: <a href="https://bit.ly/30OomUo">Sema Workshop Registration</a></b>
 
-This video demonstrates the default language of Sema and some of its functionality
+This video demonstrates the <b>default language</b> of Sema and some of its functionality
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Cu2R66OTak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In this video we have a new language, called Rubber Duck, and we demonstrate some basic rhythm functionality.
+In this video we have a new language, called <b>Rubber Duckling</b>, and we demonstrate some basic rhythm functionality.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw4sYnTj-Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This video shows the binary language called Nibble. It functions by swapping bits around.
+This video shows the binary language called <b>Nibble</b>. It functions by swapping bits around.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wIgZ-Vymas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 These videos are small examples of what can be done with Sema. It is really up to you to decide what you will do with this system.
