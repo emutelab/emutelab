@@ -27,7 +27,7 @@ There is no previous experience required to participate in this Sema workshop. Y
 
 We will run a flipped-learning workshop where we release introductory tutorial videos each day and workshop participants study them in their own time. We then have a syncronous Zoom Q&A workshop session at 3pm every day.
 
-**The Programme of the Week:**
+**The Programme of the Workshop Week:**
 
 **Monday - June 29th**
 
@@ -63,6 +63,20 @@ We will run a flipped-learning workshop where we release introductory tutorial v
 	3pm - Workshop (Zoom): Finishing your live coding language + QnA
 	5pm - Showcase of projects in development (or ideas). Drinks and snack.
 
+**Additional Support the Following Week:**
+
+**Monday - July 6th**
+
+	3pm - Project Development (Zoom): A session where we support people completing their projects
+
+**Wednesday - July 8th**
+
+	3pm - Project Development (Zoom): A session where we support people completing their projects
+
+**Friday - July 10th**
+
+	3pm - Project Development (Zoom): A session where we support people completing their projects
+
 
 <b>A sign-up and further information about the workshop: <a href="https://bit.ly/30OomUo">Sema Workshop Registration</a></b>
 
@@ -91,9 +105,7 @@ Bernardo, F., Kiefer, C., Magnusson, T. (2020). Designing for a Pluralist and Us
 Bernardo, F., Kiefer, C., Magnusson, T. (forthcoming). A Signal Engine for a Live Code Language Ecosystem. Journal of Audio Engineering Society, Vol. 68, No. 1, October
 
 
-<b>
-We hope to see you on Zoom, in July!
+<b>We hope to see you on Zoom, in July!</b>
 
 (Francisco, Chris and Thor)
 
-</b>
