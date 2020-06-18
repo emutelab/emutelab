@@ -78,6 +78,8 @@ We will run a flipped-learning workshop where we release introductory tutorial v
 	3pm - Project Development (Zoom): A session where we support people completing their projects
 
 
+**Registration:**
+
 <b>A sign-up and further information about the workshop: <a href="https://bit.ly/30OomUo">Sema Workshop Registration</a></b>
 
 This video demonstrates the <b>default language</b> of Sema and some of its functionality
