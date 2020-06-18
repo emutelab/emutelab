@@ -107,7 +107,7 @@ Bernardo, F., Kiefer, C., Magnusson, T. (2020). Designing for a Pluralist and Us
 Bernardo, F., Kiefer, C., Magnusson, T. (forthcoming). A Signal Engine for a Live Code Language Ecosystem. Journal of Audio Engineering Society, Vol. 68, No. 1, October
 
 
-<b>We hope to see you on Zoom, from June 29th!</b>
+<b>Please register above and we hope to see you on Zoom, from June 29th!</b>
 
 (Francisco, Chris and Thor)
 
