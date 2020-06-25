@@ -12,7 +12,7 @@ date: 2020-06-16
 
 **:::: When: June 29th - July 3rd, 3-5pm UK time. Where: Zoom ::::**
 
-Would you like to use <b>machine learning as part of musical live coding</b>? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early July. With daily Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.
+Would you like to use <b>machine learning as part of musical live coding</b>? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early July. With daily videos, Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.
 
 As part of our work in the <a href="http://www.mimicproject.com">MIMIC project</a>, we have created <b>Sema</b>: an online system for live coding with AI in the browser. Here you can apply many of the machine learning technologies we have implemented as part of our MIMIC work, but moreover: you can design your own live coding language!
 
