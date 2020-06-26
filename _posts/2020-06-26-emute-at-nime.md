@@ -12,9 +12,7 @@ date: 2020-06-26
 
 **:::: Emute Lab at NIME 2020 ::::**
 
-Emute Lab member have a number of contributions to New Interfaces for Musical Expression 2020, taking place online in late July.
-
-We begin with a lab report, on our recent activities, and our wider philosophy and approach.
+Emute Lab members have a number of contributions to New Interfaces for Musical Expression 2020, taking place online in late July.  NIME is an annual conference on musical expression and the design of new musical instruments. It's the natural home of many of our research projects, which is why we begin with a lab report on our activities.
 
 ***Instrumental Investigations at the Emute Lab***
 *Thor Magnusson, Alice Eldridge and Chris Kiefer*
