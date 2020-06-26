@@ -3,81 +3,212 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 16 Jun 2020 14:17:43 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2020 14:17:43 +0000</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <link>http://www.emutelab.org/</link>
+    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 26 Jun 2020 10:52:29 +0100</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 10:52:29 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Emute Lab at NIME 2020</title>
+        <description>&lt;p&gt;&lt;strong&gt;:::: Emute Lab at NIME 2020 ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Emute Lab member have a number of contributions to New Interfaces for Musical Expression 2020, taking place online in late July.&lt;/p&gt;
+
+&lt;p&gt;We begin with a lab report, on our recent activities, and our wider philosophy and approach.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Instrumental Investigations at the Emute Lab&lt;/em&gt;&lt;/strong&gt;
+&lt;em&gt;Thor Magnusson, Alice Eldridge and Chris Kiefer&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This lab report discusses recent projects and activities of the Experimental Music Technologies Lab at the University of Sussex. The lab was founded in 2014 and has contributed to the development of the field of new musical technologies. The report introduces the lab’s agenda, gives examples of its activities through common themes and gives short description of lab members’ work. The lab environment, funding income and future vision are also presented.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The remaining contributions centre around a big research topic in Emute Lab, feedback instruments and musicianship.  Halldór Úlfarsson collaborates on two submissions, firstly a paper:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sculpting the behaviour of the Feedback-Actuated
+Augmented Bass&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Halldór Úlfarsson and Adam Pultz Melbye (Sonic Arts Research Centre, Belfast)&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This paper describes physical and digital design strategies for the Feedback-Actuated Augmented Bass – a self-contained feedback double bass with embedded DSP capabilities. A primary goal of the research project is to create an instrument that responds well to the use of extended playing techniques and can manifest complex harmonic spectra while retaining the feel and sonic fingerprint of an acoustic double bass. While the physical configuration of the instrument builds on similar feedback string instruments being developed in recent years, this project focuses on modifying the feedback behaviour through low-level audio feature extractions coupled to computationally lightweight filtering and amplitude management algorithms. We discuss these adaptive and time-variant processing strategies and how we apply them in sculpting the system’s dynamic and complex behaviour to our liking.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/376697035&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/376697035&quot;&gt;The Augmented Double Bass (listen with headphones)&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user27144102&quot;&gt;Adam Pultz Melbye&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Halldór also collaborates on a performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dual/Duel/Duet/for/with/halldorophone&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Nicole Robson (Queen Mary, University of London) and Halldór Úlfarsson&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The halldorophone is a cello-like, feedback instrument, developed over the past decade by Halldór Úlfarsson. The
+instrument is well-established in experimental music circles and gaining wider recognition thanks to its use by composer
+and cellist Hildur Guðnadóttir in film scores, including her Oscar nominated music for Joker (2019). The halldorophone
+utilises a simple system, whereby the vibration of each string is detected by a pickup, amplified and routed to a speaker
+embedded in the back of the instrument. By adding gain to individual strings in the feedback loop, the instrument’s
+response can become rapidly complex, potentially spinning out of control. While every musical performance of a
+piece is unique in some way and contingent on its particular moment and situation in time, the unstable nature of the
+halldorophone exacerbates this condition. Players describe the halldorophone as ‘unpredictable’, ‘very much alive’ and
+as having ‘its own ideas’, even tiny changes to their body position in performance might produce unexpected effects
+. In this NIME premiere for the instrument, cellist Nicole Robson will perform a piece for a new digitally endowed
+halldorophone, and the title of the piece – Dual/Duel/Duet – acknowledges the active role of the instrument in shaping
+the composition and performance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.halldorophone.info/public/img/2018-Square.jpg&quot; alt=&quot;Sister 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next up is a paper on complexity and the behaviour of feedback instruments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shaping the behaviour of feedback instruments with complexity-controlled gain dynamics&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Chris Kiefer, Dan Overholt (Aalborg University, Copenhagen), Alice Eldridge&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Feedback instruments offer radical new ways of engaging
+with instrument design and musicianship. They are defined
+by recurrent circulation of signals through the instrument,
+which give the instrument ‘a life of its own’ and a ’stimulating uncontrollability’. Arguably, the most interesting
+musical behaviour in these instruments happens when their
+dynamic complexity is maximised, without falling into saturating feedback. It is often challenging to keep the instrument in this zone; this research looks at algorithmic ways
+to manage the behaviour of feedback loops in order to make
+feedback instruments more playable and musical; to expand
+and maintain the ‘sweet spot’. We propose a solution that
+manages gain dynamics based on measurement of complexity, using a realtime implementation of the Effort to Com-
+press algorithm. The system was evaluated with four musicians, each of whom have different variations of string-based
+feedback instruments, following an autobiographical design
+approach. Qualitative feedback was gathered, showing that
+the system was successful in modifying the behaviour of
+these instruments to allow easier access to edge transition
+zones, sometimes at the expense of losing some of the more
+compelling dynamics of the instruments. The basic efficacy
+of the system is evidenced by descriptive audio analysis.
+This paper is accompanied by a dataset of sounds collected
+during the study, and the open source software that was
+written to support the research.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Finally, we’ll be running a &lt;strong&gt;&lt;em&gt;workshop on Feedback Musicianship&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Workshop Aim: Exchange and generation of strategies, concepts and practices of feedback musicianship – building community, new musical collaborations
+Feedback purposefully utilised in performance has long been an interesting musical endeavour; however, integrating such expertise into the design and development of instruments and interactive systems, which balance autonomy and expressivity, playability and musicality remains a challenge. Examples include extended traditional instruments, modular synthesisers, feedback incorporated into acoustic resonating bodies, new algorithmic techniques for managing feedback loops, etc. The workshop will conclude with an evening concert (online informal jam session) in the form of improvisation with feedback instruments, open to all participants. Identifying the importance of musical feedback in interaction, instruments, and systems, this workshop focuses on the development of instruments for innovative interactions with feedback in music, from designs for feedback instruments themselves, to novel multi-sensory interaction with feedback incorporated into augmented instruments and systems.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can see more details and sign up here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nime2020.bcu.ac.uk/feedback-musicianship/&quot;&gt;https://nime2020.bcu.ac.uk/feedback-musicianship/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/emute-at-nime</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emute-at-nime</guid>
+        
+        <category>emutelab</category>
+        
+        <category>nime</category>
+        
+        <category>lab report</category>
+        
+        <category>feedback</category>
+        
+        <category>paper</category>
+        
+        <category>poster</category>
+        
+        <category>workshop</category>
+        
+        <category>performance</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Sema: Live Coding With Machine Learning Workshop</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Week starting July 6th, 3-5pm UK time, @ Zoom ::::&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;:::: When: June 29th - July 3rd, 3-5pm UK time. Where: Zoom ::::&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Would you like to use &lt;b&gt;machine learning as part of musical live coding&lt;/b&gt;? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early June. With daily one-hour Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.&lt;/p&gt;
+&lt;p&gt;Would you like to use &lt;b&gt;machine learning as part of musical live coding&lt;/b&gt;? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early July. With daily videos, Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.&lt;/p&gt;
 
-&lt;p&gt;The MIMIC research project in machine creativity and music has provided creative coders with a toolbox for making art with cutting-edge AI technologies on the web. We chose JavaScript, the language of the Web, as the ideal interface for introducing the concepts of machine learning and machine listening to people interested in using extended intelligence in their creative work. You can create an account and get started with writing code, studying tutorials and sharing your work on the &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;MIMIC website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, as part of the MIMIC project we have created &lt;b&gt;Sema&lt;/b&gt;. Sema is an online system for live coding in the browser with AI. Here you can apply many of the technologies we have built as part of the MIMIC work, but moreover: you can design your own live coding language!&lt;/p&gt;
+&lt;p&gt;As part of our work in the &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;MIMIC project&lt;/a&gt;, we have created &lt;b&gt;Sema&lt;/b&gt;: an online system for live coding with AI in the browser. Here you can apply many of the machine learning technologies we have implemented as part of our MIMIC work, but moreover: you can design your own live coding language!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/Semascreenshot.png&quot; alt=&quot;Screenshot of Sema&quot; /&gt;
 &lt;em&gt;A screenshot of Sema. Take a look at the three videos of Sema in action below.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We believe every new live coding language results in new musical approaches, which implies that for a diversity of music we need a diversity of languages. Sema enables you to write your own language, whether it is one piece of music, an instrument, a pattern generator, or a full blown live coding language.&lt;/p&gt;
 
-&lt;p&gt;We are about to launch Sema in early July but for further information on Sema, please visit this [PAGE + URL]&lt;/p&gt;
+&lt;p&gt;Sema will be officially launched just before the start of the workshop, so you will be one of the first users to test this new technology and design your own live coding languages for machine learning in music.&lt;/p&gt;
 
-&lt;p&gt;There is no previous experience required to participate in this Sema workshop. You don’t need to be a skilled programmer or understand the basics of machine learning or AI. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI at your level, and get people up to speed in using Sema and creating their own live coding languages.&lt;/p&gt;
+&lt;p&gt;There is no previous experience required to participate in this Sema workshop. Although you do not need any machine learning expertise, you will benefit from beginner-level JavaScript programming skills. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI, and get people up to speed in using Sema and creating their own live coding languages. We are hoping that workshop participants will contribute in a user-study that will help us to develop the system further.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The Programme of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We will run a flipped-learning workshop where we release introductory tutorial videos each day and workshop participants study them in their own time. We then have a synchronous Zoom Q&amp;amp;A workshop session at 3pm every day.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Monday - July 6th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Programme of the Workshop Week:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Zoom: Introduction to Sema and the default Sema language
-4pm - Workshop: Making music with the Sema default language + QnA
+&lt;p&gt;&lt;strong&gt;Monday - June 29th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube videos): Introduction to Sema and the default Sema language
+3pm - Workshop (Zoom): Making music with the Sema default language + QnA
 5pm - Slack channel: Discussion
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Tuesday - July 7th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday - June 30th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
-3pm - Zoom: Machine Learning concepts. Using machine learning in Sema
-4pm - Workshop: Making music with machine learning. Training a ML network + QnA
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine Learning concepts. Using machine learning in Sema
+1pm - Slack channel: Discussion and work
+3pm - Workshop (Zoom): Making music with machine learning. Training a ML network + QnA
+4pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Wednesday - July 1th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine learning libraries. FFT and machine learning
+1pm - Slack channel: Discussion and work
+3pm - Workshop (Zoom): Machine listening and machine learning
+4pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Thursday - July 2nd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design in Sema. How to create your own live coding language
+1pm - Slack channel: Discussion and work
+3pm - Workshop (Zoom): Making your own piece with unique language syntax
 5pm - Slack channel: Discussion
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Friday - July 3rd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design for machine learning	
+1pm - Slack channel: Discussion and work
+3pm - Workshop (Zoom): Finishing your live coding language + QnA
+5pm - Showcase of projects in development (or ideas). Drinks and snack.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Additional Support the Following Week:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monday - July 6th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Wednesday - July 8th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
-3pm - Zoom: Machine learning libraries. FFT and machine learning.
-4pm - Workshop: Machine listening and machine learning
-5pm - Slack channel: Discussion
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursday - July 9th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
-3pm - Zoom: Language design in Sema. How to create your own live coding language.
-4pm - Workshop: Making your own piece with unique language syntax.
-5pm - Slack channel: Discussion
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Friday - July 10th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1pm - Slack channel: Discussion and work
-3pm - Zoom: Language design for machine learning
-4pm - Workshop: Finishing your live coding language + QnA
-5pm - Showcase of projects in development (or ideas). Drinks and snack.
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;b&gt;A sign-up and further information about the workshop: [URL]. &amp;gt;Sema Workshop Registration&amp;lt;/a&amp;gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This video demonstrates the default language of Sema and some of its functionality&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A sign-up and further information about the workshop: &lt;a href=&quot;https://bit.ly/30OomUo&quot;&gt;Sema Workshop Registration&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This video demonstrates the &lt;b&gt;default language&lt;/b&gt; of Sema and some of its functionality&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7Cu2R66OTak&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;In this video we have a new language, called Rubber Duck, and we demonstrate some basic rhythm functionality.&lt;/p&gt;
+&lt;p&gt;In this video we have a new language, called &lt;b&gt;Rubber Duckling&lt;/b&gt;, and we demonstrate some basic rhythm functionality.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Qw4sYnTj-Ow&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;This video shows the binary language called Nibble. It functions by swapping bits around.&lt;/p&gt;
+&lt;p&gt;This video shows the binary language called &lt;b&gt;Nibble&lt;/b&gt;. It functions by swapping bits around.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6wIgZ-Vymas&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;These videos are small examples of what can be done with Sema. It is really up to you to decide what you will do with this system.&lt;/p&gt;
@@ -94,13 +225,14 @@
 
 &lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (forthcoming). A Signal Engine for a Live Code Language Ecosystem. Journal of Audio Engineering Society, Vol. 68, No. 1, October&lt;/p&gt;
 
-&lt;p&gt;We hope to see you on Zoom, in July!
-(Francisco, Chris and Thor)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Please register above and we hope to see you on Zoom, from June 29th!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;(Francisco, Chris and Thor)&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/Semaworkshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Semaworkshop</guid>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/Semaworkshop</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/Semaworkshop</guid>
         
         <category>emutelab</category>
         
@@ -157,9 +289,9 @@ After registering, you will receive a confirmation email containing information 
 &lt;/div&gt;
 
 </description>
-        <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/Rothenberg</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Rothenberg</guid>
+        <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/Rothenberg</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/Rothenberg</guid>
         
         <category>emutelab</category>
         
@@ -243,8 +375,8 @@ https://www.facebook.com/events/720543615076362&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/materialities</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/materialities</guid>
+        <link>http://www.emutelab.org/blog/materialities</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/materialities</guid>
         
         <category>emutelab</category>
         
@@ -340,8 +472,8 @@ New alias and project of Emute member Dylan Beattie. By using a record lathe and
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab5</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab5</guid>
+        <link>http://www.emutelab.org/blog/emutelab5</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab5</guid>
         
         <category>emutelab</category>
         
@@ -361,7 +493,7 @@ New alias and project of Emute member Dylan Beattie. By using a record lathe and
       </item>
     
       <item>
-        <title>What's Happening in the World of Feedback Instruments?</title>
+        <title>What&#39;s Happening in the World of Feedback Instruments?</title>
         <description>&lt;p&gt;At Emute Lab, several of our members have been concentrating their research efforts on building and performing with feedback instruments. You could define a Feedback Instrument as an instrument whose behaviour depends on the circulation of signals, and manipulation of the way in which these signals circulate around the instrument.  These instruments could be acoustic, electronic, digital, or hybrid.  Feedback will be the core of how they make sound and/or how musicians interact with them.&lt;/p&gt;
 
 &lt;p&gt;There’s a great deal of activity in this area around the world at the moment, and here, I will attempt to highlight some of the recent developments in feedback instrument design and musicianship.  But before leaping into current work, let’s take a look at some past instruments and pieces that have had a big influence on today’s developments.&lt;/p&gt;
@@ -506,9 +638,9 @@ You could call this a ‘feedback ensemble’, as the Threnoscope is connected t
 
 &lt;p&gt;These are some highlights of contemporary feedback instruments, which take a range of forms. These instruments can be challenging but also extremely rewarding to play. The challenges come from dealing with the complexity of highly sensitive dynamical systems, and changing from conventional modes of instrumental control to shared agency with the instrument.  The rewards are to break into new sonic territories and to discover some radically new ways of playing music.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/feedback_insts</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/feedback_insts</guid>
+        <pubDate>Mon, 07 Oct 2019 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/feedback_insts</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/feedback_insts</guid>
         
         <category>emutelab</category>
         
@@ -561,9 +693,9 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/936387710040807/&quot;&gt;https://www.facebook.com/events/936387710040807/&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab4</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab4</guid>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/emutelab4</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab4</guid>
         
         <category>emutelab</category>
         
@@ -668,9 +800,9 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 &lt;p&gt;&lt;img src=&quot;/img/MIMICworkshop.jpg&quot; alt=&quot;Workshop&quot; /&gt;
 &lt;em&gt;And this is how it looked&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/summerworkshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/summerworkshop</guid>
+        <pubDate>Fri, 24 May 2019 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/summerworkshop</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/summerworkshop</guid>
         
         <category>emutelab</category>
         
@@ -699,9 +831,9 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;img src=&quot;/img/MIMIC.png&quot; alt=&quot;MIMIC&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/mimic</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/mimic</guid>
+        <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/mimic</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/mimic</guid>
         
         <category>emutelab</category>
         
@@ -734,9 +866,9 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 
 &lt;p&gt;&lt;img src=&quot;/img/supercollider.png&quot; alt=&quot;SuperCollider&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/creativeaudiocoding</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/creativeaudiocoding</guid>
+        <pubDate>Tue, 07 May 2019 00:00:00 +0100</pubDate>
+        <link>http://www.emutelab.org/blog/creativeaudiocoding</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/creativeaudiocoding</guid>
         
         <category>emutelab</category>
         
@@ -747,45 +879,6 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
         <category>coding</category>
         
         <category>live coding</category>
-        
-        <category>improvisation</category>
-        
-        <category>audiovisual</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Sonic Writing - A book launch in the SHL</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, March 14th, 5.00pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Thor Magnusson’s book &lt;i&gt;Sonic Writing: Technologies of Material, Symbolic and Signal Inscriptions&lt;/i&gt; is now out with &lt;a href=&quot;https://www.bloomsbury.com/9781501313868&quot;&gt;Bloomsbury Academic&lt;/a&gt;. This monograph is the final outcome of an &lt;a href=&quot;https://ahrc.ukri.org&quot;&gt;AHRC&lt;/a&gt; funded &lt;a href=&quot;http://www.sonicwriting.org&quot;&gt;research project&lt;/a&gt; that ran between 2016 and 2018. The book is divided into four key parts: &lt;b&gt;instruments&lt;/b&gt; (material inscriptions), &lt;b&gt;notation&lt;/b&gt; (symbolic inscriptions), &lt;b&gt;recording&lt;/b&gt; (signal inscriptions), and &lt;b&gt;new music technologies&lt;/b&gt;, or how our analogue and electronic traditions are translated and applied in the design of digital instruments.&lt;/p&gt;
-
-&lt;p&gt;The book launch will be held in the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt; Sussex Humanities Lab&lt;/a&gt; on March 14th - all welcome! In addition to drinks and snacks, there will be musical performances by Emute Lab colleagues: &lt;a href=&quot;https://www.feedbackcell.info&quot;&gt;Feedback Cell&lt;/a&gt;, &lt;a href=&quot;https://alexanderpeverett.com&quot;&gt;Alex Peverett&lt;/a&gt; and &lt;a href=&quot;http://andrew-duff.co.uk&quot;&gt;Andrew Duff&lt;/a&gt;, and &lt;a href=&quot;https://www.evelynficarra.net/about/&quot;&gt;Evelyn Ficarra&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Before the music, Thor Magnusson will give a short introduction to the context of the book and Prof. Caroline Bassett, the director of the SHL, will respond with “Notes on Sonic Writing”.&lt;/p&gt;
-
-&lt;p&gt;Bloomsbury has a discount code that can be used on check-out when purchasing the book on the &lt;a href=&quot;http://www.bloomsbury.com/9781501313868&quot;&gt;Bloomsbury website&lt;/a&gt; : “GLR MP6”&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;NOTE: As of March 1st, 2019, the book is out of print! - Bloomsbury is printing more and we will let people know when it is available again.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bloomsburycp3.codemantra.com/viewer/5c58b483713c090001cc13c9&quot;&gt;
-&lt;img border=&quot;0&quot; alt=&quot;W3Schools&quot; src=&quot;/img/sonicwriting.jpg&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/sonicwriting</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/sonicwriting</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>book</category>
-        
-        <category>performance</category>
         
         <category>improvisation</category>
         
