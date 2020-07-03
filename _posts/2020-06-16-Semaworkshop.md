@@ -67,7 +67,7 @@ We will run a flipped-learning workshop where we release introductory tutorial v
 
 **Monday - July 6th**
 
-	3pm - Project Development (Zoom): A session where we support people completing their projects
+	5pm - Project Development (Zoom): A session where we support people completing their projects (<b>note the change to 5pm</b>)
 
 **Wednesday - July 8th**
 
