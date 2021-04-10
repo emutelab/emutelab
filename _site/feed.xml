@@ -3,11 +3,54 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Jun 2020 10:53:07 +0100</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2020 10:53:07 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 10 Apr 2021 18:23:47 +0100</pubDate>
+    <lastBuildDate>Sat, 10 Apr 2021 18:23:47 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>A Chat with Ingi Garðar Erlendsson</title>
+        <description>&lt;h4 id=&quot;-a-chat-with-ingi-garðar-erlendsson-&quot;&gt;:::: A Chat with Ingi Garðar Erlendsson ::::&lt;/h4&gt;
+
+&lt;p&gt;As a part of the work for the [AHRC Feedback Musicianship Network] (https://feedback-musicianship.pubpub.org/), Emute Lab Member Halldór Úlfarsson (IS) Interviews Composer and Thranophone player Ingi Garðar Erlendsson (IS) on his performance practice with Thranophone (developed together with composer Þráinn Hjálmarsson (IS)). The version of Thranophone Ingi Garðar has been playing for the past decade is a Tuba induced to feedback via speaker cone sitting in the bell, outputting the sound of a microphone Ingi keeps in his mouth (sheathed in a rubber membrane). His favoured controller for this setup is gain control for the amplification via foot pedal (with various effects injected in the signal path according to his fancy for a given performance). Here is Ingi Garðar giving us an insight into his feelings about playing thranophone in (January, 14. 2021):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the beginning it was very raw but I liked the idea and then I kept trying things to make it more interesting. So I needed to find ways to make it more interesting as a sound source, for the tuba-thranophone it is a lot about how I use my mouth. But it really is a monster now because you have so many options for playing. Which I don’t think people recognized in the beginning, because it’s basically just feedback so I don’t think people recognized how rich it can be. The perception was that it is too primitive. But taking it from there if you, hmm, take care, if you practice the system, the instrument, if you develop a performance practice and work through [technical] problems that come up it’s cool. Being a composer it’s amazing that I cannot trust the instrument, that it is the same today as it was yesterday, that it is the same in one space or another. Although usually it’s quite similar.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/thranophoneSkull.png&quot; alt=&quot;Thranophone&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s Ingi playing at ICLI 2016:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l5vDKEZsJjY&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This post will be added to and updated.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Apr 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/IngiInterview</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/IngiInterview</guid>
+        
+        <category>emutelab</category>
+        
+        <category>nime</category>
+        
+        <category>lab report</category>
+        
+        <category>feedback</category>
+        
+        <category>paper</category>
+        
+        <category>poster</category>
+        
+        <category>workshop</category>
+        
+        <category>performance</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab at NIME 2020</title>
@@ -95,8 +138,8 @@ Feedback purposefully utilised in performance has long been an interesting music
 &lt;p&gt;&lt;a href=&quot;https://nime2020.bcu.ac.uk/feedback-musicianship/&quot;&gt;https://nime2020.bcu.ac.uk/feedback-musicianship/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/emute-at-nime</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emute-at-nime</guid>
+        <link>http://localhost:4000/blog/emute-at-nime</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emute-at-nime</guid>
         
         <category>emutelab</category>
         
@@ -183,7 +226,7 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 &lt;p&gt;&lt;strong&gt;Monday - July 6th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;5pm - Project Development (Zoom): A session where we support people completing their projects (&amp;lt;b&amp;gt;note the change to 5pm&amp;lt;/b&amp;gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Wednesday - July 8th&lt;/strong&gt;&lt;/p&gt;
@@ -229,8 +272,8 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 </description>
         <pubDate>Tue, 16 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/Semaworkshop</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/Semaworkshop</guid>
+        <link>http://localhost:4000/blog/Semaworkshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Semaworkshop</guid>
         
         <category>emutelab</category>
         
@@ -288,8 +331,8 @@ After registering, you will receive a confirmation email containing information 
 
 </description>
         <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/Rothenberg</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/Rothenberg</guid>
+        <link>http://localhost:4000/blog/Rothenberg</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Rothenberg</guid>
         
         <category>emutelab</category>
         
@@ -373,8 +416,8 @@ https://www.facebook.com/events/720543615076362&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/materialities</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/materialities</guid>
+        <link>http://localhost:4000/blog/materialities</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/materialities</guid>
         
         <category>emutelab</category>
         
@@ -470,8 +513,8 @@ New alias and project of Emute member Dylan Beattie. By using a record lathe and
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab5</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab5</guid>
+        <link>http://localhost:4000/blog/emutelab5</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab5</guid>
         
         <category>emutelab</category>
         
@@ -491,7 +534,7 @@ New alias and project of Emute member Dylan Beattie. By using a record lathe and
       </item>
     
       <item>
-        <title>What&#39;s Happening in the World of Feedback Instruments?</title>
+        <title>What's Happening in the World of Feedback Instruments?</title>
         <description>&lt;p&gt;At Emute Lab, several of our members have been concentrating their research efforts on building and performing with feedback instruments. You could define a Feedback Instrument as an instrument whose behaviour depends on the circulation of signals, and manipulation of the way in which these signals circulate around the instrument.  These instruments could be acoustic, electronic, digital, or hybrid.  Feedback will be the core of how they make sound and/or how musicians interact with them.&lt;/p&gt;
 
 &lt;p&gt;There’s a great deal of activity in this area around the world at the moment, and here, I will attempt to highlight some of the recent developments in feedback instrument design and musicianship.  But before leaping into current work, let’s take a look at some past instruments and pieces that have had a big influence on today’s developments.&lt;/p&gt;
@@ -637,8 +680,8 @@ You could call this a ‘feedback ensemble’, as the Threnoscope is connected t
 &lt;p&gt;These are some highlights of contemporary feedback instruments, which take a range of forms. These instruments can be challenging but also extremely rewarding to play. The challenges come from dealing with the complexity of highly sensitive dynamical systems, and changing from conventional modes of instrumental control to shared agency with the instrument.  The rewards are to break into new sonic territories and to discover some radically new ways of playing music.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Oct 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/feedback_insts</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/feedback_insts</guid>
+        <link>http://localhost:4000/blog/feedback_insts</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/feedback_insts</guid>
         
         <category>emutelab</category>
         
@@ -692,8 +735,8 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/936387710040807/&quot;&gt;https://www.facebook.com/events/936387710040807/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab4</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab4</guid>
+        <link>http://localhost:4000/blog/emutelab4</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/emutelab4</guid>
         
         <category>emutelab</category>
         
@@ -799,8 +842,8 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 &lt;em&gt;And this is how it looked&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 May 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/summerworkshop</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/summerworkshop</guid>
+        <link>http://localhost:4000/blog/summerworkshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/summerworkshop</guid>
         
         <category>emutelab</category>
         
@@ -830,8 +873,8 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 &lt;p&gt;&lt;img src=&quot;/img/MIMIC.png&quot; alt=&quot;MIMIC&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/mimic</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/mimic</guid>
+        <link>http://localhost:4000/blog/mimic</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mimic</guid>
         
         <category>emutelab</category>
         
@@ -844,43 +887,6 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
         <category>language design</category>
         
         <category>summer</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Creative Audio Coding Evening</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Thursday, May 9th, 5.30-7.30pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;During the next academic year, the Emute Lab will collaborate with the Sussex Humanities Lab in running monthly “Creative Audio Coding” evenings in the SHL. This will be a space for people to come and work on their sound and music projects, but we will also introduce selected technologies (such as new software and languages) or techniques (such as synthesis techniques, embodied control or machine learning) in each session. In this teaser on May 9th, we will start with the very popular and powerful &lt;a href=&quot;https://supercollider.github.io&quot;&gt;SuperCollider&lt;/a&gt; audio programming language. This system has been instrumental in establishing the practice of &lt;a href=&quot;http://www.toplap.org&quot;&gt;live coding&lt;/a&gt; and has been the main environment for creative sound coding for over two decades.&lt;/p&gt;
-
-&lt;p&gt;In this session Thor Magnusson will give a short introduction to SuperCollider, and his recently republished tutorial &lt;a href=&quot;https://leanpub.com/ScoringSound&quot;&gt;Scoring Sound: Creative Music Coding with SuperCollider&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We will bring some drinks and snack, but participants will have to bring their laptops and headphones. &lt;strong&gt;Everyone is welcome&lt;/strong&gt;, especially beginners and the curious, and we especially encourage people from outside the University of Sussex to join us in these sessions.&lt;/p&gt;
-
-&lt;p&gt;See you in the lab.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/supercollider.png&quot; alt=&quot;SuperCollider&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 May 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/creativeaudiocoding</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/creativeaudiocoding</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>programming</category>
-        
-        <category>coding</category>
-        
-        <category>live coding</category>
-        
-        <category>improvisation</category>
-        
-        <category>audiovisual</category>
         
         
         <category>blog</category>

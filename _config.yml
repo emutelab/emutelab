@@ -21,5 +21,5 @@ markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
 paginate: 25
-gems: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
