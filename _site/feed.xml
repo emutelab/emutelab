@@ -5,9 +5,129 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 10 Apr 2021 18:27:08 +0100</pubDate>
-    <lastBuildDate>Sat, 10 Apr 2021 18:27:08 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Jan 2022 17:27:51 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Jan 2022 17:27:51 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Machines on Stage: Exploring the World of Robot Opera</title>
+        <description>&lt;h1 id=&quot;machines-on-stage-exploring-the-world-of-robot-opera&quot;&gt;Machines on Stage: Exploring the World of Robot Opera&lt;/h1&gt;
+
+&lt;p&gt;A number of Emute Lab members are interested in robotics and AI. A key area where music, robotics and AI meet is Robot Opera. Robot Opera in its simplest sense is an opera which has robots in it. You could argue that in some sense this idea goes way back, as automata and stage machinery have been part of theatre and opera for a long time (for example of the latter, see Corneille’s Andromède, described as a tragedy represented by machines). The word ‘robot’ itself has its origins in theatre - a play by Czech playwright Karel Çapek, Rossum’s Universal Robots’ coined the term in 1921.&lt;/p&gt;
+
+&lt;p&gt;What’s behind the current wave of operatic interest in robots? There’s a broader context at work, in both theatre and in music. At the Performing Robots Conference in Utrecht in 2019, the point was repeatedly made that theatre could be a ‘sandbox’ or ‘test bed’ for human robot interaction, with much to be learnt about how humans see themselves (through creating robotic doubles) and about how we can imagine our future relationships with robots.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/379722275?h=8fdba7dd82&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/379722275&quot;&gt;Performing Robots Conference 2019, Utrecht (23rd-25th May)&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user106402189&quot;&gt;TiM&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the music side, an example of robotic musical innovation can be found at Georgia Tech, where researchers have developed Shimon, a marimba playing robot who can improvise jazz with human musicians. Shimon is currently be trained to sing and write songs collaboratively with humans.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BOck0kPtlfk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In robot opera itself, there’s a wide variety of practice out there, featuring both humanoid and non-humanoid robots, singing and performing in a range of different styles. One of the most high profile of these is Todd Machover’s Death and the Powers (2010) produced at MIT. An iconic work of the modern genre, it featured eight non-humanoid robots and a human cast, including video and complex moving stage scenery.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T0ZsUAiAcXE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Interestingly, the non-humanoid robots sounded, at time, a lot like humans.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Myd2DdSxUEk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Wade Marynowski’s Robot Opera (2015) by contrast featured non-humanoid robots that sounded very non-human, exploring the tropes of electronic music, and combining sound, movement, sculpture and interactivity, blurring boundaries between set, character, performers and audience.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eOgKzrsgb2s&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In a more traditional staging, a humanoid robot in Gob Squad’s 2015 robot opera My Square Lady was trained to conduct and sing as humans do, in a quest to learn about human emotion.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/49rJMgJY1CU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In the Royal Opera House’s 2015 commission Glare, a human singer played a robot character, who was trying to ‘pass’ as human.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FZzS2A5Vu6U&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Clearly this opera did not have an actual robot on stage, nevertheless such scenarios allow for serious exploration of human/robot identities and relationships. Who gets to decide who is human, and how important are relationships in these definitions? On stage, if a ‘real’ robot performs, how are we relating to that as an audience, compared to a human performer pretending to be a robot? These sorts of questions are also being explored extensively in France, where the Ecole Universitaire de Recherche hosts an ongoing international webinar entitled Robots on Stage. Interdisciplinary Convergences between Robotics and Theatre.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/555319614?h=3d27ba3f29&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/555319614&quot;&gt;Conf&amp;eacute;rence - Robots and theatre : creations, challenges and research prospects&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/eurartec&quot;&gt;EUR ArTeC&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;robot-opera--sussex&quot;&gt;Robot Opera @ Sussex&lt;/h2&gt;
+
+&lt;p&gt;At the Centre for Research in Opera and Music Theatre (CROMT) we started a robot opera project in 2017, and we have had and additional two research events in 2019 and 2021. Our focus is on:
+    • voice, embodiment and performance
+    • creative exploration of human robot interaction
+    • scholarly reflection on robotic otherness and human/robot hybridity, including ethical dimensions of our relationships with robots 
+    • how new technologies create new forms of expression and new forms for opera, including how explorations of robotic vocal virtuosity might feed back into human music making&lt;/p&gt;
+
+&lt;p&gt;How would a robot sing if it sang like a robot, rather than emulating a human? What would it sound like if its voice came from its own materiality and physicality? How do we read a robot’s presence on stage? Can a robot perform, or is it in some sense, always performing? Music software can enable computers to ‘improvise’ musically - if a robot is really just a computer that can move around, how might that movement be used to influence its vocal production?    How could embodiment feed into robotic voice? What would robotic vocal virtuosity sound like? On a more philosophical level, as Dr Ron Chrisley has explored, &lt;a href=&quot;https://paics.wordpress.com/2018/05/14/robot-opera-robert-gyorgyi-interviews-ron-chrisley/&quot;&gt;what does it mean for a robot to sing&lt;/a&gt;, or alternatively - who is singing, when a robot sings?&lt;/p&gt;
+
+&lt;h2 id=&quot;2017-robot-opera-a-mini-symposium&quot;&gt;2017 Robot Opera: a Mini Symposium.&lt;/h2&gt;
+
+&lt;p&gt;Using commercially available robots already deployed in the School of Engineering and Informatics at Sussex, we launched the robot opera project with a half day event in June 2017. This consisted in a set of papers delivered by Sussex researchers (Ron Chrisley, Thanos Polymeneas-Liontiris, and Chris Kiefer) followed by performances of two five-minute operas, both directed by Tim Hopkins, &lt;em&gt;The Opposite of Familiarity&lt;/em&gt; composed by Ed Hughes with a libretto by Eleanor Knight,    and &lt;em&gt;O, One&lt;/em&gt; by Evelyn Ficarra, for two Nao robots. The robots were programmed by Ron Chrisley and the human musicians were    Alice Eldridge (cello) Joe Watson (piano). The talks ranged over subjects such as Learning and Performing with AIs (Kiefer); Operatic Bots (Polymeneas-liontiris); and What would it be for a robot to sing? (Chrisley), introduced by Evelyn Ficarra. Full documentation of the event, including talks and performances, can be seen &lt;a href=&quot;https://youtu.be/bV-seLR0OP0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our creative work with the Nao robots (two toddler-sized robots designed and built by Softbank Robotics) revealed some interesting challenges. Our aim was that the primary ‘on stage’ performers would be the two robots, with the human musicians entirely in support in the background. We were determined the the Naos would sing with their own voices - that is, we would not simply record humans and put the voices inside the robots. We would create the ‘singing’ with the same voice the robots used to speak - accessed through the text to speech software that comes with the robot operating &amp;amp; animation system. Ron Chrisley and the composers met weekly to try out different techniques, with Ron programming in Python to effect the pitch and rhythmic pace of the robots. One interesting hitch was that the robots could not elongate a vowel sound, they could only repeat - so instead of ‘aaaaaah’ stretched out, they would sing a, a, a, a, a, - pronouncing each letter separately.&lt;/p&gt;
+
+&lt;p&gt;Although the Naos do have some speech recognition and facial recognition, and we wanted to give a sense of them acting and relating to each other, in reality they were more like puppets, enacting pre-programmed sequences triggered by either a tap on their heads (where they have a button) or by showing them a particular symbol trigger which they are programmed to recognise to initiate a sequence. Tim Hopkins’s direction set the robots out on a sort of runway between two strips of seated audience members, with musicians at either end, so that the audience were effectively looking at each other over the heads of the performing robots. There were also robots in the audience, as Sussex has a fleet of Naos and we had asked all the Nao caretakers on campus to bring their robots with them, further blurring identities between robots and humans as both audience and performers. The ’set’ was a simple strip of white paper on the floor, marking out the performance space, on which ‘cave’ drawings showing the evolution of machines (an imagined past for the robots) were drawn, and on which we wrote out words of the libretto in real time during the performance. For further details on the music of &lt;em&gt;O, One&lt;/em&gt; by Evelyn Ficarra, see https://evelynficarra.net/portfolio/o-one/&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/16h2hOxxz5k&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;2019-robot-opera---whats-next&quot;&gt;2019 Robot Opera - What’s Next?&lt;/h2&gt;
+&lt;p&gt;In 2019, we developed the project to focus on human robot interaction, particularly on how robotic vocal virtuosity might inform human vocal practice. This time we used a Pepper robot (Softbank Robotics) and brought in a human opera singer, Loré Lixenberg of Apartment House, together with her collaborator, cellist Anton Lukoszevieze, and a robot cat, because - of course you need a robot cat. Evelyn worked with two programmers, Deepeka Khosla and Kopiga Kugananthaval, to animate the robot and again explored how to push the robot’s ‘natural’ speaking voice into operatic and virtuosic expressive shapes. We commissioned Sam Bilbow to make a ‘robot cello’, so that both our human performers, Anton and Loré, had robotic counterpoints. The performance was co-devised by the creative team and again the event concluded with a reflective panel, this time chaired by Nick Till, with Ron Chrisley as first respondent and a Q &amp;amp; A featuring Evelyn and the performers. 
+Taster clip:&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/394115792?h=17b451e420&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/394115792&quot;&gt;Robot Opera 2019 &amp;quot;I Want Your Job&amp;quot; excerpt&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user87904852&quot;&gt;Evelyn Ficarra&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;2021-robo_po--robo_op&quot;&gt;2021 Robo_Po /// Robo_Op&lt;/h2&gt;
+
+&lt;p&gt;This was a two day event consisting of a robot poetry reading and an operatic performance featuring Cleo, a robot designed and built by Engineered Arts. Both days were streamed live to an international audience and concluded with a reflective panel discussion by artists, academics and industry professionals. Cleo, unlike the Nao robots or Pepper, is a hyper-realistic humanoid robot, with silicon skin and real human hair. Cleo is full size, taller than many humans, and has face recognition and some limited AI driven features such as the ability to mimic certain movements. She has cameras in her eyes, and you can tap into the video stream of what she is seeing and project it. You can also ventriloquize her voice using a microphone - though we did not do that directly in real time.&lt;/p&gt;
+
+&lt;p&gt;Cleo’s hyperrealistic appearance brought us into different dramatic and musical territory with this project, raising questions of the uncanny. This allowed us to explore ideas around human / robot mirroring and hybridity, both visually in the staging, and vocally in the music. Evelyn considered how human voices are made from our physical materiality of muscle and bone, and wanted to reflect the robot’s physicality in its voice. Therefore in this project she did not limit herself to using the robot’s built in text to speech mechanism. Instead, she visited the robot factory in Falmouth and recorded sounds of robot body movement and robot manufacture. She also met with Loré Lixenberg the opera singer to record her voice, and then chopped up and fragmented both machine and human recordings to create a hybrid vocal world for the robot, eventually also including its own speaking voice in heightened ways. The robot sounds also formed the basis of an electronic soundscape which supported the voices.&lt;/p&gt;
+
+&lt;p&gt;We were very pleased in this new phase of the project to bring in a choreographer, Janine Fletcher, from Southeast Dance. Having learned through working with the Pepper robot about the importance of robotic movement in making the robot voice believable, we knew we needed an expert in movement this time, who could also work with the human performers. Janine Fletcher added a valuable dimension to the performance particularly in her duet with the robot, and spoke very interestingly afterwards about the complexities of performing with a body that has no awareness of others in the space - Cleo can see faces but does not have sensors on her body to prevent collisions, for example.&lt;/p&gt;
+
+&lt;p&gt;See a short documentary on the Robo_Op project&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Tzzmp-9_Rpo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;:&lt;/p&gt;
+
+&lt;p&gt;Full documentation of the performance and panel discussion:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZTiguwX6mtA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A panel discussion on Robo_Op:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bWK86rzW7og?start=139&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can also see the robot poetry reading which occurred on day one of    Robo_Po /// Robo_Op here:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qdB8jWdkX2w?start=1136&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;For further scholarly reflection and context, see this excellent article by Alexander Sigman:
+Sigman, A. (2020). Robot Opera: Bridging the Anthropocentric and the Mechanized Eccentric. Computer Music Journal, 43(1), 21–37. https://doi.org/10.1162/comj_a_00498&lt;/p&gt;
+
+&lt;p&gt;For further information about robot opera at Sussex contact &lt;a href=&quot;https://profiles.sussex.ac.uk/p41192-evelyn-ficarra&quot;&gt;Evelyn Ficarra&lt;/a&gt; or &lt;a href=&quot;https://profiles.sussex.ac.uk/p208667-chris-kiefer&quot;&gt;Chris Kiefer&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/robot_opera</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/robot_opera</guid>
+        
+        <category>emutelab</category>
+        
+        <category>robot</category>
+        
+        <category>opera</category>
+        
+        <category>singing</category>
+        
+        <category>synthesis</category>
+        
+        <category>musical theatre</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>A Chat with Ingi Garðar Erlendsson</title>
@@ -25,7 +145,6 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l5vDKEZsJjY&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;This post will be added to and updated.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Apr 2021 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/IngiInterview</link>
@@ -850,39 +969,6 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
         <category>workhop</category>
         
         <category>live coding</category>
-        
-        <category>language design</category>
-        
-        <category>summer</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>MIMIC platform for Machine Learning and Machine Listening</title>
-        <description>&lt;p&gt;MIMIC is a web platform for the artistic exploration of musical machine learning and machine listening. We have designed this collaborative platform as an interactive online coding environment, engineered to bring new technologies in AI and signal processing to artists, composers, musicians and performers all over the world.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;MIMIC platform&lt;/a&gt; has a built-in audio engine, machine learning and machine listening tools that makes it easy for creative coders to get started using these techniques in their own artistic projects. The platform also includes various examples of how to integrate external machine learning systems for sound, music and art making. These examples can be forked and further developed by the users of the platform.&lt;/p&gt;
-
-&lt;p&gt;Over the next three years, we aim to integrate brand new and developing creative systems into this platform so that they can be more easily used by musicians and artists in the creation of entirely new music, sound, and media, enabling people to understand and apply new computational techniques such as Machine Learning in their own creative work.&lt;/p&gt;
-
-&lt;p&gt;MIMIC or “Musically Intelligent Machines Interacting Creatively” is a three year AHRC-funded project, run by teams at Goldsmiths College, Durham University and the University of Sussex.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/MIMIC.png&quot; alt=&quot;MIMIC&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/mimic</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/mimic</guid>
-        
-        <category>emutelab</category>
-        
-        <category>workhop</category>
-        
-        <category>live coding</category>
-        
-        <category>JavaScript</category>
         
         <category>language design</category>
         
