@@ -5,30 +5,54 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://www.emutelab.org/</link>
     <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Feb 2022 17:45:03 +0000</pubDate>
-    <lastBuildDate>Thu, 03 Feb 2022 17:45:03 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Feb 2022 10:20:23 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Feb 2022 10:20:23 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Emute Lab 6 @ The Rose Hill</title>
-        <description>&lt;h1&gt;An afternoon of workshops&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student)&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/../../img/emutelab6ws.png&quot; alt=&quot;emutelab6!&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Livecoding Workshops&lt;/h1&gt;
+&lt;h3&gt;11:00 - 16:00&lt;/h3&gt;
+&lt;p&gt;Facebook Event TBA &lt;br /&gt; Tickets TBA: £7 or £4 (concession/student)&lt;/p&gt;
 
-&lt;p&gt;Live coding workshops will be held by Digital Selves (Lizzie Wilson) and w1n5t0n (Dimitris Kyriakoudis).&lt;/p&gt;
+&lt;p&gt;Dimitris Kyriakoudis - Live Coding with TimeLines: Musical Maths&lt;/p&gt;
 
-&lt;p&gt;Info TBA&lt;/p&gt;
+&lt;p&gt;Lizzie Wilson - Live Coding with TidalCycles&lt;/p&gt;
 
-&lt;h1&gt;An evening of performances&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student)&lt;/p&gt;
-
-&lt;p&gt;Info TBA&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/../../img/emutelab6.png&quot; alt=&quot;emutelab6!&quot; /&gt;&lt;/p&gt;
+&lt;h1&gt;Experimental A/V Performances&lt;/h1&gt;
+&lt;h3&gt;19:00 - 22:30&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1090542748411764/&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;https://www.ticketsource.co.uk/emute-lab/emute-lab-6-gig/e-mzglpb&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student)&lt;/p&gt;
 
 &lt;h3&gt;Digital Selves&lt;/h3&gt;
-&lt;h3&gt;Joana Chicau and Jonothan Reus&lt;/h3&gt;
-&lt;h3&gt;w1n5t0n&lt;/h3&gt;
-&lt;h3&gt;Sam Bilbow and Steve Symons&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@dgtlselves&quot;&gt;@dgtlselves&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/VPeX3hzsiO0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Joana Chicau and Jonothan Reus&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@bchicau&quot;&gt;@bchicau &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@_jchaim&quot;&gt;@_jchaim&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/zMydMePetkE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;w1n5t0n&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@lmw1n5t0n&quot;&gt;@lmw1n5t0n&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/dsHnWE6_JbE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Steve Symons and Sam Bilbow&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@stevemuio&quot;&gt;@stevemuio&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/3MBnnZnGak8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@sambilbow&quot;&gt;@sambilbow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sam is a Doctoral Researcher at Sussex working with augmented reality as a medium for gestural and musical expression.&lt;/p&gt;
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/gY2QtK907cU?start=92&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
 </description>
