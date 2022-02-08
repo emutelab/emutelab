@@ -5,8 +5,8 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://www.emutelab.org/</link>
     <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 Feb 2022 14:00:34 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Feb 2022 14:00:34 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Feb 2022 18:59:44 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Feb 2022 18:59:44 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -14,11 +14,23 @@
         <description>&lt;h1&gt;Livecoding Workshops&lt;/h1&gt;
 &lt;h3&gt;11:00 - 16:00&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/../../img/emutelab6ws.png&quot; alt=&quot;emutelab6!&quot; /&gt;
-Facebook Event TBA &lt;br /&gt; Tickets TBA: £7 or £4 (concession/student)&lt;/p&gt;
+&lt;a href=&quot;https://www.facebook.com/events/257329999851715&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; Tickets TBA: £7 or £4 (concession/student)&lt;/p&gt;
 
-&lt;p&gt;Dimitris Kyriakoudis - Live Coding with TimeLines: Musical Maths&lt;/p&gt;
+&lt;p&gt;During these workshops, two of the performers will introduce the practice of live coding music. They will explain how their live coding instruments of choice work (the very same instruments that they will use to perform later in the evening), guide participants through a hands-on session of play and experimentation, and discuss their personal artistic practices and approaches to performing improvised music by writing and modifying computer code, live on stage. No prior coding experience is required, just the curiosity to learn (+ a laptop and a pair of headphones).&lt;/p&gt;
 
-&lt;p&gt;Lizzie Wilson - Live Coding with TidalCycles&lt;/p&gt;
+&lt;h3&gt;Dimitris Kyriakoudis - Musical Maths: Live Coding Music with TimeLines&lt;/h3&gt;
+
+&lt;p&gt;A gentle introduction to live coding music using &lt;a href=&quot;https://github.com/lnfiniteMonkeys/TimeLines-HS&quot;&gt;TimeLines&lt;/a&gt;, a free &amp;amp; open source modular synthesiser and sequencer, presented by its developer.&lt;/p&gt;
+
+&lt;p&gt;Participants will learn about live coding and sound synthesis, explore the meaning of the oftentimes confusing phrase “music is maths”, and discover how to use primary school-level maths to recreate compositional techniques used by both children’s folk songs and J.S. Bach alike, but in the context of modern music.&lt;/p&gt;
+
+&lt;p&gt;No previous musical or coding experience required. In order to follow along you will need a laptop using Windows, Mac OS, or most flavours of Linux, as well as a pair of headphones. Participants are encouraged to attempt installing the software in preparation for the workshop (following the instructions in the link above), but can also get help with the installation process during the workshop.&lt;/p&gt;
+
+&lt;h3&gt;Lizzie Wilson - Composing Algorithmic Patterns in Tidal Cycles&lt;/h3&gt;
+
+&lt;p&gt;In this workshop, participants will be learning the fundamental principles of live coding. In live coding, computer language is the primary medium for notation and describing the rules with which to synthesise artworks, in this case we consider the case where the output is musical pattern. Participants will be composing patterns algorithmically with the &lt;a href=&quot;https://tidalcycles.org/&quot;&gt;Tidal Cycles&lt;/a&gt; software: a language for describing flexible (e.g. polyphonic, polyrhythmic, generative) sequences of sounds, notes, parameters, and all kind of information. Tidal Cycles (or ‘Tidal’ for short) is free/open source software written using the functional programming language Haskell, that utilises the audio capabilities of the SuperCollider software. It includes simple and flexible notation for rhythmic sequences, and an extensive library of patterning functions for combining and transforming them. This allows you to quickly create complex patterns from simple ingredients. Learning the strategies used by live coders to create complex and varied outcomes from simple code structures is the workshops main outcome. No previous coding or musical experience required.&lt;/p&gt;
+
+&lt;p&gt;Participants should bring a laptop and headphones to the workshop. If they feel comfortable doing so, they should download the TidalCycles software onto their laptop BEFORE the workshop (see &lt;a href=&quot;tidalcycles.org/docs/getting-started/&quot;&gt;tidalcycles.org/docs/getting-started/&lt;/a&gt;). If not, they will be able to participate in the workshop, provided they are able to access the internet through their laptop (WiFi connection will be provided).&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h1&gt;Experimental A/V Performances&lt;/h1&gt;
@@ -31,21 +43,42 @@ Facebook Event TBA &lt;br /&gt; Tickets TBA: £7 or £4 (concession/student)&lt;
 
 &lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/VPeX3hzsiO0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3&gt;Joana Chicau and Jonothan Reus&lt;/h3&gt;
+&lt;p&gt;In this performance, live coder digital selves will explore the human-machine creative relationship. The live coder will work in conjunction with, and sometimes against, a machine agent that creates its own pattens of code. Through performance, a co-creative system emerges, using the machine agent to explore not-yet conceptualised code sequences. This forms part of a wider context of research which centres around co-creative systems of algorithmic composition based on models of affective response (emotion). Please be aware that this performance will be filmed.&lt;/p&gt;
+
+&lt;p&gt;Bio:&lt;br /&gt;
+digital selves is a London-based computer musician who uses algorithms of synthesis and samples to create improvised, crunchy sounds and melodic texture. They have performed at various events in the UK and internationally and use the programming mini-language TidalCycles to create algorithmic music that recontextualises club culture, experimental art and human-computer interaction.&lt;/p&gt;
+
+&lt;h3&gt;Joana Chicau and J. Chaim Reus&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@bchicau&quot;&gt;@bchicau &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@_jchaim&quot;&gt;@_jchaim&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/zMydMePetkE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;p&gt;‘Web Choreographies’ is an assemblage of live coded visual experiments performed in the web browser. This performance is part of an on-going research on how design and web based computational systems can be used to construct new scenarios, imaginaries and hypotheses guided by choreographic concepts. By privileging open source tools and investigation through feminist lens, Joana Chicau combines real-time algorithmic composition and movement studies to rethink the vocabularies, protocols, modes of participation and conditions for the affective interfacing of bodies and technologies.&lt;/p&gt;
+
+&lt;p&gt;Bios: 
+Joana Chicau is a designer and researcher — with a background in dance. She researches the intersection of the body with the designed and programmed environment, aiming at widening the ways in which digital sciences is presented and made accessible to the public. The latter informs a practice and exploration of various forms and formats — interweaving web programming with choreography — from the making of online platforms to performances and workshops.&lt;br /&gt;
+She has been participating and co-organizing events involving collaborative coding, algorithmic improvisation, open discussions on digital equity and activism. Chicau is a member of the collective Varia.zone and a lecturer at the University of Arts of London.&lt;/p&gt;
+
+&lt;p&gt;J. Chaim Reus is a Dutch-American research-composer, born in New York and thereafter living in Amsterdam and then Florida, where he became involved in the American folk-art scene. Years later he moved to the Netherlands where he developed a uniquely intimate live practice cutting across disciplines of music and visual art, science and digital culture. &lt;a href=&quot;jonathanreus.com&quot;&gt;jonathanreus.com&lt;/a&gt;&lt;/p&gt;
+
 &lt;h3&gt;w1n5t0n&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@lmw1n5t0n&quot;&gt;@lmw1n5t0n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@lm_w1n5t0n&quot;&gt;@lm_w1n5t0n&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/dsHnWE6_JbE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;p&gt;w1n5t0n is one of lnfinite Monkeys. His species has developed sufficient intelligence to enable the use of tools and instruments, but not enough to actually understand how most of them work, so he often resorts to making his own. To this end he reimagines, recycles, and reappropriates anything he can find laying around the jungle, from leftover temporally functional-reactive homoiconic metaprogramming to nice sticks and pretty pebbles – all ethically and open sourced, of course. In doing so he explores the intersection of music, art, mathematics, programming, randomness, improvisation, internet memes, infinity, algorithmocomputational creativity, The Meaning of Life™, and fun.&lt;/p&gt;
+
+&lt;p&gt;Bio: 
+When not dwelling on trees (either the plain ones or the Abstract Syntax kind), w1n5t0n transmorphs to Dimitris Kyriakoudis and wears clothes and drinks tea and says “please” and “thank you” and pays bills and taxes. He can be usually found researching HCI and experimenting with live coding instrument design at the University of Sussex.&lt;/p&gt;
+
 &lt;h3&gt;Steve Symons and Sam Bilbow&lt;/h3&gt;
+&lt;p&gt;Steve and Sam will improvise using their experimental virtual musical interfaces, accessed by a Gametrak and an Augmented Reality Headset. The performance examines three-dimensional bodily motion, and how these interfaces might relate to one another, both comparing and contrasting their sonic palettes and gestures.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@stevemuio&quot;&gt;@stevemuio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve Symons has spent many years making embedded locative audio systems and making / improvising music with NIMEs.  He is interested in enactive interfaces, woodwork and finding new metaphors for collaborative instruments.&lt;/p&gt;
 
 &lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/3MBnnZnGak8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
