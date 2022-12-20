@@ -3,11 +3,112 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Jan 2022 17:27:51 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Jan 2022 17:27:51 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <link>http://www.emutelab.org/</link>
+    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 08 Feb 2022 18:59:44 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Feb 2022 18:59:44 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Emute Lab 6 @ The Rose Hill</title>
+        <description>&lt;h1&gt;Livecoding Workshops&lt;/h1&gt;
+&lt;h3&gt;11:00 - 16:00&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/../../img/emutelab6ws.png&quot; alt=&quot;emutelab6!&quot; /&gt;
+&lt;a href=&quot;https://www.facebook.com/events/257329999851715&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; Tickets TBA: £7 or £4 (concession/student)&lt;/p&gt;
+
+&lt;p&gt;During these workshops, two of the performers will introduce the practice of live coding music. They will explain how their live coding instruments of choice work (the very same instruments that they will use to perform later in the evening), guide participants through a hands-on session of play and experimentation, and discuss their personal artistic practices and approaches to performing improvised music by writing and modifying computer code, live on stage. No prior coding experience is required, just the curiosity to learn (+ a laptop and a pair of headphones).&lt;/p&gt;
+
+&lt;h3&gt;Dimitris Kyriakoudis - Musical Maths: Live Coding Music with TimeLines&lt;/h3&gt;
+
+&lt;p&gt;A gentle introduction to live coding music using &lt;a href=&quot;https://github.com/lnfiniteMonkeys/TimeLines-HS&quot;&gt;TimeLines&lt;/a&gt;, a free &amp;amp; open source modular synthesiser and sequencer, presented by its developer.&lt;/p&gt;
+
+&lt;p&gt;Participants will learn about live coding and sound synthesis, explore the meaning of the oftentimes confusing phrase “music is maths”, and discover how to use primary school-level maths to recreate compositional techniques used by both children’s folk songs and J.S. Bach alike, but in the context of modern music.&lt;/p&gt;
+
+&lt;p&gt;No previous musical or coding experience required. In order to follow along you will need a laptop using Windows, Mac OS, or most flavours of Linux, as well as a pair of headphones. Participants are encouraged to attempt installing the software in preparation for the workshop (following the instructions in the link above), but can also get help with the installation process during the workshop.&lt;/p&gt;
+
+&lt;h3&gt;Lizzie Wilson - Composing Algorithmic Patterns in Tidal Cycles&lt;/h3&gt;
+
+&lt;p&gt;In this workshop, participants will be learning the fundamental principles of live coding. In live coding, computer language is the primary medium for notation and describing the rules with which to synthesise artworks, in this case we consider the case where the output is musical pattern. Participants will be composing patterns algorithmically with the &lt;a href=&quot;https://tidalcycles.org/&quot;&gt;Tidal Cycles&lt;/a&gt; software: a language for describing flexible (e.g. polyphonic, polyrhythmic, generative) sequences of sounds, notes, parameters, and all kind of information. Tidal Cycles (or ‘Tidal’ for short) is free/open source software written using the functional programming language Haskell, that utilises the audio capabilities of the SuperCollider software. It includes simple and flexible notation for rhythmic sequences, and an extensive library of patterning functions for combining and transforming them. This allows you to quickly create complex patterns from simple ingredients. Learning the strategies used by live coders to create complex and varied outcomes from simple code structures is the workshops main outcome. No previous coding or musical experience required.&lt;/p&gt;
+
+&lt;p&gt;Participants should bring a laptop and headphones to the workshop. If they feel comfortable doing so, they should download the TidalCycles software onto their laptop BEFORE the workshop (see &lt;a href=&quot;tidalcycles.org/docs/getting-started/&quot;&gt;tidalcycles.org/docs/getting-started/&lt;/a&gt;). If not, they will be able to participate in the workshop, provided they are able to access the internet through their laptop (WiFi connection will be provided).&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;Experimental A/V Performances&lt;/h1&gt;
+&lt;h3&gt;19:00 - 22:30&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/../../img/emutelab6.png&quot; alt=&quot;emutelab6!&quot; /&gt;
+&lt;a href=&quot;https://www.facebook.com/events/1090542748411764/&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;https://www.ticketsource.co.uk/emute-lab/emute-lab-6-gig/e-mzglpb&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student)&lt;/p&gt;
+
+&lt;h3&gt;Digital Selves&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@dgtlselves&quot;&gt;@dgtlselves&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/VPeX3hzsiO0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In this performance, live coder digital selves will explore the human-machine creative relationship. The live coder will work in conjunction with, and sometimes against, a machine agent that creates its own pattens of code. Through performance, a co-creative system emerges, using the machine agent to explore not-yet conceptualised code sequences. This forms part of a wider context of research which centres around co-creative systems of algorithmic composition based on models of affective response (emotion). Please be aware that this performance will be filmed.&lt;/p&gt;
+
+&lt;p&gt;Bio:&lt;br /&gt;
+digital selves is a London-based computer musician who uses algorithms of synthesis and samples to create improvised, crunchy sounds and melodic texture. They have performed at various events in the UK and internationally and use the programming mini-language TidalCycles to create algorithmic music that recontextualises club culture, experimental art and human-computer interaction.&lt;/p&gt;
+
+&lt;h3&gt;Joana Chicau and J. Chaim Reus&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@bchicau&quot;&gt;@bchicau &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@_jchaim&quot;&gt;@_jchaim&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/zMydMePetkE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;‘Web Choreographies’ is an assemblage of live coded visual experiments performed in the web browser. This performance is part of an on-going research on how design and web based computational systems can be used to construct new scenarios, imaginaries and hypotheses guided by choreographic concepts. By privileging open source tools and investigation through feminist lens, Joana Chicau combines real-time algorithmic composition and movement studies to rethink the vocabularies, protocols, modes of participation and conditions for the affective interfacing of bodies and technologies.&lt;/p&gt;
+
+&lt;p&gt;Bios: 
+Joana Chicau is a designer and researcher — with a background in dance. She researches the intersection of the body with the designed and programmed environment, aiming at widening the ways in which digital sciences is presented and made accessible to the public. The latter informs a practice and exploration of various forms and formats — interweaving web programming with choreography — from the making of online platforms to performances and workshops.&lt;br /&gt;
+She has been participating and co-organizing events involving collaborative coding, algorithmic improvisation, open discussions on digital equity and activism. Chicau is a member of the collective Varia.zone and a lecturer at the University of Arts of London.&lt;/p&gt;
+
+&lt;p&gt;J. Chaim Reus is a Dutch-American research-composer, born in New York and thereafter living in Amsterdam and then Florida, where he became involved in the American folk-art scene. Years later he moved to the Netherlands where he developed a uniquely intimate live practice cutting across disciplines of music and visual art, science and digital culture. &lt;a href=&quot;jonathanreus.com&quot;&gt;jonathanreus.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;w1n5t0n&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@lm_w1n5t0n&quot;&gt;@lm_w1n5t0n&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/dsHnWE6_JbE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;w1n5t0n is one of lnfinite Monkeys. His species has developed sufficient intelligence to enable the use of tools and instruments, but not enough to actually understand how most of them work, so he often resorts to making his own. To this end he reimagines, recycles, and reappropriates anything he can find laying around the jungle, from leftover temporally functional-reactive homoiconic metaprogramming to nice sticks and pretty pebbles – all ethically and open sourced, of course. In doing so he explores the intersection of music, art, mathematics, programming, randomness, improvisation, internet memes, infinity, algorithmocomputational creativity, The Meaning of Life™, and fun.&lt;/p&gt;
+
+&lt;p&gt;Bio: 
+When not dwelling on trees (either the plain ones or the Abstract Syntax kind), w1n5t0n transmorphs to Dimitris Kyriakoudis and wears clothes and drinks tea and says “please” and “thank you” and pays bills and taxes. He can be usually found researching HCI and experimenting with live coding instrument design at the University of Sussex.&lt;/p&gt;
+
+&lt;h3&gt;Steve Symons and Sam Bilbow&lt;/h3&gt;
+&lt;p&gt;Steve and Sam will improvise using their experimental virtual musical interfaces, accessed by a Gametrak and an Augmented Reality Headset. The performance examines three-dimensional bodily motion, and how these interfaces might relate to one another, both comparing and contrasting their sonic palettes and gestures.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@stevemuio&quot;&gt;@stevemuio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve Symons has spent many years making embedded locative audio systems and making / improvising music with NIMEs.  He is interested in enactive interfaces, woodwork and finding new metaphors for collaborative instruments.&lt;/p&gt;
+
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/3MBnnZnGak8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@sambilbow&quot;&gt;@sambilbow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sam is a Doctoral Researcher at Sussex working with augmented reality as a medium for gestural and musical expression. His work uses DIY and open-source hardware to create real-time and combined real / virtual performances of space. Below is a demonstration of the system he will be performing with.&lt;/p&gt;
+&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/gY2QtK907cU?start=92&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/emutelab6</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab6</guid>
+        
+        <category>emutelab</category>
+        
+        <category>event</category>
+        
+        <category>experimental</category>
+        
+        <category>livecoding</category>
+        
+        <category>algorithmic</category>
+        
+        <category>augmented reality</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Machines on Stage: Exploring the World of Robot Opera</title>
@@ -109,8 +210,8 @@ Sigman, A. (2020). Robot Opera: Bridging the Anthropocentric and the Mechanized 
 
 </description>
         <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/robot_opera</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/robot_opera</guid>
+        <link>http://www.emutelab.org/blog/robot_opera</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/robot_opera</guid>
         
         <category>emutelab</category>
         
@@ -147,8 +248,8 @@ Sigman, A. (2020). Robot Opera: Bridging the Anthropocentric and the Mechanized 
 
 </description>
         <pubDate>Sat, 10 Apr 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/IngiInterview</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/IngiInterview</guid>
+        <link>http://www.emutelab.org/blog/IngiInterview</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/IngiInterview</guid>
         
         <category>emutelab</category>
         
@@ -257,8 +358,8 @@ Feedback purposefully utilised in performance has long been an interesting music
 &lt;p&gt;&lt;a href=&quot;https://nime2020.bcu.ac.uk/feedback-musicianship/&quot;&gt;https://nime2020.bcu.ac.uk/feedback-musicianship/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/emute-at-nime</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emute-at-nime</guid>
+        <link>http://www.emutelab.org/blog/emute-at-nime</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emute-at-nime</guid>
         
         <category>emutelab</category>
         
@@ -304,14 +405,14 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 &lt;p&gt;&lt;strong&gt;Monday - June 29th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube videos): Introduction to Sema and the default Sema language
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube videos): Introduction to Sema and the default Sema language
 3pm - Workshop (Zoom): Making music with the Sema default language + QnA
 5pm - Slack channel: Discussion
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Tuesday - June 30th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine Learning concepts. Using machine learning in Sema
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine Learning concepts. Using machine learning in Sema
 1pm - Slack channel: Discussion and work
 3pm - Workshop (Zoom): Making music with machine learning. Training a ML network + QnA
 4pm - Slack channel: Discussion
@@ -319,7 +420,7 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 &lt;p&gt;&lt;strong&gt;Wednesday - July 1th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine learning libraries. FFT and machine learning
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine learning libraries. FFT and machine learning
 1pm - Slack channel: Discussion and work
 3pm - Workshop (Zoom): Machine listening and machine learning
 4pm - Slack channel: Discussion
@@ -327,7 +428,7 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 &lt;p&gt;&lt;strong&gt;Thursday - July 2nd&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design in Sema. How to create your own live coding language
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design in Sema. How to create your own live coding language
 1pm - Slack channel: Discussion and work
 3pm - Workshop (Zoom): Making your own piece with unique language syntax
 5pm - Slack channel: Discussion
@@ -335,7 +436,7 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 &lt;p&gt;&lt;strong&gt;Friday - July 3rd&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design for machine learning	
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design for machine learning	
 1pm - Slack channel: Discussion and work
 3pm - Workshop (Zoom): Finishing your live coding language + QnA
 5pm - Showcase of projects in development (or ideas). Drinks and snack.
@@ -345,17 +446,17 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 &lt;p&gt;&lt;strong&gt;Monday - July 6th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;5pm - Project Development (Zoom): A session where we support people completing their projects (&amp;lt;b&amp;gt;note the change to 5pm&amp;lt;/b&amp;gt;)
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;5pm - Project Development (Zoom): A session where we support people completing their projects (&amp;lt;b&amp;gt;note the change to 5pm&amp;lt;/b&amp;gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Wednesday - July 8th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Friday - July 10th&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Registration:&lt;/strong&gt;&lt;/p&gt;
@@ -391,8 +492,8 @@ Feedback purposefully utilised in performance has long been an interesting music
 
 </description>
         <pubDate>Tue, 16 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/Semaworkshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Semaworkshop</guid>
+        <link>http://www.emutelab.org/blog/Semaworkshop</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/Semaworkshop</guid>
         
         <category>emutelab</category>
         
@@ -450,8 +551,8 @@ After registering, you will receive a confirmation email containing information 
 
 </description>
         <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/Rothenberg</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Rothenberg</guid>
+        <link>http://www.emutelab.org/blog/Rothenberg</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/Rothenberg</guid>
         
         <category>emutelab</category>
         
@@ -535,8 +636,8 @@ https://www.facebook.com/events/720543615076362&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/materialities</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/materialities</guid>
+        <link>http://www.emutelab.org/blog/materialities</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/materialities</guid>
         
         <category>emutelab</category>
         
@@ -632,8 +733,8 @@ New alias and project of Emute member Dylan Beattie. By using a record lathe and
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/emutelab5</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab5</guid>
+        <link>http://www.emutelab.org/blog/emutelab5</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab5</guid>
         
         <category>emutelab</category>
         
@@ -799,8 +900,8 @@ You could call this a ‘feedback ensemble’, as the Threnoscope is connected t
 &lt;p&gt;These are some highlights of contemporary feedback instruments, which take a range of forms. These instruments can be challenging but also extremely rewarding to play. The challenges come from dealing with the complexity of highly sensitive dynamical systems, and changing from conventional modes of instrumental control to shared agency with the instrument.  The rewards are to break into new sonic territories and to discover some radically new ways of playing music.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Oct 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/feedback_insts</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/feedback_insts</guid>
+        <link>http://www.emutelab.org/blog/feedback_insts</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/feedback_insts</guid>
         
         <category>emutelab</category>
         
@@ -854,8 +955,8 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/936387710040807/&quot;&gt;https://www.facebook.com/events/936387710040807/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/emutelab4</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emutelab4</guid>
+        <link>http://www.emutelab.org/blog/emutelab4</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab4</guid>
         
         <category>emutelab</category>
         
@@ -870,109 +971,6 @@ Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly
         <category>machine learning</category>
         
         <category>MIMIC</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>MIMIC Artist Summer Workshop</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Week starting July 22nd, 9am-5pm, @ The SHL, Sussex University ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Interested in Music and AI? MIMIC is a research project that implements machine learning and machine listening in a live coding environment for creative coders. We have recently released our tools on &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;mimicproject.com&lt;/a&gt; and are in the process of finalising our system for creating live coding languages for creative AI.&lt;/p&gt;
-
-&lt;p&gt;For this summer workshop in sunny Brighton, we invite artists who are interested in using machine learning and machine listening in their live performances and composition to build their own live coding languages with our new &lt;em&gt;Sema&lt;/em&gt; system. Participants will be able to use the workshop to develop and further their own projects, and in turn we will benefit from user-testing and collaborative developments. Some fundamental programming skills are required, but certainly not at a professional level. This workshop is not about learning how to live code, but rather about how to make your own live coding system in our simple and user-friendly system. Everyone is welcome who is passionate about the future of live coding.&lt;/p&gt;
-
-&lt;p&gt;This workshop residency will start on the week commencing July 22nd and last for five days. The workshop will take place in combination with longer artist residencies with Marije Baalman and Enrike Hurtado who will work on their respective choreographic coding and digital txalaparta projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Week Programme:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monday - July 22nd&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Introduction to MIMIC and the workshop
-10am - Workshop in the Sema playground for language design
-11am - 10 min demo + project development
-1pm - Lunch
-2pm - Workshop in Machine Learning
-4pm - 10 min demo + project development
-5pm - Work in progress demo of artists-in-residence’s projects
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Tuesday - July 23rd&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - 10 min demo + project development
-10am - Counterpoint presentation (https://ctpt.co)
-11am - Counterpoint workshop (Tero Parviainen and Samuel Diggins)
-1pm - Lunch
-2pm - 10 min demo + project development
-4pm - Presentation of project ideas and sketches
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Wednesday - July 24th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - Project development
-10am - Workshop in machine listening
-11am - 10 min demo + project development
-1pm - Lunch
-2pm - Project development
-3pm - Discussion of problems that have emerged
-4pm - Project development
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursday - July 25th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9am - 10 min demo + project development
-10am - (Aesth)et(h)ics and creative-AI
-1pm - Lunch
-2pm - Project development
-5pm - Sound check
-7pm - Concert with works at the Rose Hill Pub
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Friday - July 26th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10am - Coffee and discussion of gig
-11am - Wrapping up projects
-1pm - Lunch w. a bid sprint
-2pm - Project showcases with Enrike Hurtado and Marije Baalman
-3pm - Participant demos
-4pm - Discussion about Sema (experience, requests, future path)
-5pm - Beer in the sun
-8pm - Dinner in town
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;We have published a call for proposals &lt;a href=&quot;https://forms.gle/gYBHKBRrsokn3SjQ6&quot;&gt;HERE&lt;/a&gt; for people interested in participating in the workshop. We have funds to support travel and accommodation for six-ten people from Europe and we will seek to provide lunch and coffee out in the lovely lab garden throughout the week. We are especially interested in receiving applications from as diverse group as possible.&lt;/p&gt;
-
-&lt;p&gt;We will be assessing the applications on Monday morning on July 1st, so the deadline is 9am GMT.&lt;/p&gt;
-
-&lt;p&gt;See you in the lab, in July!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/SHL.png&quot; alt=&quot;Digital Humanities lab&quot; /&gt;
-&lt;em&gt;A picture of the lab where the workshop will take place - note the lovely garden!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/Marije.jpg&quot; alt=&quot;Artist-in-residence Marije&quot; /&gt;
-&lt;em&gt;Artist-in-residence Marije Baalman working on gestural live coding language design!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/Enrike.jpg&quot; alt=&quot;Artist-in-residence Enrike&quot; /&gt;
-&lt;em&gt;Artist-in-residence Enrike Hurtado working on machine learning for the txalaparta instrument&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/MIMICworkshop.jpg&quot; alt=&quot;Workshop&quot; /&gt;
-&lt;em&gt;And this is how it looked&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/summerworkshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/summerworkshop</guid>
-        
-        <category>emutelab</category>
-        
-        <category>workhop</category>
-        
-        <category>live coding</category>
-        
-        <category>language design</category>
-        
-        <category>summer</category>
         
         
         <category>blog</category>
