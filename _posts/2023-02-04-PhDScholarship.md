@@ -33,3 +33,6 @@ Application deadline is April 17th 2023. The position is for three years and is 
 Director of Studies: Prof. Thor Magnusson.
 
 Further information on the **Iceland University of Arts website**  [https://www.lhi.is/en/intent-phd-scholarship](https://www.lhi.is/en/intent-phd-scholarship)
+
+We are also interested in hearing from people who might want to do a postdoc stint in this area!
+
