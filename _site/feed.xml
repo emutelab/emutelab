@@ -5,16 +5,163 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://www.emutelab.org/</link>
     <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Feb 2022 18:59:44 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Feb 2022 18:59:44 +0000</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <pubDate>Fri, 03 Mar 2023 09:52:42 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2023 09:52:42 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>New Release on Emute: Live at the Meeting House</title>
+        <description>&lt;p&gt;Full details on the &lt;a href=&quot;/label/fmn_liveathemeetinghouse&quot;&gt;release page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;/label/fmn_liveathemeetinghouse&quot;&gt;&lt;img src=&quot;/img/FMN_LATMH_flyer_small.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/FMN_Meeting-House</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/FMN_Meeting-House</guid>
+        
+        <category>feedback</category>
+        
+        <category>emute</category>
+        
+        <category>label</category>
+        
+        <category>recording</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>PhD scholarship in Iceland</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/iilabphd3.jpg&quot; alt=&quot;AIMC2023&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;phd-scholarship-in-the-intelligent-instruments-lab&quot;&gt;PHD Scholarship in the Intelligent Instruments Lab&lt;/h3&gt;
+
+&lt;p&gt;Our sister lab in Iceland is advertising. See below:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How can we use sonic instruments to explore complex data?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In today’s world we are faced with large sets of complex data, ranging from the climate to literature. With data science, machine learning and new technologies of display, we are gaining new insights into the complex nature of the world and culture. Scientific practice used to be very physically embodied, but today scientists primarily work with abstract data, and the potential of their bodies for gaining intuition remains untapped. What if we can play our data in an embodied way? Are you interested in contributing to this field by designing haptic sonic interfaces?&lt;/p&gt;
+
+&lt;p&gt;If this sounds like something for you, please continue reading!&lt;/p&gt;
+
+&lt;p&gt;We at the Intelligent Instruments Lab are now seeking applications for our third ERC-funded PhD scholarship. We would love to receive applications from people like you, motivated to conduct research on the use of sonic instruments to aid with the exploration, analysis and understanding of complex data. Your project will be within an area of your interest, for example in the digital humanities, data science, social sciences, cyberfeminism, climate science, geophysics, music, computer science, artificial intelligence, human-computer interaction or other fields.&lt;/p&gt;
+
+&lt;p&gt;You would be working in our Intelligent Instruments Lab in Reykjavik, together with other PhD students, postdocs, technicians, admin and the project leader. Our work is highly interdisciplinary but can be broadly placed within music, the humanities and computer science (HCI and AI).&lt;/p&gt;
+
+&lt;p&gt;Our lab is a great place to work and we are eager to maintain a diverse, fun, inclusive and welcoming workplace where all backgrounds, skills and knowledges are of value. If you think you would enjoy working with us, please read the advert and/or get in touch with us for further information.&lt;/p&gt;
+
+&lt;p&gt;Application deadline is April 17th 2023. The position is for three years and is set to start on September 1st, 2023.&lt;/p&gt;
+
+&lt;p&gt;Director of Studies: Prof. Thor Magnusson.&lt;/p&gt;
+
+&lt;p&gt;Further information on the &lt;strong&gt;Iceland University of Arts website&lt;/strong&gt;  &lt;a href=&quot;https://www.lhi.is/en/intent-phd-scholarship&quot;&gt;https://www.lhi.is/en/intent-phd-scholarship&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are also interested in hearing from people who might want to do a postdoc stint in this area!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/PhDScholarship</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/PhDScholarship</guid>
+        
+        <category>ii lab</category>
+        
+        <category>AI</category>
+        
+        <category>machine learning</category>
+        
+        <category>digital humanities</category>
+        
+        <category>Reykjavik</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>AIMC 2023</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/logo-dark.png&quot; alt=&quot;AIMC2023&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aimc-2023&quot;&gt;AIMC 2023&lt;/h3&gt;
+
+&lt;p&gt;31 August - 1 September @ University of Sussex, Brighton, UK&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;International Conference on AI and Music Creativity&lt;/strong&gt; is an annual conference bringing together a community of people working on the application of AI in musical practice, with topics ranging from performance systems, computational creativity,  machine listening, robotics, sonification, and more.&lt;/p&gt;
+
+&lt;h3 id=&quot;conference-theme&quot;&gt;&lt;strong&gt;Conference Theme&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The theme of AIMC 2023 is &lt;strong&gt;Intelligent Performance Systems&lt;/strong&gt;, where we are interested in how AI is applied in real-time artistic performance. This includes physical musical instruments, music theatre, software, as well as interactive installations. Our &lt;strong&gt;programme&lt;/strong&gt; includes performances, installations, demo sessions in addition to academic papers. We seek to be hands-on, performative, experimental and collaborative, opening up opportunities for collaboration and co-playing.&lt;/p&gt;
+
+&lt;h3 id=&quot;organisers&quot;&gt;&lt;strong&gt;Organisers&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;This conference will be held at the University of Sussex. We seek to foster a creative and friendly atmosphere in the sunny, vibrant city of Brighton, UK. It is co-hosted between two research labs active in music and AI research: the &lt;strong&gt;Experimental Music Technologies Lab&lt;/strong&gt; (&lt;a href=&quot;http://www.emutelab.org/&quot;&gt;www.emutelab.org&lt;/a&gt;) and the &lt;strong&gt;Intelligent Instruments Lab&lt;/strong&gt; (&lt;a href=&quot;http://www.iil.is/&quot;&gt;www.iil.is&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Main deadlines are in March 2023, but please find further information about indicative topics, conference theme and submission information on the &lt;strong&gt;Conference website:&lt;/strong&gt;  &lt;a href=&quot;https://aimc2023.pubpub.org/cfp&quot;&gt;https://aimc2023.pubpub.org&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/AIMC2023</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/AIMC2023</guid>
+        
+        <category>emutelab</category>
+        
+        <category>AI</category>
+        
+        <category>machine learning</category>
+        
+        <category>performance</category>
+        
+        <category>conference</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Live Coding: A User&apos;s Manual</title>
+        <description>&lt;p&gt;Live coding has been an active force in new music since the early 2000s. A few years ago, Alan Blackwell, Geoff Cox, Emma Cocker, Alex McLean and Thor Magnusson got together to work on a book on live coding. A user’s manual we imagined it, a handbook, a reference into the theoretical and technical frameworks that circumvent the practice.&lt;/p&gt;
+
+&lt;p&gt;The book is now out on &lt;a href=&quot;https://mitpress.mit.edu/9780262544818/live-coding/&quot;&gt;MIT Press&lt;/a&gt;, and find further information about open access &lt;a href=&quot;https://livecodingbook.toplap.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Performative, improvised, realtime, on the fly: live coding is about how people interact with the world and each other via code. In the last few decades, live coding has emerged as a dynamic creative practice, gaining attention across cultural and technical fields—from music and the visual arts to computer science. In live coding the composition happens in realtime, where performers can communicate via sound, visuals, robotic and human movements, or basically anything that can be controlled. In live coding the instructions, the code, is communicated too, typically projected on a screen for the audience to follow, should they be interested.&lt;/p&gt;
+
+&lt;p&gt;Live Coding: A User’s Manual is the first comprehensive introduction to the practice and a broader cultural commentary on the potential for live coding to open up deeper questions about contemporary cultural production and computational culture. The book provides a practice-focused account of the origins, aspirations, and evolution of live coding, including expositions from a wide range of live coding practitioners. In a more conceptual register, the book engages with how liveness, temporality, and knowledge relates to live coding, as well as speculating upon the future of the practice.&lt;/p&gt;
+
+&lt;p&gt;Check it out in open access &lt;a href=&quot;https://livecodingbook.toplap.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+        <link>http://www.emutelab.org/blog/livecodingusermanual</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/livecodingusermanual</guid>
+        
+        <category>emutelab</category>
+        
+        <category>publication</category>
+        
+        <category>experimental</category>
+        
+        <category>livecoding</category>
+        
+        <category>algorithmic</category>
+        
+        <category>augmented reality</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab 6 @ The Rose Hill</title>
         <description>&lt;h1&gt;Livecoding Workshops&lt;/h1&gt;
 &lt;h3&gt;11:00 - 16:00&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/../../img/emutelab6ws.png&quot; alt=&quot;emutelab6!&quot; /&gt;
-&lt;a href=&quot;https://www.facebook.com/events/257329999851715&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; Tickets TBA: £7 or £4 (concession/student)&lt;/p&gt;
+&lt;a href=&quot;https://www.facebook.com/events/257329999851715&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;https://www.ticketsource.co.uk/emute-lab/emute-lab-6-livecoding-workshops/e-pyammo&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student) https://www.ticketsource.co.uk/emute-lab/emute-lab-6-livecoding-workshops/e-pyammo&lt;/p&gt;
 
 &lt;p&gt;During these workshops, two of the performers will introduce the practice of live coding music. They will explain how their live coding instruments of choice work (the very same instruments that they will use to perform later in the evening), guide participants through a hands-on session of play and experimentation, and discuss their personal artistic practices and approaches to performing improvised music by writing and modifying computer code, live on stage. No prior coding experience is required, just the curiosity to learn (+ a laptop and a pair of headphones).&lt;/p&gt;
 
@@ -90,8 +237,8 @@ When not dwelling on trees (either the plain ones or the Abstract Syntax kind), 
 &lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab6</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab6</guid>
+        <link>http://www.emutelab.org/blog/emutelab6-copy</link>
+        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab6-copy</guid>
         
         <category>emutelab</category>
         
@@ -567,410 +714,6 @@ After registering, you will receive a confirmation email containing information 
         <category>improvisation</category>
         
         <category>multi-species music</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Materialities symposium</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/emutemat.jpg&quot; alt=&quot;emutemat&quot; /&gt;&lt;/p&gt;
-
-&lt;h1&gt;Materialities symposium&lt;/h1&gt;
-
-&lt;p&gt;Join us on the morning of Thursday 5th of December, 2019 for a fast-paced symposium on the subject of materialities in music making.&lt;/p&gt;
-
-&lt;p&gt;We have two great workshops/presentations followed by a panel discussion around notions of the influence of materiality on music and sound making.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Workshops/Presentations&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://trsound.bandcamp.com/&quot;&gt;Tom Richards&lt;/a&gt; will present a workshop which invites participants to utilise his Voltage Controlled Turntables with some modular synthesiser equipment. Imagine scratching a record with LFO control, or changing pitch. 
-Participants are encouraged to bring vinyl records to this session.&lt;/p&gt;
-
-&lt;p&gt;Tom Richards is a musician, sound designer, artist, researcher and instrument maker, working in London UK. He has performed and exhibited widely in the UK, as well as internationally in the US, Germany, Peru, Singapore, Hungary, Japan and Sweden. Selected works and live performances have taken place at Tate Britain, The Queen Elizabeth Hall, The Science Museum, Spike Island, Cafe Oto, MK Gallery, Focal Point, and Camden Arts Centre. He has recently finished his PhD (Goldsmiths/Science Museum) on the work of Daphne Oram: electronic music pioneer, and founder member of the BBC Radiophonic Workshop. This research included the construction of Oram’s Mini Oramics synthesizer design (Circa 1975), a project that has since gained worldwide attention. He is represented by Nonclassical.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;&lt;a href=&quot;http://grrrr.org/&quot;&gt;Thomas Grill&lt;/a&gt;&lt;/b&gt; and &lt;b&gt;&lt;a href=&quot;http://tai-studio.org/&quot;&gt;Till Bovermann&lt;/a&gt;&lt;/b&gt; present activities relating to the &lt;b&gt;&lt;a href=&quot;https://rottingsounds.org/&quot;&gt;Rotting Sounds project&lt;/a&gt;&lt;/b&gt;. Here degradation in digital systems will be explored and discussed. 
-Thomas Grill (University of Music and Performing Arts Vienna) is the project manager and principal investigator. He has ample experience in both scientific and artistic research and has been composing, performing and exhibiting with digital sound for over 20 years.
-Till Bovermann (University of Applied Arts Vienna) is his main discourse partner. In his artistic works, Till addresses the relationship between seemingly contradictory elements, e.g., the digital and physical realm.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Round table/panel discussion - notions of materiality and influence on practice&lt;/b&gt;
-As the final event in the symposium, topics relating to notions of materiality and influence on practice are discussed by a panel of academics/composers and performers. This promises to be a lively debate relating to media archeology, liveness and audience perspective.&lt;/p&gt;
-
-&lt;p&gt;Evelyn Ficarra, Senior Lecturer in Music  &lt;a href=&quot;http://www.sussex.ac.uk/profiles/41192&quot;&gt;http://www.sussex.ac.uk/profiles/41192&lt;/a&gt;&lt;br /&gt;
-Tom Richards&lt;br /&gt;
-Till Bovermann&lt;br /&gt;
-Thomas Grill&lt;br /&gt;
-Further panel members and chair (TBC)&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/materialities-emute-lab-music-symposium-tickets-82606421029&quot;&gt;Event registration page&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;NOTE:
-This event follows the live EMUTE LAB 5: Materialities gig at The Rose Hill on the 4th of December. Details here: 
-http://www.emutelab.org/blog/emutelab5
-https://www.facebook.com/events/720543615076362&lt;/p&gt;
-
-&lt;p&gt;See also:
-&lt;a href=&quot;http://www.emutelab.org/blog/emutelab5&quot;&gt;http://www.emutelab.org/blog/emutelab5&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;The Rose Hill 4th December 2019, doors 7:30&lt;/b&gt;
-£6 / £4&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Advance tickets:&lt;/b&gt; &lt;a href=&quot;https://www.eventbrite.co.uk/e/emute-labs-5-materialities-tickets-80358270751?fbclid=IwAR24wQuZiU43zIYNhlPd3hE5FU0fPazCZfJV3cSZxK5kPK-2F-UcS1pKh2I&quot;&gt;https://www.eventbrite.co.uk/e/emute-labs-5-materialities-tickets-80358270751?fbclid=IwAR24wQuZiU43zIYNhlPd3hE5FU0fPazCZfJV3cSZxK5kPK-2F-UcS1pKh2I&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;@emutelab&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/materialities</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/materialities</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>experimental</category>
-        
-        <category>materialities</category>
-        
-        <category>lathe cutting</category>
-        
-        <category>vinyl</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab 5 @ The Rose Hill</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab5.jpg&quot; alt=&quot;EmuteLab5&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Emute Lab presents: Materialities (04/12/19)&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;An evening of experimental music celebrating materialities in music making. From deceased instruments manipulated as digital fragments to turntables controlled by synthesisers, live record cutting and electronics.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Artists:&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Rotting Sounds&lt;/b&gt; &lt;a href=&quot;http://rottingsounds.org&quot;&gt;http://rottingsounds.org&lt;/a&gt;
-&lt;br /&gt;Two solo performances joined under the Rotting Sounds project and by a common theme.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AnnTJvAejzo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;b&gt;Thomas Grill: Musical material&lt;/b&gt;
-&lt;br /&gt;Probing of fragments of deceased instruments by use of digital sound.Sounding the materials, shapes, resonances – tracing remnants of a musical life.
-&lt;br /&gt;
-&lt;a href=&quot;http://grrrr.org&quot;&gt;http://grrrr.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;AND&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Till Bovermann: Buffer manipulations&lt;/b&gt;&lt;br /&gt;
-Probing and fragmentation of deceased digital sound.
-Sounding the materials, shapes, resonances – tracing remnants of a brief ephemerality.&lt;br /&gt;
-&lt;a href=&quot;http://lfsaw.de&quot;&gt;http://lfsaw.de&lt;/a&gt;
-&lt;a href=&quot;https://lfsaw.bandcamp.com/album/re-interpretation&quot;&gt;https://lfsaw.bandcamp.com/album/re-interpretation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Tom Richards: Voltage controlled turntables and electronics&lt;/b&gt;&lt;br /&gt;
-Performing with modified turntables and synthesisers&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://trsound.bandcamp.com/&quot;&gt;https://trsound.bandcamp.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tom Richards is a musician, sound designer, artist, researcher and instrument maker, working in London UK. He has been working between sonic art, sculpture, film and music since graduating with an MA in Fine Art from Chelsea College of Art in 2004. Richards has built his own idiosyncratic modular electronic music system, with which he creates slowly evolving and heavily textured polyrhythmic improvisations. He has performed and exhibited widely in the UK, as well as internationally in the US, Germany, Peru, Singapore, Hungary, Japan and Sweden.
-Selected works and live performances have taken place at Tate Britain, The Queen Elizabeth Hall, The Science Museum, Spike Island, Cafe Oto, MK Gallery, Focal Point, and Camden Arts Centre. 
-He has recently finished his PhD (Goldsmiths/Science Museum) on the work of Daphne Oram: electronic music pioneer, and founder member of the BBC Radiophonic Workshop. This research included the construction of Oram’s Mini &lt;a href=&quot;https://www.bbc.co.uk/news/technology-36651270&quot;&gt;Oramics synthesizer&lt;/a&gt; design (Circa 1975), a project that has since gained worldwide attention.
-He is represented by &lt;a href=&quot;https://www.nonclassical.co.uk/music&quot;&gt;Nonclassical&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/258282473?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;
-&lt;a href=&quot;https://vimeo.com/258282473&quot;&gt;Maximum Overdrive - Performance with Tom Richards&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user40747262&quot;&gt;Tom Lock&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Furrowed: Live record cutting and modular synthesiser&lt;/b&gt;&lt;br /&gt;
-New alias and project of Emute member Dylan Beattie. By using a record lathe and electronics a sound world is built around the material properties of live cut vinyl records.  &lt;br /&gt;
-&lt;a href=&quot;http://furrowedsound.co.uk/&quot;&gt;http://furrowedsound.co.uk/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/db.jpg&quot; alt=&quot;Furrowedimage&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;The Rose Hill 4th December 2019, doors 7:30&lt;/b&gt;
-£6 / £4&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Advance tickets:&lt;/b&gt; &lt;a href=&quot;https://www.eventbrite.co.uk/e/emute-labs-5-materialities-tickets-80358270751?fbclid=IwAR24wQuZiU43zIYNhlPd3hE5FU0fPazCZfJV3cSZxK5kPK-2F-UcS1pKh2I&quot;&gt;https://www.eventbrite.co.uk/e/emute-labs-5-materialities-tickets-80358270751?fbclid=IwAR24wQuZiU43zIYNhlPd3hE5FU0fPazCZfJV3cSZxK5kPK-2F-UcS1pKh2I&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;@emutelab&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/720543615076362&quot;&gt;https://www.facebook.com/events/720543615076362&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab5</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab5</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>experimental</category>
-        
-        <category>materialities</category>
-        
-        <category>lathe cutting</category>
-        
-        <category>vinyl</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>What's Happening in the World of Feedback Instruments?</title>
-        <description>&lt;p&gt;At Emute Lab, several of our members have been concentrating their research efforts on building and performing with feedback instruments. You could define a Feedback Instrument as an instrument whose behaviour depends on the circulation of signals, and manipulation of the way in which these signals circulate around the instrument.  These instruments could be acoustic, electronic, digital, or hybrid.  Feedback will be the core of how they make sound and/or how musicians interact with them.&lt;/p&gt;
-
-&lt;p&gt;There’s a great deal of activity in this area around the world at the moment, and here, I will attempt to highlight some of the recent developments in feedback instrument design and musicianship.  But before leaping into current work, let’s take a look at some past instruments and pieces that have had a big influence on today’s developments.&lt;/p&gt;
-
-&lt;h4 id=&quot;eliane-radigue-usral&quot;&gt;Eliane Radigue: Usral&lt;/h4&gt;
-
-&lt;p&gt;This is from Radigue’s collection of early feedback works.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C_3Fu8YfSdI?start=684&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;max-neuhaus-fontana-mix-feed&quot;&gt;Max Neuhaus: &lt;a href=&quot;http://brainwashed.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2399%3Amax-neuhaus-qfontana-mix-feed-six-realizations-of-john-cageq&amp;amp;catid=13%3Aalbums-and-singles&amp;amp;Itemid=1&quot;&gt;Fontana Mix-Feed&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This piece uses contact microphone-speaker feedback through tympanis.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x-cLk7TZuNY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;alvin-lucier-bird-and-person-dyning&quot;&gt;Alvin Lucier: &lt;a href=&quot;http://www.alvin-lucier-film.com/bird.html&quot;&gt;Bird and Person Dyning&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Speaker-binaural headphone feedback.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6jLYof8sU4s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;nicolas-collins-pea-soup&quot;&gt;Nicolas Collins: &lt;a href=&quot;https://www.nicolascollins.com/aboutpeasoup.htm&quot;&gt;Pea Soup&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This piece uses shifting microphone-room feedback. Originally created in 1974, but here’s a newer revision from 2010.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W7f5Iha7JyQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;david-tudor-neural-network-plus&quot;&gt;David Tudor: &lt;a href=&quot;http://www.lovely.com/albumnotes/notes1602.html&quot;&gt;Neural Network Plus&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Feedback was a key part of Tudors compositions and installations.  This piece from the early 90s was created using repurposed neuromorphic hardware, which enables the creation of highly complex analog feedback systems.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OyzeqA9-DiI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In Emute Lab, feedback instruments take a variety of forms.  Halldór Úlfarsson is the designer of the &lt;a href=&quot;https://www.halldorophone.info&quot;&gt;Halldorophone&lt;/a&gt;, and a growing family of new instruments that are descendents of his design. This family of string instruments use inbuilt speakers and exciters, together with individual string pickups and external processing to create a feedback loop. Halldór is researching his PhD in Emute Lab, and has recently developed two new instruments: The Sisters.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.halldorophone.info/public/img/2018-Square.jpg&quot; alt=&quot;Sister 1&quot; /&gt;
-&lt;img src=&quot;https://www.halldorophone.info/public/img/2018-Standing.png&quot; alt=&quot;Sister 2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is an early Halldorophone from 2009, played by Hildur Guðnadóttir.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uo4Jq-_tysc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Hildur plays the Halldorophone on several film soundtracks, including the Chernobyl soundtrack, for which she recently won an Emmy award.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qcEPbx_iSjw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This video shows a Halldorophone-DIMA-A duet. Composition by Johan Svensson, performed by My Hellgren and Jari Suominen&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DKJvAIadFWE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Alice Eldridge and I collaborated with Halldór to develop the &lt;a href=&quot;https://www.feedbackcell.info/&quot;&gt;Feedback Cello&lt;/a&gt;.  These instruments are based in the Halldorophone design, as augmentations (and/or invasions) of the traditional acoustic cello.  They have a speaker mounted in the back of the cello.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/feedback_cello_speaker.jpg&quot; alt=&quot;Feedback Cello Speaker&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We have built two of these instruments, with different augmentations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/feedback_cellos2.jpg&quot; alt=&quot;Feedback Cello Speaker&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s Alice playing at Fete Quaqua from 2016&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/180304450&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Here is a recording of a Feedback Cell performance from 2017, using the two cellos.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/363528685&quot; width=&quot;640&quot; height=&quot;361&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Halldór is exploring augmentation of acoustic instruments further, developing a feedback double bass with &lt;a href=&quot;http://thanospl.net/?p=620&quot;&gt;Thanos Polymeneas-Liontiris&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/thanos_fbdbass.jpg&quot; alt=&quot;Feedback Double Bass&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The above three instruments, together with &lt;a href=&quot;http://www.ixi-audio.net/&quot;&gt;Thor Magnusson&lt;/a&gt; on Threnoscope, form &lt;a href=&quot;https://www.emutelab.org/braindeadensemble/&quot;&gt;Brain Dead Ensemble&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/bdeRoseHill2.jpg&quot; alt=&quot;Brain Dead Ensemble, Live at The Rose Hill, Brighton&quot; /&gt;
-You could call this a ‘feedback ensemble’, as the Threnoscope is connected to all of the instruments, and the instruments affect each other acoustically during performance. This is their album ‘EFZ’.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://open.spotify.com/embed/artist/54rJ3o7aXEg9bzQ3MukIYh&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Halldór has also developed a &lt;a href=&quot;http://halldor.gr/spetson/2019/07/01/fbdb.html&quot;&gt;Feedback Double Bass with Adam Pultz&lt;/a&gt;, this time invasively with a mounted speaker.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/345985776&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Emute Lab member Joe Watson explores nested feedback networks and modular synthesis, ‘The Thing Breathed’.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H8LlbtgdB5M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;You can read some more about this and brain dead ensemble in the &lt;a href=&quot;https://live-interfaces.github.io/2018/ICLI2018.pdf&quot;&gt;ICLI 2018 proceedings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Moving outside of Emute Lab, here are some more instruments based on the feedback principle.&lt;/p&gt;
-
-&lt;p&gt;Tom Davis and Laura Reid: The Feral Cello.  This instrument has an exciter and pickup, that runs through DSP processing in a duet between cellist and laptopist.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/237465790&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This is Dan Overholt’s &lt;a href=&quot;https://vimeo.com/26661494?fbclid=IwAR0Qb5aAAhpIB9ZggqdsoVot8x6lcgg1qx-gkWYbbobGkdY_SfIyGdyBE4M&quot;&gt;Overtone Fiddle&lt;/a&gt;. Dan says: ‘This performance uses feedback via DSP filter-banks, set up to emulate an extra bank of resonant strings (simulating to some extent, the “hardanger fiddle” setup but with variable/extended feedback resonances).’&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/26766506&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This is the Feedback Lapsteel, by Jiffer Harriman.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/79R6oaVdmnk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.ijin.no/feedbacker.htm&quot;&gt;Christian Blandhoel&lt;/a&gt; is a Norwegian noise musician, who has created a expansive range of &lt;a href=&quot;https://drive.google.com/file/d/1b7nw3aEj_tvvPHM-qRB1R8qVTUiyPNyF/view&quot;&gt;Feedbackers&lt;/a&gt;.  Here’s a video of one of them, and more on his youtube channel.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lHq_7MlIeFY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Luigi Marino: Cymbals with a handheld feedback device (containing a contact mic and exciter).&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SaToWLbI-UA?start=962&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This video shows a concert with two feedback instruments.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://tai-studio.org/portfolio/half-closed-loop.html&quot;&gt;Half-closed Loop&lt;/a&gt; by Till Boverman (from the beginning). This is custom-designed, using a brass pipe, wooden board with exciters and microphones.  In the second half (from 11:50) we move into feedback brass, with Ingi Garðar Erlendsson playing the &lt;a href=&quot;http://thrainnhjalmarsson.info/&quot;&gt;Thranaphone #2&lt;/a&gt;, a feedback tuba (with Eiríkur Orri Ólafsson playing Trumpet).  This instrument has a speaker mounted in the tuba and a mouthpiece microphone; the signal is processed through guitar pedals.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l5vDKEZsJjY?start=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Jeff Snyder’s Feedback Trombone runs on a similar principle:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yT6Vq9jGC7w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://lesleyflanigan.com/&quot;&gt;Lesley Flanigan&lt;/a&gt; uses custom-instruments based around microphone-speaker feedback.  This is a concert from the Guggenheim Museum, New York from 2014.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/122308468&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;There are also some great software instruments out there.  Tom Mudd uses a network of interacting chaotic oscillators in Gutter Synthesis.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y1qQd4DVIR4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://dariosanfilippo.tumblr.com/&quot;&gt;Dario Sanfilippo&lt;/a&gt; specialises in music generated from complex adaptive feedback systems; this is a performance of ‘Single-Fader Versitility’.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hIrqmDif5uQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In audio-visual feedback systems, there’s a cross-modal flow between sound and image.   This is Mick Grierson with a live performance of ‘Stench’.&lt;/p&gt;
-
-&lt;video muted=&quot;&quot; controls=&quot;&quot;&gt;
-    &lt;source src=&quot;/img/StenchGig.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
-
-&lt;p&gt;These are some highlights of contemporary feedback instruments, which take a range of forms. These instruments can be challenging but also extremely rewarding to play. The challenges come from dealing with the complexity of highly sensitive dynamical systems, and changing from conventional modes of instrumental control to shared agency with the instrument.  The rewards are to break into new sonic territories and to discover some radically new ways of playing music.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Oct 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/feedback_insts</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/feedback_insts</guid>
-        
-        <category>emutelab</category>
-        
-        <category>feedback</category>
-        
-        <category>halldorophone</category>
-        
-        <category>cello</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab 4 @ The Rose Hill</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/emutelab4.jpg&quot; alt=&quot;EMuTeLab2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Emute Lab presents: musically intelligent machines&lt;/p&gt;
-
-&lt;p&gt;Emute Lab 4: Musically Intelligent Machines&lt;/p&gt;
-
-&lt;p&gt;Come and hear new music created by musicians in collaboration with artificially intelligent machines.&lt;/p&gt;
-
-&lt;p&gt;Expect some weird and wonderful experiments with new sounds and new musical instruments.&lt;/p&gt;
-
-&lt;p&gt;Artists:&lt;/p&gt;
-
-&lt;p&gt;MARIJE BAALMAN: gestural live coding&lt;/p&gt;
-
-&lt;p&gt;MNISTREL: Live coding and uncanny interfaces&lt;/p&gt;
-
-&lt;p&gt;SHELLY KNOTTS&lt;/p&gt;
-
-&lt;p&gt;ANUZAK&lt;/p&gt;
-
-&lt;p&gt;EVERYSONGIOWN: A Quantity Approach to Music Making&lt;/p&gt;
-
-&lt;p&gt;and more artists who will be performing pieces made at our summer AI and music workshop&lt;/p&gt;
-
-&lt;p&gt;The Rose Hill
-£6 / £4
-Advance tickets: &lt;a href=&quot;https://bit.ly/2JbzYXn&quot;&gt;https://bit.ly/2JbzYXn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;@emutelab&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.mimicproject.com&quot;&gt;https://www.mimicproject.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/936387710040807/&quot;&gt;https://www.facebook.com/events/936387710040807/&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab4</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab4</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>improvisation</category>
-        
-        <category>audiovisual</category>
-        
-        <category>AI</category>
-        
-        <category>machine learning</category>
-        
-        <category>MIMIC</category>
         
         
         <category>blog</category>
