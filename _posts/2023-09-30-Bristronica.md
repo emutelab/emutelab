@@ -17,6 +17,7 @@ Links:
 
 <a href="http://www.muio.org/">http://www.muio.org/</a>
 
+<img "/img/bristronica.webp"></img>
 
 
 
