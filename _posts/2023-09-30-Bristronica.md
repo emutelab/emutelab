@@ -19,15 +19,15 @@ Links:
 
 
 
-<img src="/img/bristronica.webp"></img><br>
-<img src="/img/bristronica/1.jpg"></img><br>
-<img src="/img/bristronica/2.jpg"></img><br>
-<img src="/img/bristronica/3.jpg"></img><br>
-<img src="/img/bristronica/4.jpg"></img><br>
-<img src="/img/bristronica/5.jpg"></img><br>
-<img src="/img/bristronica/6.jpg"></img><br>
-<img src="/img/bristronica/7.jpg"></img><br>
-<img src="/img/bristronica/8.jpg"></img><br>
+<img src="/img/bristronica.webp"><br>
+<img src="/img/bristronica/1.jpg"><br>
+<img src="/img/bristronica/2.jpg"><br>
+<img src="/img/bristronica/3.jpg"><br>
+<img src="/img/bristronica/4.jpg"><br>
+<img src="/img/bristronica/5.jpg"><br>
+<img src="/img/bristronica/6.jpg"><br>
+<img src="/img/bristronica/7.jpg"><br>
+<img src="/img/bristronica/8.jpg"><br>
 
 
 
