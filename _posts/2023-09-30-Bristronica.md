@@ -9,13 +9,15 @@ author: Chris Kiefer
 date: 2023-09-30
 ---
 
-Emute Lab are at Machina Bristronica - Chris and Dimitris and show the new uSEQ livecoding module, and Steve Symons is showing his system for interfacing eurorack with wireless gestural controllers.
+Emute Lab are at Machina Bristronica - Chris and Dimitris are showing the new uSEQ livecoding module, and Steve Symons is showing his system for interfacing eurorack with wireless gestural controllers.
 
 Links:
 
 <a href="https://github.com/lnfiniteMonkeys/uSEQ">https://github.com/lnfiniteMonkeys/uSEQ</a>
 
 <a href="http://www.muio.org/">http://www.muio.org/</a>
+
+
 
 <img src="/img/bristronica.webp"></img><br>
 <img src="/img/bristronica/1.jpg"></img><br>
