@@ -6,7 +6,7 @@ subheading: ""
 categories: blog
 tags: [email, mailing list]
 author: Chris Kiefer
-date: 2023-11-23
+date: 2023-11-24
 ---
 
 We have a new email list, please sign up here for news and discussion:
