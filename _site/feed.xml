@@ -3,11 +3,515 @@
   <channel>
     <title>Emute Lab</title>
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
-    <link>http://www.emutelab.org/</link>
-    <atom:link href="http://www.emutelab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 03 Mar 2023 09:52:42 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2023 09:52:42 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 21 Feb 2024 10:52:10 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 10:52:10 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Lab Meeting with Victor Shepardson</title>
+        <description>&lt;p&gt;We are holding an Emute Lab Monthly meeting, roughly on the final Tuesday of each month.&lt;/p&gt;
+
+&lt;p&gt;We are really excited to be able to host Victor Shepardson this month.&lt;/p&gt;
+
+&lt;p&gt;Victor is a post-graduate research at the Intelligent Instrument Lab in Reykjavik (http://www.https://iil.is) where he is exploring a lived in approach to designing with AI for new musical instruments.  Victor has kindly agreed to talk us through the art of training RAVE Models (Realtime Audio Variational autoEncoder models https://github.com/acids-ircam/RAVE).  From there we hope to expand the discussion to how we might manipulate the resulting model in different ways.&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday 27th February
+Time: 1pm
+Location: Sussex Humanities Lab
+Zoom: This is an open list so please email me for the Zoom link if you wish to join.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/rave-lab-meeting</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/rave-lab-meeting</guid>
+        
+        <category>meeting</category>
+        
+        <category>AI</category>
+        
+        <category>rave</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Steve Symons wins Sussex AI Demo Award</title>
+        <description>&lt;p&gt;Congratulations to Emute Lab PhD student Steve Symons, who won the £250 prize for best demo at the recent Sussex AI launch event.  Steve was showing his ‘entangled instrument’, which used a neural network to map a co-played instrument to different RAVE models.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sussexAI1.jpeg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/sussexAI2.jpeg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/sussexAI3.jpeg&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sussex.ac.uk/research/centres/ai-research-group/&quot;&gt;https://www.sussex.ac.uk/research/centres/ai-research-group/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.muio.org/&quot;&gt;http://www.muio.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/demo-prize</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/demo-prize</guid>
+        
+        <category>sussex AI</category>
+        
+        <category>demo</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Emute Lab Research Fellow Post</title>
+        <description>&lt;p&gt;There is a new Research Fellow post, working with Chris Kiefer on his new AHRC ‘Musically Embodied Machine Learning’ project (more info on this later…)&lt;/p&gt;
+
+&lt;p&gt;The info for the post is here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jobs.sussex.ac.uk/job/d9c1cb82-45cd-49f2-8642-0d8b49188e33&quot;&gt;https://jobs.sussex.ac.uk/job/d9c1cb82-45cd-49f2-8642-0d8b49188e33&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This position is for a post-doctoral researcher on the AHRC funded project Musically Embodied Machine Learning (MEML), within the Department of Music.  The project is an investigation into the musically expressive potential of machine learning when embodied within physical musical instruments.&lt;/p&gt;
+
+&lt;p&gt;It proposes &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tuneable ML&lt;/code&gt;, an approach to exploring the musicality of ML models, when they can be adjusted, personalised and remade, using a musical instrument as the interface. The project asks how instruments can be designed to make effective and musical use of embedded ML processes, and questions the implications for instrument designers and musicians when tunable ML processes are a fundamental driver of an instrument’s musical feel and musical behaviour.&lt;/p&gt;
+
+&lt;p&gt;The role will encompass co-designing new musical instruments with practicing musicians, and evaluating the instruments through their experiences.   The project will offer opportunities for developing skills in creative artificial intelligence, musical instrument design (hardware and software) and participatory research methods.  There will be opportunities for publication, industry collaboration, conference and trade show attendance, and development and release of open source software and hardware.&lt;/p&gt;
+
+&lt;p&gt;The post is for 18 months, 0.5fte, and the work will be conducted on campus in Brighton. The candidate will become a member of the Experimental Music Technologies Lab, which represents a diverse group of researchers and practicing musicians at University of Sussex.&lt;/p&gt;
+
+&lt;p&gt;Please contact  Dr Chris Kiefer, c.kiefer@sussex.ac.uk for informal enquiries.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/MEML-PDRA</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/MEML-PDRA</guid>
+        
+        <category>MEML</category>
+        
+        <category>jobs</category>
+        
+        <category>research fellow</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Emute Lab @ CHIME 2023 Workshop</title>
+        <description>&lt;p&gt;Emute Lab members Steve Symons, Dimitris Kyriakoudis and Chris Kiefer presented their work at the &lt;a href=&quot;https://www.chime.ac.uk/chime-annual-workshop&quot;&gt;CHIME annual workshop&lt;/a&gt; in December, &lt;i&gt;‘a one-day research event for sharing work in the area of music and human-computer interaction, with a particular emphasis on participative hands-on demos’&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://entangled-instruments.xyz/wp-content/uploads/2023/07/playingStickatron.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve presented his work on entangled instruments &lt;a href=&quot;https://entangled-instruments.xyz&quot;&gt;https://entangled-instruments.xyz/&lt;/a&gt;, and also took part in the afternoon panel session.&lt;/p&gt;
+
+&lt;div id=&quot;pdfembed0&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/CHIMEAbstractSymons.pdf&quot;, &quot;#pdfembed0&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Slides:&lt;/p&gt;
+
+&lt;div id=&quot;pdfembed1&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/sharedOrEntangled.pdf&quot;, &quot;#pdfembed1&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dimitris presented his work on his livecoding instrument Timelines.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/lnfiniteMonkeys/TimeLines-hs&quot;&gt;https://github.com/lnfiniteMonkeys/TimeLines-hs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;!-- &lt;a href=&quot;https://www.chime.ac.uk/s/CHIME-Abstract-Kyriakoudis.pdf&quot;&gt;https://www.chime.ac.uk/s/CHIME-Abstract-Kyriakoudis.pdf&lt;/a&gt; --&gt;&lt;/p&gt;
+
+&lt;div id=&quot;pdfembed2&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/CHIMEAbstractKyriakoudis.pdf&quot;, &quot;#pdfembed2&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
+
+&lt;p&gt;Slides:&lt;/p&gt;
+
+&lt;div id=&quot;pdfembed3&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/DK_CHIME2023.pdf&quot;, &quot;#pdfembed3&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Chris showed his new instrument, the Nalima, which explores multistable musicianship.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y3uq0skcnB0?si=9ksfu9smmzt5iKZv&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div id=&quot;pdfembedCK&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/CHIMEAbstractKiefer.pdf&quot;, &quot;#pdfembedCK&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Some images of the event:
+&lt;br /&gt;
+&lt;img src=&quot;../img/chime2023/PXL_20231204_153446625.jpg&quot; /&gt;
+&lt;br /&gt;
+Dimitris’ presentation
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../img/chime2023/PXL_20231204_154100975.MP.jpg&quot; /&gt;
+&lt;br /&gt;
+Steve demos the Stickatron
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../img/chime2023/PXL_20231204_164043686.MP.jpg&quot; /&gt;
+&lt;br /&gt;
+Trying out Chris’ Nalima instrument
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../img/chime2023/PXL_20231204_172352560.MP.jpg&quot; /&gt;
+&lt;br /&gt;
+Steve’s presentation for the afternoon panel
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/CHIME2023</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/CHIME2023</guid>
+        
+        <category>music</category>
+        
+        <category>HCI</category>
+        
+        <category>entangled</category>
+        
+        <category>multistable</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>New Emute Lab Mailing List</title>
+        <description>&lt;p&gt;We have a new email list, please sign up here for news and discussion:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=EMUTELAB&amp;amp;A=1&quot;&gt;https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=EMUTELAB&amp;amp;A=1&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/newmailinglist</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/newmailinglist</guid>
+        
+        <category>email</category>
+        
+        <category>mailing list</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Emute Lab @ Machina Bristronica</title>
+        <description>&lt;p&gt;Emute Lab are at Machina Bristronica - Chris and Dimitris are showing the new uSEQ livecoding module, and Steve Symons is showing his system for interfacing eurorack with wireless gestural controllers.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/lnfiniteMonkeys/uSEQ&quot;&gt;https://github.com/lnfiniteMonkeys/uSEQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.muio.org/&quot;&gt;http://www.muio.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bristronica.webp&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/1.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/2.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/3.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/4.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/5.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/6.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/7.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/img/bristronica/8.jpg&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 30 Sep 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/Bristronica</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Bristronica</guid>
+        
+        <category>eurorack</category>
+        
+        <category>livecoding</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Post-AIMC 2023 Reflection</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://aimc2023.pubpub.org&quot;&gt;&lt;img src=&quot;/img/aimclogo.png&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;reflecting-on-aimc-2023&quot;&gt;Reflecting on AIMC 2023&lt;/h3&gt;
+
+&lt;p&gt;In September 2023 two research labs focussing on musical instruments and live performance came together to run the &lt;strong&gt;International Conference on Artificial Intelligence and Music Creativity&lt;/strong&gt;, or &lt;a href=&quot;https://aimc2023.pubpub.org&quot;&gt;AIMC 2023&lt;/a&gt;. After our application to the &lt;a href=&quot;https://aimusiccreativity.org&quot;&gt;AI and Music Creativity&lt;/a&gt; board, it was decided that we would run the 2023 conference at the University of Sussex with the theme of “Intelligent Performance Systems”.&lt;/p&gt;
+
+&lt;p&gt;The two labs organising the conference were:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.emutelab.org&quot;&gt;Experimental Music Technologies Lab&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.iil.is&quot;&gt;Intelligent Instruments Lab&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The conference had 75 submissions from all over the world across diverse tracks (papers, demos, doctoral consortium and performances). We also had 14 Alt-AIMC submissions, but the idea with the “Alt” is to allow for late breaking, unfinished or controversial work. Those were judged by the jury and not double blind peer-reviewed like the academic papers. 85 people registered to the conference and in addition to the Sussex and Icelandic teams, we were around 100 people participating.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;conference-format-and-proceedings&quot;&gt;Conference format and Proceedings&lt;/h3&gt;
+
+&lt;p&gt;The conference had two keynotes, paper sessions (5 min lightning talks, followed by poster sessions), performances, workshops, demos and an algorave.&lt;/p&gt;
+
+&lt;p&gt;Check the website here: &lt;a href=&quot;https://aimc2023.pubpub.org&quot;&gt;AIMC 2023&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The AIMC 2023 proceedings can be found &lt;a href=&quot;http://www.aimc2023.org/proceedings&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;streamed-video-recordings-of-all-sessions&quot;&gt;Streamed Video Recordings of all sessions&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Keynote 1 - Dadabots&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CJ gave a keynote on neural synthesis and the training of audio diffusion models.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hsVMs2k0vck?si=-GNOxVGSZLhjmJh_&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Keynote 2 - Elaine Chew&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Elaine Chew, who runs the &lt;a href=&quot;https://cosmos.isd.kcl.ac.uk&quot;&gt;COSMOS project&lt;/a&gt; presented her past work in the field of computational analysis of musical creativity.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Jtb6tYH4XaE?si=jLFrDTecpTi6Scjq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Elaine wrote a &lt;a href=&quot;https://cosmos.isd.kcl.ac.uk/?p=4286&quot;&gt;blog post&lt;/a&gt; about her participation at AIMC.&lt;/p&gt;
+
+&lt;p&gt;Information on both keynote speakers can be found &lt;a href=&quot;https://aimc2023.pubpub.org/keynotes&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Industry Panel&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.olliebown.com&quot;&gt;Ollie Bown&lt;/a&gt; organised an industry panel with &lt;a href=&quot;https://dadabots.com&quot;&gt;CJ of Dadabots&lt;/a&gt;, &lt;a href=&quot;https://samim.io&quot;&gt;Samim Winiger&lt;/a&gt;, &lt;a href=&quot;https://www.kcl.ac.uk/people/elaine-chew&quot;&gt;Elaine Chew&lt;/a&gt;, and &lt;a href=&quot;https://www.ryangroves.com&quot;&gt;Ryan Groves&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Dat1P9oa5QE?si=edP3KjZbLyrrwcKM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper session 1 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xmRRu5yfCF8?si=re1Pf-iRelwZMtJt&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Bela-IREE: An Approach to Embedded Machine Learning for Real-Time Music Interaction” Ezra Pierce, Victor Shepardson, Jack Armitage, Thor Magnusson&lt;/p&gt;
+
+&lt;p&gt;“[neuralnet]: A Pure Data External for the Creation of Neural Networks Written in Pure C” Alexandros Drymonitis&lt;/p&gt;
+
+&lt;p&gt;“NeuralMidiFx: A Wrapper Template for Deploying Neural Networks as VST3 Plugins” Behzad Haki, Julian Lenz, Sergi Jorda&lt;/p&gt;
+
+&lt;p&gt;“Exploring Latent Spaces of Tonal Music using Variational Autoencoders” Nádia Carvalho, Gilberto Bernardes de Almeida&lt;/p&gt;
+
+&lt;p&gt;“Emotional Machines” Jorge Forero, Mónica Mendes, Gilberto Bernardes&lt;/p&gt;
+
+&lt;p&gt;“Finetuning Rolypoly~ 2.0: an expressive drum machine that adapts with every performance” Grigore Burloiu&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“AI in live coding environments: Pandora’s Dream” Celeste Betancur Gutierrez&lt;/p&gt;
+
+&lt;p&gt;“Latent Space Explorer” Alexander Lunt, Sebastian Trump&lt;/p&gt;
+
+&lt;p&gt;“Investigation of Live Coding Using a Combination of ChatGPT and Fine-Tuned GPT-3” Tomoki Okuda and  Kazuhiro Jo&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper session 2 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zFYlFZh1sw0?si=qTSbjzw4NqT-8-yz&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“The Phenomenology of Deconstructivist Aesthetics in Music: An Autoethnography of Errors, Erasures, Permutations, Discontinuities, Paradoxes and Artificial Intelligences” Philon Nguyen, Eldad Tsabary&lt;/p&gt;
+
+&lt;p&gt;“Music AI’s Potential Impact: Scoping the terms of the debate about value” Oliver Bown&lt;/p&gt;
+
+&lt;p&gt;“Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI” Kelsey Cotton, Kıvanç Tatar&lt;/p&gt;
+
+&lt;p&gt;“YouTube Mirror: An Interactive Audiovisual Installation based on Cross-Modal Generative Modeling” Sihwa Park&lt;/p&gt;
+
+&lt;p&gt;“Risks and Opportunities from Artificial Creativity” Roisin Loughran&lt;/p&gt;
+
+&lt;p&gt;“Extensible Embodied Knowledge: Bridging Performance Practice and Intelligent Performance System Design” Lucy Strauss, Matthew Yee-King&lt;/p&gt;
+
+&lt;p&gt;“The A in AIMC” Thor Magnusson&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Are we solving the wrong problems - and doing harm in the process?” Anna-Kaisa Kaila, Andre Holzapfel, Bob L. T. Sturm&lt;/p&gt;
+
+&lt;p&gt;“Beyond mutation: how can we acknowledge symbiogenesis in evolutionary music coding?” Matthias Jung&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper session 3 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eTHkk1eT7I4?si=bf8pul0sUzFE9iI8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Musical and Meta-Musical Conversations” Oded Ben-Tal, David Dolan&lt;/p&gt;
+
+&lt;p&gt;“Silicon for Orchestra and Artificial Intelligence: Three Strategies for Incorporating Artificial Intelligence into the Compositional Process of Orchestral Music” Robert Laidlow&lt;/p&gt;
+
+&lt;p&gt;“Human-AI Musicking: A Framework for Designing AI for Music Co-creativity” Craig Vear, Steve Benford, Juan Martinez Avila, Solomiya Moroz&lt;/p&gt;
+
+&lt;p&gt;“Revisiting Reynolds - Autonomous Agents for Spatial Audiovisual Composition and Performances” Damian Dziwis&lt;/p&gt;
+
+&lt;p&gt;“Liveness and machine listening in musical live coding: A conceptual framework for designing agent-based systems” Georgios Diapoulis&lt;/p&gt;
+
+&lt;p&gt;“Virtual AI Jam: AI-Driven Virtual Musicians for Human-in-the-Loop Musical Improvisation” Torin Hopkins, Alvin Jude, Greg Phillips, Ellen Do&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Introducing the Caulsio: using causal inference to influence collaboration in a shared music making environment” Steve Symons&lt;/p&gt;
+
+&lt;p&gt;“Accessible Co-Creativity through Language and Voice Input” Prateek Verma, Constantin Basica, Patricia Alessandrini, Alexandru Berceanu&lt;/p&gt;
+
+&lt;p&gt;“Intimate Musical Collaboration with a Probabilistic Model” Karl Johannsson&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Paper session 4 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1oOr3EnMn_o?si=jOC-hTef1zqAzg5x&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Sequential Pitch Distributions for Raga Detection” VISHWAAS NARASINH, SENTHIL RAJA G&lt;/p&gt;
+
+&lt;p&gt;“The Ai Music Generation Challenge 2022: Summary and Results” Bob L. Sturm&lt;/p&gt;
+
+&lt;p&gt;“Statistical evaluation of abc-formatted music at the levels of items and corpora” Laura Cros Vila, Bob L. T. Sturm&lt;/p&gt;
+
+&lt;p&gt;“Parsing musical structure to enable meaningful variations” Maziar Kanani, Seán O’Leary, James McDermott&lt;/p&gt;
+
+&lt;p&gt;“Deep Learning with Audio: An Explorative Syllabus for Music Composition and Production” Koray Tahiroglu, Shenran Wang, Eduard Mihai Tampu, Jackie Lin&lt;/p&gt;
+
+&lt;p&gt;“Are words enough? On the semantic conditioning of affective music generation.” Jorge Forero, Gilberto Bernardes, Mónica Mendes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Closing the Loop: Enabling User Feedback and Testing in Symbolic Music Generation through a Python Framework and Ableton Live Integration” Rui Guo&lt;/p&gt;
+
+&lt;p&gt;“Introductory Studies on Raga Multi-track Music Generation of Indian classical music using AI” Sreekanth Gopi, Femi William&lt;/p&gt;
+
+&lt;p&gt;“Building a Nature Soundscape Generator for the Post-Biodiversity Future” Avery Bick&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Closing Session&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thor Magnusson and Chris Kiefer reflecting upon the conference and Oded Ben-Tal introduces AIMC 2024 in Oxford.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yC1PvuW2EWQ?si=hYqFBFNyP-qKpCEg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Concert 1 in ACCA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EZEnqwB1b2w?si=_vZFH1DRMLKCiffi&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Odd Couple&lt;/em&gt;, Oded Ben-Tal and David Dolan, piano and computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Organic Algorithmic Composition&lt;/em&gt;, Gyuchul Moon.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Quantum Fantasy&lt;/em&gt;, Jeff Morris. For Conductor and Computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;AI&lt;/em&gt;, Franziska Schroeder and Federico Rueben. Saxophone and live coding.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Concert 2 in ACCA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xpN5Bxvkq08?si=WMbaQJczMJ_u1tez&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;One, Two, Many&lt;/em&gt;, Oded Ben-Tal. For two flutes and computer. Rowland Sutherland on flute 1.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;iː ɡoʊ weɪ&lt;/em&gt;, by Jonathan Reus. For Computer and Voice.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Notochord Arcs and scrambled Signals&lt;/em&gt;, Victor Shepardson and Nicola Privato. For two computers and human operators.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;SCAMP Singularity&lt;/em&gt;, Henrique Portovedo. Augmented Saxophone and Computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The historically Informed AI: Johann Sperger through Time and Bass, for Contrabass, Viola, Magnetic Discs and Computer. Based on Sonata for Contrabass and Viola by Johann Matthias Sperger (1777)&lt;/em&gt;. Darija Andzakovic , Natalia Duarte, and Nicola Privato.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Algorave in Brighton&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d0RMUqcbhmQ?si=mwIWSFH21HQFXtjQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Uncanny&lt;/em&gt;, Begüm Çelik and Tuğrul Veli Şalcı&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cartographic&lt;/em&gt;, Tasos Asonitis&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;James GM (Live) - Machine Learning And Audio-Visual Performance In Unreal Engine 5&lt;/em&gt;, James Gibbons-MacGregor&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;drum.code&lt;/em&gt;, Timo Hoogland&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pandora’s Dream&lt;/em&gt;, Celeste Betancur Gutierrez&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Live Coding with an Affective Autonomous Agent in TidalCycles- Performance&lt;/em&gt;, Liz Wilson&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gagnavera&lt;/em&gt;, Jack Armitage&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Sep 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/postAIMC2023</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/postAIMC2023</guid>
+        
+        <category>emute</category>
+        
+        <category>ii lab</category>
+        
+        <category>intelligent</category>
+        
+        <category>AI</category>
+        
+        <category>creativeAI</category>
+        
+        
+      </item>
     
       <item>
         <title>New Release on Emute: Live at the Meeting House</title>
@@ -19,8 +523,8 @@
 &lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/FMN_Meeting-House</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/FMN_Meeting-House</guid>
+        <link>http://localhost:4000/blog/FMN_Meeting-House</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/FMN_Meeting-House</guid>
         
         <category>feedback</category>
         
@@ -65,8 +569,8 @@
 
 </description>
         <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/PhDScholarship</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/PhDScholarship</guid>
+        <link>http://localhost:4000/blog/PhDScholarship</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/PhDScholarship</guid>
         
         <category>ii lab</category>
         
@@ -104,8 +608,8 @@
 &lt;p&gt;Main deadlines are in March 2023, but please find further information about indicative topics, conference theme and submission information on the &lt;strong&gt;Conference website:&lt;/strong&gt;  &lt;a href=&quot;https://aimc2023.pubpub.org/cfp&quot;&gt;https://aimc2023.pubpub.org&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/AIMC2023</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/AIMC2023</guid>
+        <link>http://localhost:4000/blog/AIMC2023</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/AIMC2023</guid>
         
         <category>emutelab</category>
         
@@ -116,604 +620,6 @@
         <category>performance</category>
         
         <category>conference</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Live Coding: A User&apos;s Manual</title>
-        <description>&lt;p&gt;Live coding has been an active force in new music since the early 2000s. A few years ago, Alan Blackwell, Geoff Cox, Emma Cocker, Alex McLean and Thor Magnusson got together to work on a book on live coding. A user’s manual we imagined it, a handbook, a reference into the theoretical and technical frameworks that circumvent the practice.&lt;/p&gt;
-
-&lt;p&gt;The book is now out on &lt;a href=&quot;https://mitpress.mit.edu/9780262544818/live-coding/&quot;&gt;MIT Press&lt;/a&gt;, and find further information about open access &lt;a href=&quot;https://livecodingbook.toplap.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Performative, improvised, realtime, on the fly: live coding is about how people interact with the world and each other via code. In the last few decades, live coding has emerged as a dynamic creative practice, gaining attention across cultural and technical fields—from music and the visual arts to computer science. In live coding the composition happens in realtime, where performers can communicate via sound, visuals, robotic and human movements, or basically anything that can be controlled. In live coding the instructions, the code, is communicated too, typically projected on a screen for the audience to follow, should they be interested.&lt;/p&gt;
-
-&lt;p&gt;Live Coding: A User’s Manual is the first comprehensive introduction to the practice and a broader cultural commentary on the potential for live coding to open up deeper questions about contemporary cultural production and computational culture. The book provides a practice-focused account of the origins, aspirations, and evolution of live coding, including expositions from a wide range of live coding practitioners. In a more conceptual register, the book engages with how liveness, temporality, and knowledge relates to live coding, as well as speculating upon the future of the practice.&lt;/p&gt;
-
-&lt;p&gt;Check it out in open access &lt;a href=&quot;https://livecodingbook.toplap.org&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/livecodingusermanual</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/livecodingusermanual</guid>
-        
-        <category>emutelab</category>
-        
-        <category>publication</category>
-        
-        <category>experimental</category>
-        
-        <category>livecoding</category>
-        
-        <category>algorithmic</category>
-        
-        <category>augmented reality</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab 6 @ The Rose Hill</title>
-        <description>&lt;h1&gt;Livecoding Workshops&lt;/h1&gt;
-&lt;h3&gt;11:00 - 16:00&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/../../img/emutelab6ws.png&quot; alt=&quot;emutelab6!&quot; /&gt;
-&lt;a href=&quot;https://www.facebook.com/events/257329999851715&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;https://www.ticketsource.co.uk/emute-lab/emute-lab-6-livecoding-workshops/e-pyammo&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student) https://www.ticketsource.co.uk/emute-lab/emute-lab-6-livecoding-workshops/e-pyammo&lt;/p&gt;
-
-&lt;p&gt;During these workshops, two of the performers will introduce the practice of live coding music. They will explain how their live coding instruments of choice work (the very same instruments that they will use to perform later in the evening), guide participants through a hands-on session of play and experimentation, and discuss their personal artistic practices and approaches to performing improvised music by writing and modifying computer code, live on stage. No prior coding experience is required, just the curiosity to learn (+ a laptop and a pair of headphones).&lt;/p&gt;
-
-&lt;h3&gt;Dimitris Kyriakoudis - Musical Maths: Live Coding Music with TimeLines&lt;/h3&gt;
-
-&lt;p&gt;A gentle introduction to live coding music using &lt;a href=&quot;https://github.com/lnfiniteMonkeys/TimeLines-HS&quot;&gt;TimeLines&lt;/a&gt;, a free &amp;amp; open source modular synthesiser and sequencer, presented by its developer.&lt;/p&gt;
-
-&lt;p&gt;Participants will learn about live coding and sound synthesis, explore the meaning of the oftentimes confusing phrase “music is maths”, and discover how to use primary school-level maths to recreate compositional techniques used by both children’s folk songs and J.S. Bach alike, but in the context of modern music.&lt;/p&gt;
-
-&lt;p&gt;No previous musical or coding experience required. In order to follow along you will need a laptop using Windows, Mac OS, or most flavours of Linux, as well as a pair of headphones. Participants are encouraged to attempt installing the software in preparation for the workshop (following the instructions in the link above), but can also get help with the installation process during the workshop.&lt;/p&gt;
-
-&lt;h3&gt;Lizzie Wilson - Composing Algorithmic Patterns in Tidal Cycles&lt;/h3&gt;
-
-&lt;p&gt;In this workshop, participants will be learning the fundamental principles of live coding. In live coding, computer language is the primary medium for notation and describing the rules with which to synthesise artworks, in this case we consider the case where the output is musical pattern. Participants will be composing patterns algorithmically with the &lt;a href=&quot;https://tidalcycles.org/&quot;&gt;Tidal Cycles&lt;/a&gt; software: a language for describing flexible (e.g. polyphonic, polyrhythmic, generative) sequences of sounds, notes, parameters, and all kind of information. Tidal Cycles (or ‘Tidal’ for short) is free/open source software written using the functional programming language Haskell, that utilises the audio capabilities of the SuperCollider software. It includes simple and flexible notation for rhythmic sequences, and an extensive library of patterning functions for combining and transforming them. This allows you to quickly create complex patterns from simple ingredients. Learning the strategies used by live coders to create complex and varied outcomes from simple code structures is the workshops main outcome. No previous coding or musical experience required.&lt;/p&gt;
-
-&lt;p&gt;Participants should bring a laptop and headphones to the workshop. If they feel comfortable doing so, they should download the TidalCycles software onto their laptop BEFORE the workshop (see &lt;a href=&quot;tidalcycles.org/docs/getting-started/&quot;&gt;tidalcycles.org/docs/getting-started/&lt;/a&gt;). If not, they will be able to participate in the workshop, provided they are able to access the internet through their laptop (WiFi connection will be provided).&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h1&gt;Experimental A/V Performances&lt;/h1&gt;
-&lt;h3&gt;19:00 - 22:30&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/../../img/emutelab6.png&quot; alt=&quot;emutelab6!&quot; /&gt;
-&lt;a href=&quot;https://www.facebook.com/events/1090542748411764/&quot;&gt;Facebook Event&lt;/a&gt; &lt;br /&gt; &lt;a href=&quot;https://www.ticketsource.co.uk/emute-lab/emute-lab-6-gig/e-mzglpb&quot;&gt;Tickets&lt;/a&gt;: £7 or £4 (concession/student)&lt;/p&gt;
-
-&lt;h3&gt;Digital Selves&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@dgtlselves&quot;&gt;@dgtlselves&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/VPeX3hzsiO0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In this performance, live coder digital selves will explore the human-machine creative relationship. The live coder will work in conjunction with, and sometimes against, a machine agent that creates its own pattens of code. Through performance, a co-creative system emerges, using the machine agent to explore not-yet conceptualised code sequences. This forms part of a wider context of research which centres around co-creative systems of algorithmic composition based on models of affective response (emotion). Please be aware that this performance will be filmed.&lt;/p&gt;
-
-&lt;p&gt;Bio:&lt;br /&gt;
-digital selves is a London-based computer musician who uses algorithms of synthesis and samples to create improvised, crunchy sounds and melodic texture. They have performed at various events in the UK and internationally and use the programming mini-language TidalCycles to create algorithmic music that recontextualises club culture, experimental art and human-computer interaction.&lt;/p&gt;
-
-&lt;h3&gt;Joana Chicau and J. Chaim Reus&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@bchicau&quot;&gt;@bchicau &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@_jchaim&quot;&gt;@_jchaim&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/zMydMePetkE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;‘Web Choreographies’ is an assemblage of live coded visual experiments performed in the web browser. This performance is part of an on-going research on how design and web based computational systems can be used to construct new scenarios, imaginaries and hypotheses guided by choreographic concepts. By privileging open source tools and investigation through feminist lens, Joana Chicau combines real-time algorithmic composition and movement studies to rethink the vocabularies, protocols, modes of participation and conditions for the affective interfacing of bodies and technologies.&lt;/p&gt;
-
-&lt;p&gt;Bios: 
-Joana Chicau is a designer and researcher — with a background in dance. She researches the intersection of the body with the designed and programmed environment, aiming at widening the ways in which digital sciences is presented and made accessible to the public. The latter informs a practice and exploration of various forms and formats — interweaving web programming with choreography — from the making of online platforms to performances and workshops.&lt;br /&gt;
-She has been participating and co-organizing events involving collaborative coding, algorithmic improvisation, open discussions on digital equity and activism. Chicau is a member of the collective Varia.zone and a lecturer at the University of Arts of London.&lt;/p&gt;
-
-&lt;p&gt;J. Chaim Reus is a Dutch-American research-composer, born in New York and thereafter living in Amsterdam and then Florida, where he became involved in the American folk-art scene. Years later he moved to the Netherlands where he developed a uniquely intimate live practice cutting across disciplines of music and visual art, science and digital culture. &lt;a href=&quot;jonathanreus.com&quot;&gt;jonathanreus.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;w1n5t0n&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@lm_w1n5t0n&quot;&gt;@lm_w1n5t0n&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/dsHnWE6_JbE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;w1n5t0n is one of lnfinite Monkeys. His species has developed sufficient intelligence to enable the use of tools and instruments, but not enough to actually understand how most of them work, so he often resorts to making his own. To this end he reimagines, recycles, and reappropriates anything he can find laying around the jungle, from leftover temporally functional-reactive homoiconic metaprogramming to nice sticks and pretty pebbles – all ethically and open sourced, of course. In doing so he explores the intersection of music, art, mathematics, programming, randomness, improvisation, internet memes, infinity, algorithmocomputational creativity, The Meaning of Life™, and fun.&lt;/p&gt;
-
-&lt;p&gt;Bio: 
-When not dwelling on trees (either the plain ones or the Abstract Syntax kind), w1n5t0n transmorphs to Dimitris Kyriakoudis and wears clothes and drinks tea and says “please” and “thank you” and pays bills and taxes. He can be usually found researching HCI and experimenting with live coding instrument design at the University of Sussex.&lt;/p&gt;
-
-&lt;h3&gt;Steve Symons and Sam Bilbow&lt;/h3&gt;
-&lt;p&gt;Steve and Sam will improvise using their experimental virtual musical interfaces, accessed by a Gametrak and an Augmented Reality Headset. The performance examines three-dimensional bodily motion, and how these interfaces might relate to one another, both comparing and contrasting their sonic palettes and gestures.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@stevemuio&quot;&gt;@stevemuio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Steve Symons has spent many years making embedded locative audio systems and making / improvising music with NIMEs.  He is interested in enactive interfaces, woodwork and finding new metaphors for collaborative instruments.&lt;/p&gt;
-
-&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/3MBnnZnGak8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/@sambilbow&quot;&gt;@sambilbow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Sam is a Doctoral Researcher at Sussex working with augmented reality as a medium for gestural and musical expression. His work uses DIY and open-source hardware to create real-time and combined real / virtual performances of space. Below is a demonstration of the system he will be performing with.&lt;/p&gt;
-&lt;iframe width=&quot;220&quot; height=&quot;100&quot; src=&quot;https://www.youtube.com/embed/gY2QtK907cU?start=92&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.therosehill.co.uk&quot;&gt;https://www.therosehill.co.uk&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/emutelab6-copy</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emutelab6-copy</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>experimental</category>
-        
-        <category>livecoding</category>
-        
-        <category>algorithmic</category>
-        
-        <category>augmented reality</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Machines on Stage: Exploring the World of Robot Opera</title>
-        <description>&lt;h1 id=&quot;machines-on-stage-exploring-the-world-of-robot-opera&quot;&gt;Machines on Stage: Exploring the World of Robot Opera&lt;/h1&gt;
-
-&lt;p&gt;A number of Emute Lab members are interested in robotics and AI. A key area where music, robotics and AI meet is Robot Opera. Robot Opera in its simplest sense is an opera which has robots in it. You could argue that in some sense this idea goes way back, as automata and stage machinery have been part of theatre and opera for a long time (for example of the latter, see Corneille’s Andromède, described as a tragedy represented by machines). The word ‘robot’ itself has its origins in theatre - a play by Czech playwright Karel Çapek, Rossum’s Universal Robots’ coined the term in 1921.&lt;/p&gt;
-
-&lt;p&gt;What’s behind the current wave of operatic interest in robots? There’s a broader context at work, in both theatre and in music. At the Performing Robots Conference in Utrecht in 2019, the point was repeatedly made that theatre could be a ‘sandbox’ or ‘test bed’ for human robot interaction, with much to be learnt about how humans see themselves (through creating robotic doubles) and about how we can imagine our future relationships with robots.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/379722275?h=8fdba7dd82&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/379722275&quot;&gt;Performing Robots Conference 2019, Utrecht (23rd-25th May)&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user106402189&quot;&gt;TiM&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;On the music side, an example of robotic musical innovation can be found at Georgia Tech, where researchers have developed Shimon, a marimba playing robot who can improvise jazz with human musicians. Shimon is currently be trained to sing and write songs collaboratively with humans.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BOck0kPtlfk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In robot opera itself, there’s a wide variety of practice out there, featuring both humanoid and non-humanoid robots, singing and performing in a range of different styles. One of the most high profile of these is Todd Machover’s Death and the Powers (2010) produced at MIT. An iconic work of the modern genre, it featured eight non-humanoid robots and a human cast, including video and complex moving stage scenery.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T0ZsUAiAcXE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Interestingly, the non-humanoid robots sounded, at time, a lot like humans.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Myd2DdSxUEk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Wade Marynowski’s Robot Opera (2015) by contrast featured non-humanoid robots that sounded very non-human, exploring the tropes of electronic music, and combining sound, movement, sculpture and interactivity, blurring boundaries between set, character, performers and audience.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eOgKzrsgb2s&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In a more traditional staging, a humanoid robot in Gob Squad’s 2015 robot opera My Square Lady was trained to conduct and sing as humans do, in a quest to learn about human emotion.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/49rJMgJY1CU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In the Royal Opera House’s 2015 commission Glare, a human singer played a robot character, who was trying to ‘pass’ as human.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FZzS2A5Vu6U&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Clearly this opera did not have an actual robot on stage, nevertheless such scenarios allow for serious exploration of human/robot identities and relationships. Who gets to decide who is human, and how important are relationships in these definitions? On stage, if a ‘real’ robot performs, how are we relating to that as an audience, compared to a human performer pretending to be a robot? These sorts of questions are also being explored extensively in France, where the Ecole Universitaire de Recherche hosts an ongoing international webinar entitled Robots on Stage. Interdisciplinary Convergences between Robotics and Theatre.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/555319614?h=3d27ba3f29&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/555319614&quot;&gt;Conf&amp;eacute;rence - Robots and theatre : creations, challenges and research prospects&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/eurartec&quot;&gt;EUR ArTeC&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;robot-opera--sussex&quot;&gt;Robot Opera @ Sussex&lt;/h2&gt;
-
-&lt;p&gt;At the Centre for Research in Opera and Music Theatre (CROMT) we started a robot opera project in 2017, and we have had and additional two research events in 2019 and 2021. Our focus is on:
-    • voice, embodiment and performance
-    • creative exploration of human robot interaction
-    • scholarly reflection on robotic otherness and human/robot hybridity, including ethical dimensions of our relationships with robots 
-    • how new technologies create new forms of expression and new forms for opera, including how explorations of robotic vocal virtuosity might feed back into human music making&lt;/p&gt;
-
-&lt;p&gt;How would a robot sing if it sang like a robot, rather than emulating a human? What would it sound like if its voice came from its own materiality and physicality? How do we read a robot’s presence on stage? Can a robot perform, or is it in some sense, always performing? Music software can enable computers to ‘improvise’ musically - if a robot is really just a computer that can move around, how might that movement be used to influence its vocal production?    How could embodiment feed into robotic voice? What would robotic vocal virtuosity sound like? On a more philosophical level, as Dr Ron Chrisley has explored, &lt;a href=&quot;https://paics.wordpress.com/2018/05/14/robot-opera-robert-gyorgyi-interviews-ron-chrisley/&quot;&gt;what does it mean for a robot to sing&lt;/a&gt;, or alternatively - who is singing, when a robot sings?&lt;/p&gt;
-
-&lt;h2 id=&quot;2017-robot-opera-a-mini-symposium&quot;&gt;2017 Robot Opera: a Mini Symposium.&lt;/h2&gt;
-
-&lt;p&gt;Using commercially available robots already deployed in the School of Engineering and Informatics at Sussex, we launched the robot opera project with a half day event in June 2017. This consisted in a set of papers delivered by Sussex researchers (Ron Chrisley, Thanos Polymeneas-Liontiris, and Chris Kiefer) followed by performances of two five-minute operas, both directed by Tim Hopkins, &lt;em&gt;The Opposite of Familiarity&lt;/em&gt; composed by Ed Hughes with a libretto by Eleanor Knight,    and &lt;em&gt;O, One&lt;/em&gt; by Evelyn Ficarra, for two Nao robots. The robots were programmed by Ron Chrisley and the human musicians were    Alice Eldridge (cello) Joe Watson (piano). The talks ranged over subjects such as Learning and Performing with AIs (Kiefer); Operatic Bots (Polymeneas-liontiris); and What would it be for a robot to sing? (Chrisley), introduced by Evelyn Ficarra. Full documentation of the event, including talks and performances, can be seen &lt;a href=&quot;https://youtu.be/bV-seLR0OP0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our creative work with the Nao robots (two toddler-sized robots designed and built by Softbank Robotics) revealed some interesting challenges. Our aim was that the primary ‘on stage’ performers would be the two robots, with the human musicians entirely in support in the background. We were determined the the Naos would sing with their own voices - that is, we would not simply record humans and put the voices inside the robots. We would create the ‘singing’ with the same voice the robots used to speak - accessed through the text to speech software that comes with the robot operating &amp;amp; animation system. Ron Chrisley and the composers met weekly to try out different techniques, with Ron programming in Python to effect the pitch and rhythmic pace of the robots. One interesting hitch was that the robots could not elongate a vowel sound, they could only repeat - so instead of ‘aaaaaah’ stretched out, they would sing a, a, a, a, a, - pronouncing each letter separately.&lt;/p&gt;
-
-&lt;p&gt;Although the Naos do have some speech recognition and facial recognition, and we wanted to give a sense of them acting and relating to each other, in reality they were more like puppets, enacting pre-programmed sequences triggered by either a tap on their heads (where they have a button) or by showing them a particular symbol trigger which they are programmed to recognise to initiate a sequence. Tim Hopkins’s direction set the robots out on a sort of runway between two strips of seated audience members, with musicians at either end, so that the audience were effectively looking at each other over the heads of the performing robots. There were also robots in the audience, as Sussex has a fleet of Naos and we had asked all the Nao caretakers on campus to bring their robots with them, further blurring identities between robots and humans as both audience and performers. The ’set’ was a simple strip of white paper on the floor, marking out the performance space, on which ‘cave’ drawings showing the evolution of machines (an imagined past for the robots) were drawn, and on which we wrote out words of the libretto in real time during the performance. For further details on the music of &lt;em&gt;O, One&lt;/em&gt; by Evelyn Ficarra, see https://evelynficarra.net/portfolio/o-one/&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/16h2hOxxz5k&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;2019-robot-opera---whats-next&quot;&gt;2019 Robot Opera - What’s Next?&lt;/h2&gt;
-&lt;p&gt;In 2019, we developed the project to focus on human robot interaction, particularly on how robotic vocal virtuosity might inform human vocal practice. This time we used a Pepper robot (Softbank Robotics) and brought in a human opera singer, Loré Lixenberg of Apartment House, together with her collaborator, cellist Anton Lukoszevieze, and a robot cat, because - of course you need a robot cat. Evelyn worked with two programmers, Deepeka Khosla and Kopiga Kugananthaval, to animate the robot and again explored how to push the robot’s ‘natural’ speaking voice into operatic and virtuosic expressive shapes. We commissioned Sam Bilbow to make a ‘robot cello’, so that both our human performers, Anton and Loré, had robotic counterpoints. The performance was co-devised by the creative team and again the event concluded with a reflective panel, this time chaired by Nick Till, with Ron Chrisley as first respondent and a Q &amp;amp; A featuring Evelyn and the performers. 
-Taster clip:&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/394115792?h=17b451e420&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/394115792&quot;&gt;Robot Opera 2019 &amp;quot;I Want Your Job&amp;quot; excerpt&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user87904852&quot;&gt;Evelyn Ficarra&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;2021-robo_po--robo_op&quot;&gt;2021 Robo_Po /// Robo_Op&lt;/h2&gt;
-
-&lt;p&gt;This was a two day event consisting of a robot poetry reading and an operatic performance featuring Cleo, a robot designed and built by Engineered Arts. Both days were streamed live to an international audience and concluded with a reflective panel discussion by artists, academics and industry professionals. Cleo, unlike the Nao robots or Pepper, is a hyper-realistic humanoid robot, with silicon skin and real human hair. Cleo is full size, taller than many humans, and has face recognition and some limited AI driven features such as the ability to mimic certain movements. She has cameras in her eyes, and you can tap into the video stream of what she is seeing and project it. You can also ventriloquize her voice using a microphone - though we did not do that directly in real time.&lt;/p&gt;
-
-&lt;p&gt;Cleo’s hyperrealistic appearance brought us into different dramatic and musical territory with this project, raising questions of the uncanny. This allowed us to explore ideas around human / robot mirroring and hybridity, both visually in the staging, and vocally in the music. Evelyn considered how human voices are made from our physical materiality of muscle and bone, and wanted to reflect the robot’s physicality in its voice. Therefore in this project she did not limit herself to using the robot’s built in text to speech mechanism. Instead, she visited the robot factory in Falmouth and recorded sounds of robot body movement and robot manufacture. She also met with Loré Lixenberg the opera singer to record her voice, and then chopped up and fragmented both machine and human recordings to create a hybrid vocal world for the robot, eventually also including its own speaking voice in heightened ways. The robot sounds also formed the basis of an electronic soundscape which supported the voices.&lt;/p&gt;
-
-&lt;p&gt;We were very pleased in this new phase of the project to bring in a choreographer, Janine Fletcher, from Southeast Dance. Having learned through working with the Pepper robot about the importance of robotic movement in making the robot voice believable, we knew we needed an expert in movement this time, who could also work with the human performers. Janine Fletcher added a valuable dimension to the performance particularly in her duet with the robot, and spoke very interestingly afterwards about the complexities of performing with a body that has no awareness of others in the space - Cleo can see faces but does not have sensors on her body to prevent collisions, for example.&lt;/p&gt;
-
-&lt;p&gt;See a short documentary on the Robo_Op project&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Tzzmp-9_Rpo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;:&lt;/p&gt;
-
-&lt;p&gt;Full documentation of the performance and panel discussion:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZTiguwX6mtA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;A panel discussion on Robo_Op:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bWK86rzW7og?start=139&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;You can also see the robot poetry reading which occurred on day one of    Robo_Po /// Robo_Op here:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qdB8jWdkX2w?start=1136&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;For further scholarly reflection and context, see this excellent article by Alexander Sigman:
-Sigman, A. (2020). Robot Opera: Bridging the Anthropocentric and the Mechanized Eccentric. Computer Music Journal, 43(1), 21–37. https://doi.org/10.1162/comj_a_00498&lt;/p&gt;
-
-&lt;p&gt;For further information about robot opera at Sussex contact &lt;a href=&quot;https://profiles.sussex.ac.uk/p41192-evelyn-ficarra&quot;&gt;Evelyn Ficarra&lt;/a&gt; or &lt;a href=&quot;https://profiles.sussex.ac.uk/p208667-chris-kiefer&quot;&gt;Chris Kiefer&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-        <link>http://www.emutelab.org/blog/robot_opera</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/robot_opera</guid>
-        
-        <category>emutelab</category>
-        
-        <category>robot</category>
-        
-        <category>opera</category>
-        
-        <category>singing</category>
-        
-        <category>synthesis</category>
-        
-        <category>musical theatre</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>A Chat with Ingi Garðar Erlendsson</title>
-        <description>&lt;h4 id=&quot;-a-chat-with-ingi-garðar-erlendsson-&quot;&gt;:::: A Chat with Ingi Garðar Erlendsson ::::&lt;/h4&gt;
-
-&lt;p&gt;As a part of the work for the &lt;a href=&quot;https://feedback-musicianship.pubpub.org/&quot;&gt;AHRC Feedback Musicianship Network&lt;/a&gt;, Emute Lab Member Halldór Úlfarsson (IS) Interviews Composer and Thranophone player Ingi Garðar Erlendsson (IS) on his performance practice with Thranophone (developed together with composer Þráinn Hjálmarsson (IS)). The version of Thranophone Ingi Garðar has been playing for the past decade is a Tuba induced to feedback via speaker cone sitting in the bell, outputting the sound of a microphone Ingi keeps in his mouth (sheathed in a rubber membrane). His favoured controller for this setup is gain control for the amplification via foot pedal (with various effects injected in the signal path according to his fancy for a given performance). Here is Ingi Garðar giving us an insight into his feelings about playing thranophone in (January, 14. 2021):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In the beginning it was very raw but I liked the idea and then I kept trying things to make it more interesting. So I needed to find ways to make it more interesting as a sound source, for the tuba-thranophone it is a lot about how I use my mouth. But it really is a monster now because you have so many options for playing. Which I don’t think people recognized in the beginning, because it’s basically just feedback so I don’t think people recognized how rich it can be. The perception was that it is too primitive. But taking it from there if you, hmm, take care, if you practice the system, the instrument, if you develop a performance practice and work through [technical] problems that come up it’s cool. Being a composer it’s amazing that I cannot trust the instrument, that it is the same today as it was yesterday, that it is the same in one space or another. Although usually it’s quite similar.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/thranophoneSkull.png&quot; alt=&quot;Thranophone&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s Ingi playing at ICLI 2016:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l5vDKEZsJjY&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Sat, 10 Apr 2021 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/IngiInterview</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/IngiInterview</guid>
-        
-        <category>emutelab</category>
-        
-        <category>nime</category>
-        
-        <category>lab report</category>
-        
-        <category>feedback</category>
-        
-        <category>paper</category>
-        
-        <category>poster</category>
-        
-        <category>workshop</category>
-        
-        <category>performance</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab at NIME 2020</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: Emute Lab at NIME 2020 ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Emute Lab members have a number of contributions to New Interfaces for Musical Expression 2020, taking place online in late July.  NIME is an annual conference on musical expression and the design of new musical instruments. It’s the natural home of many of our research projects, which is why we begin with a lab report on our activities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Instrumental Investigations at the Emute Lab&lt;/em&gt;&lt;/strong&gt;
-&lt;em&gt;Thor Magnusson, Alice Eldridge and Chris Kiefer&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This lab report discusses recent projects and activities of the Experimental Music Technologies Lab at the University of Sussex. The lab was founded in 2014 and has contributed to the development of the field of new musical technologies. The report introduces the lab’s agenda, gives examples of its activities through common themes and gives short description of lab members’ work. The lab environment, funding income and future vision are also presented.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The remaining contributions centre around a big research topic in Emute Lab, feedback instruments and musicianship.  Halldór Úlfarsson collaborates on two submissions, firstly a paper:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sculpting the behaviour of the Feedback-Actuated
-Augmented Bass&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Halldór Úlfarsson and Adam Pultz Melbye (Sonic Arts Research Centre, Belfast)&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This paper describes physical and digital design strategies for the Feedback-Actuated Augmented Bass – a self-contained feedback double bass with embedded DSP capabilities. A primary goal of the research project is to create an instrument that responds well to the use of extended playing techniques and can manifest complex harmonic spectra while retaining the feel and sonic fingerprint of an acoustic double bass. While the physical configuration of the instrument builds on similar feedback string instruments being developed in recent years, this project focuses on modifying the feedback behaviour through low-level audio feature extractions coupled to computationally lightweight filtering and amplitude management algorithms. We discuss these adaptive and time-variant processing strategies and how we apply them in sculpting the system’s dynamic and complex behaviour to our liking.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/376697035&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/376697035&quot;&gt;The Augmented Double Bass (listen with headphones)&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user27144102&quot;&gt;Adam Pultz Melbye&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Halldór also collaborates on a performance.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dual/Duel/Duet/for/with/halldorophone&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Nicole Robson (Queen Mary, University of London) and Halldór Úlfarsson&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The halldorophone is a cello-like, feedback instrument, developed over the past decade by Halldór Úlfarsson. The
-instrument is well-established in experimental music circles and gaining wider recognition thanks to its use by composer
-and cellist Hildur Guðnadóttir in film scores, including her Oscar nominated music for Joker (2019). The halldorophone
-utilises a simple system, whereby the vibration of each string is detected by a pickup, amplified and routed to a speaker
-embedded in the back of the instrument. By adding gain to individual strings in the feedback loop, the instrument’s
-response can become rapidly complex, potentially spinning out of control. While every musical performance of a
-piece is unique in some way and contingent on its particular moment and situation in time, the unstable nature of the
-halldorophone exacerbates this condition. Players describe the halldorophone as ‘unpredictable’, ‘very much alive’ and
-as having ‘its own ideas’, even tiny changes to their body position in performance might produce unexpected effects
-. In this NIME premiere for the instrument, cellist Nicole Robson will perform a piece for a new digitally endowed
-halldorophone, and the title of the piece – Dual/Duel/Duet – acknowledges the active role of the instrument in shaping
-the composition and performance.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.halldorophone.info/public/img/2018-Square.jpg&quot; alt=&quot;Sister 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next up is a paper on complexity and the behaviour of feedback instruments.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shaping the behaviour of feedback instruments with complexity-controlled gain dynamics&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Chris Kiefer, Dan Overholt (Aalborg University, Copenhagen), Alice Eldridge&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Feedback instruments offer radical new ways of engaging
-with instrument design and musicianship. They are defined
-by recurrent circulation of signals through the instrument,
-which give the instrument ‘a life of its own’ and a ’stimulating uncontrollability’. Arguably, the most interesting
-musical behaviour in these instruments happens when their
-dynamic complexity is maximised, without falling into saturating feedback. It is often challenging to keep the instrument in this zone; this research looks at algorithmic ways
-to manage the behaviour of feedback loops in order to make
-feedback instruments more playable and musical; to expand
-and maintain the ‘sweet spot’. We propose a solution that
-manages gain dynamics based on measurement of complexity, using a realtime implementation of the Effort to Com-
-press algorithm. The system was evaluated with four musicians, each of whom have different variations of string-based
-feedback instruments, following an autobiographical design
-approach. Qualitative feedback was gathered, showing that
-the system was successful in modifying the behaviour of
-these instruments to allow easier access to edge transition
-zones, sometimes at the expense of losing some of the more
-compelling dynamics of the instruments. The basic efficacy
-of the system is evidenced by descriptive audio analysis.
-This paper is accompanied by a dataset of sounds collected
-during the study, and the open source software that was
-written to support the research.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Finally, we’ll be running a &lt;strong&gt;&lt;em&gt;workshop on Feedback Musicianship&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Workshop Aim: Exchange and generation of strategies, concepts and practices of feedback musicianship – building community, new musical collaborations
-Feedback purposefully utilised in performance has long been an interesting musical endeavour; however, integrating such expertise into the design and development of instruments and interactive systems, which balance autonomy and expressivity, playability and musicality remains a challenge. Examples include extended traditional instruments, modular synthesisers, feedback incorporated into acoustic resonating bodies, new algorithmic techniques for managing feedback loops, etc. The workshop will conclude with an evening concert (online informal jam session) in the form of improvisation with feedback instruments, open to all participants. Identifying the importance of musical feedback in interaction, instruments, and systems, this workshop focuses on the development of instruments for innovative interactions with feedback in music, from designs for feedback instruments themselves, to novel multi-sensory interaction with feedback incorporated into augmented instruments and systems.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You can see more details and sign up here:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://nime2020.bcu.ac.uk/feedback-musicianship/&quot;&gt;https://nime2020.bcu.ac.uk/feedback-musicianship/&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 26 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/emute-at-nime</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/emute-at-nime</guid>
-        
-        <category>emutelab</category>
-        
-        <category>nime</category>
-        
-        <category>lab report</category>
-        
-        <category>feedback</category>
-        
-        <category>paper</category>
-        
-        <category>poster</category>
-        
-        <category>workshop</category>
-        
-        <category>performance</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Sema: Live Coding With Machine Learning Workshop</title>
-        <description>&lt;p&gt;&lt;strong&gt;:::: When: June 29th - July 3rd, 3-5pm UK time. Where: Zoom ::::&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Would you like to use &lt;b&gt;machine learning as part of musical live coding&lt;/b&gt;? Would you like to create your own live coding language? We are inviting you to participate in a free workshop that will take place online in early July. With daily videos, Zoom sessions and follow-up online hangouts, we will get you up and running in using our new technologies for using AI in live coding.&lt;/p&gt;
-
-&lt;p&gt;As part of our work in the &lt;a href=&quot;http://www.mimicproject.com&quot;&gt;MIMIC project&lt;/a&gt;, we have created &lt;b&gt;Sema&lt;/b&gt;: an online system for live coding with AI in the browser. Here you can apply many of the machine learning technologies we have implemented as part of our MIMIC work, but moreover: you can design your own live coding language!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/Semascreenshot.png&quot; alt=&quot;Screenshot of Sema&quot; /&gt;
-&lt;em&gt;A screenshot of Sema. Take a look at the three videos of Sema in action below.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We believe every new live coding language results in new musical approaches, which implies that for a diversity of music we need a diversity of languages. Sema enables you to write your own language, whether it is one piece of music, an instrument, a pattern generator, or a full blown live coding language.&lt;/p&gt;
-
-&lt;p&gt;Sema will be officially launched just before the start of the workshop, so you will be one of the first users to test this new technology and design your own live coding languages for machine learning in music.&lt;/p&gt;
-
-&lt;p&gt;There is no previous experience required to participate in this Sema workshop. Although you do not need any machine learning expertise, you will benefit from beginner-level JavaScript programming skills. You don’t even have to be an experienced musician. This workshop will introduce the basic concepts of musical live coding with AI, and get people up to speed in using Sema and creating their own live coding languages. We are hoping that workshop participants will contribute in a user-study that will help us to develop the system further.&lt;/p&gt;
-
-&lt;p&gt;We will run a flipped-learning workshop where we release introductory tutorial videos each day and workshop participants study them in their own time. We then have a synchronous Zoom Q&amp;amp;A workshop session at 3pm every day.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Programme of the Workshop Week:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monday - June 29th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube videos): Introduction to Sema and the default Sema language
-3pm - Workshop (Zoom): Making music with the Sema default language + QnA
-5pm - Slack channel: Discussion
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Tuesday - June 30th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine Learning concepts. Using machine learning in Sema
-1pm - Slack channel: Discussion and work
-3pm - Workshop (Zoom): Making music with machine learning. Training a ML network + QnA
-4pm - Slack channel: Discussion
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Wednesday - July 1th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Machine learning libraries. FFT and machine learning
-1pm - Slack channel: Discussion and work
-3pm - Workshop (Zoom): Machine listening and machine learning
-4pm - Slack channel: Discussion
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursday - July 2nd&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design in Sema. How to create your own live coding language
-1pm - Slack channel: Discussion and work
-3pm - Workshop (Zoom): Making your own piece with unique language syntax
-5pm - Slack channel: Discussion
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Friday - July 3rd&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all day - Introduction (YouTube Videos): Language design for machine learning	
-1pm - Slack channel: Discussion and work
-3pm - Workshop (Zoom): Finishing your live coding language + QnA
-5pm - Showcase of projects in development (or ideas). Drinks and snack.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Additional Support the Following Week:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monday - July 6th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;5pm - Project Development (Zoom): A session where we support people completing their projects (&amp;lt;b&amp;gt;note the change to 5pm&amp;lt;/b&amp;gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Wednesday - July 8th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Friday - July 10th&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;3pm - Project Development (Zoom): A session where we support people completing their projects
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Registration:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;A sign-up and further information about the workshop: &lt;a href=&quot;https://bit.ly/30OomUo&quot;&gt;Sema Workshop Registration&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;This video demonstrates the &lt;b&gt;default language&lt;/b&gt; of Sema and some of its functionality&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7Cu2R66OTak&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In this video we have a new language, called &lt;b&gt;Rubber Duckling&lt;/b&gt;, and we demonstrate some basic rhythm functionality.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Qw4sYnTj-Ow&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This video shows the binary language called &lt;b&gt;Nibble&lt;/b&gt;. It functions by swapping bits around.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6wIgZ-Vymas&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;These videos are small examples of what can be done with Sema. It is really up to you to decide what you will do with this system.&lt;/p&gt;
-
-&lt;p&gt;For a more technical information about Sema, please refer to these articles:&lt;/p&gt;
-
-&lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (2019). An AudioWorklet-based Signal Engine for a Live Coding Language Ecosystem. In Proceedings of Web Audio Conference 2019, Norwegian University of Science and Technology (NTNU), Trondheim, Norway (Best Paper Award at Web Audio Conference 2019)
-&lt;a href=&quot;https://webaudioconf.com/_data/papers/pdf/2019/2019_40.pdf&quot;&gt;https://webaudioconf.com/_data/papers/pdf/2019/2019_40.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;C. Kiefer and T. Magnusson. Live Coding Machine Learning and Machine Listening: A Survey on the Design of Languages and Environments for Live Coding. In Proc. of the International Conference on Live Coding., Madrid, 2019.
-&lt;a href=&quot;https://iclc.toplap.org/2019/papers/paper97.pdf&quot;&gt;https://iclc.toplap.org/2019/papers/paper97.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (2020). Designing for a Pluralist and User-Friendly Live Code Language Ecosystem with Sema. 5th International Conference on Live Coding, University of Limerick, Limerick, Ireland&lt;/p&gt;
-
-&lt;p&gt;Bernardo, F., Kiefer, C., Magnusson, T. (forthcoming). A Signal Engine for a Live Code Language Ecosystem. Journal of Audio Engineering Society, Vol. 68, No. 1, October&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Please register above and we hope to see you on Zoom, from June 29th!&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;(Francisco, Chris and Thor)&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 16 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/Semaworkshop</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/Semaworkshop</guid>
-        
-        <category>emutelab</category>
-        
-        <category>workhop</category>
-        
-        <category>live coding</category>
-        
-        <category>machine learning</category>
-        
-        <category>language design</category>
-        
-        <category>summer</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Performance Lecture: David Rothenberg</title>
-        <description>&lt;p&gt;&lt;b&gt;:::: Thursday, May 7th, 4.00pm ONLINE ::::&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Performance Lecture: &lt;b&gt;The Virtual Nightingale&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Have you found that you have paid more attention to the birds and the bees during lock down?&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;To segue from International Dawn Chorus Day and continue the celebration of our soniferous cousins, we are thrilled to host a special guest from across the pond.&lt;/p&gt;
-
-&lt;p&gt;David Rothenberg, author of &lt;strong&gt;Why Birds Sing&lt;/strong&gt; and &lt;strong&gt;Nightingales in Berlin&lt;/strong&gt;, veteran performer with nature sounds near and far,
-will discuss his work with nightingales and underwater pond insects, explaining why human music can be enhanced by taking
-the sounds of the natural world seriously.&lt;/p&gt;
-
-&lt;p&gt;This event is free and open to all.  See bottom for registration details.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/95500812_644695099715434_6391060066870493184_o.jpg?_nc_cat=111&amp;amp;_nc_sid=b386c4&amp;amp;_nc_ohc=qQ8Upx15yEsAX-77h8n&amp;amp;_nc_ht=scontent-lhr8-1.xx&amp;amp;oh=bb4c10ed93adb42a950191cd1d937782&amp;amp;oe=5ED6EC87&quot; alt=&quot;rothenberg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. David Rothenberg is distinguished professor of philosophy and music at the New Jersey Institute of Technology.  He is a noted writer on themes connecting humanity, nature, and technology and music.  He is the author of Why Birds Sing (Basic Books and Penguin UK, 2005), also published in Italy, Spain, Taiwan, China, Korea, and Germany, and turned into a feature-length documentary &lt;em&gt;Why Birds Sing&lt;/em&gt; by Endemol UK for BBC4 in June, 2007.  Rothenberg is also the author of &lt;em&gt;Hand’s End: Technology and the Limits of Nature&lt;/em&gt; (California, 1993), &lt;em&gt;Thousand Mile Song&lt;/em&gt; (Basic Books, 2008),  &lt;em&gt;Survival of the Beautiful&lt;/em&gt; (Bloomsbury, 2011), Bug Music (St Martins, 2013) and &lt;em&gt;Nightingales in Berlin&lt;/em&gt; (Chicago, 2019 and Rowohlt, 2020)&lt;/p&gt;
-
-&lt;p&gt;As a musician Rothenberg records for the prestigious ECM label.  His CD &lt;em&gt;One Dark Night I Left My Silent House&lt;/em&gt;,  a duet album with pianist Marilyn Crispell, was called “une petite miracle” by Le Monde and named by The Village Voice one of the ten best CDs of 2010.  He has performed or recorded with Peter Gabriel, Scanner, Suzanne Vega, Marilyn Crispell, Pete Seeger, and Jaron Lanier, among many others, and appears on numerous CDs playing clarinets and various electronic and natural sounds.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3ZosukkjTjk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3ZosukkjTjk&quot;&gt;New York-Paris-Berlin Live Nightingale Concert performed virtually under quarantine.&lt;/a&gt; More videos  &lt;a href=&quot;https://www.youtube.com/user/whybirdssing/videos&quot;&gt; here &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This event is free and open to all.  &lt;a href=&quot;https://universityofsussex.zoom.us/meeting/register/tJIpd-qqpjgoGten8-CZjawu5JEKJNl4eG5c&quot;&gt;Register in advance for this meeting.&lt;/a&gt;
-After registering, you will receive a confirmation email containing information about joining the meeting.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;www.davidrothenberg.net&quot;&gt;www.davidrothenberg.net&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;www.nightingalesinberlin.com&quot;&gt;www.nightingalesinberlin.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/user/whybirdssing/videos&quot;&gt;www.youtube.com/user/whybirdssing/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;video-responsive&quot;&gt;
-    &lt;iframe width=&quot;840&quot; height=&quot;3000&quot; src=&quot;https://universityofsussex.zoom.us/rec/share/pv53HZzXqTJLE4nGt27_fIwFBdi9aaa81HRI86IJyE4qYivLlLMKdV2QchEvqwDZ?startTime=1588863984000&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
-        <link>http://www.emutelab.org/blog/Rothenberg</link>
-        <guid isPermaLink="true">http://www.emutelab.org/blog/Rothenberg</guid>
-        
-        <category>emutelab</category>
-        
-        <category>event</category>
-        
-        <category>practice</category>
-        
-        <category>philosophy</category>
-        
-        <category>ecoacoustics</category>
-        
-        <category>improvisation</category>
-        
-        <category>multi-species music</category>
         
         
         <category>blog</category>
