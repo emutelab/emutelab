@@ -17,4 +17,4 @@ Congratulations to Emute Lab PhD student Steve Symons, who won the £250 prize f
 
 <a href="https://www.sussex.ac.uk/research/centres/ai-research-group/">https://www.sussex.ac.uk/research/centres/ai-research-group/</a>
 
-<a href="http://www.muio.org/">http://www.muio.org/</a>
+<a href="http://entangled-instruments.xyz">http://entangled-instruments.xyz</a>
