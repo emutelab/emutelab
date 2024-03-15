@@ -15,13 +15,13 @@ Jack Armitage (from Intelligent Instruments Lab, Iceland) is partnering up with 
 
 If you’re interesting in applying for this project, read the full project description over at the BeagleBoard forum, and get in touch!
 
-https://forum.beagleboard.org/t/embedded-differentiable-logic-gate-networks-for-real-time-interactive-and-creative-applications/37768
+<a href="https://forum.beagleboard.org/t/embedded-differentiable-logic-gate-networks-for-real-time-interactive-and-creative-applications/37768">https://forum.beagleboard.org/t/embedded-differentiable-logic-gate-networks-for-real-time-interactive-and-creative-applications/37768</a>
 
 More links:
 
-https://summerofcode.withgoogle.com/
-Timeline: https://developers.google.com/open-source/gsoc/timeline
-BeagleBoard GSOC pages (including guides): https://gsoc.beagleboard.org/
-BeagleBoard Discord (with #gsoc channel): https://discord.gg/cNr5TSWZRz
+<a href="https://summerofcode.withgoogle.com/">https://summerofcode.withgoogle.com/</a>
+Timeline: <a href="https://developers.google.com/open-source/gsoc/timeline">https://developers.google.com/open-source/gsoc/timeline</a>
+BeagleBoard GSOC pages (including guides): <a href="https://gsoc.beagleboard.org/">https://gsoc.beagleboard.org/</a>
+BeagleBoard Discord (with #gsoc channel): <a href="https://discord.gg/cNr5TSWZRz">https://discord.gg/cNr5TSWZRz</a>
 
 
