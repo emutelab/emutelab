@@ -19,9 +19,12 @@ If you’re interesting in applying for this project, read the full project desc
 
 More links:
 
-<a href="https://summerofcode.withgoogle.com/">https://summerofcode.withgoogle.com/</a>
-Timeline: <a href="https://developers.google.com/open-source/gsoc/timeline">https://developers.google.com/open-source/gsoc/timeline</a>
-BeagleBoard GSOC pages (including guides): <a href="https://gsoc.beagleboard.org/">https://gsoc.beagleboard.org/</a>
+<a href="https://summerofcode.withgoogle.com/">https://summerofcode.withgoogle.com/</a><br>
+
+Timeline: <a href="https://developers.google.com/open-source/gsoc/timeline">https://developers.google.com/open-source/gsoc/timeline</a><br>
+
+BeagleBoard GSOC pages (including guides): <a href="https://gsoc.beagleboard.org/">https://gsoc.beagleboard.org/</a><br>
+
 BeagleBoard Discord (with #gsoc channel): <a href="https://discord.gg/cNr5TSWZRz">https://discord.gg/cNr5TSWZRz</a>
 
 
