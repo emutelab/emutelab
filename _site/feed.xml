@@ -5,9 +5,89 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 21 Feb 2024 10:52:10 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 10:52:10 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 15:03:37 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2024 15:03:37 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>March Lab Meeting: Strange Attractors and Livecoding Modular Synths</title>
+        <description>&lt;p&gt;On Tuesday 19th of March we have a double bill:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Max Worgan will be showing a couple of bits of musical software he has been developing around strange attractors.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chris Kiefer and Dimitris Kyriakoudis will be talking/demoing the uSEQ live coding module, some recent developments with the firmware &amp;amp; hardware, and the collaboration they are doing with Music Thing Modular to port the uSEQ firmware to their upcoming hybrid and programmable module + a new editor.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/lnfiniteMonkeys/uSEQ&quot;&gt;https://github.com/lnfiniteMonkeys/uSEQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday 19th of March
+Time: 1pm
+Location: Sussex Humanities Lab
+Zoom: https://universityofsussex.zoom.us/j/99804772625&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/lab-meeting</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting</guid>
+        
+        <category>meeting</category>
+        
+        <category>AI</category>
+        
+        <category>chaos</category>
+        
+        <category>attractors</category>
+        
+        <category>modular</category>
+        
+        <category>livecoding</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Google Summer of Code 2024 Project: Differentiable Logic Gate Networks for Real-Time Interaction</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/gsoc2024.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jack Armitage (from Intelligent Instruments Lab, Iceland) is partnering up with Chris Kiefer to explore real-time embedded AI again, only this time based on the work of Stanford’s Felix Peterson on Differentiable Logic Gate Networks.&lt;/p&gt;
+
+&lt;p&gt;If you’re interesting in applying for this project, read the full project description over at the BeagleBoard forum, and get in touch!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forum.beagleboard.org/t/embedded-differentiable-logic-gate-networks-for-real-time-interactive-and-creative-applications/37768&quot;&gt;https://forum.beagleboard.org/t/embedded-differentiable-logic-gate-networks-for-real-time-interactive-and-creative-applications/37768&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://summerofcode.withgoogle.com/&quot;&gt;https://summerofcode.withgoogle.com/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Timeline: &lt;a href=&quot;https://developers.google.com/open-source/gsoc/timeline&quot;&gt;https://developers.google.com/open-source/gsoc/timeline&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;BeagleBoard GSOC pages (including guides): &lt;a href=&quot;https://gsoc.beagleboard.org/&quot;&gt;https://gsoc.beagleboard.org/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;BeagleBoard Discord (with #gsoc channel): &lt;a href=&quot;https://discord.gg/cNr5TSWZRz&quot;&gt;https://discord.gg/cNr5TSWZRz&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/difflog-gsoc</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/difflog-gsoc</guid>
+        
+        <category>meeting</category>
+        
+        <category>gsoc</category>
+        
+        <category>AI</category>
+        
+        <category>differentiable logic</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Lab Meeting with Victor Shepardson</title>
@@ -48,7 +128,7 @@ Zoom: This is an open list so please email me for the Zoom link if you wish to j
 
 &lt;p&gt;&lt;a href=&quot;https://www.sussex.ac.uk/research/centres/ai-research-group/&quot;&gt;https://www.sussex.ac.uk/research/centres/ai-research-group/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.muio.org/&quot;&gt;http://www.muio.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://entangled-instruments.xyz&quot;&gt;http://entangled-instruments.xyz&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/demo-prize</link>
@@ -533,93 +613,6 @@ Steve’s presentation for the afternoon panel
         <category>label</category>
         
         <category>recording</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>PhD scholarship in Iceland</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/iilabphd3.jpg&quot; alt=&quot;AIMC2023&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;phd-scholarship-in-the-intelligent-instruments-lab&quot;&gt;PHD Scholarship in the Intelligent Instruments Lab&lt;/h3&gt;
-
-&lt;p&gt;Our sister lab in Iceland is advertising. See below:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;How can we use sonic instruments to explore complex data?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In today’s world we are faced with large sets of complex data, ranging from the climate to literature. With data science, machine learning and new technologies of display, we are gaining new insights into the complex nature of the world and culture. Scientific practice used to be very physically embodied, but today scientists primarily work with abstract data, and the potential of their bodies for gaining intuition remains untapped. What if we can play our data in an embodied way? Are you interested in contributing to this field by designing haptic sonic interfaces?&lt;/p&gt;
-
-&lt;p&gt;If this sounds like something for you, please continue reading!&lt;/p&gt;
-
-&lt;p&gt;We at the Intelligent Instruments Lab are now seeking applications for our third ERC-funded PhD scholarship. We would love to receive applications from people like you, motivated to conduct research on the use of sonic instruments to aid with the exploration, analysis and understanding of complex data. Your project will be within an area of your interest, for example in the digital humanities, data science, social sciences, cyberfeminism, climate science, geophysics, music, computer science, artificial intelligence, human-computer interaction or other fields.&lt;/p&gt;
-
-&lt;p&gt;You would be working in our Intelligent Instruments Lab in Reykjavik, together with other PhD students, postdocs, technicians, admin and the project leader. Our work is highly interdisciplinary but can be broadly placed within music, the humanities and computer science (HCI and AI).&lt;/p&gt;
-
-&lt;p&gt;Our lab is a great place to work and we are eager to maintain a diverse, fun, inclusive and welcoming workplace where all backgrounds, skills and knowledges are of value. If you think you would enjoy working with us, please read the advert and/or get in touch with us for further information.&lt;/p&gt;
-
-&lt;p&gt;Application deadline is April 17th 2023. The position is for three years and is set to start on September 1st, 2023.&lt;/p&gt;
-
-&lt;p&gt;Director of Studies: Prof. Thor Magnusson.&lt;/p&gt;
-
-&lt;p&gt;Further information on the &lt;strong&gt;Iceland University of Arts website&lt;/strong&gt;  &lt;a href=&quot;https://www.lhi.is/en/intent-phd-scholarship&quot;&gt;https://www.lhi.is/en/intent-phd-scholarship&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We are also interested in hearing from people who might want to do a postdoc stint in this area!&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/PhDScholarship</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/PhDScholarship</guid>
-        
-        <category>ii lab</category>
-        
-        <category>AI</category>
-        
-        <category>machine learning</category>
-        
-        <category>digital humanities</category>
-        
-        <category>Reykjavik</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>AIMC 2023</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/logo-dark.png&quot; alt=&quot;AIMC2023&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;aimc-2023&quot;&gt;AIMC 2023&lt;/h3&gt;
-
-&lt;p&gt;31 August - 1 September @ University of Sussex, Brighton, UK&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;International Conference on AI and Music Creativity&lt;/strong&gt; is an annual conference bringing together a community of people working on the application of AI in musical practice, with topics ranging from performance systems, computational creativity,  machine listening, robotics, sonification, and more.&lt;/p&gt;
-
-&lt;h3 id=&quot;conference-theme&quot;&gt;&lt;strong&gt;Conference Theme&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;The theme of AIMC 2023 is &lt;strong&gt;Intelligent Performance Systems&lt;/strong&gt;, where we are interested in how AI is applied in real-time artistic performance. This includes physical musical instruments, music theatre, software, as well as interactive installations. Our &lt;strong&gt;programme&lt;/strong&gt; includes performances, installations, demo sessions in addition to academic papers. We seek to be hands-on, performative, experimental and collaborative, opening up opportunities for collaboration and co-playing.&lt;/p&gt;
-
-&lt;h3 id=&quot;organisers&quot;&gt;&lt;strong&gt;Organisers&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;This conference will be held at the University of Sussex. We seek to foster a creative and friendly atmosphere in the sunny, vibrant city of Brighton, UK. It is co-hosted between two research labs active in music and AI research: the &lt;strong&gt;Experimental Music Technologies Lab&lt;/strong&gt; (&lt;a href=&quot;http://www.emutelab.org/&quot;&gt;www.emutelab.org&lt;/a&gt;) and the &lt;strong&gt;Intelligent Instruments Lab&lt;/strong&gt; (&lt;a href=&quot;http://www.iil.is/&quot;&gt;www.iil.is&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Main deadlines are in March 2023, but please find further information about indicative topics, conference theme and submission information on the &lt;strong&gt;Conference website:&lt;/strong&gt;  &lt;a href=&quot;https://aimc2023.pubpub.org/cfp&quot;&gt;https://aimc2023.pubpub.org&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/AIMC2023</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/AIMC2023</guid>
-        
-        <category>emutelab</category>
-        
-        <category>AI</category>
-        
-        <category>machine learning</category>
-        
-        <category>performance</category>
-        
-        <category>conference</category>
         
         
         <category>blog</category>
