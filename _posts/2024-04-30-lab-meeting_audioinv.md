@@ -19,7 +19,7 @@ Audio Inventions are located in the Sussex Innovation Centre on campus, and they
 All welcome, from across campus.
 
 
-<img href="https://www.audio-inventions.co.uk/_data/site/196/folder/6/clarinetExploded.jpg">
+<img src="https://www.audio-inventions.co.uk/_data/site/196/folder/6/clarinetExploded.jpg">
 
 <br>
 
