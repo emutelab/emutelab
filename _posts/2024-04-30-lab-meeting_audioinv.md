@@ -22,6 +22,11 @@ All welcome, from across campus.
 <img src="https://www.audio-inventions.co.uk/_data/site/196/folder/6/clarinetExploded.jpg">
 
 <br>
+<i>Until now there hasn’t been an effective way to silence a woodwind instrument because the sound comes out of any open finger holes as well as the bell, so trumpet-style mutes don’t work.
+
+Freedom Player™ is an electronic practice mute for wind instruments that uses patented technology to ‘blow’ the instrument for you with a high-tech stimulus that we call Digital Breath™.
+</i>
+<br>
 
 Date: Tuesday 30th April
 
