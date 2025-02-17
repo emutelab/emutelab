@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brighton 2014 Modular Meet"
+title: "Brighton Modular Meet"
 modified:
 categories: blog
 excerpt:

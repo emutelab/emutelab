@@ -5,9 +5,77 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Mar 2024 15:08:10 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2024 15:08:10 +0000</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Mon, 17 Feb 2025 14:21:10 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Feb 2025 14:21:10 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>May Meeting: Cell Oscillations and Entangled Instruments</title>
+        <description>&lt;p&gt;This month we will have presentations from Shu Yang and Steve Symons.&lt;/p&gt;
+
+&lt;p&gt;Shu will presenting audio-visual programmes (Max and Touch Designer) that can be used to simulate vascular cell oscillations based on its protein’s biochemical structures (AlphaFold 3, FPbase, and RCSB PDB).  The attached ‘cell’ image is the biomaterial he has created for a soft robotic system that simulates the cell using water, oil, gelatine and food dye.&lt;/p&gt;
+
+&lt;p&gt;Steve will be presenting a proposal to use diffractive analysis to make sense the messy data that emerges when we interrogate multi-player instruments, such as the entangled instrument the Stickatron (see second attached image), from a post-human perspective.&lt;/p&gt;
+
+&lt;p&gt;Everyone is welcome - we look forward to seeing you.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 May 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/lab-meeting</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting</guid>
+        
+        <category>meeting</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>April Meeting: Audio Inventions Presentation and Demo</title>
+        <description>&lt;p&gt;For out April meeting, we have special guests Paul and Brian from Audio Inventions, demonstrating their &lt;i&gt;Freedom Player&lt;/i&gt; system for woodwind instruments.
+&lt;br /&gt;
+&lt;a href=&quot;https://www.audio-inventions.co.uk/6/Home&quot;&gt;https://www.audio-inventions.co.uk/6/Home&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Audio Inventions are located in the Sussex Innovation Centre on campus, and they are doing some fascinating work in instrument acoustics, machine listening and embedded sound synthesis.  They will be talking about their system and showing a demo.&lt;/p&gt;
+
+&lt;p&gt;All welcome, from across campus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.audio-inventions.co.uk/_data/site/196/folder/6/clarinetExploded.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;i&gt;Until now there hasn’t been an effective way to silence a woodwind instrument because the sound comes out of any open finger holes as well as the bell, so trumpet-style mutes don’t work.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Freedom Player™ is an electronic practice mute for wind instruments that uses patented technology to ‘blow’ the instrument for you with a high-tech stimulus that we call Digital Breath™.
+&amp;lt;/i&amp;gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday 30th April&lt;/p&gt;
+
+&lt;p&gt;Time: 1pm&lt;/p&gt;
+
+&lt;p&gt;Location: Sussex Humanities Lab&lt;/p&gt;
+
+&lt;p&gt;Zoom: https://universityofsussex.zoom.us/j/94541042594&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Apr 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/lab-meeting_audioinv-copy</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting_audioinv-copy</guid>
+        
+        <category>meeting</category>
+        
+        <category>woodwind</category>
+        
+        <category>industry</category>
+        
+        <category>machine listening</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>March Lab Meeting: Strange Attractors and Livecoding Modular Synths</title>
@@ -31,8 +99,8 @@ Zoom: https://universityofsussex.zoom.us/j/99804772625&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/lab-meeting</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting</guid>
+        <link>http://localhost:4000/blog/lab-meeting-strange-attractors</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting-strange-attractors</guid>
         
         <category>meeting</category>
         
@@ -315,304 +383,6 @@ Steve’s presentation for the afternoon panel
         <category>eurorack</category>
         
         <category>livecoding</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Post-AIMC 2023 Reflection</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://aimc2023.pubpub.org&quot;&gt;&lt;img src=&quot;/img/aimclogo.png&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;reflecting-on-aimc-2023&quot;&gt;Reflecting on AIMC 2023&lt;/h3&gt;
-
-&lt;p&gt;In September 2023 two research labs focussing on musical instruments and live performance came together to run the &lt;strong&gt;International Conference on Artificial Intelligence and Music Creativity&lt;/strong&gt;, or &lt;a href=&quot;https://aimc2023.pubpub.org&quot;&gt;AIMC 2023&lt;/a&gt;. After our application to the &lt;a href=&quot;https://aimusiccreativity.org&quot;&gt;AI and Music Creativity&lt;/a&gt; board, it was decided that we would run the 2023 conference at the University of Sussex with the theme of “Intelligent Performance Systems”.&lt;/p&gt;
-
-&lt;p&gt;The two labs organising the conference were:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.emutelab.org&quot;&gt;Experimental Music Technologies Lab&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.iil.is&quot;&gt;Intelligent Instruments Lab&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The conference had 75 submissions from all over the world across diverse tracks (papers, demos, doctoral consortium and performances). We also had 14 Alt-AIMC submissions, but the idea with the “Alt” is to allow for late breaking, unfinished or controversial work. Those were judged by the jury and not double blind peer-reviewed like the academic papers. 85 people registered to the conference and in addition to the Sussex and Icelandic teams, we were around 100 people participating.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;conference-format-and-proceedings&quot;&gt;Conference format and Proceedings&lt;/h3&gt;
-
-&lt;p&gt;The conference had two keynotes, paper sessions (5 min lightning talks, followed by poster sessions), performances, workshops, demos and an algorave.&lt;/p&gt;
-
-&lt;p&gt;Check the website here: &lt;a href=&quot;https://aimc2023.pubpub.org&quot;&gt;AIMC 2023&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The AIMC 2023 proceedings can be found &lt;a href=&quot;http://www.aimc2023.org/proceedings&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;streamed-video-recordings-of-all-sessions&quot;&gt;Streamed Video Recordings of all sessions&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Keynote 1 - Dadabots&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;CJ gave a keynote on neural synthesis and the training of audio diffusion models.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hsVMs2k0vck?si=-GNOxVGSZLhjmJh_&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Keynote 2 - Elaine Chew&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Elaine Chew, who runs the &lt;a href=&quot;https://cosmos.isd.kcl.ac.uk&quot;&gt;COSMOS project&lt;/a&gt; presented her past work in the field of computational analysis of musical creativity.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Jtb6tYH4XaE?si=jLFrDTecpTi6Scjq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Elaine wrote a &lt;a href=&quot;https://cosmos.isd.kcl.ac.uk/?p=4286&quot;&gt;blog post&lt;/a&gt; about her participation at AIMC.&lt;/p&gt;
-
-&lt;p&gt;Information on both keynote speakers can be found &lt;a href=&quot;https://aimc2023.pubpub.org/keynotes&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Industry Panel&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.olliebown.com&quot;&gt;Ollie Bown&lt;/a&gt; organised an industry panel with &lt;a href=&quot;https://dadabots.com&quot;&gt;CJ of Dadabots&lt;/a&gt;, &lt;a href=&quot;https://samim.io&quot;&gt;Samim Winiger&lt;/a&gt;, &lt;a href=&quot;https://www.kcl.ac.uk/people/elaine-chew&quot;&gt;Elaine Chew&lt;/a&gt;, and &lt;a href=&quot;https://www.ryangroves.com&quot;&gt;Ryan Groves&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Dat1P9oa5QE?si=edP3KjZbLyrrwcKM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Paper session 1 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xmRRu5yfCF8?si=re1Pf-iRelwZMtJt&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Bela-IREE: An Approach to Embedded Machine Learning for Real-Time Music Interaction” Ezra Pierce, Victor Shepardson, Jack Armitage, Thor Magnusson&lt;/p&gt;
-
-&lt;p&gt;“[neuralnet]: A Pure Data External for the Creation of Neural Networks Written in Pure C” Alexandros Drymonitis&lt;/p&gt;
-
-&lt;p&gt;“NeuralMidiFx: A Wrapper Template for Deploying Neural Networks as VST3 Plugins” Behzad Haki, Julian Lenz, Sergi Jorda&lt;/p&gt;
-
-&lt;p&gt;“Exploring Latent Spaces of Tonal Music using Variational Autoencoders” Nádia Carvalho, Gilberto Bernardes de Almeida&lt;/p&gt;
-
-&lt;p&gt;“Emotional Machines” Jorge Forero, Mónica Mendes, Gilberto Bernardes&lt;/p&gt;
-
-&lt;p&gt;“Finetuning Rolypoly~ 2.0: an expressive drum machine that adapts with every performance” Grigore Burloiu&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“AI in live coding environments: Pandora’s Dream” Celeste Betancur Gutierrez&lt;/p&gt;
-
-&lt;p&gt;“Latent Space Explorer” Alexander Lunt, Sebastian Trump&lt;/p&gt;
-
-&lt;p&gt;“Investigation of Live Coding Using a Combination of ChatGPT and Fine-Tuned GPT-3” Tomoki Okuda and  Kazuhiro Jo&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Paper session 2 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zFYlFZh1sw0?si=qTSbjzw4NqT-8-yz&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“The Phenomenology of Deconstructivist Aesthetics in Music: An Autoethnography of Errors, Erasures, Permutations, Discontinuities, Paradoxes and Artificial Intelligences” Philon Nguyen, Eldad Tsabary&lt;/p&gt;
-
-&lt;p&gt;“Music AI’s Potential Impact: Scoping the terms of the debate about value” Oliver Bown&lt;/p&gt;
-
-&lt;p&gt;“Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI” Kelsey Cotton, Kıvanç Tatar&lt;/p&gt;
-
-&lt;p&gt;“YouTube Mirror: An Interactive Audiovisual Installation based on Cross-Modal Generative Modeling” Sihwa Park&lt;/p&gt;
-
-&lt;p&gt;“Risks and Opportunities from Artificial Creativity” Roisin Loughran&lt;/p&gt;
-
-&lt;p&gt;“Extensible Embodied Knowledge: Bridging Performance Practice and Intelligent Performance System Design” Lucy Strauss, Matthew Yee-King&lt;/p&gt;
-
-&lt;p&gt;“The A in AIMC” Thor Magnusson&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Are we solving the wrong problems - and doing harm in the process?” Anna-Kaisa Kaila, Andre Holzapfel, Bob L. T. Sturm&lt;/p&gt;
-
-&lt;p&gt;“Beyond mutation: how can we acknowledge symbiogenesis in evolutionary music coding?” Matthias Jung&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Paper session 3 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eTHkk1eT7I4?si=bf8pul0sUzFE9iI8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Musical and Meta-Musical Conversations” Oded Ben-Tal, David Dolan&lt;/p&gt;
-
-&lt;p&gt;“Silicon for Orchestra and Artificial Intelligence: Three Strategies for Incorporating Artificial Intelligence into the Compositional Process of Orchestral Music” Robert Laidlow&lt;/p&gt;
-
-&lt;p&gt;“Human-AI Musicking: A Framework for Designing AI for Music Co-creativity” Craig Vear, Steve Benford, Juan Martinez Avila, Solomiya Moroz&lt;/p&gt;
-
-&lt;p&gt;“Revisiting Reynolds - Autonomous Agents for Spatial Audiovisual Composition and Performances” Damian Dziwis&lt;/p&gt;
-
-&lt;p&gt;“Liveness and machine listening in musical live coding: A conceptual framework for designing agent-based systems” Georgios Diapoulis&lt;/p&gt;
-
-&lt;p&gt;“Virtual AI Jam: AI-Driven Virtual Musicians for Human-in-the-Loop Musical Improvisation” Torin Hopkins, Alvin Jude, Greg Phillips, Ellen Do&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Introducing the Caulsio: using causal inference to influence collaboration in a shared music making environment” Steve Symons&lt;/p&gt;
-
-&lt;p&gt;“Accessible Co-Creativity through Language and Voice Input” Prateek Verma, Constantin Basica, Patricia Alessandrini, Alexandru Berceanu&lt;/p&gt;
-
-&lt;p&gt;“Intimate Musical Collaboration with a Probabilistic Model” Karl Johannsson&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Paper session 4 (incl. Alt-AIMC and Demos)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1oOr3EnMn_o?si=jOC-hTef1zqAzg5x&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Main Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Sequential Pitch Distributions for Raga Detection” VISHWAAS NARASINH, SENTHIL RAJA G&lt;/p&gt;
-
-&lt;p&gt;“The Ai Music Generation Challenge 2022: Summary and Results” Bob L. Sturm&lt;/p&gt;
-
-&lt;p&gt;“Statistical evaluation of abc-formatted music at the levels of items and corpora” Laura Cros Vila, Bob L. T. Sturm&lt;/p&gt;
-
-&lt;p&gt;“Parsing musical structure to enable meaningful variations” Maziar Kanani, Seán O’Leary, James McDermott&lt;/p&gt;
-
-&lt;p&gt;“Deep Learning with Audio: An Explorative Syllabus for Music Composition and Production” Koray Tahiroglu, Shenran Wang, Eduard Mihai Tampu, Jackie Lin&lt;/p&gt;
-
-&lt;p&gt;“Are words enough? On the semantic conditioning of affective music generation.” Jorge Forero, Gilberto Bernardes, Mónica Mendes&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alt-AIMC Papers/Posters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“Closing the Loop: Enabling User Feedback and Testing in Symbolic Music Generation through a Python Framework and Ableton Live Integration” Rui Guo&lt;/p&gt;
-
-&lt;p&gt;“Introductory Studies on Raga Multi-track Music Generation of Indian classical music using AI” Sreekanth Gopi, Femi William&lt;/p&gt;
-
-&lt;p&gt;“Building a Nature Soundscape Generator for the Post-Biodiversity Future” Avery Bick&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Closing Session&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thor Magnusson and Chris Kiefer reflecting upon the conference and Oded Ben-Tal introduces AIMC 2024 in Oxford.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yC1PvuW2EWQ?si=hYqFBFNyP-qKpCEg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Concert 1 in ACCA&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EZEnqwB1b2w?si=_vZFH1DRMLKCiffi&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Odd Couple&lt;/em&gt;, Oded Ben-Tal and David Dolan, piano and computer.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Organic Algorithmic Composition&lt;/em&gt;, Gyuchul Moon.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Quantum Fantasy&lt;/em&gt;, Jeff Morris. For Conductor and Computer.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;AI&lt;/em&gt;, Franziska Schroeder and Federico Rueben. Saxophone and live coding.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Concert 2 in ACCA&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xpN5Bxvkq08?si=WMbaQJczMJ_u1tez&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;One, Two, Many&lt;/em&gt;, Oded Ben-Tal. For two flutes and computer. Rowland Sutherland on flute 1.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;iː ɡoʊ weɪ&lt;/em&gt;, by Jonathan Reus. For Computer and Voice.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Notochord Arcs and scrambled Signals&lt;/em&gt;, Victor Shepardson and Nicola Privato. For two computers and human operators.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;SCAMP Singularity&lt;/em&gt;, Henrique Portovedo. Augmented Saxophone and Computer.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The historically Informed AI: Johann Sperger through Time and Bass, for Contrabass, Viola, Magnetic Discs and Computer. Based on Sonata for Contrabass and Viola by Johann Matthias Sperger (1777)&lt;/em&gt;. Darija Andzakovic , Natalia Duarte, and Nicola Privato.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Algorave in Brighton&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d0RMUqcbhmQ?si=mwIWSFH21HQFXtjQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Uncanny&lt;/em&gt;, Begüm Çelik and Tuğrul Veli Şalcı&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Cartographic&lt;/em&gt;, Tasos Asonitis&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;James GM (Live) - Machine Learning And Audio-Visual Performance In Unreal Engine 5&lt;/em&gt;, James Gibbons-MacGregor&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;drum.code&lt;/em&gt;, Timo Hoogland&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Pandora’s Dream&lt;/em&gt;, Celeste Betancur Gutierrez&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Live Coding with an Affective Autonomous Agent in TidalCycles- Performance&lt;/em&gt;, Liz Wilson&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Gagnavera&lt;/em&gt;, Jack Armitage&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 Sep 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/postAIMC2023</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/postAIMC2023</guid>
-        
-        <category>emute</category>
-        
-        <category>ii lab</category>
-        
-        <category>intelligent</category>
-        
-        <category>AI</category>
-        
-        <category>creativeAI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Release on Emute: Live at the Meeting House</title>
-        <description>&lt;p&gt;Full details on the &lt;a href=&quot;/label/fmn_liveathemeetinghouse&quot;&gt;release page&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&quot;/label/fmn_liveathemeetinghouse&quot;&gt;&lt;img src=&quot;/img/FMN_LATMH_flyer_small.png&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;
-
-
-&lt;/p&gt;
-</description>
-        <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/FMN_Meeting-House</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/FMN_Meeting-House</guid>
-        
-        <category>feedback</category>
-        
-        <category>emute</category>
-        
-        <category>label</category>
-        
-        <category>recording</category>
         
         
         <category>blog</category>
