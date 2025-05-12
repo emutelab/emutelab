@@ -5,9 +5,35 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Feb 2025 14:21:10 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Feb 2025 14:21:10 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Mar 2025 09:31:03 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Mar 2025 09:31:03 +0000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Emute Lab Instruments @ London Synth and Pedal Expo</title>
+        <description>&lt;p&gt;Dimitris and Chris were presenting and London Synth and Pedal Expo 2025.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/k5juqLq37rU?si=9tk_5_AWRJmev3LD&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/G8lr-LPybgM?si=wPBs3c4JTH-EyVJV&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/lspxpo</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lspxpo</guid>
+        
+        <category>eli</category>
+        
+        <category>useq</category>
+        
+        <category>modular</category>
+        
+        <category>trade show</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>May Meeting: Cell Oscillations and Entangled Instruments</title>
@@ -21,8 +47,8 @@
 
 </description>
         <pubDate>Wed, 22 May 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/lab-meeting</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting</guid>
+        <link>http://localhost:4000/blog/lab-meeting-copy</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lab-meeting-copy</guid>
         
         <category>meeting</category>
         
@@ -349,40 +375,6 @@ Steve’s presentation for the afternoon panel
         <category>email</category>
         
         <category>mailing list</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab @ Machina Bristronica</title>
-        <description>&lt;p&gt;Emute Lab are at Machina Bristronica - Chris and Dimitris are showing the new uSEQ livecoding module, and Steve Symons is showing his system for interfacing eurorack with wireless gestural controllers.&lt;/p&gt;
-
-&lt;p&gt;Links:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/lnfiniteMonkeys/uSEQ&quot;&gt;https://github.com/lnfiniteMonkeys/uSEQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.muio.org/&quot;&gt;http://www.muio.org/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/bristronica.webp&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/1.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/2.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/3.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/4.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/5.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/6.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/7.jpg&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/bristronica/8.jpg&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 30 Sep 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/Bristronica</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Bristronica</guid>
-        
-        <category>eurorack</category>
-        
-        <category>livecoding</category>
         
         
         <category>blog</category>
