@@ -14,7 +14,7 @@ date: 2025-12-30
 
 Are you interested in creating <b>chaotic instruments</b> for exploration and fun in Max? We are inviting you to participate in a free workshop that will take place in Janurary 2026. The workshop will introduce the <a href="https://github.com/MaxWorgan/StrangePulseToolkit">Strange Pulse Toolkit</a> - a package for the <a href="https://cycling74.com/products/max">Max</a> software environment, which explores the rhythmical potential of <i>Strange Attractors</i> - simple mathematical models that exhibit chaotic behaviour.
 
-![Screenshot of SPT](/img/sptscreenshot.png)
+![Screenshot of SPT](/img/spt-screenshot.png)
 *A screenshot of the Strange Pulse Toolkit *
 
 The Strange Pulse Toolkit provides a suite of tools to enable the creation of instruments that embrace the chaotic nature of strange attractors. Rather than simply using a chaotic system as a <i>random</i> modulator in an otherwise predictable system, the SPT encourages the embedding of chaos into the very  core of the instrument, exchanging absolute control for surprise and unpredictability.
