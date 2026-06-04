@@ -5,9 +5,104 @@
     <description>A Music Informatics and Performance Technologies Lab based in the School of Media, Film and Music at the University of Sussex</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 28 Mar 2025 09:31:03 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 09:31:03 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 11:11:05 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:11:05 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Lunchtime Concert</title>
+        <description>&lt;p&gt;Or should this be a ‘lunchNIME’ concert?  We present a line up of experimental music acts, all of whom will be playing similar sets at this years &lt;a href=&quot;https://nime2026.org/&quot;&gt;NIME&lt;/a&gt; conference in London, later in June.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The line up:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Noise Peddler&lt;/em&gt;&lt;/strong&gt;
+A symmetrical duo of no-input pedalboards&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bunty x Furrowed&lt;/em&gt;&lt;/strong&gt;
+Record cutting / vocals  / FX&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Betty Accorsi &amp;amp; Chris Kiefer&lt;/em&gt;&lt;/strong&gt;
+AI Augmented Sax and Feedback Strings&lt;/p&gt;
+
+&lt;p&gt;Weds June 10th @ The Meeting House&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Media links:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.noisepeddler.com/&quot;&gt;https://www.noisepeddler.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bettyaccorsi.com/&quot;&gt;https://www.bettyaccorsi.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/buntylooping&quot;&gt;https://www.instagram.com/buntylooping&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://furrowedsound.co.uk/&quot;&gt;https://furrowedsound.co.uk/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://luuma.net/&quot;&gt;https://luuma.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://Instagram.com/furrowedsound&quot;&gt;https://Instagram.com/furrowedsound&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://musicallyembodiedml.github.io/&quot;&gt;https://musicallyembodiedml.github.io/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Jun 2026 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/lunchnime</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lunchnime</guid>
+        
+        <category>nime</category>
+        
+        <category>concert</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Strange Pulse Toolkit: Building Chaotic Instruments in Max Workshop</title>
+        <description>&lt;p&gt;&lt;strong&gt;:::: When: Jan 19th 4-6:00pm UK time (GMT). Where: Zoom ::::&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Are you interested in creating &lt;b&gt;chaotic instruments&lt;/b&gt; for exploration and fun in Max? We are inviting you to participate in a free workshop that will take place in Janurary 2026. The workshop will introduce the &lt;a href=&quot;https://github.com/MaxWorgan/StrangePulseToolkit&quot;&gt;Strange Pulse Toolkit&lt;/a&gt; - a package for the &lt;a href=&quot;https://cycling74.com/products/max&quot;&gt;Max&lt;/a&gt; software environment, which explores the rhythmical potential of &lt;i&gt;Strange Attractors&lt;/i&gt; - simple mathematical models that exhibit chaotic behaviour.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/spt-screenshot.png&quot; alt=&quot;Screenshot of SPT&quot; /&gt;
+*A screenshot of the Strange Pulse Toolkit *&lt;/p&gt;
+
+&lt;p&gt;The Strange Pulse Toolkit provides a suite of tools to enable the creation of instruments that embrace the chaotic nature of strange attractors. Rather than simply using a chaotic system as a &lt;i&gt;random&lt;/i&gt; modulator in an otherwise predictable system, the SPT encourages the embedding of chaos into the very  core of the instrument, exchanging absolute control for surprise and unpredictability.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The only requirements are some experience using Max, and a working installation of Max (ideally version 9, although this is not required). This workshop will be conducted over Zoom, so the ability to join the zoom call is also required.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;To sign-up and for further information about the workshop: &lt;a href=&quot;https://universityofsussex.eu.qualtrics.com/jfe/form/SV_dniKILyw7C4W7kO&quot;&gt;SPT Workshop Registration&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This video demonstrates a simple demo written with the SPT:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FF232wthxN0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;For a more technical information about the SPT, please refer to this article:&lt;/p&gt;
+
+&lt;p&gt;Worgan, M. (2025). The Strange Pulse Toolkit. Proceedings of the 22nd Sound and Music Computing Conference (SMC2025), Graz, July 2025, 283–289. https://doi.org/10.5281/zenodo.15837615&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Please register above and we hope to see you on Zoom on Jan 19th!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Max&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/SPT-workshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/SPT-workshop</guid>
+        
+        <category>emutelab</category>
+        
+        <category>workhop</category>
+        
+        <category>max</category>
+        
+        <category>chaos</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Emute Lab Instruments @ London Synth and Pedal Expo</title>
@@ -29,6 +124,31 @@
         <category>modular</category>
         
         <category>trade show</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Emute Lab Meeting March: Live Coding</title>
+        <description>&lt;p&gt;Emute Lab is meeting in March with presentations from Dimitris Kyriakoudis and Aydin Kuru focusing on the practice of live coding.&lt;/p&gt;
+
+&lt;p&gt;Dimitris will be presenting the recent developments on the Eurorack live coding module that him and Chris Kiefer have been working on, specifically around integrations with the code editor and doing dynamic visualisations.&lt;/p&gt;
+
+&lt;p&gt;Aydin will be presenting his ongoing experimentations regarding the role and functions of typing in the context of live coding through a demo performance exhibiting the gesture of typing as a sonic phenomenon.&lt;/p&gt;
+
+&lt;p&gt;Everyone is welcome at this meeting, looking forward to seeing you.&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday, March 11th
+Time: 4pm
+Location: Room 76 (back of Falmer Bar)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/meetingmarch.2025</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meetingmarch.2025</guid>
+        
+        <category>emutelab</category>
         
         
         <category>blog</category>
@@ -231,150 +351,6 @@ Zoom: This is an open list so please email me for the Zoom link if you wish to j
         <category>sussex AI</category>
         
         <category>demo</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab Research Fellow Post</title>
-        <description>&lt;p&gt;There is a new Research Fellow post, working with Chris Kiefer on his new AHRC ‘Musically Embodied Machine Learning’ project (more info on this later…)&lt;/p&gt;
-
-&lt;p&gt;The info for the post is here:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://jobs.sussex.ac.uk/job/d9c1cb82-45cd-49f2-8642-0d8b49188e33&quot;&gt;https://jobs.sussex.ac.uk/job/d9c1cb82-45cd-49f2-8642-0d8b49188e33&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This position is for a post-doctoral researcher on the AHRC funded project Musically Embodied Machine Learning (MEML), within the Department of Music.  The project is an investigation into the musically expressive potential of machine learning when embodied within physical musical instruments.&lt;/p&gt;
-
-&lt;p&gt;It proposes &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tuneable ML&lt;/code&gt;, an approach to exploring the musicality of ML models, when they can be adjusted, personalised and remade, using a musical instrument as the interface. The project asks how instruments can be designed to make effective and musical use of embedded ML processes, and questions the implications for instrument designers and musicians when tunable ML processes are a fundamental driver of an instrument’s musical feel and musical behaviour.&lt;/p&gt;
-
-&lt;p&gt;The role will encompass co-designing new musical instruments with practicing musicians, and evaluating the instruments through their experiences.   The project will offer opportunities for developing skills in creative artificial intelligence, musical instrument design (hardware and software) and participatory research methods.  There will be opportunities for publication, industry collaboration, conference and trade show attendance, and development and release of open source software and hardware.&lt;/p&gt;
-
-&lt;p&gt;The post is for 18 months, 0.5fte, and the work will be conducted on campus in Brighton. The candidate will become a member of the Experimental Music Technologies Lab, which represents a diverse group of researchers and practicing musicians at University of Sussex.&lt;/p&gt;
-
-&lt;p&gt;Please contact  Dr Chris Kiefer, c.kiefer@sussex.ac.uk for informal enquiries.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/MEML-PDRA</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/MEML-PDRA</guid>
-        
-        <category>MEML</category>
-        
-        <category>jobs</category>
-        
-        <category>research fellow</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Emute Lab @ CHIME 2023 Workshop</title>
-        <description>&lt;p&gt;Emute Lab members Steve Symons, Dimitris Kyriakoudis and Chris Kiefer presented their work at the &lt;a href=&quot;https://www.chime.ac.uk/chime-annual-workshop&quot;&gt;CHIME annual workshop&lt;/a&gt; in December, &lt;i&gt;‘a one-day research event for sharing work in the area of music and human-computer interaction, with a particular emphasis on participative hands-on demos’&lt;/i&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://entangled-instruments.xyz/wp-content/uploads/2023/07/playingStickatron.png&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Steve presented his work on entangled instruments &lt;a href=&quot;https://entangled-instruments.xyz&quot;&gt;https://entangled-instruments.xyz/&lt;/a&gt;, and also took part in the afternoon panel session.&lt;/p&gt;
-
-&lt;div id=&quot;pdfembed0&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/CHIMEAbstractSymons.pdf&quot;, &quot;#pdfembed0&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Slides:&lt;/p&gt;
-
-&lt;div id=&quot;pdfembed1&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/sharedOrEntangled.pdf&quot;, &quot;#pdfembed1&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dimitris presented his work on his livecoding instrument Timelines.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/lnfiniteMonkeys/TimeLines-hs&quot;&gt;https://github.com/lnfiniteMonkeys/TimeLines-hs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- &lt;a href=&quot;https://www.chime.ac.uk/s/CHIME-Abstract-Kyriakoudis.pdf&quot;&gt;https://www.chime.ac.uk/s/CHIME-Abstract-Kyriakoudis.pdf&lt;/a&gt; --&gt;&lt;/p&gt;
-
-&lt;div id=&quot;pdfembed2&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/CHIMEAbstractKyriakoudis.pdf&quot;, &quot;#pdfembed2&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
-
-&lt;p&gt;Slides:&lt;/p&gt;
-
-&lt;div id=&quot;pdfembed3&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/DK_CHIME2023.pdf&quot;, &quot;#pdfembed3&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Chris showed his new instrument, the Nalima, which explores multistable musicianship.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y3uq0skcnB0?si=9ksfu9smmzt5iKZv&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;div id=&quot;pdfembedCK&quot; style=&quot;width:100%; height:800px;&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://cdn.jsdelivr.net/npm/pdfobject@2.2.8/pdfobject.min.js&quot; crossorigin=&quot;anonymous&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;PDFObject.embed(&quot;https://www.emutelab.org/docs/CHIMEAbstractKiefer.pdf&quot;, &quot;#pdfembedCK&quot;, {height: &quot;100%&quot;});&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Some images of the event:
-&lt;br /&gt;
-&lt;img src=&quot;../img/chime2023/PXL_20231204_153446625.jpg&quot; /&gt;
-&lt;br /&gt;
-Dimitris’ presentation
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../img/chime2023/PXL_20231204_154100975.MP.jpg&quot; /&gt;
-&lt;br /&gt;
-Steve demos the Stickatron
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../img/chime2023/PXL_20231204_164043686.MP.jpg&quot; /&gt;
-&lt;br /&gt;
-Trying out Chris’ Nalima instrument
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../img/chime2023/PXL_20231204_172352560.MP.jpg&quot; /&gt;
-&lt;br /&gt;
-Steve’s presentation for the afternoon panel
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/CHIME2023</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/CHIME2023</guid>
-        
-        <category>music</category>
-        
-        <category>HCI</category>
-        
-        <category>entangled</category>
-        
-        <category>multistable</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>New Emute Lab Mailing List</title>
-        <description>&lt;p&gt;We have a new email list, please sign up here for news and discussion:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=EMUTELAB&amp;amp;A=1&quot;&gt;https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=EMUTELAB&amp;amp;A=1&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/newmailinglist</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/newmailinglist</guid>
-        
-        <category>email</category>
-        
-        <category>mailing list</category>
         
         
         <category>blog</category>
