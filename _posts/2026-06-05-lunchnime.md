@@ -22,7 +22,9 @@ Record cutting / vocals  / FX
 ***Betty Accorsi & Chris Kiefer***
 AI Augmented Sax and Feedback Strings
 
-Weds June 10th @ The Meeting House
+Weds June 10th, 1-2pm @ The Meeting House on University of Sussex campus
+
+Free!
 
 
 
@@ -46,4 +48,6 @@ Weds June 10th @ The Meeting House
 
 
 
+
+![Flyer](/img/lunchnime.png)
 
